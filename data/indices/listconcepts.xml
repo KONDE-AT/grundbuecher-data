@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:vocabs="https://vocabs.acdh.oeaw.ac.at/rundbriefe/controlledVocabs#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xml:lang="en">
+    <skos:ConceptScheme rdf:about="vocabs:conceptscheme/personRoles"/>
+    <skos:Concept rdf:about="vocabs:employed">
+        <skos:prefLabel xml:lang="de">beschäftigt</skos:prefLabel>
+        <skos:definition xml:lang="de">Eine bei einer Organisation beschäftigte Person</skos:definition>
+        <skos:inScheme rdf:resource="vocabs:conceptscheme/personRoles"/>
+    </skos:Concept>
+    <skos:Concept rdf:about="vocabs:inLeadingPosition">
+        <skos:prefLabel xml:lang="de">leitende Funktion</skos:prefLabel>
+        <skos:definition xml:lang="de">Eine Person in leitender Position gearbeitet hat</skos:definition>
+        <skos:broader rdf:resource="vocabs:employed"/>
+        <skos:inScheme rdf:resource="vocabs:conceptscheme/personRoles"/>
+    </skos:Concept>
+</rdf:RDF>
