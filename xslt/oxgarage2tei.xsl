@@ -5,7 +5,7 @@
     <xsl:variable name="startpage">1r</xsl:variable>
     <xsl:variable name="endpage">200v</xsl:variable>
     <xsl:template match="/">
-        <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
             <teiHeader>
                 <fileDesc>
                     <titleStmt>
@@ -42,23 +42,9 @@
                     <sourceDesc>
                         <msDesc type="invetory">
                             <msIdentifier>
-                                <institution>Südtiroler Landesarchiv (SLA)</institution>
-                                <repository>Verfachbücher Landgericht St. Michaelsburg</repository>
-                                <idno>1762 I 28</idno>
-                            </msIdentifier>
-                            <msContents>
-                                <msItem>
-                                    <locus from="{$startpage}" to="{$endpage}"/>
-                                    <note>
-                                        <rs type="skos" ref="#inventar">Inventar</rs>
-                                    </note>
-                                </msItem>
-                            </msContents>
-                            <history>
-                                <origin notBefore="1762-01-28" notAfter="1762-01-28">
-                                    <rs type="place" ref="st_lorenzen">St. Lorenzen</rs>
-                                </origin>
-                            </history>
+                                <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                                <repository>Grundbürcher</repository>
+                            </msIdentifier>                            
                         </msDesc>
                     </sourceDesc>
                 </fileDesc>
@@ -81,24 +67,97 @@
                     </p>
                 </encodingDesc>
             </teiHeader>
-            <text>
-                <body>
-                    <div type="transcription">
-                        <xsl:for-each select="//tei:p[@rend='Urkundendatum']">
+            <xsl:for-each select="//tei:p[@rend='Urkundendatum']">
+                <xsl:variable name="datum">
+                    <xsl:value-of select="replace(replace(., '\[', ''), '\]', '')"/>
+                </xsl:variable>
+                <TEI>
+                    <teiHeader>
+                        <fileDesc>
+                            <titleStmt>
+                                <title type="main">Eintrag vom <xsl:value-of select="$datum"/></title>
+                                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
+                                <respStmt>
+                                    <resp>Transkription</resp>
+                                    <name>
+                                        <rs type="person" ref="#">
+                                            <xsl:apply-templates select="./preceding::tei:p[@rend='Seitenautor'][1]"/>
+                                        </rs>
+                                    </name>
+                                </respStmt>
+                            </titleStmt>
+                            <publicationStmt>
+                                <publisher>whatever you think fit bests here</publisher>
+                                <availability>
+                                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                                        <p>some text</p>
+                                    </licence>
+                                </availability>
+                            </publicationStmt>
+                            <sourceDesc>
+                                <msDesc type="invetory">
+                                    <msIdentifier>
+                                        <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                                        <repository>Grundbücher</repository>
+                                    </msIdentifier>
+                                    <msContents>
+                                        <msItem>
+                                            <locus>
+                                                <xsl:attribute name="from">
+                                                    <xsl:value-of select="preceding::tei:p[@rend='Folioangabe'][1]"/>
+                                                </xsl:attribute>
+                                                <xsl:attribute name="to">
+                                                    <xsl:value-of select="following::tei:p[@rend='Folioangabe'][1]"/>
+                                                </xsl:attribute>
+                                            </locus>
+                                            <p>
+                                                <xsl:value-of select="preceding::tei:p[@rend='Folioangabe'][1]"/> - <xsl:value-of select="following::tei:p[@rend='Folioangabe'][1]"/>
+                                            </p>
+                                        </msItem>
+                                    </msContents>
+                                    <history>
+                                        <origin>
+                                            <xsl:attribute name="notBefore">
+                                                <xsl:value-of select="$datum"/>
+                                            </xsl:attribute>      
+                                        </origin>
+                                    </history>
+                                </msDesc>
+                            </sourceDesc>
+                            <sourceDesc>
+                                <p>Information about the source</p>
+                            </sourceDesc>
+                        </fileDesc>
+                    </teiHeader>
+                    <text>
+                        <body>
                             <div type="entry">
-                                <head><xsl:apply-templates select="./preceding-sibling::tei:p[@rend='Rubrik' and 1]"/></head>
+                                <div type="Rubrik">
+                                    <p>
+                                        <xsl:value-of select="preceding::tei:p[@rend='Rubrik'][1]"/>
+                                    </p>
+                                </div>
                                 <div type="content">
-                                    <p><xsl:apply-templates select="./following-sibling::tei:p[1]"/></p>
+                                    <p>
+                                        <xsl:apply-templates select="./following-sibling::tei:p[1]"/>
+                                    </p>
                                 </div>
                                 <div type="summa">
-                                    <p><xsl:apply-templates select="./following-sibling::tei:p[@rend='Summa'][1]"/></p>
+                                    <p>
+                                        <xsl:apply-templates select="./following-sibling::tei:p[@rend='Summa'][1]"/>
+                                    </p>
+                                </div>
+                                <div type="Nachtrag">
+                                    <p>
+                                        <xsl:apply-templates select="following::tei:p[@rend='Nachtrag'][1]"/>
+                                    </p>
                                 </div>
                             </div>
-                        </xsl:for-each>
-                    </div>
-                </body>
-            </text>
-        </TEI>
+                        </body>
+                    </text>
+                </TEI>
+            </xsl:for-each>
+        </teiCorpus>
         
     </xsl:template>
 
@@ -115,11 +174,10 @@
     
     <xsl:template match="tei:anchor"/>
     
-    <xsl:template match="tei:hi[@rend='background(darkGray)']">
-        <xsl:variable name="pagenumber">
-            <xsl:value-of select="substring-after(./text(), 'fol. ')"/>
-        </xsl:variable>
-        <pb n="{substring-before($pagenumber, ']')}"/>
+    <xsl:template match="tei:p[@rend='Folioangabe']">
+        <HALLO>
+            <xsl:value-of select="."/>
+        </HALLO>
     </xsl:template>
     
     <xsl:template match="tei:hi[@rend='background(cyan)']">
