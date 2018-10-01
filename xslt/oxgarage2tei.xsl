@@ -122,12 +122,16 @@
         <pb n="{substring-before($pagenumber, ']')}"/>
     </xsl:template>
     
-    <xsl:template match="tei:hi[@rend='background(green)']">
+    <xsl:template match="tei:hi[@rend='background(cyan)']">
         <rs type="person"><xsl:apply-templates/></rs>
     </xsl:template>
     
-    <xsl:template match="tei:hi[@rend='background(magenta)']">
-        <rs type="place"><xsl:apply-templates/></rs>
+    <xsl:template match="tei:hi[@rend='underline background(darkYellow)']">
+        <rs type="org"><xsl:apply-templates/></rs>
+    </xsl:template>
+    
+    <xsl:template match="tei:hi[@rend='background(darkYellow)']">
+        <rs type="org"><xsl:apply-templates/></rs>
     </xsl:template>
     
     <xsl:template match="tei:hi[@rend='background(red)']">

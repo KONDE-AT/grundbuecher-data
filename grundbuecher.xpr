@@ -4415,6 +4415,36 @@ oxy:current-selected-element()[ancestor-or-self::*:cell]</String>
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
+                                    <String>fromOxgarage/Transkription.SatzbuchC.Richard-TEI-P5.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>oxgarage2tei</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>fromOxgarage/grundbuecher_sample_summerschool.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>oxgarage2tei</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
                                     <String>fromOxgarage/satzburch_c.xml</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -4546,5 +4576,6 @@ oxy:current-selected-element()[ancestor-or-self::*:cell]</String>
     </meta>
     <projectTree name="grundbuecher.xpr">
         <folder path="."/>
+        <folder path="../word/"/>
     </projectTree>
 </project>
