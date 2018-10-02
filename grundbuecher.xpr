@@ -4399,6 +4399,19 @@ oxy:current-selected-element()[ancestor-or-self::*:cell]</String>
                         </documentTypeDescriptor-array>
                     </entry>
                     <entry>
+                        <String>document.types.order</String>
+                        <documentTypeEntry-array>
+                            <documentTypeEntry>
+                                <field name="documentTypeID">
+                                    <String>2/internal/Rundbriefe</String>
+                                </field>
+                                <field name="enable">
+                                    <Boolean>false</Boolean>
+                                </field>
+                            </documentTypeEntry>
+                        </documentTypeEntry-array>
+                    </entry>
+                    <entry>
                         <String>enable.parser.caching</String>
                         <Boolean>false</Boolean>
                     </entry>
