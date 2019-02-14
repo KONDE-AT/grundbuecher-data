@@ -11,7 +11,7 @@
     </xsl:template>
     
     <xsl:template match="tei:TEI">
-        <xsl:variable name="name" select="substring(translate(lower-case(tei:teiHeader//tei:title[@type='main']), ' :?', '_'), 1, 30) || '-' || position() || '.xml'" />
+        <xsl:variable name="name" select="position()||'-'||substring(translate(lower-case(tei:teiHeader//tei:title[@type='main']), ' :?', '_'), 1, 30) || '-' || '.xml'" />
         <xsl:result-document href="../../editions/{$name}">
             <xsl:copy-of select="."/>
         </xsl:result-document>

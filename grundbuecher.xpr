@@ -4428,11 +4428,41 @@ oxy:current-selected-element()[ancestor-or-self::*:cell]</String>
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>data/tmp/editions/satzbuch_korbinian_113rbis243v.xml</String>
+                                    <String>fromOxgarage/satzbuch_patrick_2609.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>split_corpus</String>
+                                        <String>oxgarage2tei</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>fromOxgarage/</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>oxgarage2tei</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>xslt/oxgarage2tei.xsl</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>oxgarage2tei</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -4458,11 +4488,26 @@ oxy:current-selected-element()[ancestor-or-self::*:cell]</String>
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>fromOxgarage/</String>
+                                    <String>xslt/Untitled.xsl</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
                                         <String>oxgarage2tei</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>data/tmp/editions/satzbuch_korbinian_113rbis243v.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>split_corpus</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -4498,21 +4543,6 @@ oxy:current-selected-element()[ancestor-or-self::*:cell]</String>
                                 <field name="scenarioTypes">
                                     <list>
                                         <String>ANT</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>xslt/oxgarage2tei.xsl</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>oxgarage2tei</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
                                     </list>
                                 </field>
                             </scenarioAssociation>
@@ -4970,5 +5000,6 @@ oxy:current-selected-element()[ancestor-or-self::*:cell]</String>
     <projectTree name="grundbuecher.xpr">
         <folder path="."/>
         <folder path="../word/"/>
+        <file name="data/editions/eintrag_vom_1464-06-08-141.xml"/>
     </projectTree>
 </project>
