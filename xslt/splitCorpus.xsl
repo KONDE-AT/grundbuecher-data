@@ -11,7 +11,10 @@
     </xsl:template>
     
     <xsl:template match="tei:TEI">
-        <xsl:variable name="name" select="position()||'-'||substring(translate(lower-case(tei:teiHeader//tei:title[@type='main']), ' :?', '_'), 1, 30) || '-' || '.xml'" />
+        <xsl:variable name="nrCurrens">
+            <xsl:value-of select="format-number(position(), '00000')" />
+        </xsl:variable>
+        <xsl:variable name="name" select="$nrCurrens||'-'||substring(translate(lower-case(tei:teiHeader//tei:title[@type='main']), ' :?', '_'), 1, 30) || '-' || '.xml'" />
         <xsl:result-document href="../../editions/{$name}">
             <xsl:copy-of select="."/>
         </xsl:result-document>

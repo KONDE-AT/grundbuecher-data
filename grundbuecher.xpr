@@ -5000,6 +5000,5 @@ oxy:current-selected-element()[ancestor-or-self::*:cell]</String>
     <projectTree name="grundbuecher.xpr">
         <folder path="."/>
         <folder path="../word/"/>
-        <file name="data/editions/eintrag_vom_1464-06-08-141.xml"/>
     </projectTree>
 </project>

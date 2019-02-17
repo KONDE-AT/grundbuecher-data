@@ -179,8 +179,10 @@
     
     <xsl:template match="tei:anchor"/>
     
+    
     <xsl:template match="tei:p[@rend='Folioangabe']"/>
     <xsl:template match="tei:p[@rend='Urkundendatum']"/>
+    <xsl:template match="tei:p[@rend='Seitenautor']"/>
     
     
     
