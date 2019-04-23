@@ -62,6 +62,9 @@
                 <xsl:variable name="rubrik_text">
                     <xsl:value-of select="normalize-space(string-join($rubrik, ' '))"/>
                 </xsl:variable>
+                <xsl:variable name="facs_id">
+                    <xsl:value-of select="preceding::tei:p[@rend='FAKSIMILELINK'][1]/text()"/>
+                </xsl:variable>
                 
                 <TEI>
                     <teiHeader>
@@ -137,6 +140,13 @@
                             </projectDesc>
                         </encodingDesc>
                     </teiHeader>
+                    <facsimile>
+                        <graphic>
+                            <xsl:attribute name="url">
+                                <xsl:value-of select="$facs_id"/>
+                            </xsl:attribute>
+                        </graphic>
+                    </facsimile>
                     <text>
                         <body>
                             <div type="entry">
