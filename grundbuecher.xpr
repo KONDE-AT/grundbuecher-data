@@ -4428,11 +4428,26 @@ oxy:current-selected-element()[ancestor-or-self::*:cell]</String>
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>fromOxgarage/satzbuch_patrick_2609.xml</String>
+                                    <String>word/satzbuch_master_fertig.docx</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>oxgarage2tei</String>
+                                        <String>DOCX2TEI</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>ANT</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>data/tmp/editions/satzbuch_master_fertig.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>split_corpus</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -4443,7 +4458,7 @@ oxy:current-selected-element()[ancestor-or-self::*:cell]</String>
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>fromOxgarage/</String>
+                                    <String>data/tmp/editions/</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -4473,7 +4488,37 @@ oxy:current-selected-element()[ancestor-or-self::*:cell]</String>
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>data/tmp/editions/</String>
+                                    <String>fromOxgarage/</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>oxgarage2tei</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>../word/</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>DOCX2TEI</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>ANT</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>fromOxgarage/satzbuch_patrick_2609.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -4513,21 +4558,6 @@ oxy:current-selected-element()[ancestor-or-self::*:cell]</String>
                                 <field name="scenarioTypes">
                                     <list>
                                         <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>../word/</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>DOCX2TEI</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>ANT</String>
                                     </list>
                                 </field>
                             </scenarioAssociation>
@@ -4999,6 +5029,5 @@ oxy:current-selected-element()[ancestor-or-self::*:cell]</String>
     </meta>
     <projectTree name="grundbuecher.xpr">
         <folder path="."/>
-        <folder path="../word/"/>
     </projectTree>
 </project>
