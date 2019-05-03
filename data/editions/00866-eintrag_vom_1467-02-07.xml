@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title type="main">Eintrag vom  1467-02-07</title>
+               <title type="rubrik">Tempore dominorum hern Ernreichen Kopl consulen und Jacoben Gsmechl anno etc. lxvito.</title>
+               <title type="sub">Digitale Edition der Wiener Grundbücher</title>
+               <respStmt>
+                  <resp>Transkription</resp>
+                  <name>
+                     <rs type="person" ref="#fiska_patrick">Patrick Fiska</rs>
+                  </name>
+               </respStmt>
+               <respStmt>
+                  <resp>Transkription</resp>
+                  <name>
+                     <rs type="person" ref="#gruenwald_korbinian">Korbinian Grünwald</rs>
+                  </name>
+               </respStmt>
+            </titleStmt>
+            <publicationStmt>
+               <publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter Andorfer</publisher>
+               <availability>
+                  <licence target="https://creativecommons.org/licenses/by/4.0/">
+                     <p>CC-BY</p>
+                     <p>You are free to: Share — copy and redistribute the material in any medium or format. Adapt — remix, transform, and build upon the material for any purpose, even commercially.</p>
+                  </licence>
+               </availability>
+            </publicationStmt>
+            <sourceDesc>
+               <msDesc type="invetory">
+                  <msIdentifier>
+                     <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                     <repository>Grundbücher</repository>
+                     <idno type="archive">WStLA 2.1.2.1.B1.34</idno>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <locus from="[203r]" to="[203v]"/>
+                        <p>[203r] - [203v]</p>
+                     </msItem>
+                  </msContents>
+                  <history>
+                     <origin notBefore=" 1467-02-07"/>
+                  </history>
+               </msDesc>
+            </sourceDesc>
+         </fileDesc>
+         <encodingDesc>
+            <projectDesc>
+               <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt:
+                                    <table>
+                     <row rend="header">
+                        <cell>Name der Formatvorlage</cell>
+                        <cell>Beschreibung des damit ausgezeichnetem Phänomen</cell>
+                     </row>
+                     <row>
+                        <cell>Folioangabe</cell>
+                        <cell>Seitenangabe durch Angabe von Folio mit recto *r und verso *v (im Nachhinein mit Bleistift im Grundbuch eingetragen). Auf den Seiten befinden sich zudem (ws. zeitnah zur Entstehung angebrachte) Foliozählungen in lateinischen Zahlzeichen in Tinte</cell>
+                     </row>
+                     <row>
+                        <cell>Faksimilelink</cell>
+                        <cell>Dateiname des Faksimiles - zur technischen Verknüpfung des Textes mit der Bilddatei</cell>
+                     </row>
+                     <row>
+                        <cell>Rubrik</cell>
+                        <cell>Gliederung nach Bürgermeistern und Jahren</cell>
+                     </row>
+                     <row>
+                        <cell>Urkundendatum</cell>
+                        <cell>Aufgeschlüsseltes Datum der Urkunde</cell>
+                     </row>
+                     <row>
+                        <cell>Standard</cell>
+                        <cell>Text des Grundbucheintrags</cell>
+                     </row>
+                     <row>
+                        <cell>Summa</cell>
+                        <cell>Für den jeweiligen Grundbucheintrag abgerechnete Summe</cell>
+                     </row>
+                     <row>
+                        <cell>Nachtrag</cell>
+                        <cell>Verschiedene nachträgliche Vermerke und Anmerkungen</cell>
+                     </row>
+                     <row>
+                        <cell>Seitenautor</cell>
+                        <cell>Erstbearbeiter der Seite/des Seitenabschnitts (nicht angezeigt, für die interne Organisation)</cell>
+                     </row>
+                     <row>
+                        <cell>Durchgestrichen</cell>
+                        <cell>Durchgestrichen</cell>
+                     </row>
+                     <row>
+                        <cell>Hochgestellt</cell>
+                        <cell>Hochgestellt</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
+            </projectDesc>
+         </encodingDesc>
+      </teiHeader>
+      <facsimile>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0398.jpg"/>
+      </facsimile>
+      <text>
+         <body>
+            <div type="entry">
+               <p>Hanns Phuntinaschen, Conraten Phuntinaschen weilent burger zu Wienn, seligen sun, hat versaczt die úbertewrung seins hawss gelegen undern Satlern, gegen dem prúnn úber, an ain tail, und mit dem andern tail in der Spénglergassen, und ist vormalen in zwen tail getailt gewesen, úber die vi tl. und lx d. gelts purkhrechts, darumb es vormalen herrn Hannsen Oppenweyler, cappelan der mess, so der Huetstokh auf Sand Kathrein altar zu Sand Stephan hie gestifft hat und úber die iii tl. d. gelts purkrechts, darumb es emalen herrn Hannsen Heinisch von Kronstat capplan der mess so die von Eslorn auf Unser frawen altar hie zu Sand Peter gestifft habend und iren nachkommen der obgenanten mess, auch über die ii<hi rend="super">c</hi> und i ½ Ungrische guldein, darumb es vormalen Ruprechten Rein burger zu Wienn und seine erben versaczt und verschriben ist. Dem erbern Wennczlaben Schenkh burger zu Nürnberg, und seinen erben, umb hundert Ungrisch guldein gerecht in gold und wag, und sind zubezalen lxiiii guldein, auf den Suntag Invocavit, und die ubring xxxvi guldein, auf die phingsten baid frist nagst nacheinander kunfftig, an alles verziehen getrewlich und ungeverlich. Actum an Sambstag vor sand Valtin tag Anno etc. lxvii<hi rend="super">mo</hi>.</p>
+               <p rend="Summa">Summa 1 tl. x d.</p>
+            </div>
+         </body>
+      </text>
+   </TEI>

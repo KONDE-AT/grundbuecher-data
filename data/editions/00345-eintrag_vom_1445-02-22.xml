@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title type="main">Eintrag vom 1445-02-22</title>
+               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, et Cristan Wissinger, anno etc. xlvto</title>
+               <title type="sub">Digitale Edition der Wiener Grundbücher</title>
+               <respStmt>
+                  <resp>Transkription</resp>
+                  <name>
+                     <rs type="person" ref="#gruenwald_korbinian">Korbinian Grünwald</rs>
+                  </name>
+                  <name>
+                     <rs type="person" ref="#weinbergmaier_richard">Richard Weinbergmaier</rs>
+                  </name>
+               </respStmt>
+            </titleStmt>
+            <publicationStmt>
+               <publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter Andorfer</publisher>
+               <availability>
+                  <licence target="https://creativecommons.org/licenses/by/4.0/">
+                     <p>CC-BY</p>
+                     <p>You are free to: Share — copy and redistribute the material in any medium or format. Adapt — remix, transform, and build upon the material for any purpose, even commercially.</p>
+                  </licence>
+               </availability>
+            </publicationStmt>
+            <sourceDesc>
+               <msDesc type="invetory">
+                  <msIdentifier>
+                     <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                     <repository>Grundbücher</repository>
+                     <idno type="archive">WStLA 2.1.2.1.B1.34</idno>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <locus from=" [100r]" to=" [100v]"/>
+                        <p> [100r] -  [100v]</p>
+                     </msItem>
+                  </msContents>
+                  <history>
+                     <origin notBefore="1445-02-22"/>
+                  </history>
+               </msDesc>
+            </sourceDesc>
+         </fileDesc>
+         <encodingDesc>
+            <projectDesc>
+               <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt:
+                                    <table>
+                     <row rend="header">
+                        <cell>Name der Formatvorlage</cell>
+                        <cell>Beschreibung des damit ausgezeichnetem Phänomen</cell>
+                     </row>
+                     <row>
+                        <cell>Folioangabe</cell>
+                        <cell>Seitenangabe durch Angabe von Folio mit recto *r und verso *v (im Nachhinein mit Bleistift im Grundbuch eingetragen). Auf den Seiten befinden sich zudem (ws. zeitnah zur Entstehung angebrachte) Foliozählungen in lateinischen Zahlzeichen in Tinte</cell>
+                     </row>
+                     <row>
+                        <cell>Faksimilelink</cell>
+                        <cell>Dateiname des Faksimiles - zur technischen Verknüpfung des Textes mit der Bilddatei</cell>
+                     </row>
+                     <row>
+                        <cell>Rubrik</cell>
+                        <cell>Gliederung nach Bürgermeistern und Jahren</cell>
+                     </row>
+                     <row>
+                        <cell>Urkundendatum</cell>
+                        <cell>Aufgeschlüsseltes Datum der Urkunde</cell>
+                     </row>
+                     <row>
+                        <cell>Standard</cell>
+                        <cell>Text des Grundbucheintrags</cell>
+                     </row>
+                     <row>
+                        <cell>Summa</cell>
+                        <cell>Für den jeweiligen Grundbucheintrag abgerechnete Summe</cell>
+                     </row>
+                     <row>
+                        <cell>Nachtrag</cell>
+                        <cell>Verschiedene nachträgliche Vermerke und Anmerkungen</cell>
+                     </row>
+                     <row>
+                        <cell>Seitenautor</cell>
+                        <cell>Erstbearbeiter der Seite/des Seitenabschnitts (nicht angezeigt, für die interne Organisation)</cell>
+                     </row>
+                     <row>
+                        <cell>Durchgestrichen</cell>
+                        <cell>Durchgestrichen</cell>
+                     </row>
+                     <row>
+                        <cell>Hochgestellt</cell>
+                        <cell>Hochgestellt</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
+            </projectDesc>
+         </encodingDesc>
+      </teiHeader>
+      <facsimile>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0196.jpg"/>
+      </facsimile>
+      <text>
+         <body>
+            <div type="entry">
+               <p>Erhart Griesser, dieczeit des rats der stat zu Wienn, Niclas Ernst, statkamrer, und Linhart Grünpacher, burger daselbs, dieczeit ausrichtter und volfurer des geschéfts, so Ulreich Phanczagl seliger getan hat, habent dem ersamen herren, maister Hannsen von Meirs, pfarrer zu Gors und canczler, und seinen erben zu pfant gesaczt des egnanten Phanczagl seligen haus, gelegen in der Wolczeil zenagst Hainreichs Ingolsteter kursner haus an ainen tail, umb tausent pfunt Wienner pfening, die der benant Pfanczagl seliger pey seinen lebttegen dem benanten maister Hannsen Meirs schuldig ist worden, nach lautt zwairer besiglten geltbrief, die er noch unversert darumb hat, und sind zu beczalen, wenn die derselb maister Hanns von Meirs sein erben oder wem er die schafft macht oder geit ervordernt und nicht lenger peiten wellent. Darnach ynner den nagsten zwain moneiden an alles vercziehen, als das auch die egemelten geltprief ausweisent. Actum an Montag post Reminiscere in der vasten, anno etc. xlv<hi rend="super">to</hi>.</p>
+               <p rend="Summa">Summa viii tl. lxxx d.</p>
+               <p rend="Nachtrag">Habet cedulam.</p>
+            </div>
+         </body>
+      </text>
+   </TEI>

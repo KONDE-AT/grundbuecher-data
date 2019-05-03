@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title type="main">Eintrag vom 1473-08-18</title>
+               <title type="rubrik">Tempore dominorum, heren Ulreichs Metzleinstorffer, consulis, und Jacoben Rechwein, anno domini etc. lxxiiio.</title>
+               <title type="sub">Digitale Edition der Wiener Grundbücher</title>
+               <respStmt>
+                  <resp>Transkription</resp>
+                  <name>
+                     <rs type="person" ref="#gruenwald_korbinian">Korbinian Grünwald</rs>
+                  </name>
+               </respStmt>
+            </titleStmt>
+            <publicationStmt>
+               <publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter Andorfer</publisher>
+               <availability>
+                  <licence target="https://creativecommons.org/licenses/by/4.0/">
+                     <p>CC-BY</p>
+                     <p>You are free to: Share — copy and redistribute the material in any medium or format. Adapt — remix, transform, and build upon the material for any purpose, even commercially.</p>
+                  </licence>
+               </availability>
+            </publicationStmt>
+            <sourceDesc>
+               <msDesc type="invetory">
+                  <msIdentifier>
+                     <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                     <repository>Grundbücher</repository>
+                     <idno type="archive">WStLA 2.1.2.1.B1.34</idno>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <locus from="xxxiii" to=" [33v]"/>
+                        <p>xxxiii -  [33v]</p>
+                     </msItem>
+                  </msContents>
+                  <history>
+                     <origin notBefore="1473-08-18"/>
+                  </history>
+               </msDesc>
+            </sourceDesc>
+         </fileDesc>
+         <encodingDesc>
+            <projectDesc>
+               <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt:
+                                    <table>
+                     <row rend="header">
+                        <cell>Name der Formatvorlage</cell>
+                        <cell>Beschreibung des damit ausgezeichnetem Phänomen</cell>
+                     </row>
+                     <row>
+                        <cell>Folioangabe</cell>
+                        <cell>Seitenangabe durch Angabe von Folio mit recto *r und verso *v (im Nachhinein mit Bleistift im Grundbuch eingetragen). Auf den Seiten befinden sich zudem (ws. zeitnah zur Entstehung angebrachte) Foliozählungen in lateinischen Zahlzeichen in Tinte</cell>
+                     </row>
+                     <row>
+                        <cell>Faksimilelink</cell>
+                        <cell>Dateiname des Faksimiles - zur technischen Verknüpfung des Textes mit der Bilddatei</cell>
+                     </row>
+                     <row>
+                        <cell>Rubrik</cell>
+                        <cell>Gliederung nach Bürgermeistern und Jahren</cell>
+                     </row>
+                     <row>
+                        <cell>Urkundendatum</cell>
+                        <cell>Aufgeschlüsseltes Datum der Urkunde</cell>
+                     </row>
+                     <row>
+                        <cell>Standard</cell>
+                        <cell>Text des Grundbucheintrags</cell>
+                     </row>
+                     <row>
+                        <cell>Summa</cell>
+                        <cell>Für den jeweiligen Grundbucheintrag abgerechnete Summe</cell>
+                     </row>
+                     <row>
+                        <cell>Nachtrag</cell>
+                        <cell>Verschiedene nachträgliche Vermerke und Anmerkungen</cell>
+                     </row>
+                     <row>
+                        <cell>Seitenautor</cell>
+                        <cell>Erstbearbeiter der Seite/des Seitenabschnitts (nicht angezeigt, für die interne Organisation)</cell>
+                     </row>
+                     <row>
+                        <cell>Durchgestrichen</cell>
+                        <cell>Durchgestrichen</cell>
+                     </row>
+                     <row>
+                        <cell>Hochgestellt</cell>
+                        <cell>Hochgestellt</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
+            </projectDesc>
+         </encodingDesc>
+      </teiHeader>
+      <facsimile>
+         <graphic url=""/>
+      </facsimile>
+      <text>
+         <body>
+            <div type="entry">
+               <p>Barbara, Steffans Gusner hausfraw hat versaczt die ubertewrung irs hawss, gelegen mit dem vordern tail in die vordern Pekhenstrass und mit dem hindern in die hindern Pekhenstrass, zenagst frawen Appolonien, Hannsen Hawgen haws. Uber die sechs phunt phening gelts purkrechts, so dem kapplan der mess, die fraw Dorothe, Niclasen Tainwald seligen witib zu Sand Steffan hie gestifft und der ersam rat der stat zu Wienn zu frawen Elspethen der Regischerinn mess geaigent hat, vor darauf verschriben sein und sind abzulosen mit sechtzig phunt phening, nach lautt ains purkrechtbriefs. Und uber die zwayhundert phunt phennig, die dem edlen Symon Pötl von Hebreichstorff, irem vettern und seinen erben vormalen darauf verschriben hat. Dem erbern weisen Linharten Perger, dirzeit kirchmaister Sand Michels kirchen hie und seinen nachkommen kirchmaistern daselbs umb hundert Hungrisch guldein, gerecht in gold und wag, die herkomen von ains weingarten wegen, gelegen zu Medling, genant der Popp, darauf fraw Kathrey, Hannsen Frankhen hausfraw ain ewigen jartag geschehen, den man darczu nicht hat vertigen wellen und derselb Frankh verkaufft hat. In der maynung, alle dieweil die obgenant Gusnerinn die belelten hundert guldein innhat und nicht bezalt, so sol dieselb Gusnerinn und ir erben alle jare mit ains kirchmaister willen und wissen den egenanten jartag ausrichten und begen in der obgenanten Sand Michels kirchen jerlich an Suntag Reminiscere in der vasssten, des nachts mit ainser gesungen vigily, des morgens mit ainer gesungen selambt und dreissig gesprochen selmessen darunnder und virundzwaintzig stekhkerczen, die pey der vigili und selambt prynnen sullen und mit dem gelewt und den jerlich vorhing auf dem predigstat verkunden lassen. Doch wenn die vorgenant Gusnerin und ir erben den egenanten jartag nicht lennger begeen wellen, so mugen und sullen sy die vorgenanten hundert guldein zu dem gruntpuch erlegen mit wissen ains kirchmaister und der sacz sol in daentgegen ausgetan und der brief darumb ausgangen zu irn hannden geanttwurtt und verricht werden, ut littera sonat. Actum an Mitichen nach Unser Lieben Frawen Assumptionis, anno domini etc. lxxiii<hi rend="super">o</hi>.</p>
+               <p rend="Summa">Summa i tl. xxxv d.</p>
+               <p rend="Nachtrag">Nota anno domini etc. nonagesimo novo am Freitag nach Egidy hat der erber Erasm Frankh, mitburger hie auf sich genumen die hundert Ungrisch gulden, die herkomen von fraun Kathrein, Hansen Frankhen hausfrau und zu ainem ewigen jartag Zw in Sand Michels kirchen hie zu Wienn ze begeen geschafft sind. Und hat dieselben i<hi rend="super">c</hi> gulden Ungrische vorgewisst auf seinem haws, gelegen vor Widmertor zenagst des Nicolas Leeben haws, das der in der Schotten grunttbuch hie zue Wienn und zue fertigen gehen geschehen, in beywesen des ersamen Thoman Schachnner, derzeit kirchmeister zue Sand Michel hie zu Wienn und erbern brudern daselbs.</p>
+            </div>
+         </body>
+      </text>
+   </TEI>

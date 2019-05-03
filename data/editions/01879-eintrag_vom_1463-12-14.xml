@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title type="main">Eintrag vom 1463-12-14</title>
+               <title type="rubrik">Tempore dominorum herren Hannsen Rauenspurger, consulis, und Hannsen Ernsten, anno etc. lxiiio</title>
+               <title type="sub">Digitale Edition der Wiener Grundbücher</title>
+               <respStmt>
+                  <resp>Transkription</resp>
+                  <name>
+                     <rs type="person" ref="#gruenwald_korbinian">Korbinian Grünwald</rs>
+                  </name>
+               </respStmt>
+            </titleStmt>
+            <publicationStmt>
+               <publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter Andorfer</publisher>
+               <availability>
+                  <licence target="https://creativecommons.org/licenses/by/4.0/">
+                     <p>CC-BY</p>
+                     <p>You are free to: Share — copy and redistribute the material in any medium or format. Adapt — remix, transform, and build upon the material for any purpose, even commercially.</p>
+                  </licence>
+               </availability>
+            </publicationStmt>
+            <sourceDesc>
+               <msDesc type="invetory">
+                  <msIdentifier>
+                     <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                     <repository>Grundbücher</repository>
+                     <idno type="archive">WStLA 2.1.2.1.B1.34</idno>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <locus from="[453v]" to="[454r]"/>
+                        <p>[453v] - [454r]</p>
+                     </msItem>
+                  </msContents>
+                  <history>
+                     <origin notBefore="1463-12-14"/>
+                  </history>
+               </msDesc>
+            </sourceDesc>
+         </fileDesc>
+         <encodingDesc>
+            <projectDesc>
+               <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt:
+                                    <table>
+                     <row rend="header">
+                        <cell>Name der Formatvorlage</cell>
+                        <cell>Beschreibung des damit ausgezeichnetem Phänomen</cell>
+                     </row>
+                     <row>
+                        <cell>Folioangabe</cell>
+                        <cell>Seitenangabe durch Angabe von Folio mit recto *r und verso *v (im Nachhinein mit Bleistift im Grundbuch eingetragen). Auf den Seiten befinden sich zudem (ws. zeitnah zur Entstehung angebrachte) Foliozählungen in lateinischen Zahlzeichen in Tinte</cell>
+                     </row>
+                     <row>
+                        <cell>Faksimilelink</cell>
+                        <cell>Dateiname des Faksimiles - zur technischen Verknüpfung des Textes mit der Bilddatei</cell>
+                     </row>
+                     <row>
+                        <cell>Rubrik</cell>
+                        <cell>Gliederung nach Bürgermeistern und Jahren</cell>
+                     </row>
+                     <row>
+                        <cell>Urkundendatum</cell>
+                        <cell>Aufgeschlüsseltes Datum der Urkunde</cell>
+                     </row>
+                     <row>
+                        <cell>Standard</cell>
+                        <cell>Text des Grundbucheintrags</cell>
+                     </row>
+                     <row>
+                        <cell>Summa</cell>
+                        <cell>Für den jeweiligen Grundbucheintrag abgerechnete Summe</cell>
+                     </row>
+                     <row>
+                        <cell>Nachtrag</cell>
+                        <cell>Verschiedene nachträgliche Vermerke und Anmerkungen</cell>
+                     </row>
+                     <row>
+                        <cell>Seitenautor</cell>
+                        <cell>Erstbearbeiter der Seite/des Seitenabschnitts (nicht angezeigt, für die interne Organisation)</cell>
+                     </row>
+                     <row>
+                        <cell>Durchgestrichen</cell>
+                        <cell>Durchgestrichen</cell>
+                     </row>
+                     <row>
+                        <cell>Hochgestellt</cell>
+                        <cell>Hochgestellt</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
+            </projectDesc>
+         </encodingDesc>
+      </teiHeader>
+      <facsimile>
+         <graphic url=""/>
+      </facsimile>
+      <text>
+         <body>
+            <div type="entry">
+               <p>Maister Ulreich Griessenpekh, statschreiber zu Wienn, und Anna, sein hausfraw, habend versatzt ir haws, gelegen daselbs zu Wienn am Judenplatz zunagst Micheln Phundtinaschen haws an aim tail und an dem anderen zunagst Herman Mülstain haws. Den erbern weisen Hannsen Hawgen, dietzeit des rats und statkamerer ,und Hannsen Schalauczer, burgeren daselbs zu Wienn, iren hausfrauen und erben, umb hunndert phunndt Wyenner phenning, die herrürent von den zwainhundert phunt phening so Andre Kelhaimer seligen gschefftleutt vor darauf mit recht erlangt haben, und der ain hundert nu betzallt ist und sind die obgenanten hundert phunt phening zu betzallen funfftzigk phunt auf sand Jorgen tag und die anderen funftzigk phunt auf sand Pertelmes tag baid frist nagst nacheinander komend anvercziehen ungeuerlich. Actum an Mitichen nach sand Lucein tag, anno etc. lxiiio.</p>
+               <p rend="Summa">Summa nulla propter officium</p>
+               <p rend="Nachtrag">Die obgenanten Hawg und Schalawczer habend cedulam.</p>
+               <p rend="Nachtrag">Nota der obgenant maister Ulrich Griessenpekh und Anna sein hawsfraw habent an den obgenanten hundert phundt phening darumb ir haws am Judenplatz gelegen versatzt als oben in dem satz geschriben ist den erbern Hannsen Schalawtzer und Hannsen Hawg beczalt und ausgericht l tl. d. ut quittung. Actum an Freitag nach Georgy, anno etc. lxiiiito.</p>
+               <p rend="Nachtrag">Nota die andern funftzig phunt phening in dem obgemlten sacz begriffen sind dem Schalawtzer Hannsen Hawgen und irn vorgenanten hawsfrauen auch aufgericht und betzalt worden.</p>
+               <p rend="Nachtrag">Nota die zedl so die obgemelten Hanns Schalanczer und Hanns Hawg des vorgenant satz halben umb die hundert phunt phening aus dem gruntpuch genomen habent ist noch unversert und darumb sy und ir hausfrauen ain tottbrief geben und zu dem puch erlegt habent.</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0892.jpg</p>
+               <p rend="Rubrik">Tempore dominorum hern Hannsen Ravenspurger, consulis, und Ernreichen Köppel, anno domini etc lxiiiito</p>
+            </div>
+         </body>
+      </text>
+   </TEI>

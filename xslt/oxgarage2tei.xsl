@@ -108,13 +108,7 @@
                             <publicationStmt>
                                 <publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter Andorfer</publisher>
                                 <availability>
-                                    <licence target="https://creativecommons.org/licenses/by/4.0/">
-                                        <p>
-                                            CC-BY
-                                        </p>
-                                        <p>
-                                            You are free to: Share — copy and redistribute the material in any medium or format. Adapt — remix, transform, and build upon the material for any purpose, even commercially.
-                                        </p>
+                                    <licence target="https://creativecommons.org/licenses/by/4.0/"><p>CC-BY</p><p>You are free to: Share — copy and redistribute the material in any medium or format. Adapt — remix, transform, and build upon the material for any purpose, even commercially.</p>
                                     </licence>
                                 </availability>
                             </publicationStmt>
@@ -123,6 +117,7 @@
                                     <msIdentifier>
                                         <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
                                         <repository>Grundbücher</repository>
+                                        <idno type="archive">WStLA 2.1.2.1.B1.34</idno>
                                     </msIdentifier>
                                     <msContents>
                                         <msItem>

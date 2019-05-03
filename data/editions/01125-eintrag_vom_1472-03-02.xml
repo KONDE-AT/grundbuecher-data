@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title type="main">Eintrag vom 1472-03-02</title>
+               <title type="rubrik">Tempore dominorum Niclasen Ernsst consul und Cristan Schonnperger 72.</title>
+               <title type="sub">Digitale Edition der Wiener Grundbücher</title>
+               <respStmt>
+                  <resp>Transkription</resp>
+                  <name>
+                     <rs type="person" ref="#fiska_patrick">Patrick Fiska</rs>
+                  </name>
+               </respStmt>
+               <respStmt>
+                  <resp>Transkription</resp>
+                  <name>
+                     <rs type="person" ref="#gruenwald_korbinian">Korbinian Grünwald</rs>
+                  </name>
+               </respStmt>
+            </titleStmt>
+            <publicationStmt>
+               <publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter Andorfer</publisher>
+               <availability>
+                  <licence target="https://creativecommons.org/licenses/by/4.0/">
+                     <p>CC-BY</p>
+                     <p>You are free to: Share — copy and redistribute the material in any medium or format. Adapt — remix, transform, and build upon the material for any purpose, even commercially.</p>
+                  </licence>
+               </availability>
+            </publicationStmt>
+            <sourceDesc>
+               <msDesc type="invetory">
+                  <msIdentifier>
+                     <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                     <repository>Grundbücher</repository>
+                     <idno type="archive">WStLA 2.1.2.1.B1.34</idno>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <locus from="[249r]" to="[249v]"/>
+                        <p>[249r] - [249v]</p>
+                     </msItem>
+                  </msContents>
+                  <history>
+                     <origin notBefore="1472-03-02"/>
+                  </history>
+               </msDesc>
+            </sourceDesc>
+         </fileDesc>
+         <encodingDesc>
+            <projectDesc>
+               <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt:
+                                    <table>
+                     <row rend="header">
+                        <cell>Name der Formatvorlage</cell>
+                        <cell>Beschreibung des damit ausgezeichnetem Phänomen</cell>
+                     </row>
+                     <row>
+                        <cell>Folioangabe</cell>
+                        <cell>Seitenangabe durch Angabe von Folio mit recto *r und verso *v (im Nachhinein mit Bleistift im Grundbuch eingetragen). Auf den Seiten befinden sich zudem (ws. zeitnah zur Entstehung angebrachte) Foliozählungen in lateinischen Zahlzeichen in Tinte</cell>
+                     </row>
+                     <row>
+                        <cell>Faksimilelink</cell>
+                        <cell>Dateiname des Faksimiles - zur technischen Verknüpfung des Textes mit der Bilddatei</cell>
+                     </row>
+                     <row>
+                        <cell>Rubrik</cell>
+                        <cell>Gliederung nach Bürgermeistern und Jahren</cell>
+                     </row>
+                     <row>
+                        <cell>Urkundendatum</cell>
+                        <cell>Aufgeschlüsseltes Datum der Urkunde</cell>
+                     </row>
+                     <row>
+                        <cell>Standard</cell>
+                        <cell>Text des Grundbucheintrags</cell>
+                     </row>
+                     <row>
+                        <cell>Summa</cell>
+                        <cell>Für den jeweiligen Grundbucheintrag abgerechnete Summe</cell>
+                     </row>
+                     <row>
+                        <cell>Nachtrag</cell>
+                        <cell>Verschiedene nachträgliche Vermerke und Anmerkungen</cell>
+                     </row>
+                     <row>
+                        <cell>Seitenautor</cell>
+                        <cell>Erstbearbeiter der Seite/des Seitenabschnitts (nicht angezeigt, für die interne Organisation)</cell>
+                     </row>
+                     <row>
+                        <cell>Durchgestrichen</cell>
+                        <cell>Durchgestrichen</cell>
+                     </row>
+                     <row>
+                        <cell>Hochgestellt</cell>
+                        <cell>Hochgestellt</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
+            </projectDesc>
+         </encodingDesc>
+      </teiHeader>
+      <facsimile>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0490.jpg"/>
+      </facsimile>
+      <text>
+         <body>
+            <div type="entry">
+               <p>Kunrat peym Goczagker, der elter, mitburger zu Wienn hat versaczt sein gross hawss, gelegen vor Kernertor gegen dem spital uber zenagst des Wurmpekhen hawss, der erbern Kathrein Paulen Pekhen von Zwetel hausfrawen, seiner tochter und iren erben. Auch Kunraten beym Goczagker, dem jungern, seinen sun der noch ungevogt ist, und seinen erben ir yedem umb sechsundsechtzigkh phunt phenning, die her-</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0491.jpg</p>
+               <p>komen von den zwainhundert phunt phenning die er Dorothen seiner erern hausfrawen Larentzen Lerenstubich von Gumpolczkirchen tochter irer muter seligen auf dem egenanten haws verschriben gehabt hat, und von derselben irer muter erblich an sy komen sein und sind zubezalen der egenanten Kathrein und iren erben irs tails lxvi tl. d. zu sand Merten tag nagstkunfftigen, und den egenanten Kunraten<note>
+                     <p rend="footnote text"> Mit Verweiszeichen am linken Rand nachgetragen.</p>
+                  </note> seins tails lxvi tl. d., wann er vogtper wirdet oder ob er ungevogt abgieng seiner nagsten erben an alles verziehen. Doch unvergriffenn den funff phunt phenning gelts purkrechts, so dem capplan der Heiligen Drivaltigkait altar an Sand Michels pharkirchen vor darauf verschriben sein ut littera sonat. Actum an  Montag vor sand Kunigunden tag, anno etc. lxxii<hi rend="super">do</hi>.</p>
+               <p rend="Summa">Summa i tl. d.</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0492.jpg</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0493.jpg</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0494.jpg</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0495.jpg</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0496.jpg</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0499.jpg</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">Faksimile fehlt</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">Faksimile fehlt</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0500.jpg</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0501.jpg</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">Faksimile fehlt</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">Faksimile fehlt</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0502.jpg</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0503.jpg</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0504.jpg</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0505.jpg</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0506.jpg</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0507.jpg</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0508.jpg</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0509.jpg</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0510.jpg</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0511.jpg</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0512.jpg</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0513.jpg</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0514.jpg</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0515.jpg</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0516.jpg</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0517.jpg</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0518.jpg</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0519.jpg</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0520.jpg</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0521.jpg</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0522.jpg</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0523.jpg</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0524.jpg</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0525.jpg</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0526.jpg</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0527.jpg</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0528.jpg</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0529.jpg</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0530.jpg</p>
+               <p rend="Rubrik">Tempore dominorum Michel Lyenvelder et Dyetz Starhant, anno xxxviiio</p>
+            </div>
+         </body>
+      </text>
+   </TEI>

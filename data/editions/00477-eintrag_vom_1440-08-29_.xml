@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title type="main">Eintrag vom 1440-08-29 </title>
+               <title type="rubrik">Tempore dominorum Diecz Starhant, consul, Michel Linfelder, anno etc. xlmo.</title>
+               <title type="sub">Digitale Edition der Wiener Grundbücher</title>
+               <respStmt>
+                  <resp>Transkription</resp>
+                  <name>
+                     <rs type="person" ref="#gruenwald_korbinian">Korbinian Grünwald</rs>
+                  </name>
+               </respStmt>
+            </titleStmt>
+            <publicationStmt>
+               <publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter Andorfer</publisher>
+               <availability>
+                  <licence target="https://creativecommons.org/licenses/by/4.0/">
+                     <p>
+                                            CC-BY
+                                        </p>
+                     <p>
+                                            You are free to: Share — copy and redistribute the material in any medium or format. Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+                                        </p>
+                  </licence>
+               </availability>
+            </publicationStmt>
+            <sourceDesc>
+               <msDesc type="invetory">
+                  <msIdentifier>
+                     <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                     <repository>Grundbücher</repository>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <locus from="cxlvi" to=" [146v]"/>
+                        <p>cxlvi -  [146v]</p>
+                     </msItem>
+                  </msContents>
+                  <history>
+                     <origin notBefore="1440-08-29 "/>
+                  </history>
+               </msDesc>
+            </sourceDesc>
+         </fileDesc>
+         <encodingDesc>
+            <projectDesc>
+               <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt:
+                                    <table>
+                     <row rend="header">
+                        <cell>Name der Formatvorlage</cell>
+                        <cell>Beschreibung des damit ausgezeichnetem Phänomen</cell>
+                     </row>
+                     <row>
+                        <cell>Folioangabe</cell>
+                        <cell>Seitenangabe durch Angabe von Folio mit recto *r und verso *v (im Nachhinein mit Bleistift im Grundbuch eingetragen). Auf den Seiten befinden sich zudem (ws. zeitnah zur Entstehung angebrachte) Foliozählungen in lateinischen Zahlzeichen in Tinte</cell>
+                     </row>
+                     <row>
+                        <cell>Faksimilelink</cell>
+                        <cell>Dateiname des Faksimiles - zur technischen Verknüpfung des Textes mit der Bilddatei</cell>
+                     </row>
+                     <row>
+                        <cell>Rubrik</cell>
+                        <cell>Gliederung nach Bürgermeistern und Jahren</cell>
+                     </row>
+                     <row>
+                        <cell>Urkundendatum</cell>
+                        <cell>Aufgeschlüsseltes Datum der Urkunde</cell>
+                     </row>
+                     <row>
+                        <cell>Standard</cell>
+                        <cell>Text des Grundbucheintrags</cell>
+                     </row>
+                     <row>
+                        <cell>Summa</cell>
+                        <cell>Für den jeweiligen Grundbucheintrag abgerechnete Summe</cell>
+                     </row>
+                     <row>
+                        <cell>Nachtrag</cell>
+                        <cell>Verschiedene nachträgliche Vermerke und Anmerkungen</cell>
+                     </row>
+                     <row>
+                        <cell>Seitenautor</cell>
+                        <cell>Erstbearbeiter der Seite/des Seitenabschnitts (nicht angezeigt, für die interne Organisation)</cell>
+                     </row>
+                     <row>
+                        <cell>Durchgestrichen</cell>
+                        <cell>Durchgestrichen</cell>
+                     </row>
+                     <row>
+                        <cell>Hochgestellt</cell>
+                        <cell>Hochgestellt</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
+            </projectDesc>
+         </encodingDesc>
+      </teiHeader>
+      <facsimile>
+         <graphic url=""/>
+      </facsimile>
+      <text>
+         <body>
+            <div type="entry">
+               <p>Hanns Haringseer, diezeit des ratz und spitalmaister zu Wien, hat versaczt sein haus, daz er von Erharten Gibing gechaufft hat gelegen in der Munsserstrass zenagst Hansen Hansen des Waldner haus. Der erbern frawn Annen, Seifrids des Munczken hausfrau, die emaln Hannsen Milt an der Prantstat auch elich gehabt hat, umb i ½c tl. d., die ir leibgeding und bey der stat gruntbuch gelegen sein, die und nach irm abgang gevallen sullen dahin si der egenant Hans Milt geschafft hat nach innhaltung seins geschefftz das im statpuch geschriben stet und sind auszerichten und auch wider zu der stat gruntpuch niderzelegen von den nagstkunftigen Weichnachten uber ain jar und sullen in auch der egenant Haringseer oder sein erben dasselb jar davon raihen und dienen x tl. d. zu den drein tegen an sand Jorgen tag<note>
+                     <p rend="footnote text"> Tag: Über der Zeile eingefügt.</p>
+                  </note>, an sand Michels tag und ze Weichnachten zu yedem tag iii tl. lxxx d. und sullent auch mit dem ersten dinst anheben an sant Jorgen tag schiristkunftig anvercziehen, ut littera sonat. Actum feria secunda ante Egidi, anno etc. xlo.</p>
+               <p rend="Summa">Summa x s. d.</p>
+               <p rend="Nachtrag">Habet cedulam.</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0285.jpg</p>
+            </div>
+         </body>
+      </text>
+   </TEI>

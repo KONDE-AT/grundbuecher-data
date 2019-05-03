@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title type="main">Eintrag vom 1448-06-14</title>
+               <title type="rubrik">Tempore dominorum Hainreich Haiden, consulis, et Hannsen von Eslorn, anno etc. xlviiio</title>
+               <title type="sub">Digitale Edition der Wiener Grundbücher</title>
+               <respStmt>
+                  <resp>Transkription</resp>
+                  <name>
+                     <rs type="person" ref="#gruenwald_korbinian">Korbinian Grünwald</rs>
+                  </name>
+               </respStmt>
+            </titleStmt>
+            <publicationStmt>
+               <publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter Andorfer</publisher>
+               <availability>
+                  <licence target="https://creativecommons.org/licenses/by/4.0/">
+                     <p>CC-BY</p>
+                     <p>You are free to: Share — copy and redistribute the material in any medium or format. Adapt — remix, transform, and build upon the material for any purpose, even commercially.</p>
+                  </licence>
+               </availability>
+            </publicationStmt>
+            <sourceDesc>
+               <msDesc type="invetory">
+                  <msIdentifier>
+                     <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                     <repository>Grundbücher</repository>
+                     <idno type="archive">WStLA 2.1.2.1.B1.34</idno>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <locus from=" [326v]" to="[327r]"/>
+                        <p> [326v] - [327r]</p>
+                     </msItem>
+                  </msContents>
+                  <history>
+                     <origin notBefore="1448-06-14"/>
+                  </history>
+               </msDesc>
+            </sourceDesc>
+         </fileDesc>
+         <encodingDesc>
+            <projectDesc>
+               <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt:
+                                    <table>
+                     <row rend="header">
+                        <cell>Name der Formatvorlage</cell>
+                        <cell>Beschreibung des damit ausgezeichnetem Phänomen</cell>
+                     </row>
+                     <row>
+                        <cell>Folioangabe</cell>
+                        <cell>Seitenangabe durch Angabe von Folio mit recto *r und verso *v (im Nachhinein mit Bleistift im Grundbuch eingetragen). Auf den Seiten befinden sich zudem (ws. zeitnah zur Entstehung angebrachte) Foliozählungen in lateinischen Zahlzeichen in Tinte</cell>
+                     </row>
+                     <row>
+                        <cell>Faksimilelink</cell>
+                        <cell>Dateiname des Faksimiles - zur technischen Verknüpfung des Textes mit der Bilddatei</cell>
+                     </row>
+                     <row>
+                        <cell>Rubrik</cell>
+                        <cell>Gliederung nach Bürgermeistern und Jahren</cell>
+                     </row>
+                     <row>
+                        <cell>Urkundendatum</cell>
+                        <cell>Aufgeschlüsseltes Datum der Urkunde</cell>
+                     </row>
+                     <row>
+                        <cell>Standard</cell>
+                        <cell>Text des Grundbucheintrags</cell>
+                     </row>
+                     <row>
+                        <cell>Summa</cell>
+                        <cell>Für den jeweiligen Grundbucheintrag abgerechnete Summe</cell>
+                     </row>
+                     <row>
+                        <cell>Nachtrag</cell>
+                        <cell>Verschiedene nachträgliche Vermerke und Anmerkungen</cell>
+                     </row>
+                     <row>
+                        <cell>Seitenautor</cell>
+                        <cell>Erstbearbeiter der Seite/des Seitenabschnitts (nicht angezeigt, für die interne Organisation)</cell>
+                     </row>
+                     <row>
+                        <cell>Durchgestrichen</cell>
+                        <cell>Durchgestrichen</cell>
+                     </row>
+                     <row>
+                        <cell>Hochgestellt</cell>
+                        <cell>Hochgestellt</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
+            </projectDesc>
+         </encodingDesc>
+      </teiHeader>
+      <facsimile>
+         <graphic url=""/>
+      </facsimile>
+      <text>
+         <body>
+            <div type="entry">
+               <p>Niclas Grafenawer, der messrer, hat versaczt die uberteurung seines hauss, gelegen in des Kraffts hof hinder Sand Pangréczen zenagst Hannsen des Nagler haus, uber die iii tl. d. gelts purkrechts, so die kirchen zu Sand Steffan vor darauf hat, und uber die vi tl. d., so der stat zu Wienn nachmalen darauf verschriben ist</p>
+               <p rend="Nachtrag">Erratum est.</p>
+               <p>Niclas Grafenawer, der messrer, hat versaczt die uberteurung seines hauss, gelegen in des Kraffts hof hinder Sand Pangreczen zenagst Hannsen des Nagler haus, uber die iii tl. d. gelts purkrechts, so die kirchen zu Sand Steffan vor darauf hat, und uber die vi tl. d., so seiner hausfraun Dorothen nagst erben darauf habent. Henslein Fries, Urlreichs Fries des Zéinstrickcher seligen sun, der noch nicht vogtper ist, umb virczig guldein Ungrisch in gold. Und sind zu beczalen wenn der benant Hensl vogtper wirdet, darnach ynner der nagsten jarsfrist. Wér aber, das er ungevogter abging, so sullen die benanten virczig gulden halb gevallen Kathrein des obgnanten Niclasen Grafenawer hausfrau, die emalen den vorgenanten Ulreichen Fries elichen gehabt hat, und aus dem andern halben tail sullen gevallen des egnanten Ulreichs Fries vater zehen guldein und desselben Ulreichen geswistreiden auch zehen guldein nach lautt desselben Ulreichen gescheffts, ut littera sonat. Actum an Freitag vor sand Veits tag, anno domini etc. xlviiio.</p>
+               <p rend="Summa">Summa lxx d.</p>
+               <p rend="Nachtrag">Nota die vorgnanten xx guldein habent Hanns Fries der smid zu Pfafsteten und Jacob Fries satlergesell sein pruder anstat Hainreich Fries irs vaters und irm geslastss von dem Grafenawer ingenomen und darumb ledig gesagt ut quittung, feria secunda ante Lucie, liii.</p>
+               <p rend="Rubrik">Tempore dominorum Peter Strasser consul Hanns von Eslorn Anno domini etc. xlviii<unclear>i</unclear>.</p>
+            </div>
+         </body>
+      </text>
+   </TEI>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title type="main">Eintrag vom 1469-10-18</title>
+               <title type="rubrik">Tempore dominorum, heren Niclasen Ernsst, consulis, und Veiten Hintperger, anno domini etc. lxviiivo.</title>
+               <title type="sub">Digitale Edition der Wiener Grundbücher</title>
+               <respStmt>
+                  <resp>Transkription</resp>
+                  <name>
+                     <rs type="person" ref="#gruenwald_korbinian">Korbinian Grünwald</rs>
+                  </name>
+               </respStmt>
+            </titleStmt>
+            <publicationStmt>
+               <publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter Andorfer</publisher>
+               <availability>
+                  <licence target="https://creativecommons.org/licenses/by/4.0/">
+                     <p>CC-BY</p>
+                     <p>You are free to: Share — copy and redistribute the material in any medium or format. Adapt — remix, transform, and build upon the material for any purpose, even commercially.</p>
+                  </licence>
+               </availability>
+            </publicationStmt>
+            <sourceDesc>
+               <msDesc type="invetory">
+                  <msIdentifier>
+                     <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                     <repository>Grundbücher</repository>
+                     <idno type="archive">WStLA 2.1.2.1.B1.34</idno>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <locus from="[130v]" to=" [131r]"/>
+                        <p>[130v] -  [131r]</p>
+                     </msItem>
+                  </msContents>
+                  <history>
+                     <origin notBefore="1469-10-18"/>
+                  </history>
+               </msDesc>
+            </sourceDesc>
+         </fileDesc>
+         <encodingDesc>
+            <projectDesc>
+               <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt:
+                                    <table>
+                     <row rend="header">
+                        <cell>Name der Formatvorlage</cell>
+                        <cell>Beschreibung des damit ausgezeichnetem Phänomen</cell>
+                     </row>
+                     <row>
+                        <cell>Folioangabe</cell>
+                        <cell>Seitenangabe durch Angabe von Folio mit recto *r und verso *v (im Nachhinein mit Bleistift im Grundbuch eingetragen). Auf den Seiten befinden sich zudem (ws. zeitnah zur Entstehung angebrachte) Foliozählungen in lateinischen Zahlzeichen in Tinte</cell>
+                     </row>
+                     <row>
+                        <cell>Faksimilelink</cell>
+                        <cell>Dateiname des Faksimiles - zur technischen Verknüpfung des Textes mit der Bilddatei</cell>
+                     </row>
+                     <row>
+                        <cell>Rubrik</cell>
+                        <cell>Gliederung nach Bürgermeistern und Jahren</cell>
+                     </row>
+                     <row>
+                        <cell>Urkundendatum</cell>
+                        <cell>Aufgeschlüsseltes Datum der Urkunde</cell>
+                     </row>
+                     <row>
+                        <cell>Standard</cell>
+                        <cell>Text des Grundbucheintrags</cell>
+                     </row>
+                     <row>
+                        <cell>Summa</cell>
+                        <cell>Für den jeweiligen Grundbucheintrag abgerechnete Summe</cell>
+                     </row>
+                     <row>
+                        <cell>Nachtrag</cell>
+                        <cell>Verschiedene nachträgliche Vermerke und Anmerkungen</cell>
+                     </row>
+                     <row>
+                        <cell>Seitenautor</cell>
+                        <cell>Erstbearbeiter der Seite/des Seitenabschnitts (nicht angezeigt, für die interne Organisation)</cell>
+                     </row>
+                     <row>
+                        <cell>Durchgestrichen</cell>
+                        <cell>Durchgestrichen</cell>
+                     </row>
+                     <row>
+                        <cell>Hochgestellt</cell>
+                        <cell>Hochgestellt</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
+            </projectDesc>
+         </encodingDesc>
+      </teiHeader>
+      <facsimile>
+         <graphic url=""/>
+      </facsimile>
+      <text>
+         <body>
+            <div type="entry">
+               <p>Gedrawt, Dietreichs Holfues hausfraw, die vormalen Jacoben Olmansperg seligen auch elichen gehabt hat, versaczt die ubertewrung irs halben hawss, gannczes gelegen am Harmarkt zenagst weilent Jorgen von Nicolspurg seligen haws. Über die xxiiii phunt phening, darumb er vormalen maister Hannsen von Misstelbach, capplan der mess, die Jacob von Mergersstorff auf dem newn karner zu Sannd Stephann gestifft hat, und seinen nachkomen capplen derselben mess. Und uber die lxxvi phunt Phenig und vi s. d., die heren Micheln Wulffing, capplan der mess, die weilent Hansn der Musstrer auf Sand Symons und Sand Judas altar daselbs zu Sand Stephan gestifft hat, und sein nachkomen cappllein derselben mess vormalen darauf verschriben sind. Dem erbern priester, heren Mathesen Holczleitter, diezeit pharrer zu Everding und seinen erben umb lxii tl. d. und sind zu beczalen von datum des sacs inner der nagsten jarsfrist an alles verziehen. Actum an Mitichen nach sand Colmanns tag, anno domini etc. lxviiii<hi rend="super">no</hi>.</p>
+               <p rend="Summa">Summa iiii s. d.</p>
+               <p rend="Nachtrag">Pharer habet cedulam.</p>
+               <p rend="Nachtrag">Nota umb die gruntzedeln, so noch unverserte vorhanden ist, hat der egenant her Mathes Holczleitter ain tötbrief zum puch geben. Actum an Montag vor Goczauffartag 89.</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0258.jpg</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0259.jpg</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0260.jpg</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0261.jpg</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0262.jpg</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">Faksimile fehlt</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">Faksimile fehlt</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0263.jpg</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0264.jpg</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0265.jpg</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0266.jpg</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0267.jpg</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0268.jpg</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0269.jpg</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0270.jpg</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0271.jpg</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0272.jpg</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0273.jpg</p>
+               <p>Leere Seite</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0274.jpg</p>
+               <p rend="Rubrik">Tempore dominorum Michel Lyenvelder et Dyetz Starhant, anno etc. xxxviiivo</p>
+            </div>
+         </body>
+      </text>
+   </TEI>

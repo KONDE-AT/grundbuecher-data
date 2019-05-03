@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title type="main">Eintrag vom 1467-02-26</title>
+               <title type="rubrik">Tempore dominorum hern Erenreich Koppel, consulis, und Veiten Hintperger, anno etc. lxviimo</title>
+               <title type="sub">Digitale Edition der Wiener Grundbücher</title>
+               <respStmt>
+                  <resp>Transkription</resp>
+                  <name>
+                     <rs type="person" ref="#gruenwald_korbinian">Korbinian Grünwald</rs>
+                  </name>
+               </respStmt>
+            </titleStmt>
+            <publicationStmt>
+               <publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter Andorfer</publisher>
+               <availability>
+                  <licence target="https://creativecommons.org/licenses/by/4.0/">
+                     <p>CC-BY</p>
+                     <p>You are free to: Share — copy and redistribute the material in any medium or format. Adapt — remix, transform, and build upon the material for any purpose, even commercially.</p>
+                  </licence>
+               </availability>
+            </publicationStmt>
+            <sourceDesc>
+               <msDesc type="invetory">
+                  <msIdentifier>
+                     <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                     <repository>Grundbücher</repository>
+                     <idno type="archive">WStLA 2.1.2.1.B1.34</idno>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <locus from=" [435v]" to=" [436r]"/>
+                        <p> [435v] -  [436r]</p>
+                     </msItem>
+                  </msContents>
+                  <history>
+                     <origin notBefore="1467-02-26"/>
+                  </history>
+               </msDesc>
+            </sourceDesc>
+         </fileDesc>
+         <encodingDesc>
+            <projectDesc>
+               <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt:
+                                    <table>
+                     <row rend="header">
+                        <cell>Name der Formatvorlage</cell>
+                        <cell>Beschreibung des damit ausgezeichnetem Phänomen</cell>
+                     </row>
+                     <row>
+                        <cell>Folioangabe</cell>
+                        <cell>Seitenangabe durch Angabe von Folio mit recto *r und verso *v (im Nachhinein mit Bleistift im Grundbuch eingetragen). Auf den Seiten befinden sich zudem (ws. zeitnah zur Entstehung angebrachte) Foliozählungen in lateinischen Zahlzeichen in Tinte</cell>
+                     </row>
+                     <row>
+                        <cell>Faksimilelink</cell>
+                        <cell>Dateiname des Faksimiles - zur technischen Verknüpfung des Textes mit der Bilddatei</cell>
+                     </row>
+                     <row>
+                        <cell>Rubrik</cell>
+                        <cell>Gliederung nach Bürgermeistern und Jahren</cell>
+                     </row>
+                     <row>
+                        <cell>Urkundendatum</cell>
+                        <cell>Aufgeschlüsseltes Datum der Urkunde</cell>
+                     </row>
+                     <row>
+                        <cell>Standard</cell>
+                        <cell>Text des Grundbucheintrags</cell>
+                     </row>
+                     <row>
+                        <cell>Summa</cell>
+                        <cell>Für den jeweiligen Grundbucheintrag abgerechnete Summe</cell>
+                     </row>
+                     <row>
+                        <cell>Nachtrag</cell>
+                        <cell>Verschiedene nachträgliche Vermerke und Anmerkungen</cell>
+                     </row>
+                     <row>
+                        <cell>Seitenautor</cell>
+                        <cell>Erstbearbeiter der Seite/des Seitenabschnitts (nicht angezeigt, für die interne Organisation)</cell>
+                     </row>
+                     <row>
+                        <cell>Durchgestrichen</cell>
+                        <cell>Durchgestrichen</cell>
+                     </row>
+                     <row>
+                        <cell>Hochgestellt</cell>
+                        <cell>Hochgestellt</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
+            </projectDesc>
+         </encodingDesc>
+      </teiHeader>
+      <facsimile>
+         <graphic url=""/>
+      </facsimile>
+      <text>
+         <body>
+            <div type="entry">
+               <p>Sigmund Gwaltshofer, burger zu Wienn, hat versaczt die ubertewrung seins hawss mit aller seiner zugehornung, gelegen in der Münsserstrass zenagst maister Jacoben Wuntarczt hawss h an ainem tail und an den andern zenagst der Michelpergerinn und irer miterben hawss und stosset hinden an den Liechtensteg an Marthsen Pewtler hawss, uber die achtzigk Ungrisch gultein, daruben es vormalen den ersamen fursichtigen und weisen hern Andren Schonnprukher burgermaister und rat der stat zu Wien an stat und zuhannden Ulreichs Wannkher weilent gesessen zu Prukh an der Leytta seligen nagsten erben wer die sein versaczt ist. Den ersamen weisen Petern Rauscher, hannsgraf in Osterreich, diezeit des rats, und Wolfgangen Zeller, burger zu Wien, an stat und zuhannden Hennsleins, Giligen Waldner auch weilent burger daselbs seligen sun, der noch ungevogt ist, und sein erben, umb zwayhundert und zwaintzig Ungrisch guldein gerecht in gold und wag und sind zubezalen auf die Weinachten nagstkunfftigen an alles verziehen getrewlich und ungeverlich. Actum an Phintztag vor dem Suntag Oculi in der vassten, anno domini etc. lxviimo.</p>
+               <p rend="Summa">Summa ii tl. xl d.</p>
+               <p rend="Nachtrag">Nota die obgenant gehaben habend die vorgenanten iic und xx gulden emphangen und den sacz ledig gesagt. Actum an Mitichen pey Reminiscere in der vassten, anno etc. lxviiio.</p>
+            </div>
+         </body>
+      </text>
+   </TEI>

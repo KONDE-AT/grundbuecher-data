@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title type="main">Eintrag vom 1454-10-07</title>
+               <title type="rubrik">Tempore Andre Schonprukh consul Petern von Aslabingen Anno etc. liiiito.</title>
+               <title type="sub">Digitale Edition der Wiener Grundbücher</title>
+               <respStmt>
+                  <resp>Transkription</resp>
+                  <name>
+                     <rs type="person" ref="#fiska_patrick">Patrick Fiska</rs>
+                  </name>
+               </respStmt>
+               <respStmt>
+                  <resp>Transkription</resp>
+                  <name>
+                     <rs type="person" ref="#gruenwald_korbinian">Korbinian Grünwald</rs>
+                  </name>
+               </respStmt>
+            </titleStmt>
+            <publicationStmt>
+               <publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter Andorfer</publisher>
+               <availability>
+                  <licence target="https://creativecommons.org/licenses/by/4.0/">
+                     <p>CC-BY</p>
+                     <p>You are free to: Share — copy and redistribute the material in any medium or format. Adapt — remix, transform, and build upon the material for any purpose, even commercially.</p>
+                  </licence>
+               </availability>
+            </publicationStmt>
+            <sourceDesc>
+               <msDesc type="invetory">
+                  <msIdentifier>
+                     <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                     <repository>Grundbücher</repository>
+                     <idno type="archive">WStLA 2.1.2.1.B1.34</idno>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <locus from="[301v]" to="[302r]"/>
+                        <p>[301v] - [302r]</p>
+                     </msItem>
+                  </msContents>
+                  <history>
+                     <origin notBefore="1454-10-07"/>
+                  </history>
+               </msDesc>
+            </sourceDesc>
+         </fileDesc>
+         <encodingDesc>
+            <projectDesc>
+               <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt:
+                                    <table>
+                     <row rend="header">
+                        <cell>Name der Formatvorlage</cell>
+                        <cell>Beschreibung des damit ausgezeichnetem Phänomen</cell>
+                     </row>
+                     <row>
+                        <cell>Folioangabe</cell>
+                        <cell>Seitenangabe durch Angabe von Folio mit recto *r und verso *v (im Nachhinein mit Bleistift im Grundbuch eingetragen). Auf den Seiten befinden sich zudem (ws. zeitnah zur Entstehung angebrachte) Foliozählungen in lateinischen Zahlzeichen in Tinte</cell>
+                     </row>
+                     <row>
+                        <cell>Faksimilelink</cell>
+                        <cell>Dateiname des Faksimiles - zur technischen Verknüpfung des Textes mit der Bilddatei</cell>
+                     </row>
+                     <row>
+                        <cell>Rubrik</cell>
+                        <cell>Gliederung nach Bürgermeistern und Jahren</cell>
+                     </row>
+                     <row>
+                        <cell>Urkundendatum</cell>
+                        <cell>Aufgeschlüsseltes Datum der Urkunde</cell>
+                     </row>
+                     <row>
+                        <cell>Standard</cell>
+                        <cell>Text des Grundbucheintrags</cell>
+                     </row>
+                     <row>
+                        <cell>Summa</cell>
+                        <cell>Für den jeweiligen Grundbucheintrag abgerechnete Summe</cell>
+                     </row>
+                     <row>
+                        <cell>Nachtrag</cell>
+                        <cell>Verschiedene nachträgliche Vermerke und Anmerkungen</cell>
+                     </row>
+                     <row>
+                        <cell>Seitenautor</cell>
+                        <cell>Erstbearbeiter der Seite/des Seitenabschnitts (nicht angezeigt, für die interne Organisation)</cell>
+                     </row>
+                     <row>
+                        <cell>Durchgestrichen</cell>
+                        <cell>Durchgestrichen</cell>
+                     </row>
+                     <row>
+                        <cell>Hochgestellt</cell>
+                        <cell>Hochgestellt</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
+            </projectDesc>
+         </encodingDesc>
+      </teiHeader>
+      <facsimile>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0595.jpg"/>
+      </facsimile>
+      <text>
+         <body>
+            <div type="entry">
+               <p>Magdalen Petern Mel<unclear>ni</unclear>esser hausfrau, die emaln Mathesen Friesenegker den maurer seligen auch elichen gehabt hat, hat versaczt ir haws gelegen in der Krugstrass zenagst Niclasen Prewssen des sneider haws. Irm kind Wolfgangen das si mit dem egnant Friesenegker gehabt hat, das noch nicht vogtper ist. Umb zwelf pfund pfenning und sind zubeczalen wenn dasselb kind vogtper wirdet, darnach an alles vercziehen. Wer aber, das dasselb kind ungevogt abging, so sullen dann die vorgnant zwelf pfunt pfenning halb gevallen und beleiben der egnant Magdalen seiner muter und halb auf fraun Margrethen Erharts Topler von Lincz hausfraun, des egnant Friesenegker seligen swester und ir erben lediclich<unclear>en</unclear>. Actum an Montag vor sand Dionisien tag, anno etc. liiii<hi rend="super">to</hi> 
+                  <unclear>und sol auch die vorgnant</unclear> Magdalen das kind mit leib und gut innhaben ziehen und verwesen uncz das es gevogt wirdet.</p>
+               <p rend="Summa">Summa nulla propter paupertatem.</p>
+               <p rend="Nachtrag">Erhart Topler habet cedulam.</p>
+               <p rend="Nachtrag">Die egnant xii tl. sind zu de<unclear>m</unclear> puch gelegt worden an Mantag vor Viti Anno etc. lv<hi rend="super">to</hi>.</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0596.jpg</p>
+               <p rend="Rubrik">Tempore dominorum hern Niclasen Teschler consul et Thoman Ekenperger Anno etc. lvto.</p>
+            </div>
+         </body>
+      </text>
+   </TEI>

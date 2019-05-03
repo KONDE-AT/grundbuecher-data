@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title type="main">Eintrag vom 1467-07-15</title>
+               <title type="rubrik">Tempore dominorum hern Ernreichs Kóppl consulis und Veiten Hintperger anno domini etc. lxviimo.</title>
+               <title type="sub">Digitale Edition der Wiener Grundbücher</title>
+               <respStmt>
+                  <resp>Transkription</resp>
+                  <name>
+                     <rs type="person" ref="#fiska_patrick">Patrick Fiska</rs>
+                  </name>
+               </respStmt>
+               <respStmt>
+                  <resp>Transkription</resp>
+                  <name>
+                     <rs type="person" ref="#gruenwald_korbinian">Korbinian Grünwald</rs>
+                  </name>
+               </respStmt>
+            </titleStmt>
+            <publicationStmt>
+               <publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter Andorfer</publisher>
+               <availability>
+                  <licence target="https://creativecommons.org/licenses/by/4.0/">
+                     <p>CC-BY</p>
+                     <p>You are free to: Share — copy and redistribute the material in any medium or format. Adapt — remix, transform, and build upon the material for any purpose, even commercially.</p>
+                  </licence>
+               </availability>
+            </publicationStmt>
+            <sourceDesc>
+               <msDesc type="invetory">
+                  <msIdentifier>
+                     <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                     <repository>Grundbücher</repository>
+                     <idno type="archive">WStLA 2.1.2.1.B1.34</idno>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <locus from="[310r]" to="[310v]"/>
+                        <p>[310r] - [310v]</p>
+                     </msItem>
+                  </msContents>
+                  <history>
+                     <origin notBefore="1467-07-15"/>
+                  </history>
+               </msDesc>
+            </sourceDesc>
+         </fileDesc>
+         <encodingDesc>
+            <projectDesc>
+               <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt:
+                                    <table>
+                     <row rend="header">
+                        <cell>Name der Formatvorlage</cell>
+                        <cell>Beschreibung des damit ausgezeichnetem Phänomen</cell>
+                     </row>
+                     <row>
+                        <cell>Folioangabe</cell>
+                        <cell>Seitenangabe durch Angabe von Folio mit recto *r und verso *v (im Nachhinein mit Bleistift im Grundbuch eingetragen). Auf den Seiten befinden sich zudem (ws. zeitnah zur Entstehung angebrachte) Foliozählungen in lateinischen Zahlzeichen in Tinte</cell>
+                     </row>
+                     <row>
+                        <cell>Faksimilelink</cell>
+                        <cell>Dateiname des Faksimiles - zur technischen Verknüpfung des Textes mit der Bilddatei</cell>
+                     </row>
+                     <row>
+                        <cell>Rubrik</cell>
+                        <cell>Gliederung nach Bürgermeistern und Jahren</cell>
+                     </row>
+                     <row>
+                        <cell>Urkundendatum</cell>
+                        <cell>Aufgeschlüsseltes Datum der Urkunde</cell>
+                     </row>
+                     <row>
+                        <cell>Standard</cell>
+                        <cell>Text des Grundbucheintrags</cell>
+                     </row>
+                     <row>
+                        <cell>Summa</cell>
+                        <cell>Für den jeweiligen Grundbucheintrag abgerechnete Summe</cell>
+                     </row>
+                     <row>
+                        <cell>Nachtrag</cell>
+                        <cell>Verschiedene nachträgliche Vermerke und Anmerkungen</cell>
+                     </row>
+                     <row>
+                        <cell>Seitenautor</cell>
+                        <cell>Erstbearbeiter der Seite/des Seitenabschnitts (nicht angezeigt, für die interne Organisation)</cell>
+                     </row>
+                     <row>
+                        <cell>Durchgestrichen</cell>
+                        <cell>Durchgestrichen</cell>
+                     </row>
+                     <row>
+                        <cell>Hochgestellt</cell>
+                        <cell>Hochgestellt</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
+            </projectDesc>
+         </encodingDesc>
+      </teiHeader>
+      <facsimile>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0610.jpg"/>
+      </facsimile>
+      <text>
+         <body>
+            <div type="entry">
+               <p>Margreth T<unclear>alma</unclear>ns Rebl des kramer hausfraw, die vormalen Stephan Eysentzieher seligen auch elichen gehabt, hat versaczt ir hawss gelegen hinder Sand Pangreczen zenagst dem hawss, das zu der mess gehörtt, die weilent der Reichl auf der parkirchen zu Sand Michel gestifft hat, Jorgen irem sun den sy bey den obgenanten Stephan Eysentzieher seligen elichen gehabt hat und seinen erben umb xxxii tl. d. die im daselb sein vater geschafft hat, und umb sechtzehenn phunt phenning pett und pecher gleich halbs<note>
+                     <p rend="footnote text"> pett und pecher gleich halbs mit Verweiszeichen unterhalb des Eintrags nachgetragen.</p>
+                  </note>, die erblich auf in von Margrethen seiner swester, die ungevogt mit tod abgangen ist, komen sind nach lautt des obgenanten Eysentzieher seligen geschéfft. Und sind zubezalen wann der obgenant Jorg vogtper wirdet an alles verziehen. Wér aber das er ungevogt abgieng so sol es alles gevallen auf die egenant seine muter. Davon sol sy mit wissen seiner geschefftlewt au<unclear>s</unclear>richten zehen phunt phenning durch got und seiner sel hails willen nach lautt seins geschéffts, daz im statpuch zu Wienn geschriben stet. Actum an Mitichen nach sand Margreten tag, anno etc. lxvii<hi rend="super">mo</hi>. Und sol auch den obgenanten Jor<unclear>g</unclear>n iren sun an abslags seins guts innhaben uncz das er gevogt werdet nach lautt desselben geschéffts.</p>
+               <p rend="Nachtrag">Nota Margret Cristans Russter seligen witib an stat ir selbs und Elspethen irér swester hat den obgenant sacz ledig gesagt nach lautt ains spruchbriefs, der zum puch erlegt ist.</p>
+            </div>
+         </body>
+      </text>
+   </TEI>

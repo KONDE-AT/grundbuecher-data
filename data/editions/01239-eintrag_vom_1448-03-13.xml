@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title type="main">Eintrag vom 1448-03-13</title>
+               <title type="rubrik">Tempore dominorum Hainreich Haiden, consulis, et Hannsen von Eslorn, anno etc. xlviiio</title>
+               <title type="sub">Digitale Edition der Wiener Grundbücher</title>
+               <respStmt>
+                  <resp>Transkription</resp>
+                  <name>
+                     <rs type="person" ref="#gruenwald_korbinian">Korbinian Grünwald</rs>
+                  </name>
+               </respStmt>
+            </titleStmt>
+            <publicationStmt>
+               <publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter Andorfer</publisher>
+               <availability>
+                  <licence target="https://creativecommons.org/licenses/by/4.0/">
+                     <p>CC-BY</p>
+                     <p>You are free to: Share — copy and redistribute the material in any medium or format. Adapt — remix, transform, and build upon the material for any purpose, even commercially.</p>
+                  </licence>
+               </availability>
+            </publicationStmt>
+            <sourceDesc>
+               <msDesc type="invetory">
+                  <msIdentifier>
+                     <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                     <repository>Grundbücher</repository>
+                     <idno type="archive">WStLA 2.1.2.1.B1.34</idno>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <locus from="[296r]" to=" [296v]"/>
+                        <p>[296r] -  [296v]</p>
+                     </msItem>
+                  </msContents>
+                  <history>
+                     <origin notBefore="1448-03-13"/>
+                  </history>
+               </msDesc>
+            </sourceDesc>
+         </fileDesc>
+         <encodingDesc>
+            <projectDesc>
+               <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt:
+                                    <table>
+                     <row rend="header">
+                        <cell>Name der Formatvorlage</cell>
+                        <cell>Beschreibung des damit ausgezeichnetem Phänomen</cell>
+                     </row>
+                     <row>
+                        <cell>Folioangabe</cell>
+                        <cell>Seitenangabe durch Angabe von Folio mit recto *r und verso *v (im Nachhinein mit Bleistift im Grundbuch eingetragen). Auf den Seiten befinden sich zudem (ws. zeitnah zur Entstehung angebrachte) Foliozählungen in lateinischen Zahlzeichen in Tinte</cell>
+                     </row>
+                     <row>
+                        <cell>Faksimilelink</cell>
+                        <cell>Dateiname des Faksimiles - zur technischen Verknüpfung des Textes mit der Bilddatei</cell>
+                     </row>
+                     <row>
+                        <cell>Rubrik</cell>
+                        <cell>Gliederung nach Bürgermeistern und Jahren</cell>
+                     </row>
+                     <row>
+                        <cell>Urkundendatum</cell>
+                        <cell>Aufgeschlüsseltes Datum der Urkunde</cell>
+                     </row>
+                     <row>
+                        <cell>Standard</cell>
+                        <cell>Text des Grundbucheintrags</cell>
+                     </row>
+                     <row>
+                        <cell>Summa</cell>
+                        <cell>Für den jeweiligen Grundbucheintrag abgerechnete Summe</cell>
+                     </row>
+                     <row>
+                        <cell>Nachtrag</cell>
+                        <cell>Verschiedene nachträgliche Vermerke und Anmerkungen</cell>
+                     </row>
+                     <row>
+                        <cell>Seitenautor</cell>
+                        <cell>Erstbearbeiter der Seite/des Seitenabschnitts (nicht angezeigt, für die interne Organisation)</cell>
+                     </row>
+                     <row>
+                        <cell>Durchgestrichen</cell>
+                        <cell>Durchgestrichen</cell>
+                     </row>
+                     <row>
+                        <cell>Hochgestellt</cell>
+                        <cell>Hochgestellt</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
+            </projectDesc>
+         </encodingDesc>
+      </teiHeader>
+      <facsimile>
+         <graphic url=""/>
+      </facsimile>
+      <text>
+         <body>
+            <div type="entry">
+               <p>Michel Viregk hat versaczt sein haws, gelegen am Kienmarkcht zu Wienn zenagst Larenczen des Swancz haws. Seiner hausfraun Kathrein, die emalen Wenczlaben kaufman burger zu Kornnewnburg auch elichen gehabt hat, Ambrosien und Ludmilla, irn und des benanten Wenczlaben seligen kindern, umb hundert phund phening, die derselben Kathrein von dem benanten Wenczlaben irm erern Mann haimsteur sein. Also das die benant Kathrey die vorgnant hundert phunt phening ir haimsteur auf dem egnanten haws ir lebttég innhaben núczen und niessen sol unverkumert als haimsteur recht ist. Und nach irm abgang sullen dann dieselben hundert phund phening lediclich erben und gevallen auf die obgnanten Ambrosien und Ludmilla ire kinder, die danne das vorgnant haws dafur innhaben núczen und niessen sullen an abslag solang uncz das der egnant Viregk und sein erben oder wem er das schafft umb dieselben hundert phund phening von in losent. Wer aber das die benant Ambrosi und Ludmilla mit dem tod abgingen ee dann die vorgnant Kathrey ir muter, so sol sy dann die obgnanten hundert phunt phening ir haimsteur auf dem egnanten haws lediclichen und freilichen haben und allen irn frumen damit schaffen auch dasselb haws dafur innhaben núczen und niessen an abslag uncz das es der egnant Viregk sein erben oder wem er das schafft umb dieselben hundert phund phening von ir losent. Beschech aber das sy das in saczweis nicht innhaben wolt, so mag sy dann derselben hundert phund phening davon bekómen als solhs saczs und der stat zu Wienn recht ist, ut littera sonat. Actum an Montag nach Judica in der vasten, anno etc. xlviiio.</p>
+               <p rend="Summa">Summa vi s. xx d.</p>
+               <p rend="Nachtrag">Den sacz hat Michel Viregk umbschreiben lassen seiner hausfrau auf Oswalts Eisner kursner haus in der Wiltwerherstrass daz er von im gekaufft hat.</p>
+            </div>
+         </body>
+      </text>
+   </TEI>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title type="main">Eintrag vom 1454-03-18</title>
+               <title type="rubrik">Tempore dominorum, Kristan Wissinger, consulis, et Peter von Aslabing, anno etc. liiiito.</title>
+               <title type="sub">Digitale Edition der Wiener Grundbücher</title>
+               <respStmt>
+                  <resp>Transkription</resp>
+                  <name>
+                     <rs type="person" ref="#gruenwald_korbinian">Korbinian Grünwald</rs>
+                  </name>
+               </respStmt>
+            </titleStmt>
+            <publicationStmt>
+               <publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter Andorfer</publisher>
+               <availability>
+                  <licence target="https://creativecommons.org/licenses/by/4.0/">
+                     <p>CC-BY</p>
+                     <p>You are free to: Share — copy and redistribute the material in any medium or format. Adapt — remix, transform, and build upon the material for any purpose, even commercially.</p>
+                  </licence>
+               </availability>
+            </publicationStmt>
+            <sourceDesc>
+               <msDesc type="invetory">
+                  <msIdentifier>
+                     <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                     <repository>Grundbücher</repository>
+                     <idno type="archive">WStLA 2.1.2.1.B1.34</idno>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <locus from="[11v]" to="[12r]"/>
+                        <p>[11v] - [12r]</p>
+                     </msItem>
+                  </msContents>
+                  <history>
+                     <origin notBefore="1454-03-18"/>
+                  </history>
+               </msDesc>
+            </sourceDesc>
+         </fileDesc>
+         <encodingDesc>
+            <projectDesc>
+               <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt:
+                                    <table>
+                     <row rend="header">
+                        <cell>Name der Formatvorlage</cell>
+                        <cell>Beschreibung des damit ausgezeichnetem Phänomen</cell>
+                     </row>
+                     <row>
+                        <cell>Folioangabe</cell>
+                        <cell>Seitenangabe durch Angabe von Folio mit recto *r und verso *v (im Nachhinein mit Bleistift im Grundbuch eingetragen). Auf den Seiten befinden sich zudem (ws. zeitnah zur Entstehung angebrachte) Foliozählungen in lateinischen Zahlzeichen in Tinte</cell>
+                     </row>
+                     <row>
+                        <cell>Faksimilelink</cell>
+                        <cell>Dateiname des Faksimiles - zur technischen Verknüpfung des Textes mit der Bilddatei</cell>
+                     </row>
+                     <row>
+                        <cell>Rubrik</cell>
+                        <cell>Gliederung nach Bürgermeistern und Jahren</cell>
+                     </row>
+                     <row>
+                        <cell>Urkundendatum</cell>
+                        <cell>Aufgeschlüsseltes Datum der Urkunde</cell>
+                     </row>
+                     <row>
+                        <cell>Standard</cell>
+                        <cell>Text des Grundbucheintrags</cell>
+                     </row>
+                     <row>
+                        <cell>Summa</cell>
+                        <cell>Für den jeweiligen Grundbucheintrag abgerechnete Summe</cell>
+                     </row>
+                     <row>
+                        <cell>Nachtrag</cell>
+                        <cell>Verschiedene nachträgliche Vermerke und Anmerkungen</cell>
+                     </row>
+                     <row>
+                        <cell>Seitenautor</cell>
+                        <cell>Erstbearbeiter der Seite/des Seitenabschnitts (nicht angezeigt, für die interne Organisation)</cell>
+                     </row>
+                     <row>
+                        <cell>Durchgestrichen</cell>
+                        <cell>Durchgestrichen</cell>
+                     </row>
+                     <row>
+                        <cell>Hochgestellt</cell>
+                        <cell>Hochgestellt</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
+            </projectDesc>
+         </encodingDesc>
+      </teiHeader>
+      <facsimile>
+         <graphic url=""/>
+      </facsimile>
+      <text>
+         <body>
+            <div type="entry">
+               <p>Anna, Linharts Perger, goltsmids, hausfrau hat empfangen ir haws, gelegen am alten Kolmarkt zenagst Paulen Haiden des schuster haws, davon man jerlich dint den geistlichen herren dacz den Schotten zu Wienn funfundvirczig pfening zu purkrecht und nicht mer. Junkfraun Barbaren, Niclasen Garas goltsmids weilent irs erern manns tochter seligen nagsten erben vaterhalben.</p>
+               <p>Anna, Linharts Perger goltsmids hausfrau hat versaczt ir haws, gelegen am alten Kolmarkt zenagst Pauln Haiden des schuster haws, davon man jerlich dint den geistlichen herren zu den Schotten zu Wienn funfundvirczig phening zu purkrecht und nicht mer. Den ersamen weisen, · dem burgermaister und rat der stat zu Wienn zu handen junkfraun Barbaren, Niclasen Garas, goltsmids, weilent irs erern manns tochter seligen nagsten erben vaterhalben umb newnczig pfund pfening. Und sind zu beczalen, wan dieselben freunt von datum der saczung inner jarsfrist herfur kommen und die ervordern an alles vercziehén. Wér aber, das si in der nasten jarsfrist nicht fürkémen, so sullen die dann dem vorgnanten burgermaister und rat der stat zu Wienn und irn nachkomen schuldig sein zu beczalen. Actum an Montag nach Reminiscere in der vasten, anno domini etc. liiii<hi rend="super">o</hi>.</p>
+               <p rend="Summa">Summa nulla propter summam priorem.</p>
+               <p rend="Summa">… …</p>
+               <p rend="Nachtrag">Nota des gelts hat ingenomen der Niclas Ernst liii tl., xv d. und Ulrich Mezlestorfer xxxvii tl. und xv d. zu der stat handen. Actum feria sexta ante Lucie, anno etc. lvii.</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0032.jpg</p>
+               <p>Ob die ynner jarsfrist von datum der saczung herfur kómen umb newnczig pfunt pfening, w [1454-04-01]</p>
+               <p>Alex Tewfl und Anna sein hausfrau habent versaczt ir haws, gelegen in der Goltsmidgassen zenagst weilent Leoppolts Weiler haws an aim tail, der erbern fraun Barbaren, Hartmans Munichner des kursner hausfraun und irn erben umb hundert phund und zehen phund phening landeswerung. Und sind zu beczalen auf sand Peter und sand Pauls tag schiristkunfftigen an alles vercziehen. Actum an Mantag post Letare in der vasten, anno domini etc. liiii<hi rend="super">to</hi>.</p>
+               <p rend="Summa">Summa vii s. x d.</p>
+               <p rend="Nachtrag">Habet cedulam.</p>
+            </div>
+         </body>
+      </text>
+   </TEI>

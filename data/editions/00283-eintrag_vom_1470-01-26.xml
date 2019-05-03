@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title type="main">Eintrag vom 1470-01-26</title>
+               <title type="rubrik">Tempore dominorum, hern Niclasen Erensst, consulis, und Cristan Schönnperger, anno etc. lxxmo.</title>
+               <title type="sub">Digitale Edition der Wiener Grundbücher</title>
+               <respStmt>
+                  <resp>Transkription</resp>
+                  <name>
+                     <rs type="person" ref="#gruenwald_korbinian">Korbinian Grünwald</rs>
+                  </name>
+               </respStmt>
+            </titleStmt>
+            <publicationStmt>
+               <publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter Andorfer</publisher>
+               <availability>
+                  <licence target="https://creativecommons.org/licenses/by/4.0/">
+                     <p>CC-BY</p>
+                     <p>You are free to: Share — copy and redistribute the material in any medium or format. Adapt — remix, transform, and build upon the material for any purpose, even commercially.</p>
+                  </licence>
+               </availability>
+            </publicationStmt>
+            <sourceDesc>
+               <msDesc type="invetory">
+                  <msIdentifier>
+                     <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                     <repository>Grundbücher</repository>
+                     <idno type="archive">WStLA 2.1.2.1.B1.34</idno>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <locus from="[65v]" to="[66r]"/>
+                        <p>[65v] - [66r]</p>
+                     </msItem>
+                  </msContents>
+                  <history>
+                     <origin notBefore="1470-01-26"/>
+                  </history>
+               </msDesc>
+            </sourceDesc>
+         </fileDesc>
+         <encodingDesc>
+            <projectDesc>
+               <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt:
+                                    <table>
+                     <row rend="header">
+                        <cell>Name der Formatvorlage</cell>
+                        <cell>Beschreibung des damit ausgezeichnetem Phänomen</cell>
+                     </row>
+                     <row>
+                        <cell>Folioangabe</cell>
+                        <cell>Seitenangabe durch Angabe von Folio mit recto *r und verso *v (im Nachhinein mit Bleistift im Grundbuch eingetragen). Auf den Seiten befinden sich zudem (ws. zeitnah zur Entstehung angebrachte) Foliozählungen in lateinischen Zahlzeichen in Tinte</cell>
+                     </row>
+                     <row>
+                        <cell>Faksimilelink</cell>
+                        <cell>Dateiname des Faksimiles - zur technischen Verknüpfung des Textes mit der Bilddatei</cell>
+                     </row>
+                     <row>
+                        <cell>Rubrik</cell>
+                        <cell>Gliederung nach Bürgermeistern und Jahren</cell>
+                     </row>
+                     <row>
+                        <cell>Urkundendatum</cell>
+                        <cell>Aufgeschlüsseltes Datum der Urkunde</cell>
+                     </row>
+                     <row>
+                        <cell>Standard</cell>
+                        <cell>Text des Grundbucheintrags</cell>
+                     </row>
+                     <row>
+                        <cell>Summa</cell>
+                        <cell>Für den jeweiligen Grundbucheintrag abgerechnete Summe</cell>
+                     </row>
+                     <row>
+                        <cell>Nachtrag</cell>
+                        <cell>Verschiedene nachträgliche Vermerke und Anmerkungen</cell>
+                     </row>
+                     <row>
+                        <cell>Seitenautor</cell>
+                        <cell>Erstbearbeiter der Seite/des Seitenabschnitts (nicht angezeigt, für die interne Organisation)</cell>
+                     </row>
+                     <row>
+                        <cell>Durchgestrichen</cell>
+                        <cell>Durchgestrichen</cell>
+                     </row>
+                     <row>
+                        <cell>Hochgestellt</cell>
+                        <cell>Hochgestellt</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
+            </projectDesc>
+         </encodingDesc>
+      </teiHeader>
+      <facsimile>
+         <graphic url=""/>
+      </facsimile>
+      <text>
+         <body>
+            <div type="entry">
+               <p>Cristan Schönnperger hat versaczt sein haws, gelegen in der Munsserstrass zenagst Hannsen Haringseer kinder zuehaws, und stosset mit dem hindern tail in den Kamerhof. Dem erbern Hannsen Reyttinger, burger zu Wienn, seinem mitgeschefftman, frawn Dorothen, Petern Furbringer seligen witib gescheffts und seinen nachkomen volfurern desselben geschefts, zu stifftung der mess, so dieselb Dorothe ze stifften geschafft hat, nach lautt irs gescheffts, das im statpuch hie geschribeen stet. Umb hundert phunt Wienner phening, die der egenanten Dorothen haymstewr von irm erern mann, Niclasen Schön, weilent burger zu Wienn auf aim weingarten, am Nuserg im der Muttern Schoss gelegen, genant der gér, des gotzhaws zu Closternewnburg grunts, verschriben gewesen sein. Und alle diweil er und sein erben die vorgenant sumen phenig innhaben und nicht betzalln, so sullen sie alle jar davon raichen und dienn vir phunt der egenanten phening zu hannden der mess, zu den vir quatembern im jar, zu yeder quatemer ain phunt phenig. Und sullen mit dem ersten dinst anheben zu der quatemer in der vasten nagstkünftigen. Und ob si den egenanten dinst zu yeder zeit, als vor stet nicht ausrichteten und geben, so sullen sy mit dem egenanten hawss irm furphant, irn frumen schaffen, mit verkauffen oder versetzen, nach der statrechten zu Wienn, ut littera. Actum an Freitag nach sand Pauls tag Conversionis, anno etc. lxx<hi rend="super">mo</hi>.</p>
+               <p rend="Summa">Summa nulla propter officium …</p>
+               <p rend="Nachtrag">Ex iussu magistri civium et consulatus.</p>
+               <p rend="Nachtrag">Nota das hawss stet Sigismund Parnfues in der gwer, utz libro novo E, folio 163. Und hat daz purkrecht auf sich genommen, anno etc. lxxxvi<hi rend="super">to</hi>.</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0130.jpg</p>
+            </div>
+         </body>
+      </text>
+   </TEI>

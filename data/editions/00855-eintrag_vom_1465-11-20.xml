@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title type="main">Eintrag vom 1465-11-20</title>
+               <title type="rubrik">Tempore dominorum, hern Hannsen Ravenspurger, consulis und Ernreichn Köpl, anno etc. lxvo.</title>
+               <title type="sub">Digitale Edition der Wiener Grundbücher</title>
+               <respStmt>
+                  <resp>Transkription</resp>
+                  <name>
+                     <rs type="person" ref="#gruenwald_korbinian">Korbinian Grünwald</rs>
+                  </name>
+               </respStmt>
+            </titleStmt>
+            <publicationStmt>
+               <publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter Andorfer</publisher>
+               <availability>
+                  <licence target="https://creativecommons.org/licenses/by/4.0/">
+                     <p>CC-BY</p>
+                     <p>You are free to: Share — copy and redistribute the material in any medium or format. Adapt — remix, transform, and build upon the material for any purpose, even commercially.</p>
+                  </licence>
+               </availability>
+            </publicationStmt>
+            <sourceDesc>
+               <msDesc type="invetory">
+                  <msIdentifier>
+                     <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                     <repository>Grundbücher</repository>
+                     <idno type="archive">WStLA 2.1.2.1.B1.34</idno>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <locus from="[201r]" to="[201v]"/>
+                        <p>[201r] - [201v]</p>
+                     </msItem>
+                  </msContents>
+                  <history>
+                     <origin notBefore="1465-11-20"/>
+                  </history>
+               </msDesc>
+            </sourceDesc>
+         </fileDesc>
+         <encodingDesc>
+            <projectDesc>
+               <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt:
+                                    <table>
+                     <row rend="header">
+                        <cell>Name der Formatvorlage</cell>
+                        <cell>Beschreibung des damit ausgezeichnetem Phänomen</cell>
+                     </row>
+                     <row>
+                        <cell>Folioangabe</cell>
+                        <cell>Seitenangabe durch Angabe von Folio mit recto *r und verso *v (im Nachhinein mit Bleistift im Grundbuch eingetragen). Auf den Seiten befinden sich zudem (ws. zeitnah zur Entstehung angebrachte) Foliozählungen in lateinischen Zahlzeichen in Tinte</cell>
+                     </row>
+                     <row>
+                        <cell>Faksimilelink</cell>
+                        <cell>Dateiname des Faksimiles - zur technischen Verknüpfung des Textes mit der Bilddatei</cell>
+                     </row>
+                     <row>
+                        <cell>Rubrik</cell>
+                        <cell>Gliederung nach Bürgermeistern und Jahren</cell>
+                     </row>
+                     <row>
+                        <cell>Urkundendatum</cell>
+                        <cell>Aufgeschlüsseltes Datum der Urkunde</cell>
+                     </row>
+                     <row>
+                        <cell>Standard</cell>
+                        <cell>Text des Grundbucheintrags</cell>
+                     </row>
+                     <row>
+                        <cell>Summa</cell>
+                        <cell>Für den jeweiligen Grundbucheintrag abgerechnete Summe</cell>
+                     </row>
+                     <row>
+                        <cell>Nachtrag</cell>
+                        <cell>Verschiedene nachträgliche Vermerke und Anmerkungen</cell>
+                     </row>
+                     <row>
+                        <cell>Seitenautor</cell>
+                        <cell>Erstbearbeiter der Seite/des Seitenabschnitts (nicht angezeigt, für die interne Organisation)</cell>
+                     </row>
+                     <row>
+                        <cell>Durchgestrichen</cell>
+                        <cell>Durchgestrichen</cell>
+                     </row>
+                     <row>
+                        <cell>Hochgestellt</cell>
+                        <cell>Hochgestellt</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
+            </projectDesc>
+         </encodingDesc>
+      </teiHeader>
+      <facsimile>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0394.jpg"/>
+      </facsimile>
+      <text>
+         <body>
+            <div type="entry">
+               <p>Hanns Gold burger ze Wienn hat versaczt die ubertewrung seins hawss gelegen in der Vordern Pekhenstrass amm egk zenagst Fridrichs Gsméchl hawss, das ettwenn des Krewssen gewesen ist an ainn tail und stösset mit dem hinderntail an die padstuben in der Wollzeill, Über die zwayhundert phunt phenning haimstewr, die im die erber fraw Dorothee Hannsen Lanngen selige(n) tochter seine hausfrau zúbracht hat. Und über die drew hundert phundt phenning versaczt ist. ·· Dem erbern ·· Sebastian und Lienharten gebrüdern den Voglwaider burgern ze Krakaw und irn erben, umb tausent gúter Ungrischer guldein gerecht in gold und wag, die sy dem berurten Golden zúe beczalung seiner geltschuld, die er dem von Ellerbach schuldig ist gewesen also berait gelihen habend. Und sind zúbeczalen auf den nachstkúnftigen Unserer lieben frawn tag Assumptionis anvercziehen. Und ob in an der übertewrung des benant hawss umb die tausent Ung(rische) guldein icht abgeen wurd. das sullen und mügen sy haben und bekomen zu von allen andern hab und gút so Hanns Gold obgenant yecz hat oder fúran gewinet nichts ausgenomen ungeverlich. Actum an Mitichen nach sand Elspeten tag anno etc. lxv<hi rend="super">o</hi>.</p>
+               <p rend="Summa">Summa viiii tl. vii s. v d.</p>
+               <p rend="Nachtrag">Voglwaider habet cedulam.</p>
+               <p rend="Nachtrag">Nota den sacz hat der Voglbaider dem Stadler und seinen miterbn ubergebnn und stetn des núz und gwer ut patet libro obligationum k. fo. 67.</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0395.jpg</p>
+            </div>
+         </body>
+      </text>
+   </TEI>

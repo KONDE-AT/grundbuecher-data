@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title type="main">Eintrag vom 1453-03-12</title>
+               <title type="rubrik">Tempore dominorum Steffan Awer consul .. Jacoben Reichwein Anno etc. liiido. (sic)</title>
+               <title type="sub">Digitale Edition der Wiener Grundbücher</title>
+               <respStmt>
+                  <resp>Transkription</resp>
+                  <name>
+                     <rs type="person" ref="#fiska_patrick">Patrick Fiska</rs>
+                  </name>
+               </respStmt>
+               <respStmt>
+                  <resp>Transkription</resp>
+                  <name>
+                     <rs type="person" ref="#gruenwald_korbinian">Korbinian Grünwald</rs>
+                  </name>
+               </respStmt>
+            </titleStmt>
+            <publicationStmt>
+               <publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter Andorfer</publisher>
+               <availability>
+                  <licence target="https://creativecommons.org/licenses/by/4.0/">
+                     <p>CC-BY</p>
+                     <p>You are free to: Share — copy and redistribute the material in any medium or format. Adapt — remix, transform, and build upon the material for any purpose, even commercially.</p>
+                  </licence>
+               </availability>
+            </publicationStmt>
+            <sourceDesc>
+               <msDesc type="invetory">
+                  <msIdentifier>
+                     <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                     <repository>Grundbücher</repository>
+                     <idno type="archive">WStLA 2.1.2.1.B1.34</idno>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <locus from="[299v]" to="[300r]"/>
+                        <p>[299v] - [300r]</p>
+                     </msItem>
+                  </msContents>
+                  <history>
+                     <origin notBefore="1453-03-12"/>
+                  </history>
+               </msDesc>
+            </sourceDesc>
+         </fileDesc>
+         <encodingDesc>
+            <projectDesc>
+               <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt:
+                                    <table>
+                     <row rend="header">
+                        <cell>Name der Formatvorlage</cell>
+                        <cell>Beschreibung des damit ausgezeichnetem Phänomen</cell>
+                     </row>
+                     <row>
+                        <cell>Folioangabe</cell>
+                        <cell>Seitenangabe durch Angabe von Folio mit recto *r und verso *v (im Nachhinein mit Bleistift im Grundbuch eingetragen). Auf den Seiten befinden sich zudem (ws. zeitnah zur Entstehung angebrachte) Foliozählungen in lateinischen Zahlzeichen in Tinte</cell>
+                     </row>
+                     <row>
+                        <cell>Faksimilelink</cell>
+                        <cell>Dateiname des Faksimiles - zur technischen Verknüpfung des Textes mit der Bilddatei</cell>
+                     </row>
+                     <row>
+                        <cell>Rubrik</cell>
+                        <cell>Gliederung nach Bürgermeistern und Jahren</cell>
+                     </row>
+                     <row>
+                        <cell>Urkundendatum</cell>
+                        <cell>Aufgeschlüsseltes Datum der Urkunde</cell>
+                     </row>
+                     <row>
+                        <cell>Standard</cell>
+                        <cell>Text des Grundbucheintrags</cell>
+                     </row>
+                     <row>
+                        <cell>Summa</cell>
+                        <cell>Für den jeweiligen Grundbucheintrag abgerechnete Summe</cell>
+                     </row>
+                     <row>
+                        <cell>Nachtrag</cell>
+                        <cell>Verschiedene nachträgliche Vermerke und Anmerkungen</cell>
+                     </row>
+                     <row>
+                        <cell>Seitenautor</cell>
+                        <cell>Erstbearbeiter der Seite/des Seitenabschnitts (nicht angezeigt, für die interne Organisation)</cell>
+                     </row>
+                     <row>
+                        <cell>Durchgestrichen</cell>
+                        <cell>Durchgestrichen</cell>
+                     </row>
+                     <row>
+                        <cell>Hochgestellt</cell>
+                        <cell>Hochgestellt</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
+            </projectDesc>
+         </encodingDesc>
+      </teiHeader>
+      <facsimile>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0591.jpg"/>
+      </facsimile>
+      <text>
+         <body>
+            <div type="entry">
+               <p>Her Mathes und her Niclas gepruder die Slikchen herren zu der Weissenkirchen habent anstat und als gerhaben hern Wenczlaben hern Sigismunds Frum, Constancia und Beatrixen geswistreiden, hern Casparn des Slikchen irs pruder seligen kinder, die si mit irn leiben und gút innhaben, versaczt derselben kinder haws mit seiner zugehorung, das irs vaters seligen gewesen ist, gelegen in der Wiltwerherstrass zwischen Dietreichs Keser und des Peilhakchen hewsern. Dem ersamen hochgelerten maister Harttung von Kappelln lerer bebstlicher und kaiserlicher rechten und seinen erben umb virhundert guter Ungrischer guldein gerecht in gold und wag. Und sind zubeczaln auf sant Johanns tag zu <unclear>S</unclear>unwenden im virundfúnfczigisten jar nagstkunfftigen, an widerred und an alles vercziehen ungeverlich ut littera sonat. Actum an sand Gregorn tag, anno domini etc. liii<hi rend="super">o</hi>.</p>
+               <p rend="Summa">Summa iii tl. xxx d.</p>
+               <p rend="Nachtrag">Hic nota.</p>
+               <p rend="Nachtrag">
+                  <unclear>Ex iussu consilii</unclear>.</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0592.jpg</p>
+               <p rend="Nachtrag">Nota das die vorgena<unclear>nt</unclear> her Mathes und her Niclas gepruder die Slikchen habent sich gegen dem burgermaister und rat anstat irselbs und hern Casparn irs pruders seligen kinder verschriben und verpunden, das sy sew, von der saczung und vertigung des egemelten saczbriefs an allen irn schaden ledigen und losen sullen. Und sol in auch unvergriffen sein an der verschreibung, so sy emaln von hern Casparen haben, nach lautt ains besundern versorgbriefs, die paid peyeinander in ainer <unclear>statk</unclear> im Rotturn, darczu der kamrer die slussn hat, ligent.</p>
+            </div>
+         </body>
+      </text>
+   </TEI>

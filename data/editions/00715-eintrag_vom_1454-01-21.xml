@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title type="main">Eintrag vom 1454-01-21</title>
+               <title type="rubrik">Tempore dominorum, Andre Schonprugker, consulis, Peter von Aslabing, anno etc. liiiito.</title>
+               <title type="sub">Digitale Edition der Wiener Grundbücher</title>
+               <respStmt>
+                  <resp>Transkription</resp>
+                  <name>
+                     <rs type="person" ref="#gruenwald_korbinian">Korbinian Grünwald</rs>
+                  </name>
+               </respStmt>
+            </titleStmt>
+            <publicationStmt>
+               <publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter Andorfer</publisher>
+               <availability>
+                  <licence target="https://creativecommons.org/licenses/by/4.0/">
+                     <p>CC-BY</p>
+                     <p>You are free to: Share — copy and redistribute the material in any medium or format. Adapt — remix, transform, and build upon the material for any purpose, even commercially.</p>
+                  </licence>
+               </availability>
+            </publicationStmt>
+            <sourceDesc>
+               <msDesc type="invetory">
+                  <msIdentifier>
+                     <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                     <repository>Grundbücher</repository>
+                     <idno type="archive">WStLA 2.1.2.1.B1.34</idno>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <locus from="[183v]" to="[184r]"/>
+                        <p>[183v] - [184r]</p>
+                     </msItem>
+                  </msContents>
+                  <history>
+                     <origin notBefore="1454-01-21"/>
+                  </history>
+               </msDesc>
+            </sourceDesc>
+         </fileDesc>
+         <encodingDesc>
+            <projectDesc>
+               <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt:
+                                    <table>
+                     <row rend="header">
+                        <cell>Name der Formatvorlage</cell>
+                        <cell>Beschreibung des damit ausgezeichnetem Phänomen</cell>
+                     </row>
+                     <row>
+                        <cell>Folioangabe</cell>
+                        <cell>Seitenangabe durch Angabe von Folio mit recto *r und verso *v (im Nachhinein mit Bleistift im Grundbuch eingetragen). Auf den Seiten befinden sich zudem (ws. zeitnah zur Entstehung angebrachte) Foliozählungen in lateinischen Zahlzeichen in Tinte</cell>
+                     </row>
+                     <row>
+                        <cell>Faksimilelink</cell>
+                        <cell>Dateiname des Faksimiles - zur technischen Verknüpfung des Textes mit der Bilddatei</cell>
+                     </row>
+                     <row>
+                        <cell>Rubrik</cell>
+                        <cell>Gliederung nach Bürgermeistern und Jahren</cell>
+                     </row>
+                     <row>
+                        <cell>Urkundendatum</cell>
+                        <cell>Aufgeschlüsseltes Datum der Urkunde</cell>
+                     </row>
+                     <row>
+                        <cell>Standard</cell>
+                        <cell>Text des Grundbucheintrags</cell>
+                     </row>
+                     <row>
+                        <cell>Summa</cell>
+                        <cell>Für den jeweiligen Grundbucheintrag abgerechnete Summe</cell>
+                     </row>
+                     <row>
+                        <cell>Nachtrag</cell>
+                        <cell>Verschiedene nachträgliche Vermerke und Anmerkungen</cell>
+                     </row>
+                     <row>
+                        <cell>Seitenautor</cell>
+                        <cell>Erstbearbeiter der Seite/des Seitenabschnitts (nicht angezeigt, für die interne Organisation)</cell>
+                     </row>
+                     <row>
+                        <cell>Durchgestrichen</cell>
+                        <cell>Durchgestrichen</cell>
+                     </row>
+                     <row>
+                        <cell>Hochgestellt</cell>
+                        <cell>Hochgestellt</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
+            </projectDesc>
+         </encodingDesc>
+      </teiHeader>
+      <facsimile>
+         <graphic url=""/>
+      </facsimile>
+      <text>
+         <body>
+            <div type="entry">
+               <p>Hanns Gersse hat seiner hausfrawn Barbaren, Conrats Ernsts seligen tochter, die emaln Wenczlaben Rétenperger auch elichen gehabt hat, gemacht und geben tausent phunt phening guter landeswerung in Osterreich zu ledigen gút, die si ledigklich haben, schaffen, machen oder geben sol und man, wie und wem si will. Auf seinem haws und zuhaws hinden daran, zu Wienn undern Satlern, zenagst der Dorffnerin haws gelegen, das er ir dafur in saczesweis ausgeczaigt und verschriben hat. In solher maynung, daz die vorgenant fraw Barbara sol nú und hinfur die egenanten tausent pfunt phening auf dem benanten haws mit seiner zugehorung lediklichen haben und allen irn frumen damit schaffen, machen und geben, wem si will und mag. Auch si oder, wem si die schafft, macht oder geit, derselben tausent phunt phening bekomen von demselben haws und seiner zugehorung, als von irm furphant, sacz und der stat recht ist. Beschéch aber, dacz die egenant Barbara mit dem tod abging ee denn der obgenant ir man Hanns Gersse, si haben kinder miteinander oder nicht, dennoch sol er daz egenant haus mit seiner zugehorung peulich innhaben, nuczen und niessen unverkumert. Und nach seinem tod und abgang sullen die egenanten tausent phunt phening auf dem egenanten haws und seiner zugehorung erben und gevallen, dahin si die egenant Barbara bei iren lebttégen gemacht, geschafft oder gegeben het, der si dann von dem egenanten haws und seiner zugehorung bekomen sullen und mugen, als solhs saczs und der stat recht ist, ut littera sonat. Actum an sand Agnesen tag anno etc. liiii<hi rend="super">to</hi>.</p>
+               <p rend="Summa">Summa viii tl. d.</p>
+               <p rend="Nachtrag">Gerss habet cedulam.</p>
+               <p rend="Nachtrag">Idem habet cedulam.</p>
+               <p rend="Nachtrag">Nota die obgenant fraw Barbara hat über die gruntzedeln, die noch unversert vorhannden ist, ain todbrief geben und ligt bey dem puch. Actum an Montag ante Katherine, anno etc. lxvii<hi rend="super">mo</hi>.</p>
+               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0360.jpg</p>
+               <p>Richard</p>
+            </div>
+         </body>
+      </text>
+   </TEI>

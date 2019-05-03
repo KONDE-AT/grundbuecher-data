@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title type="main">Eintrag vom 1470-02-19</title>
+               <title type="rubrik">Tempore dominorum, hern Niclasen Erensst, consulis, und Cristan Schönnperger, anno etc. lxxmo.</title>
+               <title type="sub">Digitale Edition der Wiener Grundbücher</title>
+               <respStmt>
+                  <resp>Transkription</resp>
+                  <name>
+                     <rs type="person" ref="#gruenwald_korbinian">Korbinian Grünwald</rs>
+                  </name>
+               </respStmt>
+            </titleStmt>
+            <publicationStmt>
+               <publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter Andorfer</publisher>
+               <availability>
+                  <licence target="https://creativecommons.org/licenses/by/4.0/">
+                     <p>CC-BY</p>
+                     <p>You are free to: Share — copy and redistribute the material in any medium or format. Adapt — remix, transform, and build upon the material for any purpose, even commercially.</p>
+                  </licence>
+               </availability>
+            </publicationStmt>
+            <sourceDesc>
+               <msDesc type="invetory">
+                  <msIdentifier>
+                     <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                     <repository>Grundbücher</repository>
+                     <idno type="archive">WStLA 2.1.2.1.B1.34</idno>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <locus from="lxvi" to="[66v]"/>
+                        <p>lxvi - [66v]</p>
+                     </msItem>
+                  </msContents>
+                  <history>
+                     <origin notBefore="1470-02-19"/>
+                  </history>
+               </msDesc>
+            </sourceDesc>
+         </fileDesc>
+         <encodingDesc>
+            <projectDesc>
+               <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt:
+                                    <table>
+                     <row rend="header">
+                        <cell>Name der Formatvorlage</cell>
+                        <cell>Beschreibung des damit ausgezeichnetem Phänomen</cell>
+                     </row>
+                     <row>
+                        <cell>Folioangabe</cell>
+                        <cell>Seitenangabe durch Angabe von Folio mit recto *r und verso *v (im Nachhinein mit Bleistift im Grundbuch eingetragen). Auf den Seiten befinden sich zudem (ws. zeitnah zur Entstehung angebrachte) Foliozählungen in lateinischen Zahlzeichen in Tinte</cell>
+                     </row>
+                     <row>
+                        <cell>Faksimilelink</cell>
+                        <cell>Dateiname des Faksimiles - zur technischen Verknüpfung des Textes mit der Bilddatei</cell>
+                     </row>
+                     <row>
+                        <cell>Rubrik</cell>
+                        <cell>Gliederung nach Bürgermeistern und Jahren</cell>
+                     </row>
+                     <row>
+                        <cell>Urkundendatum</cell>
+                        <cell>Aufgeschlüsseltes Datum der Urkunde</cell>
+                     </row>
+                     <row>
+                        <cell>Standard</cell>
+                        <cell>Text des Grundbucheintrags</cell>
+                     </row>
+                     <row>
+                        <cell>Summa</cell>
+                        <cell>Für den jeweiligen Grundbucheintrag abgerechnete Summe</cell>
+                     </row>
+                     <row>
+                        <cell>Nachtrag</cell>
+                        <cell>Verschiedene nachträgliche Vermerke und Anmerkungen</cell>
+                     </row>
+                     <row>
+                        <cell>Seitenautor</cell>
+                        <cell>Erstbearbeiter der Seite/des Seitenabschnitts (nicht angezeigt, für die interne Organisation)</cell>
+                     </row>
+                     <row>
+                        <cell>Durchgestrichen</cell>
+                        <cell>Durchgestrichen</cell>
+                     </row>
+                     <row>
+                        <cell>Hochgestellt</cell>
+                        <cell>Hochgestellt</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
+            </projectDesc>
+         </encodingDesc>
+      </teiHeader>
+      <facsimile>
+         <graphic url=""/>
+      </facsimile>
+      <text>
+         <body>
+            <div type="entry">
+               <p>Caspar Zeitl und Barbara sein hausfraw habend versaczt ir haws, gelegen beym Rotenturn im egkh, zusambt dem zuhaws daran, gegen weilent Casparn Ringsswekhl seligen haws uber. Dem erbern Wolfgangen Orter, mitburger zu Wienn und sein erben umb hundert phunt Wienner phening landeswerung in Österreich, in solher maynung, das nach seinem abgangkh dieselben sum phening erben und gevallen sullen auf seine kinder, die er bey Affren seiner hausfrawen elichen gehabt hat. Gingen aber dieselben kinder nach im auch ungevogt ab oder, ob sy vogtper wurden und dieselben hundert phunt phening unverschafft, vermmacht und unverjumert hinder in liessen, so sullen sy erben und gevallen auf derselben kanlewt baider nagst erbn, darauf sy zu recht erben und gevallen sullen. Wer aber, das die bemelten kinder vor dem obgenanten Wolfgangen Ortter irm vater mit tod abgiengen, so sol er dann die vorgenanten hundert phunt phening gleich halb lediclich haben und den andern halben tail desselben gelts sol er darczu sein lebtég unverkumert innhaben, nuczen und nyessen, als leibgedings und der stat zu Wienn recht ist. Und nach seinem abgang sol dann derselb halb tail gelts erben und gevallen auf der obgenanten Affren seiner hausfrawen nagst erben, darauf er zu recht erben und gevalln sol. Und sind zu beczalen von dem nagstkunfftigen sand Peters tag and Kathedram, uber ain ganntz jares Nagstkunfftigen an alles verziehen ungeverlich. Actum an Montag vor sand Peters tag ad Kathedram, anno domini etc. lxx<hi rend="super">mo</hi>.</p>
+               <p rend="Summa">Summa vi s xx d.</p>
+            </div>
+         </body>
+      </text>
+   </TEI>
