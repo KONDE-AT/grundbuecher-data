@@ -33,6 +33,19 @@
                   </persName>
                   <idno type="URL">http://d-nb.info/gnd/119368579</idno>
                </person>
+               <person xml:id="pe__alexander_gerhart">
+                  <persName>
+                     <forename>Alexander</forename>
+                     <surname>Gerhart</surname>
+                  </persName>
+               </person>
+               <person xml:id="pe__heinrich_haiden">
+                  <persName>
+                     <forename>Heinrich</forename> 
+                     <surname>Haiden</surname>
+                  </persName>
+                  
+               </person>
             </listPerson>
          </p>
       </body>
