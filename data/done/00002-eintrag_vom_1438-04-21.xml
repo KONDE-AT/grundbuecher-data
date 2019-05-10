@@ -2,8 +2,8 @@
       <teiHeader>
          <fileDesc>
             <titleStmt>
-               <title type="main">Eintrag vom 1448-11-22</title>
-               <title type="rubrik">Tempore dominorum Hainreich Haiden, consulis, et Hannsen von Eslorn, anno etc. xlviiio</title>
+               <title type="main">Eintrag vom 1438-04-21</title>
+               <title type="rubrik">Tempore dominorum Michel Lyenvelder, consulis, et Dietrich Starhant, anno etc. xxxviiio</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -30,12 +30,12 @@
                   </msIdentifier>
                   <msContents>
                      <msItem>
-                        <locus from=" [357r]" to="[357v]"/>
-                        <p> [357r] - [357v]</p>
+                        <locus from="[1r]" to="[1v]"/>
+                        <p>[1r] - [1v]</p>
                      </msItem>
                   </msContents>
                   <history>
-                     <origin notBefore="1448-11-22"/>
+                     <origin notBefore="1438-04-21"/>
                   </history>
                </msDesc>
             </sourceDesc>
@@ -95,17 +95,14 @@
          </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0010.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
-               <p>Ott Gerner und Barbara, sein hausfrau, habent verchaufft vi tl. d. gelts purkrechts auf der uberteurung irs halben haus und allen den geméchen die darczu gehornt, als die von Dorothen Giligen Sterfen hausfraun in kauffweis an sy komen sind, gelegen am Kienmarkt zenagst des Gerunger haus an aim tail. Umb lx tl. d., und sind von der padstuben vor Werdertor gelegen herkomen. Dem erbern briester hern Niclasen Chiliber, caplan der mess die Ulreich Flekch auf Unser Fraun altar in Sand Johanns capelen vor Werdertor gelegen gestifft hat, und seinen nachkomen caplen derselben mess. Und sind zu dienn zu drin tégen und wider abczukauffen miteinander mit lx tl. d. und den negsten dinst damit, uber die ix tl. d. die Erharten Hainreichs Mulbacher seligen sun der ynnerlands nicht ist vor darauf verschriben sind, ut littera. Actum an Freitag vor Katherine, anno etc. xlviiio.</p>
-               <p rend="Summa">Summa ½ tl. d.</p>
-               <p rend="Nachtrag">Her Niclas Chiliber habet cedulam.</p>
-               <p rend="Nachtrag">Nota das obgenant</p>
-               <p rend="Nachtrag">Nota umb das obgenant haws stet Jacob Schrot goltslaher und hat das purkrecht widerumb auf sich genomen ut patet libro isto sub 7 und von des purkrechtbrief wegen ist ain tottbrief zum puch erlegt.</p>
-               <p rend="Rubrik">Tempore dominorum Petern Strasser consulis et Hannsen von Eslorn anno l<hi rend="super">mo</hi>.</p>
+               <p><rs type="person" ref="#gerhart_alex">Alex Gerhart</rs> hat versatzt sein haws, gelegen in der Wiltberherstrass ze Wienn zenagst Niclasen des Zingken haws, davon man jérlichen dint den geistlichen frawn hincz Sand Larenczen ze Wienn x tl. vi s. d. ze purkrecht und nicht mer. Dem erbern weisen Hainreich dem Haiden, burger ze Wienn, und seinen erben umb lvii tl. iii s. xxv d. und sind zu beczaln, wenn sy die vordernt und der nicht lenger empern wellent, darnach an alles vercziehen. Actum feria secunda ante Geori, anno xxxviiio.</p>
+               <p rend="Summa">Summa iii s. xxiiii d.</p>
+               <p rend="Nachtrag">Den sacz hat der Haiden ledig gesagt feria secunda ante Pangracy 1440.</p>
             </div>
          </body>
       </text>

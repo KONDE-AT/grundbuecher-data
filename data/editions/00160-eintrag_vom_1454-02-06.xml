@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
       <teiHeader>
          <fileDesc>
             <titleStmt>
@@ -40,7 +40,8 @@
                </msDesc>
             </sourceDesc>
          </fileDesc>
-         <encodingDesc>
+         <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude"
+                    xmlns:tei="http://www.tei-c.org/ns/1.0">
             <projectDesc>
                <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt:
                                     <table>
@@ -92,7 +93,18 @@
                </p>
                <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
             </projectDesc>
-         </encodingDesc>
+         <p>
+            <xi:include href="../indices/listperson.xml" xpointer="listperson">
+               <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be found</fallback>
+            </xi:include>
+            <xi:include href="../indices/listplace.xml" xpointer="listplace">
+               <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be found</fallback>
+            </xi:include>
+            <xi:include href="../indices/listorg.xml" xpointer="listorg">
+               <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be found</fallback>
+            </xi:include>
+         </p>
+      </encodingDesc>
       </teiHeader>
       <facsimile>
          <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0062.jpg"/>
