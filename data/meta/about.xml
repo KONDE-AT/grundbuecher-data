@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Some Text about our Project encoded in TEI</title>
+            <title type="main">Ein Wiener Grundbuch des 15. Jahrhunderts: Das Darlehensbuch Satzbuch CD (1438-1473)</title>
+            <title type="sub">Digitale Edition der Wiener Grundbücher</title>
          </titleStmt>
          <publicationStmt>
             <p>Publication Information</p>
@@ -18,7 +16,10 @@
   </teiHeader>
   <text>
       <body>
-         <p>Some text here. Lorem Ipsum</p>
+         <p>In vielen Städten Europas wurden im späten Mittelalter der Handel mit Immobilien schriftlich dokumentiert. Beginn, Form und Inhalt der Einzelurkunden, Urkundensammlungen und Grundbücher wichen zunächst stark voneinander ab. Seit dem 14. Jahrhundert begann sich in weiten Teilen Europas jedoch die Verwendung von umfangreichen Grundbüchern durchzusetzen. Diese wurden von den städtischen Obrigkeiten oder delegierten Amtsträgern geführt und erhielten zunehmend rechtsverbindlichen Charakter. Die Auswertung der städtischen Grundbücher begann im 19. Jahrhundert. 
+            Mit diesem Projekt wird erstmals ein Wiener Grundbuch des Mittelalters im Gesamttext veröffentlicht und gemeinsam mit digitalisierten Bildern der Handschrift der Forschung zur Verfügung gestellt. Das Satzbuch CD und die Grundbücher allgemein bieten ein reiches Datenmaterial, um prosopographische und topographische Studien durchzuführen. Die digitale Edition des Satzbuches CD versteht sich daher als ein Auftakt zur weiteren textlichen Erschließung der Wiener Grundbücher sowie als ein Anstoß zur darauf aufbauenden sozial-, wirtschafts- und kulturgeschichtlichen Erforschung der mittelalterlichen und frühneuzeitlichen Stadtgeschichte Wiens auf einer erweiterten Quellenbasis. 
+            (Thomas Ertl, Patrick Fiska, Richard Weinbergmair, Korbinian Grünwald, Peter Andorfer)
+         </p>
       </body>
   </text>
 </TEI>
