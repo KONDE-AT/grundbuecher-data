@@ -33,6 +33,9 @@
                         <orgName>Burgtheater</orgName>
                         <idno type="URL">http://d-nb.info/gnd/38633-9</idno>
                     </org>
+                    <org xml:id="org__st_laurenz">
+                        <orgName>Zisterzienserinnenkloster Sankt Laurenz</orgName>
+                    </org>
                 </listOrg>
             </p>
         </body>

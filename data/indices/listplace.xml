@@ -26,6 +26,24 @@
                </location>
                <idno type="URL">http://www.geonames.org/2934246</idno>
             </place>
+            <place xml:id="pl__wilterwerkstrasse">
+               <placeName>Wilterwerkstrasse</placeName>
+            </place>
+            
+<!--            häuser-->
+            
+            <place xml:id="pl__alexander_gerhart_haus">
+               <placeName>Alexander Gehart Haus (Wiltwerkerstrasse)</placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="#pl__wilterwerkstrasse">Wilterstrasse</addrLine>
+                     <addrLine corresp="#pl__niklaszingkaus">haus...</addrLine>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__niklaszingkaus">
+               <placeName></placeName>
+            </place>
          </listPlace>
       </body>
   </text>
