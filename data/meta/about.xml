@@ -1,25 +1,460 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title type="main">Ein Wiener Grundbuch des 15. Jahrhunderts: Das Darlehensbuch Satzbuch CD (1438-1473)</title>
-            <title type="sub">Digitale Edition der Wiener Grundbücher</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Publication Information</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Information about the source</p>
-         </sourceDesc>
-      </fileDesc>
-  </teiHeader>
-  <text>
-      <body>
-         <p>In vielen Städten Europas wurden im späten Mittelalter der Handel mit Immobilien schriftlich dokumentiert. Beginn, Form und Inhalt der Einzelurkunden, Urkundensammlungen und Grundbücher wichen zunächst stark voneinander ab. Seit dem 14. Jahrhundert begann sich in weiten Teilen Europas jedoch die Verwendung von umfangreichen Grundbüchern durchzusetzen. Diese wurden von den städtischen Obrigkeiten oder delegierten Amtsträgern geführt und erhielten zunehmend rechtsverbindlichen Charakter. Die Auswertung der städtischen Grundbücher begann im 19. Jahrhundert. 
-            Mit diesem Projekt wird erstmals ein Wiener Grundbuch des Mittelalters im Gesamttext veröffentlicht und gemeinsam mit digitalisierten Bildern der Handschrift der Forschung zur Verfügung gestellt. Das Satzbuch CD und die Grundbücher allgemein bieten ein reiches Datenmaterial, um prosopographische und topographische Studien durchzuführen. Die digitale Edition des Satzbuches CD versteht sich daher als ein Auftakt zur weiteren textlichen Erschließung der Wiener Grundbücher sowie als ein Anstoß zur darauf aufbauenden sozial-, wirtschafts- und kulturgeschichtlichen Erforschung der mittelalterlichen und frühneuzeitlichen Stadtgeschichte Wiens auf einer erweiterten Quellenbasis. 
-            (Thomas Ertl, Patrick Fiska, Richard Weinbergmair, Korbinian Grünwald, Peter Andorfer)
-         </p>
-      </body>
-  </text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Das Darlehensbuch Satzbuch CD (1438-1473): Einleitung zur online-Publikation</title>
+                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
+                <author>Thomas Ertl</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>2019-05-20</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2019-05-20T07:10:11Z</date><name>Andorfer, Peter</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Abstract</head>
+                <p>In vielen Städten Europas wurden im späten Mittelalter der Handel mit Immobilien
+                    schriftlich dokumentiert. Beginn, Form und Inhalt der Einzelurkunden,
+                    Urkundensammlungen und Grundbücher wichen zunächst stark voneinander ab. Seit
+                    dem 14. Jahrhundert begann sich in weiten Teilen Europas jedoch die Verwendung
+                    von umfangreichen Grundbüchern durchzusetzen. Diese wurden von den städtischen
+                    Obrigkeiten oder delegierten Amtsträgern geführt und erhielten zunehmend
+                    rechtsverbindlichen Charakter. Die Auswertung der städtischen Grundbücher begann
+                    im 19. Jahrhundert. Durch den Einsatz digitaler Methoden steht die Erschließung
+                    und Auswertung dieser Quellengattung und der großen Menge der in ihr enthaltenen
+                    Daten vor einer fundamentalen Umwälzung und einem Neuanfang. Die neuen
+                    Erschließungs- und Auswertemöglichkeiten umfassen prosopographische,
+                    sozialtopographische und wirtschaftshistorische Fragestellungen sowie die
+                    Georeferenzierung der Haushalte und Parzellen. Anhand der online-Publikation von
+                    „Satzbuch CD“ (1438-1473) aus dem Wiener Stadt- und Landesarchiv soll auf eine
+                    exemplarische online-Publikation sowie die neuen digitalen
+                    Auswertungsmöglichkeiten mittelalterlicher Grundbücher hingewiesen werden.</p>
+                <p>Mit diesem Projekt wird erstmals ein Wiener Grundbuch des Mittelalters im
+                    Gesamttext veröffentlicht und gemeinsam mit digitalisierten Bildern der
+                    Handschrift der Forschung zur Verfügung gestellt. Die Darlehensgeschäfte im
+                    Bereich der Stadt Wien im 15. Jahrhundert wurden von Felix Czeike
+                        beschrieben.<note place="foot" xml:id="ftn1" n="1"><p rend="footnote text">
+                            Czeike, Darlehensgeschäfte.</p></note> Diese Studie erleichterte die
+                    Texterstellung und bleibt als Einführung in das Thema unersetzt. Sie ist der
+                    Forschung als unveröffentlichte Dissertation allerdings nur schwer zugänglich.
+                    Das Ziel des vorliegenden Projekts geht über das Darlehensgeschäft hinaus und
+                    will eine umfassende Auswertung des Satzbuches ermöglichen. Dabei geht es
+                    einerseits um die grundbücherlich gesicherten Darlehensgeschäfte im Bereich der
+                    Stadt Wien, um den Finanzmarkt im engeren Sinne. Andererseits bieten das
+                    Satzbuch und die Grundbücher allgemein ein reiches Datenmaterial, um
+                    prosopographische und topographische Studien durchzuführen. Die digitale Edition
+                    des Satzbuches CD versteht sich daher als ein Auftakt zur weiteren textlichen
+                    Erschließung der Wiener Grundbücher sowie als ein Anstoß zur darauf aufbauenden
+                    sozial-, wirtschafts- und kulturgeschichtlichen Erforschung der
+                    mittelalterlichen und frühneuzeitlichen Stadtgeschichte Wiens auf einer
+                    erweiterten Quellenbasis.</p>
+                <div>
+                    <head>Umsetzung</head>
+                    <p>Das Projekt "Online-Edition Satzbuch CD" wurde von einem vierköpfigem Team
+                        unter der Leitung von <ref target="http://d-nb.info/gnd/131551000">Thomas
+                            Ertl</ref> (<ref target="http://d-nb.info/gnd/2024703-5">Universität
+                            Wien</ref>/<ref target="http://d-nb.info/gnd/2114189-7">FU Berlin</ref>)
+                        durchgeführt. <ref target="http://d-nb.info/gnd/143111221">Patrick
+                            Fiska</ref>, Richard Weinbergmair und Korbinian Gründwald besorgten die
+                        Texterstellung und <ref target="http://d-nb.info/gnd/1043833846">Peter
+                            Andorfer</ref> (<ref target="http://d-nb.info/gnd/1123037736"
+                        >ACDH</ref>) betreute und gestaltete die online-Edition. Die Umsetzung des
+                        Projekts erfolgte in Kooperation mit dem <ref
+                            target="http://d-nb.info/gnd/5188474-4">Institut für Wirtschafts- und
+                            Sozialgeschichte der Universität Wien</ref>, dem Austrian Centre for
+                        Digital Humanities (ACDH) der Österreichischen Akademie der Wissenschaften
+                        sowie dem Friedrich-Meinecke-Institut der Freien Universität Berlin.
+                        Ermöglicht wurde die Edition durch finanzielle Unterstützung der <ref
+                            target="http://d-nb.info/gnd/1090525168">Kulturabteilung der Stadt Wien
+                            (MA7)</ref>.</p>
+                </div>
+            </div>
+            <div>
+                <head>Das Satzbuch CD</head>
+                <p>Das Satzbuch CD ist eine Papierhandschrift im Format von ca. 42*29cm. Die Blätter
+                    wurden bei der Anlage der Handschrift mit römischen Zahlzeichen (Foliierung) bis
+                    fol. CCCCLXXIII (473) versehen. Im 18. Jahrhundert wurde die Handschrift neu in
+                    Leder gebunden und erhielt sowohl auf dem Rücken als auch auf der Vorderseite
+                    die Aufschrift <hi rend="italic">Sazbuch / C / D</hi>. Nach zwei leeren Seiten
+                    beginnt der Text mit der Überschrift <hi rend="italic">Obligations Buech</hi>,
+                    darunter von späterer Hand der Zusatz: <hi rend="italic">Incipit ab Anno
+                        Milesimo, quadringentesimo trigesimo octavo</hi>.</p>
+                <p>Das Satzbuch CD umfasst die Darlehensgeschäfte im Bereich der Stadt Wien zwischen
+                    1438 und 1473. Im Rahmen dieser Kreditgeschäfte überließ ein Gläubiger
+                    (Rentenkäufer) einem Schuldner (Rentenverkäufer) eine bestimmte Geldsumme. Als
+                    Sicherheit wurde eine Immobilie des Schuldners belastet.</p>
+                <p>Der Chronist und spätere Papst Aeneas Silvius Piccolomini berichtete über das
+                    Wiener Kreditwesen dieser Zeit: „Leute, welche befristete Darlehen geben,
+                    nennen, wenn sie durch Nichteinhaltung des Termins benachteiligt sind, unter Eid
+                    eine beliebige Summe und schädigen dadurch den Schuldner außerordentlich.“<note
+                        place="foot" xml:id="ftn2" n="2"><p rend="footnote text"> XXX S.
+                        7.</p></note> Gewöhnlich war Aeneas gut informiert, hier irrt er aber
+                    gewaltig: Die Wiener Darlehensgeschäfte beruhten keineswegs auf willkürlichen
+                    Entscheidungen der Gläubiger, sondern waren urkundlich fixiert und wurden
+                    zusätzlich in den städtischen Grundbüchern festgehalten. Wer sich nicht an die
+                    schriftlichen Abmachungen hielt, konnte vor dem städtischen Gericht verklagt
+                    werden und seine Ansprüche verlieren oder seinen Besitz verlieren.</p>
+                <p>Das Satzbuch CD ist nicht das älteste Buch seiner Art. Herzog Rudolf IV. hatte
+                    1360 angeordnet, dass „alle Immobilien betreffenden Rechtsgeschäfte in Zukunft
+                    vor dem Rat der Stadt Wien geschehen und von diesem und nicht von den
+                    Grundherren gefertigt werden sollten.“<note place="foot" xml:id="ftn3" n="3"><p
+                            rend="footnote text"> Zum Wiener Immobilienmarkt vgl. Ertl/Haffner,
+                            Property Market.</p></note> Ab diesem Zeitpunkt war der Stadtrat die
+                    höchste grundherrliche Instanz in der Stadt und führte ein eigenes städtisches
+                    Grundsiegel. Zur Dokumentation der Grundstücksübertragungen sowie der
+                    Darlehensgeschäfte wurden Grundbücher angelegt, die das eigentliche Stadtgebiet
+                    sowie den Burgfried (gesamter städtischer Rechtsbezirk, auch außerhalb der
+                    Stadtmauern) umfassten. Die ältesten erhaltenen Exemplare sind ein Kaufbuch
+                    (1368-1388), das Gewährbuch B (1373-1419), das Verbotbuch (1373-1399) sowie das
+                    älteste Satzbuch A1 (1373-1388). Diese ältesten Grundbücher der Stadt Wien
+                    wurden in den Quellen zur Geschichte der Stadt Wien in Form von Regesten
+                        ediert.<note place="foot" xml:id="ftn4" n="4"><p rend="footnote text"> Zitat
+                            einfügen.</p></note></p>
+                <p>Ab 1420 führte das Grundbuchsamt nur noch zwei Bücher, ein Gewerbuch sowie ein
+                    Satzbuch: Das Gewerbuch B (1420-1437) enthielt alle Immobilientransaktionen wie
+                    Kauf, Vererbung, Schenkung und Überschreibung. Im Satzbuch B (1420-1437) wurden
+                    dagegen alle Belastungen von Immobilienbesitz durch die Aufnahme von
+                    Satzdarlehen sowie der Verkauf von Burgrechten oder Verpachtung festgehalten. Zu
+                    diesen einzelnen Kreditformen siehe unten. Allerdings hatte sich Rudolf IV. mit
+                    seinen Plänen nicht gänzlich durchgesetzt, denn die kirchlichen Grundherren
+                    sowie das Bürgerspital führten auch im 15. Jahrhundert eigene Grundbücher. Im
+                    Jahr 1438 wurden zwei neue Grundbücher angelegt: das Gewerbuch D und das
+                    Satzbuch CD. Diese beiden Bücher umfassten 35 Jahre von 1438 bis 1473.</p>
+                <p>Zwei von der Stadt ernannte Grundbuchsherren standen dem städtische Grundbuchsamt
+                    vor, von denen einer zeitgleich auch Mitglied des Stadtrates war.<note
+                        place="foot" xml:id="ftn5" n="5"><p rend="footnote text"> Zum Grundbuchsamt
+                            vgl. Otto Brunner, Die Finanzen der Stadt Wien 197.</p></note> Das Amt
+                    wurde für ein Jahr vergeben, allerdings übten manche Grundbuchsherren das Amt
+                    immer wieder und auch mehrere Jahre ununterbrochen aus. Die Nennung der
+                    Grundbuchsherren im Satzbuch hatten meist eine ähnliche Form. 1451 lautete die
+                    Rubrik: <hi rend="italic">Tempore dominorum Arnolt Galander consulis et Hansen
+                        von Eslorn, anno etc. li</hi><hi rend="italic superscript">o</hi>. Die
+                    täglichen Geschäfte des Grundbuchamtes erledigten Schreiber der städtischen
+                    Kanzlei und manchmal auch Schreiber, die nicht der Kanzlei angehörten. Grundlage
+                    ihrer Eintragungen waren die ausgestellten Urkunden, von denen nur wenige
+                    Exemplare erhalten blieben, oder deren Konzepte, die zur Gänze verloren sind. Im
+                    Satzbuch wurde eine gekürzte Fassung der Urkunden mit den wesentlichen
+                    Rechtsinhalten eingetragen. Es handelt sich daher um ein Register, das
+                    Rechtskraft besaß und das Original im Streitfall ersetzen konnte. Die Schreiber
+                    trugen häufig mehrere Texte gleichzeitig ein und hielten sich dabei nicht immer
+                    an die chronologische Ordnung der Urkunden. In der Regel betrug der zeitliche
+                    Abstand zwischen Ausfertigung der Urkunde und Eintragung ins Satzbuch einige
+                    Tage, manchmal auch mehr, aber immer weniger als drei Monate.</p>
+                <p>Der Grundbuchsamt war auch der Ort, an dem die Finanztransaktionen abgewickelt
+                    wurden. Bei der Rückzahlung eines Kredits hinterlegte der Schuldner die
+                    geschuldete Summe „bei dem Grundbuch“. Nach Vorlage seiner Vertragsurkunde
+                    konnte der Gläubiger das Geld beim Grundbuchsamt in Empfang nehmen. Anschließend
+                    wurde die Krediturkunde kassiert und vernichtet. Dazu heißt es an einer Stelle
+                    im Satzbuch: <hi rend="italic">daz purkrecht ist abgelösst und zum gruntpuch
+                        erlegt und sol nicht ausgeben werden, es werde denn der alt purkrechtsbrief
+                        zum puch pracht und vernicht</hi> (f. 435v/2). Aus diesem Grund sind kaum
+                    originale Schuldverträge erhalten. Die Ablösung des Burgrechts im Satzbuch durch
+                    Streichung deutlich gemacht. In etwa 10% der Fälle wurde zudem unter dem Text
+                    eine Notiz eingefügt mit einem Hinweis auf die Ablösung durch den Schuldner oder
+                    die Ledigsagung durch den Gläubiger.</p>
+                <p>Die Eintragung ins Satzbuch war kostenpflichtig. Die Gebühr kann sowohl als
+                    Beurkundungsgebühr als auch als Vermögensübertragungsgebühr betrachtet werden.
+                    Ihre Höhe bemisst sich am Objektwert und betrug 2 Pfennige vom Pfund des
+                    verkauften oder verpfändeten Objekts, das sind 0,83 Prozent. Je zur Hälfte war
+                    sie von Käufer (Kreditgeber) und Verkäufer (Kreditnehmer) zu bezahlen. Im
+                    Gewerbuch wurde bei Vererbungen und Überschreibungen pro Person und Objekt
+                    pauschal 72 Pfennige berechnet. In manchen Fällen wurde die Gebühr erlassen, z.
+                    B. bei Minderjährigkeit oder Ausübung eines öffentlichen Amts. In den
+                    Kammeramtsrechnungen wurden die Einnahmen des Grundbuchamts aufgeführt. Die
+                    jährlichen Einnahmen schwankten zwischen 63 Pfund im Jahr 1464 und 264 Pfund im
+                    Jahr 1457 und hatten eine durchschnittliche Höhe von circa 120 Pfund. Zu den
+                    Ausgaben des Grundbuchamts gehörte eine Entschädigung für die Grundbuchherren
+                    von jährlich 5 Pfund sowie kleinere Aufwendungen für die Schreiber und das
+                        Kanzleimaterial.<note place="foot" xml:id="ftn6" n="6"><p
+                            rend="footnote text"> Zum den Umsätzen des Grundbuchamts vgl. Brunner,
+                            Finanzen 128-130.</p></note></p>
+                <p>Das Satzbuch war nach den Buchstaben des Alphabets von A bis W in 20 Abschnitte
+                    geteilt. 20 Abschnitte reichten aus, weil einige Buchstaben kombiniert wurden
+                    (I/J/Y sowie U/V) und andere fehlen (X und Z). Im Abstand von 5-6 cm vom Rand
+                    zeichnete der Schreiber eine rote Randlinie ein. Jeder Abschnitt erhielt eine
+                    Überschrift nach der Form: <hi rend="italic">A. Anno domini MCCCCXXXVIII</hi>.
+                    Der Schreiber hatte vorab den Bedarf für die einzelnen Buchstaben geschätzt und
+                    ihnen unterschiedlich viel freien Raum zugewiesen. Insgesamt war der Raum
+                    großzügig bemessen, so dass Leerseiten blieben. Dennoch waren auch zusätzliche
+                    Einlagen nötig, größere bei H, M und S; kleinere bei A, U/V und W. Gelegentlich
+                    wurde ein Text bei einem anderen Buchstaben mit entsprechendem Hinweis
+                    eingetragen: <hi rend="italic">Hanns … sub L</hi> (fol. 209v). Die Schreiber
+                    beachteten die rechte Randlinie nicht, sondern schrieben über sie hinaus. Der
+                    freie Raum am linken Rand wurde dagegen für Randnotizen benutzt.</p>
+                <p>Die einzelnen Einträge sind verschieden lang und umfassen von 5 bis zu 15 Zeilen.
+                    Sie beginnen immer mit dem Anfangsbuchstaben des Vornamens, der etwas größer
+                    geschrieben wurde. Zwischen den Einträgen befindet sich ein Abstand, der
+                    gelegentlich für nachträglich hinzugefügte Anmerkungen genutzt wurde, meist
+                    eingeleitet mit <hi rend="italic">nota</hi>. Unter jeder Eintragung ist zudem
+                    die Gebühr angegeben.</p>
+                <p>Die Grundbücher, an deren Entstehung mehrere Schreiber beteiligt waren, sind in
+                    deutscher Sprache abgefasst. Für Formularteile wie Datierung, Gebührenzeile,
+                    Kapitelüberschriften, Randnotizen und andere Formeln wurde Latein verwendet. Die
+                    mit <hi rend="italic">Actum</hi> eingeleitete Datierung erfolgte nach dem
+                    Heiligenkalender.</p>
+            </div>
+            <div>
+                <head>Burgrecht und Satzdarlehen</head>
+                <p>Im spätmittelalterlichen Wien existierten Formen einer grundbücherlich
+                    sichergestellte Belastung einer Liegenschaft (Haus, Grundstück) mit einem
+                    Kapital (Geldsumme): Das Burgrecht und das Satzdarlehen. Im hohen Mittelalter
+                    bezog sich der Begriff Burgrecht noch allgemein auf den Grundbesitz in der
+                    Stadt. Dieses Eigentum an Grund und Boden in der Stadt wurde im späten
+                    Mittelalter nicht mehr Burgrecht, sondern Grundrecht genannt. Der Terminus
+                    Burgrecht wandelte sich zur Bezeichnung für ein Geldgeschäft in Form eines
+                    Hypothekardarlehens. Ein Rentenkäufer (Gläubiger) lieh einem Rentenverkäufer
+                    (Schuldner) eine Geldsumme und erhielt dafür eine Rente. Als Sicherheit diente
+                    eine Immobilie des Schuldners. Die Zinsleistung sollte von „ewiger“ Dauer sein,
+                    weder Gläubiger noch Schuldner konnten sie ablösen. Der Zinssatz betrug im 14.
+                    und 15. Jahrhundert meist circa 12,5%. Rentenkäufer waren vor allem kirchliche
+                    Einrichtungen, die für Messstiftungen, Jahrtage und andere Leistungen auf
+                    regelmäßige Einkünfte angewiesen waren. In seiner ausführlichen Analyse der
+                    Wiener Darlehensgeschäfte hat Felix Czeike die Gläubiger und ihre liturgischen
+                    Aufgaben aufgelistet.<note place="foot" xml:id="ftn7" n="7"><p
+                            rend="footnote text"> Czeike, Darlehensgeschäfte 133-224.</p></note>
+                    Rentenverkäufer waren meist bürgerliche Hausbesitzer, die aus dem gesamten
+                    Stadtgebiet sowie den Vorstädten kamen. Über die Motive der Schuldner liefern
+                    die Burgrechte keine Informationen. Da es sich im Gegensatz zu Satzdarlehen um
+                    einen unbefristeten Kredit handelte, benutzten die Schuldner das Burgrecht
+                    vermutlich in vielen Fällen für Investitionen in ihre Häuser und ihr
+                    Gewerbe.</p>
+                <p>Die Ewigrente galt nicht als Zins und daher betrachtete die Kirche das Burgrecht
+                    nicht als unerlaubtes Zinsgeschäft (Wucher). Die Situation änderte sich, als das
+                    Burgrecht ablösbar wurde. Diese Entwicklung erfolgte in vielen Städten, in Wien
+                    im Jahr 1360. Rudolf IV. wollte damit erreichen, dass die dauerhafte
+                    Verschuldung einzelner Immobilien reduziert werden konnte. Für die Rückzahlung
+                    sah Rudolfs Verordnung eine einmalige Zahlung des achtfachen Jahreszinses vor.
+                    In den Jahrzehnten um 1400 stritten Theologen und Kanonisten darüber, ob das
+                    ablösbare Burgrecht noch den Vorgaben der Kirche entsprach. Schließlich griff
+                    Papst Martin V. in die Diskussion ein und erklärte das Burgrecht 1425 für
+                    zulässig und wucherfrei. Dies sicherte die regelmäßigen Einnahmen der Kirche,
+                    war jedoch eine umstrittene Ansicht. Denn Burgrechte waren im 15. Jahrhundert zu
+                    verzinsten Darlehen geworden, die durch die Rückzahlung der Hauptsumme abgelöst
+                    werden konnten. Zwischen Rente und Zins bestand kein Unterschied mehr.<note
+                        place="foot" xml:id="ftn8" n="8"><p rend="footnote text"> Zu
+                            mittelalterlichen Diskussionen um die Rente vgl. Trusen,
+                        Rentenkauf.</p></note></p>
+                <p>Das Burgrecht war an die Immobilie gebunden und erlosch daher auch nicht nach dem
+                    Tod des Rentenverkäufers oder dem Verkauf des belasteten Hauses. Es war eine
+                    Reallast, keine Personallast. Entsprechend senkte ein bestehendes Burgrecht den
+                    Wert einer Immobilie. Häuser waren gelegentlich mit mehreren Burgrechten
+                    gleichzeitig belastet, so dass ihr Verkaufswert stark reduziert wurde. Der
+                    Rentenkäufer erwarb – während er die ihm zustehenden Rentenzahlungen erhielt –
+                    kein Nutzungsrecht am eingesetzten Haus. Wenn die Rente jedoch nicht pünktlich
+                    gezahlt wurde, konnte der Gläubiger vor dem Stadtgericht klagen. Blieb der
+                    Schuldner die ausstehende Rente auch nach einer Frist von meist 14 Tagen
+                    schuldig, erfolgte die Verdopplung (<hi rend="italic">zwispild</hi>) der
+                    Forderung. Weitere Verdopplungen erfolgten nach Ablauf weiterer Fristen, bis der
+                    Schätzwert der Immobilie erreicht war. Nun konnte das Stadtgericht die Immobilie
+                    an den oder die Burgrechtsgläubiger übertragen und den Verkauf genehmigen.</p>
+                <p>In den Burgrechtsverleihungen wurde in der Regel die geliehene Gesamtsumme sowie
+                    die Rente, <hi rend="italic">dinst</hi> genannt, angeführt. Häufig hatten beide
+                    ein Verhältnis von 1:8 (12,5%), wie dies Rudolf IV. für den Rückkauf vorgesehen
+                    hatte. Im 15. Jahrhundert wurden vom Rentenkäufer häufig nur 10% verlangt.
+                    Gezahlt wurden die jährlichen Renten gewöhnlich an drei Terminen, zu St. Georg
+                    (24. April), St. Michael (29. September) und zu Weihnachten. Die Höhe der
+                    Burgrechte lag häufig zwischen 20 und 50 Pfund Wiener Pfennige, nur in
+                    Ausnahmefällen wurden 100 Pfund überschritten. Diesen geringen Summen
+                    entsprechend kamen die meisten Burgrechtsschuldner aus dem Kreise der
+                    Handwerker.</p>
+                <p>Das Urkundenformular einer Burgrechtsurkunde umfasste in der Regel folgende
+                    Teile: Burgrechtsverkäufer, Rente, Immobilie, bestehende Burkrechtsbelastung,
+                    Kreditsumme, Rentenkäufer, Hinweis auf die ausgestellte Urkunde, Datum, Gebühr
+                    der Eintragung. Ein Burgrechtverkauf des Albrecht Nopper vom 1. September 1452
+                    ist ein typisches Beispiel für das übliche Formular (Satzbuch CD fol. 11r):</p>
+                <p rend="Quote">[Burgrechtsverkäufer] Albrecht Nopper goltsmid hat verkaufft</p>
+                <p rend="Quote">[Rente] ii<hi rend="superscript">1/2</hi> tl. d. geltz
+                    purkrechts</p>
+                <p rend="Quote">[Immobilie] auf seinem halben hawss, ganczes gelegen am alten
+                    Rossmarkt zenagst dem Rawbergesslein am ainem tail,</p>
+                <p rend="Quote">[bestehende Burkrechtsbelastung] do man von demselben haws ganczen
+                    alle jar dint dem caplein der ewigen mess, die maister Albertin der pucharczt
+                    auf unser frawn altar dacz dacz Sand Stephan gestifft hat, sechs phunt und
+                    sechczig phennig ze purkrecht und nicht mer,</p>
+                <p rend="Quote">[Kreditsumme] umb zwainczig phunt phennig</p>
+                <p rend="Quote">[Rentenkäufer] dem ersamen hern Hannsen Lautterpach, kaplein Sand
+                    Jorgen cappelln im Tumbbrosthof und seinen nachkommen</p>
+                <p rend="Quote">[Hinweis auf Urkunde] und sind zu diennen und wider abzekauffen ut
+                    littera sonat.</p>
+                <p rend="Quote">[Datum] Actum an Freitag vor Sand Anthoni tag, anno domini etc.
+                        lii<hi rend="superscript">do</hi>.</p>
+                <p rend="Quote">[Gebühr] Summa xl d.</p>
+                <p>Die zweite in Wien übliche Darlehensform, bei der Immobilien als Sicherheit
+                    verwendet wurden, war das Satzdarlehen. Im Satzbuch CD dominiert der Satz mit
+                    74% gegenüber den Burgrechten mit 26%. Im Gegensatz zum Burgrecht war der Satz
+                    befristet: Entweder wurde ein fester Termin vereinbart – dies geschah bei 62%
+                    der Fälle – oder der Gläubiger konnte die Rückzahlung zu einem von ihm gewählten
+                    Zeitpunkt verlangen. Der Schuldner zahlte keine Rente, sondern Zinsen. Zinsen
+                    wurden jedoch in Urkunde (Satzbrief) und Grundbuch nur in etwa 5% der
+                    Eintragungen erwähnt. Möglicherweise versteckten sich die Zinsen in
+                    nicht-schriftlichen Zusatzvereinbarungen, etwa in einer tatsächlich ausgezahlten
+                    Darlehenssumme, die unter dem schriftlich angegebenen Betrag lag, oder in den
+                    hohen Verzugszinsen ab Fälligkeitsdatum. Der offizielle Zinssatz betrug
+                    durchschnittlich 8 bis 10%, mit Ausnahmen nach oben bis 12% und nach unten bis
+                    3% – letzteres bei Darlehen von der Stadt Wien oder anderen öffentlichen
+                    Körperschaften. Die Zahlungstermine entsprachen den Gepflogenheiten bei den
+                    Burgrechtsrenten mit den drei Termine 24. April, 29. September und 25. Dezember.
+                    Die Anzahl der ins Grundbuch eingetragenen Satzdarlehen betrug in den Jahren
+                    nach 1438 über 50 Darlehen im Jahr. Ab 1445 bewegte sich die Zahl der neuen
+                    Darlehen zwischen 35 und 45. Starke Währungsturbulenzen führten ab 1454 zu einer
+                    Verminderung der Sätze. In dieser Zeit nahm der Anteil der Darlehen, die in den
+                    wertbeständigen ungarischen Gulden abgewickelt wurden, stark zu.</p>
+                <p>Genutzt wurde das Finanzinstrument von Bürgern aus mittleren und höheren sozialen
+                    Schichten. Beinahe ein Drittel wurde als Kredite innerhalb der Verwandtschaft
+                    vergeben (32%). Felix Czeike erstellte eine Liste mit einer Auswahl von den
+                    „bedeutendsten und bekanntesten“ Gläubigern und Schuldnern.<note place="foot"
+                        xml:id="ftn9" n="9"><p rend="footnote text"> Czeike, Darlehensgeschäfte
+                            272-285.</p></note> Der Grund für die Kreditaufnahme wurde in den Texten
+                    nicht angeführt. Im Normalfall dürfte es sich um den Erwerb oder die
+                    Instandsetzung von Immobilien oder Investitionen in einen Handwerksbetrieb oder
+                    ein Gewerbe gehandelt haben. Wenn ein Haus vererbt wurde, konnten die übrigen
+                    Geschwister den ihnen zustehenden Anspruch am Haus als Satzdarlehen erhalten.
+                    Bei Heiraten wurde dieses Form der Kreditsicherung benutzt, um Heimsteuer und
+                    Morgengabe einzutragen. Neben dem Bürgertum benutzten allerdings auch kirchliche
+                    Einrichtungen das Satzdarlehen, um damit etwa Messestiftungen und dergleichen zu
+                    finanzieren und den Satz dabei stark dem Burgrecht anzunähern.</p>
+                <p>Bei einer Darlehenshöhe über 100 Pfund Wiener Pfennige wurde im 15. Jahrhundert
+                    vorrangig der Satz verwendet, während das Burgrecht häufiger für kleinere
+                    Beträge benutzt wurde. Satzbriefe konnten vererbt und auch verkauft werden. Die
+                    Formalitäten der Rückzahlung entsprachen dem Burgrecht: Die Kreditsumme wurde
+                    beim Grundbuchsamt hinterlegt und der Satzbrief vernichtet oder ein „Totbrief“
+                    ausgestellt. Bereits im Allgemeinen Bürgerlichen Gesetzbuch von 1811 wurde das
+                    Wort Satz durch Hypothek ersetzt und diese wurde seit dem Inkrafttreten des
+                    Grundbuchsgesetzes (1872) auf Blatt C der jeweiligen Einlagezahl vermerkt. Das
+                    Wort „versetzen“ (verpfänden) erinnert an den einstigen Satz.</p>
+                <p>Satzdarlehen haben im Satzbuch eine Länge von 10 bis 25 Zeilen und umfassen als
+                    Grundbestandteile den Satzverkäufer (Gläubiger), Immobilie, bestehende
+                    Belastung, Satzkäufer, Kreditsumme, Fälligkeit, Datum, Gebühr, Notiz. Ein
+                    Satzverkauf der Geschwister Anna und der Agnes vom 21. Februar 1463 ist ein
+                    typisches Beispiel für das Formular (Satzbuch CD fol. 17r):</p>
+                <p rend="Quote">[Gläubiger] Anna Jacoben des Tragkhen hausfrau und Agnes Hannsen
+                    Ingelstetter hausfrau baid Mathias des Alczer seligen töchter</p>
+                <p rend="Quote">[Versatzung] habend versaczt</p>
+                <p rend="Quote">[Immobilie] ir hawss genant underm Nuspawm gelegen in der
+                    Schulstrass am ekh, da man in das Kumpfgessl geet</p>
+                <p rend="Quote">[bestehende Belastung] da man jerlich dint dem brobst zu Sannd
+                    Steffan daselbs drew pfunt pfennig</p>
+                <p rend="Quote">[Satzkäufer] irer mueml junckhfrawen Veronica Wolfgangen Salczer,
+                    irs pruder seligen tochter und irn erben</p>
+                <p rend="Quote">[Kreditsumme] umb newnczigk pfunt Wienner Pfennig</p>
+                <p rend="Quote">[Fälligkeit] und sind zu beczalen wan die obgenant junckfrau
+                    Veronica vogtper wirdet an vercziehen.</p>
+                <p rend="Quote">[Datum] Actum an Montag vor Petri ad Kathedram, anno etc. lxiii.</p>
+                <p rend="Quote">[Gebühr] Summa iii s d.</p>
+                <p rend="Quote">[Notiz] No: Die geltschuld ist dem Lewbenpekhen und junkhfrawen
+                    Agnesen Hannsen Inglstetter tochter gesprochen nach laut der zuspruch im
+                    statpuch hie geschriben und haben den sacz ledig gesaczt.</p>
+            </div>
+            <div>
+                <head>Editionsrichtlinien</head>
+                <p>Die Groß- und Kleinschreibung wurde so vereinheitlicht, dass mit Ausnahme von
+                    Satzanfängen und Namen sowie von adjektivisch gebrauchten geographischen
+                    Bezeichnungen (z.B. <hi rend="italic">Römisch</hi>, <hi rend="italic"
+                        >Hungrisch</hi>) alles klein geschrieben wird. Dabei ist der Umgang mit
+                    Tagesbezeichnungen und Festtagen im Deutschen und Lateinischen differenziert zu
+                    sehen. Während Wochentage auf Deutsch ebenso wie Monatsnamen und Feiertage in
+                    beiden Sprachen grundsätzlich groß wiedergegeben werden (z.B. <hi rend="italic"
+                        >Mittichen</hi>, <hi rend="italic">Letare</hi>), werden Jahreszeiten und
+                    funktionelle Angaben, wie „<hi rend="italic">im snit</hi>“, „<hi rend="italic"
+                        >in der vasten</hi>“, „<hi rend="italic">vor</hi>“, „<hi rend="italic"
+                        >innerhalb</hi>“, „<hi rend="italic">bei</hi>“, „<hi rend="italic"
+                    >sand</hi>“, „<hi rend="italic">sant</hi>“ klein wiedergegeben. Bei lateinischen
+                    Tagesbezeichnungen wird nach dem Schema <hi rend="italic">feria prima</hi>, <hi
+                        rend="italic">secunda</hi> etc. kleingeschrieben aber z.B. bei „dies <hi
+                        rend="italic">Lunae</hi>“ der Götternamen groß. Bei topographischen
+                    Bezeichnungen wie Straßennamen werden bestimmte adjektivische Teile als fixer
+                    Bestandteil des Namens gesehen und demzufolge großgeschrieben (z.B. <hi
+                        rend="italic">Lange Tuchlaube</hi>, <hi rend="italic">Vodere
+                        Peckhenstrasse</hi>). Bei der Verbindung von Personennamen mit
+                    Berufsbezeichnungen ist die Stellung der Berufsbezeichnung zum Vornamen von
+                    ausschlaggebender Bedeutung (z.B. <hi rend="italic">Heinrich der
+                        Zinngiesser</hi>, aber: <hi rend="italic">Heinrich Rauscher der
+                        zinngiesser</hi>).</p>
+                <p>Die Buchstaben u und v und i und j werden sowohl im deutschen Text als auch in
+                    den fallweise vorkommenden lateinischen Passagen und einzelnen Wörtern nach dem
+                    Lautwert wiedergegeben.</p>
+                <p>Diakritische Zeichen werden durch einen Akzent über dem nächstgelegenden Vokal
+                    wiedergegeben.</p>
+                <p>Abkürzungen werden in der Regel stillschweigend, bei mehreren Möglichkeiten unter
+                    Umständen in runder Klammer aufgelöst.</p>
+                <p>Zahlen sind grundsätzlich nach der Vorlage wiedergegeben, d.h. entweder als
+                    römische Zahlzeichen oder arabische Ziffern. Nur Tagesbezeichnungen wie z.B. <hi
+                        rend="italic">feria 4ta</hi> werden als <hi rend="italic">feria quarta</hi>
+                    (bzw. <hi rend="italic">secunda, tercia</hi> etc.) aufgelöst.</p>
+                <p>Im Text unterschiedlich abgekürzte Währungsangaben werden vereinheitlicht in
+                    folgender Weise wiedergegeben:</p>
+                <list type="unordered">
+                    <item>Pfund (<hi rend="italic">talentum</hi>) = tl.</item>
+                    <item>Schilling (<hi rend="italic">solidus</hi>) = s.</item>
+                    <item>Pfennig (<hi rend="italic">denarius</hi>) = d.</item>
+                </list>
+                <p>Tilgungen und Streichnungen erscheinen als durchgestrichener Text: <hi
+                        rend="strikethrough">bsp</hi>.</p>
+                <p>Bei der Wiedergabe der Nachträge wurde die folgende Reihenfolge beachtet: Nach
+                    dem Haupteintrag folgt die „Summa“, darauf die meist in der Nähe stehenden
+                    Anmerkungen zur <hi rend="italic">cedula</hi>. Danach schließlich werden die
+                    Nachträge (<hi rend="italic">Note</hi>) gemäß ihrer Position von links nach
+                    rechts und von oben nach unten angeführt.</p>
+            </div>
+            <div>
+                <head>Literatur</head>
+                <list type="unordered">
+                    <item>Brunner, Otto, <hi rend="Book_Title">Die Finanzen der Stadt Wien von den
+                            Anfängen bis ins 16. Jahrhundert</hi> (Studien aus dem Archiv der Stadt
+                        Wien 1/2), Wien 1929.</item>
+                    <item>Csendes, Peter, <hi rend="Book_Title">Rechtsquellen der Stadt Wien</hi>
+                        (Fontes Rerum Austriacarum 3/9), Wien 1986.</item>
+                    <item>Czeike, Felix, <hi rend="Book_Title">Das Burgrecht in Wien im 15.
+                            Jahrhundert</hi>, in: Jahrbuch des Vereins für Geschichte der Stadt Wien
+                        10 (1952/53) 115-137.</item>
+                    <item>Czeike, Felix, <hi rend="Book_Title">Die Darlehensgeschäfte im Bereich der
+                            Stadt Wien und ihre Quellen im 15. Jahrhundert (1438-1473)</hi>, Diss.
+                        Wien 1949.</item>
+                    <item>Demelius, Heinrich, <hi rend="Book_Title">Ehegüterrecht der Münzerstraße
+                            im 15. Jahrhundert</hi>. In: Jahrbuch des Vereins für Geschichte der
+                        Stadt Wien 26 (1970) 46-75.</item>
+                    <item><hi rend="Book_Title">Grundbücher der Stadt Wien</hi> (Quellen zur
+                        Geschichte der Stadt Wien 3), Vol. 1: <hi rend="Book_Title">Die ältesten
+                            Kaufbücher (1368-1388)</hi>, Wien 1898; Vol. 2: <hi rend="Book_Title"
+                            >Gewerbuch B (1373-1419)</hi>, <hi rend="Book_Title">Verbotbuch
+                            (1373-1399)</hi>, Wien 1911; Vol. 3: <hi rend="Book_Title">Das Satzbuch
+                            A1 (1373-1388)</hi>, Franz Staub, Wien 1921.</item>
+                    <item>Ertl, Thomas/Haffner, Thomas, <hi rend="Book_Title">The Property Market of
+                            Late Medieval Vienna</hi>, in: Vienna in the Middle Ages, ed. Elisabeth
+                        Gruber et al. (Companion to the Middle Ages), Brill (im Druck).</item>
+                    <item>Lohrmann, Klaus, <hi rend="Book_Title">Grundbücher</hi> (Inventarhefte:
+                        Wiener Stadt- und Landesarchiv A/1/2), Wien 1986.</item>
+                    <item>Stradal, Helmuth, <hi rend="Book_Title">Leihe zu Burgrecht und Wiener
+                            Rechtspraxis im 14. Jahrhundert</hi>, in: Gerhard Frotz und Werner Ogris
+                        (Hg.), Erlebtes Recht in Geschichte und Gegenwart. Festschrift Heinrich
+                        Demelius zum 80. Geburtstag, Wien 1973, 237-256.</item>
+                    <item>Trusen, Winfried, <hi rend="Book_Title">Zum Rentenkauf im
+                            Spätmittelalter</hi>, in: Festschrift für Hermann Heimpel zum 70.
+                        Geburtstag, hg. von Mitarbeitern des Max-Planck-Instituts für Geschichte,
+                        Göttingen 1971, Bd. 2, 142-158.</item>
+                </list>
+            </div>
+        </body>
+    </text>
 </TEI>
