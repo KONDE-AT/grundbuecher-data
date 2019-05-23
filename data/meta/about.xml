@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -78,16 +77,23 @@
                         durchgeführt. <ref target="http://d-nb.info/gnd/143111221">Patrick
                             Fiska</ref>, Richard Weinbergmair und Korbinian Gründwald besorgten die
                         Texterstellung und <ref target="http://d-nb.info/gnd/1043833846">Peter
-                            Andorfer</ref> (<ref target="http://d-nb.info/gnd/1123037736"
-                        >ACDH</ref>) betreute und gestaltete die online-Edition. Die Umsetzung des
-                        Projekts erfolgte in Kooperation mit dem <ref
-                            target="http://d-nb.info/gnd/5188474-4">Institut für Wirtschafts- und
+                            Andorfer</ref> (<ref target="http://d-nb.info/gnd/1123037736">ACDH</ref>) betreute und gestaltete die online-Edition. Die Umsetzung des
+                        Projekts erfolgte in Kooperation mit dem <ref target="http://d-nb.info/gnd/5188474-4">Institut für Wirtschafts- und
                             Sozialgeschichte der Universität Wien</ref>, dem Austrian Centre for
                         Digital Humanities (ACDH) der Österreichischen Akademie der Wissenschaften
                         sowie dem Friedrich-Meinecke-Institut der Freien Universität Berlin.
-                        Ermöglicht wurde die Edition durch finanzielle Unterstützung der <ref
-                            target="http://d-nb.info/gnd/1090525168">Kulturabteilung der Stadt Wien
-                            (MA7)</ref>.</p>
+                        Ermöglicht wurde die Edition durch finanzielle Unterstützung der <ref target="http://d-nb.info/gnd/1090525168">Kulturabteilung der Stadt Wien
+                            (MA7)</ref>. Die technische Umsetzung erfolgte im Rahmen des <ref target="http://www.digitale-edition.at/">KONDE Projektes</ref>. </p>
+                    <p>Der Code der vorliegenden Webapplikation kann auf <ref target="https://github.com/">GitHub</ref> eingesehen werden, ebenso wie die XML/TEI Daten der Grundbuchedition.
+                    <list>
+                        <item>
+                            <ref target="https://github.com/KONDE-AT/grundbuecher">https://github.com/KONDE-AT/grundbuecher</ref>
+                        </item>
+                        <item>
+                            <ref target="https://github.com/KONDE-AT/grundbuecher-data">https://github.com/KONDE-AT/grundbuecher-data</ref>
+                        </item>
+                    </list>
+                    </p>
                 </div>
             </div>
             <div>
@@ -107,8 +113,7 @@
                 <p>Der Chronist und spätere Papst Aeneas Silvius Piccolomini berichtete über das
                     Wiener Kreditwesen dieser Zeit: „Leute, welche befristete Darlehen geben,
                     nennen, wenn sie durch Nichteinhaltung des Termins benachteiligt sind, unter Eid
-                    eine beliebige Summe und schädigen dadurch den Schuldner außerordentlich.“<note
-                        place="foot" xml:id="ftn2" n="2"><p rend="footnote text"> XXX S.
+                    eine beliebige Summe und schädigen dadurch den Schuldner außerordentlich.“<note place="foot" xml:id="ftn2" n="2"><p rend="footnote text"> XXX S.
                         7.</p></note> Gewöhnlich war Aeneas gut informiert, hier irrt er aber
                     gewaltig: Die Wiener Darlehensgeschäfte beruhten keineswegs auf willkürlichen
                     Entscheidungen der Gläubiger, sondern waren urkundlich fixiert und wurden
@@ -118,8 +123,7 @@
                 <p>Das Satzbuch CD ist nicht das älteste Buch seiner Art. Herzog Rudolf IV. hatte
                     1360 angeordnet, dass „alle Immobilien betreffenden Rechtsgeschäfte in Zukunft
                     vor dem Rat der Stadt Wien geschehen und von diesem und nicht von den
-                    Grundherren gefertigt werden sollten.“<note place="foot" xml:id="ftn3" n="3"><p
-                            rend="footnote text"> Zum Wiener Immobilienmarkt vgl. Ertl/Haffner,
+                    Grundherren gefertigt werden sollten.“<note place="foot" xml:id="ftn3" n="3"><p rend="footnote text"> Zum Wiener Immobilienmarkt vgl. Ertl/Haffner,
                             Property Market.</p></note> Ab diesem Zeitpunkt war der Stadtrat die
                     höchste grundherrliche Instanz in der Stadt und führte ein eigenes städtisches
                     Grundsiegel. Zur Dokumentation der Grundstücksübertragungen sowie der
@@ -142,8 +146,7 @@
                     Jahr 1438 wurden zwei neue Grundbücher angelegt: das Gewerbuch D und das
                     Satzbuch CD. Diese beiden Bücher umfassten 35 Jahre von 1438 bis 1473.</p>
                 <p>Zwei von der Stadt ernannte Grundbuchsherren standen dem städtische Grundbuchsamt
-                    vor, von denen einer zeitgleich auch Mitglied des Stadtrates war.<note
-                        place="foot" xml:id="ftn5" n="5"><p rend="footnote text"> Zum Grundbuchsamt
+                    vor, von denen einer zeitgleich auch Mitglied des Stadtrates war.<note place="foot" xml:id="ftn5" n="5"><p rend="footnote text"> Zum Grundbuchsamt
                             vgl. Otto Brunner, Die Finanzen der Stadt Wien 197.</p></note> Das Amt
                     wurde für ein Jahr vergeben, allerdings übten manche Grundbuchsherren das Amt
                     immer wieder und auch mehrere Jahre ununterbrochen aus. Die Nennung der
@@ -186,8 +189,7 @@
                     Jahr 1457 und hatten eine durchschnittliche Höhe von circa 120 Pfund. Zu den
                     Ausgaben des Grundbuchamts gehörte eine Entschädigung für die Grundbuchherren
                     von jährlich 5 Pfund sowie kleinere Aufwendungen für die Schreiber und das
-                        Kanzleimaterial.<note place="foot" xml:id="ftn6" n="6"><p
-                            rend="footnote text"> Zum den Umsätzen des Grundbuchamts vgl. Brunner,
+                        Kanzleimaterial.<note place="foot" xml:id="ftn6" n="6"><p rend="footnote text"> Zum den Umsätzen des Grundbuchamts vgl. Brunner,
                             Finanzen 128-130.</p></note></p>
                 <p>Das Satzbuch war nach den Buchstaben des Alphabets von A bis W in 20 Abschnitte
                     geteilt. 20 Abschnitte reichten aus, weil einige Buchstaben kombiniert wurden
@@ -231,8 +233,7 @@
                     Einrichtungen, die für Messstiftungen, Jahrtage und andere Leistungen auf
                     regelmäßige Einkünfte angewiesen waren. In seiner ausführlichen Analyse der
                     Wiener Darlehensgeschäfte hat Felix Czeike die Gläubiger und ihre liturgischen
-                    Aufgaben aufgelistet.<note place="foot" xml:id="ftn7" n="7"><p
-                            rend="footnote text"> Czeike, Darlehensgeschäfte 133-224.</p></note>
+                    Aufgaben aufgelistet.<note place="foot" xml:id="ftn7" n="7"><p rend="footnote text"> Czeike, Darlehensgeschäfte 133-224.</p></note>
                     Rentenverkäufer waren meist bürgerliche Hausbesitzer, die aus dem gesamten
                     Stadtgebiet sowie den Vorstädten kamen. Über die Motive der Schuldner liefern
                     die Burgrechte keine Informationen. Da es sich im Gegensatz zu Satzdarlehen um
@@ -251,8 +252,7 @@
                     zulässig und wucherfrei. Dies sicherte die regelmäßigen Einnahmen der Kirche,
                     war jedoch eine umstrittene Ansicht. Denn Burgrechte waren im 15. Jahrhundert zu
                     verzinsten Darlehen geworden, die durch die Rückzahlung der Hauptsumme abgelöst
-                    werden konnten. Zwischen Rente und Zins bestand kein Unterschied mehr.<note
-                        place="foot" xml:id="ftn8" n="8"><p rend="footnote text"> Zu
+                    werden konnten. Zwischen Rente und Zins bestand kein Unterschied mehr.<note place="foot" xml:id="ftn8" n="8"><p rend="footnote text"> Zu
                             mittelalterlichen Diskussionen um die Rente vgl. Trusen,
                         Rentenkauf.</p></note></p>
                 <p>Das Burgrecht war an die Immobilie gebunden und erlosch daher auch nicht nach dem
@@ -323,8 +323,7 @@
                 <p>Genutzt wurde das Finanzinstrument von Bürgern aus mittleren und höheren sozialen
                     Schichten. Beinahe ein Drittel wurde als Kredite innerhalb der Verwandtschaft
                     vergeben (32%). Felix Czeike erstellte eine Liste mit einer Auswahl von den
-                    „bedeutendsten und bekanntesten“ Gläubigern und Schuldnern.<note place="foot"
-                        xml:id="ftn9" n="9"><p rend="footnote text"> Czeike, Darlehensgeschäfte
+                    „bedeutendsten und bekanntesten“ Gläubigern und Schuldnern.<note place="foot" xml:id="ftn9" n="9"><p rend="footnote text"> Czeike, Darlehensgeschäfte
                             272-285.</p></note> Der Grund für die Kreditaufnahme wurde in den Texten
                     nicht angeführt. Im Normalfall dürfte es sich um den Erwerb oder die
                     Instandsetzung von Immobilien oder Investitionen in einen Handwerksbetrieb oder
@@ -370,22 +369,14 @@
                 <head>Editionsrichtlinien</head>
                 <p>Die Groß- und Kleinschreibung wurde so vereinheitlicht, dass mit Ausnahme von
                     Satzanfängen und Namen sowie von adjektivisch gebrauchten geographischen
-                    Bezeichnungen (z.B. <hi rend="italic">Römisch</hi>, <hi rend="italic"
-                        >Hungrisch</hi>) alles klein geschrieben wird. Dabei ist der Umgang mit
+                    Bezeichnungen (z.B. <hi rend="italic">Römisch</hi>, <hi rend="italic">Hungrisch</hi>) alles klein geschrieben wird. Dabei ist der Umgang mit
                     Tagesbezeichnungen und Festtagen im Deutschen und Lateinischen differenziert zu
                     sehen. Während Wochentage auf Deutsch ebenso wie Monatsnamen und Feiertage in
-                    beiden Sprachen grundsätzlich groß wiedergegeben werden (z.B. <hi rend="italic"
-                        >Mittichen</hi>, <hi rend="italic">Letare</hi>), werden Jahreszeiten und
-                    funktionelle Angaben, wie „<hi rend="italic">im snit</hi>“, „<hi rend="italic"
-                        >in der vasten</hi>“, „<hi rend="italic">vor</hi>“, „<hi rend="italic"
-                        >innerhalb</hi>“, „<hi rend="italic">bei</hi>“, „<hi rend="italic"
-                    >sand</hi>“, „<hi rend="italic">sant</hi>“ klein wiedergegeben. Bei lateinischen
-                    Tagesbezeichnungen wird nach dem Schema <hi rend="italic">feria prima</hi>, <hi
-                        rend="italic">secunda</hi> etc. kleingeschrieben aber z.B. bei „dies <hi
-                        rend="italic">Lunae</hi>“ der Götternamen groß. Bei topographischen
+                    beiden Sprachen grundsätzlich groß wiedergegeben werden (z.B. <hi rend="italic">Mittichen</hi>, <hi rend="italic">Letare</hi>), werden Jahreszeiten und
+                    funktionelle Angaben, wie „<hi rend="italic">im snit</hi>“, „<hi rend="italic">in der vasten</hi>“, „<hi rend="italic">vor</hi>“, „<hi rend="italic">innerhalb</hi>“, „<hi rend="italic">bei</hi>“, „<hi rend="italic">sand</hi>“, „<hi rend="italic">sant</hi>“ klein wiedergegeben. Bei lateinischen
+                    Tagesbezeichnungen wird nach dem Schema <hi rend="italic">feria prima</hi>, <hi rend="italic">secunda</hi> etc. kleingeschrieben aber z.B. bei „dies <hi rend="italic">Lunae</hi>“ der Götternamen groß. Bei topographischen
                     Bezeichnungen wie Straßennamen werden bestimmte adjektivische Teile als fixer
-                    Bestandteil des Namens gesehen und demzufolge großgeschrieben (z.B. <hi
-                        rend="italic">Lange Tuchlaube</hi>, <hi rend="italic">Vodere
+                    Bestandteil des Namens gesehen und demzufolge großgeschrieben (z.B. <hi rend="italic">Lange Tuchlaube</hi>, <hi rend="italic">Vodere
                         Peckhenstrasse</hi>). Bei der Verbindung von Personennamen mit
                     Berufsbezeichnungen ist die Stellung der Berufsbezeichnung zum Vornamen von
                     ausschlaggebender Bedeutung (z.B. <hi rend="italic">Heinrich der
@@ -399,8 +390,7 @@
                 <p>Abkürzungen werden in der Regel stillschweigend, bei mehreren Möglichkeiten unter
                     Umständen in runder Klammer aufgelöst.</p>
                 <p>Zahlen sind grundsätzlich nach der Vorlage wiedergegeben, d.h. entweder als
-                    römische Zahlzeichen oder arabische Ziffern. Nur Tagesbezeichnungen wie z.B. <hi
-                        rend="italic">feria 4ta</hi> werden als <hi rend="italic">feria quarta</hi>
+                    römische Zahlzeichen oder arabische Ziffern. Nur Tagesbezeichnungen wie z.B. <hi rend="italic">feria 4ta</hi> werden als <hi rend="italic">feria quarta</hi>
                     (bzw. <hi rend="italic">secunda, tercia</hi> etc.) aufgelöst.</p>
                 <p>Im Text unterschiedlich abgekürzte Währungsangaben werden vereinheitlicht in
                     folgender Weise wiedergegeben:</p>
@@ -409,8 +399,7 @@
                     <item>Schilling (<hi rend="italic">solidus</hi>) = s.</item>
                     <item>Pfennig (<hi rend="italic">denarius</hi>) = d.</item>
                 </list>
-                <p>Tilgungen und Streichnungen erscheinen als durchgestrichener Text: <hi
-                        rend="strikethrough">bsp</hi>.</p>
+                <p>Tilgungen und Streichnungen erscheinen als durchgestrichener Text: <hi rend="strikethrough">bsp</hi>.</p>
                 <p>Bei der Wiedergabe der Nachträge wurde die folgende Reihenfolge beachtet: Nach
                     dem Haupteintrag folgt die „Summa“, darauf die meist in der Nähe stehenden
                     Anmerkungen zur <hi rend="italic">cedula</hi>. Danach schließlich werden die
@@ -436,8 +425,7 @@
                         Stadt Wien 26 (1970) 46-75.</item>
                     <item><hi rend="Book_Title">Grundbücher der Stadt Wien</hi> (Quellen zur
                         Geschichte der Stadt Wien 3), Vol. 1: <hi rend="Book_Title">Die ältesten
-                            Kaufbücher (1368-1388)</hi>, Wien 1898; Vol. 2: <hi rend="Book_Title"
-                            >Gewerbuch B (1373-1419)</hi>, <hi rend="Book_Title">Verbotbuch
+                            Kaufbücher (1368-1388)</hi>, Wien 1898; Vol. 2: <hi rend="Book_Title">Gewerbuch B (1373-1419)</hi>, <hi rend="Book_Title">Verbotbuch
                             (1373-1399)</hi>, Wien 1911; Vol. 3: <hi rend="Book_Title">Das Satzbuch
                             A1 (1373-1388)</hi>, Franz Staub, Wien 1921.</item>
                     <item>Ertl, Thomas/Haffner, Thomas, <hi rend="Book_Title">The Property Market of
