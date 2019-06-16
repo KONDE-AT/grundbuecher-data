@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -7,7 +8,9 @@
                 <author>Thomas Ertl</author>
             </titleStmt>
             <editionStmt>
-                <edition><date>2019-05-20</date></edition>
+                <edition>
+                    <date>2019-05-20</date>
+                </edition>
             </editionStmt>
             <publicationStmt>
                 <p>unknown</p>
@@ -25,7 +28,10 @@
         </encodingDesc>
         <revisionDesc>
             <listChange>
-                <change><date>2019-05-20T07:10:11Z</date><name>Andorfer, Peter</name></change>
+                <change>
+                    <date>2019-05-20T07:10:11Z</date>
+                    <name>Andorfer, Peter</name>
+                </change>
             </listChange>
         </revisionDesc>
     </teiHeader>
@@ -53,8 +59,10 @@
                     Gesamttext veröffentlicht und gemeinsam mit digitalisierten Bildern der
                     Handschrift der Forschung zur Verfügung gestellt. Die Darlehensgeschäfte im
                     Bereich der Stadt Wien im 15. Jahrhundert wurden von Felix Czeike
-                        beschrieben.<note place="foot" xml:id="ftn1" n="1"><p rend="footnote text">
-                            Czeike, Darlehensgeschäfte.</p></note> Diese Studie erleichterte die
+                        beschrieben.<note place="foot" xml:id="ftn1" n="1">
+                        <p rend="footnote text">
+                            Czeike, Darlehensgeschäfte.</p>
+                    </note> Diese Studie erleichterte die
                     Texterstellung und bleibt als Einführung in das Thema unersetzt. Sie ist der
                     Forschung als unveröffentlichte Dissertation allerdings nur schwer zugänglich.
                     Das Ziel des vorliegenden Projekts geht über das Darlehensgeschäft hinaus und
@@ -77,7 +85,7 @@
                         durchgeführt. <ref target="http://d-nb.info/gnd/143111221">Patrick
                             Fiska</ref>, Richard Weinbergmair und Korbinian Gründwald besorgten die
                         Texterstellung, wobei sie von Herwig Weigl mit Rat und Hilfe in editorischen
-                        Frage unterstützt wurden. <ref target="http://d-nb.info/gnd/1043833846">Peter
+                        Fragen unterstützt wurden. <ref target="http://d-nb.info/gnd/1043833846">Peter
                             Andorfer</ref> (<ref target="http://d-nb.info/gnd/1123037736">ACDH</ref>) betreute und gestaltete die online-Edition. Die Umsetzung des
                         Projekts erfolgte in Kooperation mit dem <ref target="http://d-nb.info/gnd/5188474-4">Institut für Wirtschafts- und
                             Sozialgeschichte der Universität Wien</ref>, dem Austrian Centre for
@@ -114,8 +122,10 @@
                 <p>Der Chronist und spätere Papst Aeneas Silvius Piccolomini berichtete über das
                     Wiener Kreditwesen dieser Zeit: „Leute, welche befristete Darlehen geben,
                     nennen, wenn sie durch Nichteinhaltung des Termins benachteiligt sind, unter Eid
-                    eine beliebige Summe und schädigen dadurch den Schuldner außerordentlich.“<note place="foot" xml:id="ftn2" n="2"><p rend="footnote text"> XXX S.
-                        7.</p></note> Gewöhnlich war Aeneas gut informiert, hier irrt er aber
+                    eine beliebige Summe und schädigen dadurch den Schuldner außerordentlich.“<note place="foot" xml:id="ftn2" n="2">
+                        <p rend="footnote text"> XXX S.
+                        7.</p>
+                    </note> Gewöhnlich war Aeneas gut informiert, hier irrt er aber
                     gewaltig: Die Wiener Darlehensgeschäfte beruhten keineswegs auf willkürlichen
                     Entscheidungen der Gläubiger, sondern waren urkundlich fixiert und wurden
                     zusätzlich in den städtischen Grundbüchern festgehalten. Wer sich nicht an die
@@ -124,8 +134,10 @@
                 <p>Das Satzbuch CD ist nicht das älteste Buch seiner Art. Herzog Rudolf IV. hatte
                     1360 angeordnet, dass „alle Immobilien betreffenden Rechtsgeschäfte in Zukunft
                     vor dem Rat der Stadt Wien geschehen und von diesem und nicht von den
-                    Grundherren gefertigt werden sollten.“<note place="foot" xml:id="ftn3" n="3"><p rend="footnote text"> Zum Wiener Immobilienmarkt vgl. Ertl/Haffner,
-                            Property Market.</p></note> Ab diesem Zeitpunkt war der Stadtrat die
+                    Grundherren gefertigt werden sollten.“<note place="foot" xml:id="ftn3" n="3">
+                        <p rend="footnote text"> Zum Wiener Immobilienmarkt vgl. Ertl/Haffner,
+                            Property Market.</p>
+                    </note> Ab diesem Zeitpunkt war der Stadtrat die
                     höchste grundherrliche Instanz in der Stadt und führte ein eigenes städtisches
                     Grundsiegel. Zur Dokumentation der Grundstücksübertragungen sowie der
                     Darlehensgeschäfte wurden Grundbücher angelegt, die das eigentliche Stadtgebiet
@@ -134,8 +146,11 @@
                     (1368-1388), das Gewährbuch B (1373-1419), das Verbotbuch (1373-1399) sowie das
                     älteste Satzbuch A1 (1373-1388). Diese ältesten Grundbücher der Stadt Wien
                     wurden in den Quellen zur Geschichte der Stadt Wien in Form von Regesten
-                        ediert.<note place="foot" xml:id="ftn4" n="4"><p rend="footnote text"> Zitat
-                            einfügen.</p></note></p>
+                        ediert.<note place="foot" xml:id="ftn4" n="4">
+                        <p rend="footnote text"> Zitat
+                            einfügen.</p>
+                    </note>
+                </p>
                 <p>Ab 1420 führte das Grundbuchsamt nur noch zwei Bücher, ein Gewerbuch sowie ein
                     Satzbuch: Das Gewerbuch B (1420-1437) enthielt alle Immobilientransaktionen wie
                     Kauf, Vererbung, Schenkung und Überschreibung. Im Satzbuch B (1420-1437) wurden
@@ -147,13 +162,16 @@
                     Jahr 1438 wurden zwei neue Grundbücher angelegt: das Gewerbuch D und das
                     Satzbuch CD. Diese beiden Bücher umfassten 35 Jahre von 1438 bis 1473.</p>
                 <p>Zwei von der Stadt ernannte Grundbuchsherren standen dem städtische Grundbuchsamt
-                    vor, von denen einer zeitgleich auch Mitglied des Stadtrates war.<note place="foot" xml:id="ftn5" n="5"><p rend="footnote text"> Zum Grundbuchsamt
-                            vgl. Otto Brunner, Die Finanzen der Stadt Wien 197.</p></note> Das Amt
+                    vor, von denen einer zeitgleich auch Mitglied des Stadtrates war.<note place="foot" xml:id="ftn5" n="5">
+                        <p rend="footnote text"> Zum Grundbuchsamt
+                            vgl. Otto Brunner, Die Finanzen der Stadt Wien 197.</p>
+                    </note> Das Amt
                     wurde für ein Jahr vergeben, allerdings übten manche Grundbuchsherren das Amt
                     immer wieder und auch mehrere Jahre ununterbrochen aus. Die Nennung der
                     Grundbuchsherren im Satzbuch hatten meist eine ähnliche Form. 1451 lautete die
                     Rubrik: <hi rend="italic">Tempore dominorum Arnolt Galander consulis et Hansen
-                        von Eslorn, anno etc. li</hi><hi rend="italic superscript">o</hi>. Die
+                        von Eslorn, anno etc. li</hi>
+                    <hi rend="italic superscript">o</hi>. Die
                     täglichen Geschäfte des Grundbuchamtes erledigten Schreiber der städtischen
                     Kanzlei und manchmal auch Schreiber, die nicht der Kanzlei angehörten. Grundlage
                     ihrer Eintragungen waren die ausgestellten Urkunden, von denen nur wenige
@@ -190,8 +208,11 @@
                     Jahr 1457 und hatten eine durchschnittliche Höhe von circa 120 Pfund. Zu den
                     Ausgaben des Grundbuchamts gehörte eine Entschädigung für die Grundbuchherren
                     von jährlich 5 Pfund sowie kleinere Aufwendungen für die Schreiber und das
-                        Kanzleimaterial.<note place="foot" xml:id="ftn6" n="6"><p rend="footnote text"> Zum den Umsätzen des Grundbuchamts vgl. Brunner,
-                            Finanzen 128-130.</p></note></p>
+                        Kanzleimaterial.<note place="foot" xml:id="ftn6" n="6">
+                        <p rend="footnote text"> Zum den Umsätzen des Grundbuchamts vgl. Brunner,
+                            Finanzen 128-130.</p>
+                    </note>
+                </p>
                 <p>Das Satzbuch war nach den Buchstaben des Alphabets von A bis W in 20 Abschnitte
                     geteilt. 20 Abschnitte reichten aus, weil einige Buchstaben kombiniert wurden
                     (I/J/Y sowie U/V) und andere fehlen (X und Z). Im Abstand von 5-6 cm vom Rand
@@ -234,7 +255,9 @@
                     Einrichtungen, die für Messstiftungen, Jahrtage und andere Leistungen auf
                     regelmäßige Einkünfte angewiesen waren. In seiner ausführlichen Analyse der
                     Wiener Darlehensgeschäfte hat Felix Czeike die Gläubiger und ihre liturgischen
-                    Aufgaben aufgelistet.<note place="foot" xml:id="ftn7" n="7"><p rend="footnote text"> Czeike, Darlehensgeschäfte 133-224.</p></note>
+                    Aufgaben aufgelistet.<note place="foot" xml:id="ftn7" n="7">
+                        <p rend="footnote text"> Czeike, Darlehensgeschäfte 133-224.</p>
+                    </note>
                     Rentenverkäufer waren meist bürgerliche Hausbesitzer, die aus dem gesamten
                     Stadtgebiet sowie den Vorstädten kamen. Über die Motive der Schuldner liefern
                     die Burgrechte keine Informationen. Da es sich im Gegensatz zu Satzdarlehen um
@@ -253,9 +276,12 @@
                     zulässig und wucherfrei. Dies sicherte die regelmäßigen Einnahmen der Kirche,
                     war jedoch eine umstrittene Ansicht. Denn Burgrechte waren im 15. Jahrhundert zu
                     verzinsten Darlehen geworden, die durch die Rückzahlung der Hauptsumme abgelöst
-                    werden konnten. Zwischen Rente und Zins bestand kein Unterschied mehr.<note place="foot" xml:id="ftn8" n="8"><p rend="footnote text"> Zu
+                    werden konnten. Zwischen Rente und Zins bestand kein Unterschied mehr.<note place="foot" xml:id="ftn8" n="8">
+                        <p rend="footnote text"> Zu
                             mittelalterlichen Diskussionen um die Rente vgl. Trusen,
-                        Rentenkauf.</p></note></p>
+                        Rentenkauf.</p>
+                    </note>
+                </p>
                 <p>Das Burgrecht war an die Immobilie gebunden und erlosch daher auch nicht nach dem
                     Tod des Rentenverkäufers oder dem Verkauf des belasteten Hauses. Es war eine
                     Reallast, keine Personallast. Entsprechend senkte ein bestehendes Burgrecht den
@@ -324,8 +350,10 @@
                 <p>Genutzt wurde das Finanzinstrument von Bürgern aus mittleren und höheren sozialen
                     Schichten. Beinahe ein Drittel wurde als Kredite innerhalb der Verwandtschaft
                     vergeben (32%). Felix Czeike erstellte eine Liste mit einer Auswahl von den
-                    „bedeutendsten und bekanntesten“ Gläubigern und Schuldnern.<note place="foot" xml:id="ftn9" n="9"><p rend="footnote text"> Czeike, Darlehensgeschäfte
-                            272-285.</p></note> Der Grund für die Kreditaufnahme wurde in den Texten
+                    „bedeutendsten und bekanntesten“ Gläubigern und Schuldnern.<note place="foot" xml:id="ftn9" n="9">
+                        <p rend="footnote text"> Czeike, Darlehensgeschäfte
+                            272-285.</p>
+                    </note> Der Grund für die Kreditaufnahme wurde in den Texten
                     nicht angeführt. Im Normalfall dürfte es sich um den Erwerb oder die
                     Instandsetzung von Immobilien oder Investitionen in einen Handwerksbetrieb oder
                     ein Gewerbe gehandelt haben. Wenn ein Haus vererbt wurde, konnten die übrigen
@@ -424,7 +452,8 @@
                     <item>Demelius, Heinrich, <hi rend="Book_Title">Ehegüterrecht der Münzerstraße
                             im 15. Jahrhundert</hi>. In: Jahrbuch des Vereins für Geschichte der
                         Stadt Wien 26 (1970) 46-75.</item>
-                    <item><hi rend="Book_Title">Grundbücher der Stadt Wien</hi> (Quellen zur
+                    <item>
+                        <hi rend="Book_Title">Grundbücher der Stadt Wien</hi> (Quellen zur
                         Geschichte der Stadt Wien 3), Vol. 1: <hi rend="Book_Title">Die ältesten
                             Kaufbücher (1368-1388)</hi>, Wien 1898; Vol. 2: <hi rend="Book_Title">Gewerbuch B (1373-1419)</hi>, <hi rend="Book_Title">Verbotbuch
                             (1373-1399)</hi>, Wien 1911; Vol. 3: <hi rend="Book_Title">Das Satzbuch
