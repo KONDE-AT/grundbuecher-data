@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>List of events</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <p>
+           <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+              href="listplace.xml"
+              xpointer="listplace">
+              <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be found</fallback>
+           </xi:include>
+        </p>
+      </encodingDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>
+            <listEvent xml:id="listevent">
+               <event xml:id="ev__QGW_II_I_1447" when="1400-01-19 <--> ausm regest: date when="14000119" <-->"></event>
+               <event xml:id="ev__QGW_II_I_1453" when="1400-03-01"></event>
+               <event xml:id="ev__haus_im_huehnergesslein_1_satz_1" type="credit" from="1448-03-10" to="1448-06-10">
+                  <label>Satz</label>
+                  <desc type="recipient">Andre Hiltprant</desc>
+                  <desc><measure>xliiii tl. d.</measure></desc>
+               </event>
+               <event xml:id="ev__haus_im_huehnergesslein_1_burgrecht_1" type="credit" notAfter="1448-06-10">
+                  <label>Burgrecht</label>
+                  <label></label>
+                  <desc type="recipient">Simon Pirkwicz St. Laurenz</desc>
+                  <desc><measure>vii tl. d.</measure></desc>
+               </event>
+               <event xml:id="ev__haus_wiltwerkerstrasse_1_burgrecht_1" type="debit" notAfter="1438-04-21">
+                  <desc type="recipient">St. Laurenz </desc>
+                  <desc><measure>x tl. vi s. d.</measure></desc>
+               </event>
+               <event xml:id="ev__haus_wiltwerkerstrasse_1_satz_1" type="debit" from="1438-01-21" to="1438-04-21">
+                  <label>Satz</label>
+                  <desc type="recipient">Heinrich Haiden</desc>
+                  <desc><measure>lvii tl. iii s. xxv d.</measure></desc>
+               </event>
+               <event xml:id="ev__haus_am_alten_fleischmarkt_1_verkauf_1" type="transfer" notAfter="1448-06-21">
+                  <label>Verkauf</label>
+                  <desc type="recipient">Agatha Hulber</desc>
+                  <desc type="donor/issuer">Michln Stadl</desc>
+               </event>
+               <event xml:id="ev__haus_am_alten_fleischmarkt_1_satz_1" type="debit" from="1448-03-21" to="1448-06-21">
+                  <label>Satz</label>
+                  <desc type="recipient">Wolfgang Winter</desc>
+                  <desc><measure>drewhundert und funfzehen pfunt phenning</measure></desc>
+               </event>
+               <event xml:id="ev__haus_wiltwerkerstrasse_3_satz_1" type="debit" from="" to="">
+                  <label>Satz</label>
+                  <desc type="recipient">Hainrichs des Frankchen seligen kindern</desc>
+                  <desc><measure>hundert sechsunddreissig phund zweunndfunfczig phening</measure></desc>
+                  <desc><placeName ref=""></placeName></desc>
+               </event>
+            </listEvent>
+        </p>
+      </body>
+  </text>
+</TEI>
