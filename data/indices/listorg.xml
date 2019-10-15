@@ -29,12 +29,27 @@
         <body>
             <p>
                 <listOrg xml:id="listorg">
-                    <org xml:id="burgtheater">
-                        <orgName>Burgtheater</orgName>
-                        <idno type="URL">http://d-nb.info/gnd/38633-9</idno>
+                    <org xml:id="org__wien" type="Stadt">
+                        <orgName>Stadt Wien</orgName>
                     </org>
-                    <org xml:id="org__st_laurenz">
-                        <orgName>Zisterzienserinnenkloster Sankt Laurenz</orgName>
+                    <org xml:id="org__st_laurenz" type="kloster">
+                        <orgName>Sankt Laurenz</orgName>
+                        <trait>
+                            <label>Observanz</label>
+                            <desc>OP</desc>
+                        </trait>
+                        <location>
+                            <address>
+                                <addrLine></addrLine>
+                            </address>
+                        </location>
+                    </org>
+                    <org xml:id="org__st_agnes_auf_der_himmelpforte">
+                        <orgName>St. Agnes auf der Himmelpforte</orgName>
+                    </org>
+                    <org xml:id="org__st_stephan">
+                        <orgName>Sankt Stephan</orgName>
+                        <addName></addName>
                     </org>
                 </listOrg>
             </p>

@@ -21,30 +21,123 @@
             </xi:include>
          </p>
       </encodingDesc>
+      <encodingDesc>
+         <p>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="listevent.xml"
+               xpointer="listevent">
+               <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be found</fallback>
+            </xi:include>
+         </p>
+      </encodingDesc>
    </teiHeader>
    <text>
       <body>
          <p>
             <listPerson xml:id="listperson">
-               <person xml:id="schreyvogel_joseph">
+               <person xml:id="pe__agathe_00055" sex="f">
                   <persName>
-                     <surname>Schreyvogel</surname>
-                     <forename>Joseph</forename>
+                     <forename><reg>Agathe</reg></forename>
+                     <surname><add>Hulber</add></surname>
                   </persName>
-                  <idno type="URL">http://d-nb.info/gnd/119368579</idno>
+                  <note>HF von Niklas Hulber</note>
                </person>
-               <person xml:id="pe__alexander_gerhart">
+               <person xml:id="pe__andreas_hiltprant" sex="m">
                   <persName>
-                     <forename>Alexander</forename>
-                     <surname>Gerhart</surname>
+                     <forename><reg>Andreas</reg></forename>
+                     <surname>Hiltprant</surname>
                   </persName>
                </person>
-               <person xml:id="pe__heinrich_haiden">
+               <person xml:id="pe__andreas_meichsner" sex="m">
                   <persName>
-                     <forename>Heinrich</forename> 
-                     <surname>Haiden</surname>
+                     <forename><reg>Andreas</reg></forename>
+                     <surname><orig>Meichsner</orig></surname>
+                     <addName><reg>der Goldschmied</reg></addName>
                   </persName>
-                  
+               </person>
+               <person xml:id="pe__andreas_vischel" sex="m">
+                  <persName>
+                     <forename><reg>Andreas</reg></forename>
+                     <surname><orig>Vischel</orig></surname>
+                  </persName>
+               </person>
+               <person xml:id="pe__anna_00056" sex="f">
+                  <persName>
+                     <forename><reg>Anna</reg></forename>
+                     <surname><add>Leinburger</add></surname>
+                  </persName>
+                  <note>HF von Jörg Leinburger</note>
+               </person>
+               <person xml:id="pe__alexander_gerhart" sex="m">
+                  <persName>
+                     <forename><reg>Alexander</reg></forename>
+                     <surname><orig>Gerhart</orig></surname>
+                  </persName>
+               </person>
+               <person xml:id="pe__barbara_00054" sex="f">
+                  <persName>
+                     <forename><reg>Barbara</reg></forename>
+                     <surname><add>Vischel</add></surname>
+                  </persName>
+                  <note>HF von Andreas Vischel</note>
+               </person>
+               <person xml:id="pe__georg_leinburger" sex="m">
+                  <persName>
+                     <forename><reg>Georg</reg></forename>
+                     <surname><orig>Leinburger</orig></surname>
+                     <addName><reg>der Apotheker</reg></addName>
+                  </persName>
+               </person>
+               <person xml:id="pe__heinrich_haiden" sex="m">
+                  <persName>
+                     <forename><reg>Heinrich</reg></forename>
+                     <surname><orig>Haiden</orig></surname>
+                  </persName>
+               </person>
+               <person xml:id="pe__lukas_hulber" sex="m">
+                  <persName>
+                     <forename><reg>Lukas</reg></forename>
+                     <surname><orig>Hulber</orig></surname>
+                  </persName>
+               </person>
+               <person xml:id="pe__margarethe_00057" sex="f">
+                  <persName>
+                     <forename><reg>Margarethe</reg></forename>
+                     <surname><add>Meichsner</add></surname>
+                     <surname></surname>
+                  </persName>
+                  <note>HF von Andreas Meisner</note>
+               </person>
+               <person xml:id="pe__michael_stadl" sex="m">
+                  <persName>
+                     <surname><reg>Michael</reg></surname>
+                     <forename><orig>Stadl</orig></forename>
+                  </persName>
+               </person>
+               <person xml:id="pe__niklas_zink" sex="m">
+                  <persName>
+                     <forename><reg>Niklas</reg></forename>
+                     <surname><orig>Zingk</orig></surname>
+                  </persName>
+               </person>
+               <person xml:id="pe__simon_pirkwicz" sex="m">
+                  <persName>
+                     <forename><reg>Simon</reg></forename>
+                     <surname><orig>Pirkwicz</orig></surname>
+                  </persName>
+               </person>
+               <person xml:id="pe__stephan_imbrung" sex="m">
+                  <persName>
+                     <forename><reg>Stephan</reg></forename>
+                     <surname><orig>Imbrung</orig></surname>
+                     <addName><reg>der Kramer</reg></addName>
+                  </persName>
+               </person>
+               <person xml:id="pe__wolfgang_winter" sex="m">
+                  <persName>
+                     <forename><reg>Wolfgang</reg></forename>
+                     <surname><reg>Winter</reg></surname>
+                  </persName>
                </person>
             </listPerson>
          </p>

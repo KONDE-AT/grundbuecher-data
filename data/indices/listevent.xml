@@ -29,16 +29,13 @@
       <body>
          <p>
             <listEvent xml:id="listevent">
-               <event xml:id="ev__QGW_II_I_1447" when="1400-01-19 <--> ausm regest: date when="14000119" <-->"></event>
-               <event xml:id="ev__QGW_II_I_1453" when="1400-03-01"></event>
-               <event xml:id="ev__haus_im_huehnergesslein_1_satz_1" type="credit" from="1448-03-10" to="1448-06-10">
+               <event xml:id="ev__haus_im_huehnergesslein_1_satz_1" type="debit" from="1448-03-10" to="1448-06-10">
                   <label>Satz</label>
                   <desc type="recipient">Andre Hiltprant</desc>
                   <desc><measure>xliiii tl. d.</measure></desc>
                </event>
-               <event xml:id="ev__haus_im_huehnergesslein_1_burgrecht_1" type="credit" notAfter="1448-06-10">
+               <event xml:id="ev__haus_im_huehnergesslein_1_burgrecht_1" type="debit" notAfter="1448-06-10">
                   <label>Burgrecht</label>
-                  <label></label>
                   <desc type="recipient">Simon Pirkwicz St. Laurenz</desc>
                   <desc><measure>vii tl. d.</measure></desc>
                </event>

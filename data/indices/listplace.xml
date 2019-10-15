@@ -3,7 +3,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>List of places</title>
@@ -15,36 +15,105 @@
             <p>Information about the source</p>
          </sourceDesc>
       </fileDesc>
-  </teiHeader>
-  <text>
+      <encodingDesc>
+         <p>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="listevent.xml"
+               xpointer="listevent">
+               <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be found</fallback>
+            </xi:include>
+         </p>
+      </encodingDesc>
+   </teiHeader>
+   <text>
       <body>
          <listPlace xml:id="listplace">
-            <place xml:id="duesseldorf" type="city">
+            <place xml:id="pl__duesseldorf" type="town">
                <placeName>Düsseldorf</placeName>
                <location>
                   <geo decls="LatLng">51.225556 6.782778</geo>
                </location>
                <idno type="URL">http://www.geonames.org/2934246</idno>
             </place>
-            <place xml:id="pl__wilterwerkstrasse">
-               <placeName>Wilterwerkstrasse</placeName>
+            <place xml:id="pl__nuernberg" type="town">
+               <placeName><reg>Nürnberg</reg></placeName>
+               <location>
+                  <geo decls="LatLng"></geo>
+               </location>
+               <idno type="URL"></idno>
             </place>
-            
-<!--            häuser-->
-            
-            <place xml:id="pl__alexander_gerhart_haus">
-               <placeName>Alexander Gehart Haus (Wiltwerkerstrasse)</placeName>
+
+            <!--            Straßen-->
+
+            <place xml:id="pl__alter_fleischmarkt" type="street">
+               <placeName><reg type="norm" source="u_512">Alter Fleischmarkt</reg></placeName>
+            </place>
+            <place xml:id="pl__unter_den_hafnern">
+               <placeName><reg source="u_522">unter den Hafnern</reg></placeName>
+            </place>
+            <place xml:id="pl__huehnergesslein">
+               <placeName><reg>im Hühnergesslein</reg></placeName>
+               <idno></idno>
+            </place>
+            <place xml:id="pl__wiltwerkerstrasse">
+               <placeName><reg source="u_587">Wiltwercherstrasse</reg></placeName>
+            </place>
+
+            <!--            Immobilien -->
+            <place xml:id="pl__haus_am_alten_fleischmarkt_1" type="immo">
+               <placeName>Agatha Hulber dritt tail Haus vormals Micheln Stadl</placeName>
+            </place>
+            <place xml:id="pl__haus_im_huehnergesslein_1" type="immo">
+               <placeName>Andreas Vischel Haus</placeName>
                <location>
                   <address>
-                     <addrLine corresp="#pl__wilterwerkstrasse">Wilterstrasse</addrLine>
-                     <addrLine corresp="#pl__niklaszingkaus">haus...</addrLine>
+                     <addrLine corresp="#pl__huehnergesslein"/>
+                  </address>
+               </location>
+               <event ref="#ev__haus_im_huehnergesslein_1_burgrecht_1"><label>Burgrecht</label></event>
+               <event ref="#ev__haus_im_huehnergesslein_1_satz_1"><label>Satz</label></event>
+            </place>
+            <place xml:id="pl__haus_im_huehnergesslein_2" type="immo">
+               <placeName>Stephan Imbrung Haus</placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="#pl__huehnergesslein"/>
                   </address>
                </location>
             </place>
-            <place xml:id="pl__niklaszingkaus">
-               <placeName></placeName>
+            <place xml:id="pl__haus_wiltwerkerstrasse_1" type="immo">
+               <placeName>Alexander Gehart Haus</placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="#pl__wiltwerkerstrasse"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__haus_wiltwerkerstrasse_2" type="immo">
+               <placeName>Niklas Zingk Haus</placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="#pl__wiltwerkerstrasse"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__haus_wiltwerkerstrasse_3" type="immo">
+               <placeName>Anna Leinburger Haus</placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="#pl__wiltwerkerstrasse"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__haus_wiltwerkerstrasse_4" type="immo">
+               <placeName>Óttinger zuhaws</placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="#pl__wiltwerkerstrasse"/>
+                  </address>
+               </location>
             </place>
          </listPlace>
       </body>
-  </text>
+   </text>
 </TEI>
