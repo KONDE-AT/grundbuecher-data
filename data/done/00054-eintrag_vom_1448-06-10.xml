@@ -2,14 +2,17 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Eintrag vom 1438-04-21</title>
-            <title type="rubrik">Tempore dominorum Michel Lyenvelder, consulis, et Dietrich
-               Starhant, anno etc. xxxviiio</title>
+            <title type="main">Eintrag vom 1448-06-10</title>
+            <title type="rubrik">Tempore dominorum Henrici Haiden, consulis, et Johannis de Eslorn,
+               anno etc. xlviiio</title>
             <title type="sub">Digitale Edition der Wiener Grundbücher</title>
             <respStmt>
                <resp>Transkription</resp>
                <name>
                   <rs type="person" ref="#gruenwald_korbinian">Korbinian Grünwald</rs>
+               </name>
+               <name>
+                  <rs type="person" ref="#weinbergmaier_richard">Richard Weinbergmaier</rs>
                </name>
             </respStmt>
          </titleStmt>
@@ -34,12 +37,12 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus from="[1r]" to="[1v]"/>
-                     <p>[1r] - [1v]</p>
+                     <locus from=" [9r]" to=" [9v]"/>
+                     <p> [9r] - [9v]</p>
                   </msItem>
                </msContents>
                <history>
-                  <origin notBefore="1438-04-21"/>
+                  <origin notBefore="1448-06-10"/>
                </history>
             </msDesc>
          </sourceDesc>
@@ -126,43 +129,55 @@
       </encodingDesc>
    </teiHeader>
    <facsimile>
-      <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0010.jpg"/>
+      <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_026.jpg"/>
    </facsimile>
    <text>
       <body>
          <div type="entry">
-            <p><rs type="event" ref="#ev__haus_wiltwerkerstrasse_1_satz_1"><rs type="fn"
-                     role="issuer"><rs type="person" ref="#pe__alexander_gerhart">Alex
-                     Gerhart</rs></rs>
-                  <catchwords n="disp">hat versatzt</catchwords>
-                  <rs ref="#pl__haus_wiltwerkerstrasse_1" role="transactiongood_I"><roleName
-                        type="owner" corresp="#pe__alexander_gerhart">sein</roleName> haws,
-                        <roleName type="topo" corresp="#pl__wiltwerkerstrasse">gelegen in der
-                        Wiltberherstrass ze Wienn</roleName>
-                     <roleName type="topo" corresp="#pl__haus_wiltwerkerstrasse_2"
-                        >zenagst</roleName></rs>
-                  <rs ref="#pl__haus_wiltwerkerstrasse_2"><roleName type="owner"
-                        corresp="#pe__niklas_zink"><rs type="person" ref="#pe__niklas_zink">Niclasen
-                           des Zingken</rs></roleName> haws</rs>, <rs type="event"
-                     ref="#ev__haus_wiltwerkerstrasse_1_burgrecht_1"><rs type="fn" role="issuer"><rs
-                           type="place" ref="#pl__haus_wiltwerkerstrasse_1">davon</rs>man</rs>
-                     jérlichen dint den <rs type="fn" role="recipient"><rs type="org"
-                           ref="#org__st_laurenz">geistlichen frawn hincz Sand Larenczen ze
-                           Wienn</rs>
-                        <rs type="fn" role="transactiongood_I"><measure>x tl. vi s. d.</measure> ze
-                           purkrecht und nicht mer</rs></rs></rs>. <rs type="fn" role="recipient"
-                     >Dem <rs ref="#pe__heinrich_haiden" role="recipient"><roleName type="title"
-                           >erbern</roleName>
-                        <roleName type="title">weisen</roleName> Hainreich dem Haiden, <roleName
-                           type="title">burger ze Wienn</roleName></rs>, und seinen erben</rs> umb
-                     <rs type="fn" role="transactiongood_II"><measure>lvii tl. iii s. xxv
-                        d.</measure> und sind zu beczaln, wenn sy die vordernt und der nicht lenger
-                     empern wellent</rs>, darnach an alles vercziehen. Actum feria secunda ante
-                  Geori, anno xxxviiio</rs>.</p>
-            <p rend="Summa"><rs ref="#ev__haus_wiltwerkerstrasse_1_satz_1">Summa <measure>iii s.
-                     xxiiii d.</measure></rs></p>
-            <p rend="Nachtrag"><rs ref="#ev__haus_wiltwerkerstrasse_1_satz_1">Den sacz hat der
-               <rs type="person" ref="#pe__heinrich_haiden">Haiden</rs> ledig gesagt feria secunda ante Pangracy 1440.</rs></p>
+            <p><rs type="event" ref="#ev__haus_im_huehnergesslein_1_satz_1"><rs type="fn"
+                     role="issuer"><rs type="person" ref="#pe__andreas_vischel">Andre Vischel und
+                           <rs type="person" ref="#pe__barbara_00054">Barbara sein <roleName
+                              type="kin" corresp="#pe__andreas_vischel"
+                        >hausfrau</roleName></rs></rs>
+                     <catchwords n="disp">habent versaczt</catchwords>
+                     <rs type="fn" role="transactiongood_I"><rs type="place"
+                           ref="#pl__haus_im_huehnergesslein_1"><roleName type="owner"
+                              corresp="#pe__barbara_00054">ír</roleName><roleName type="owner"
+                              corresp="#pe__andreas_vischel"><add>ir</add></roleName></rs> haws,
+                           <roleName type="topo" corresp="#pl__huehnergesslein">gelegen im
+                           Húnergesslein</roleName>
+                        <roleName type="topo" corresp="#pl__haus_im_huehnergesslein_2"
+                           >zenagst</roleName></rs></rs>
+                  <rs type="place" ref="#pl__haus_im_huehnergesslein_2"><roleName type="owner"
+                        corresp="#pe__stephan_imbrung"><rs type="person" ref="#pe__stephan_imbrung"
+                           >Stephans Imbrung des <roleName type="prof"
+                        >kramer</roleName></rs></roleName>haus</rs>, <rs type="event"
+                     ref="#ev__haus_im_huehnergesslein_1_burgrecht_1"><rs type="fn" role="issuer"
+                           ><rs type="place" ref="#pl__haus_im_huehnergesslein_1">davon</rs>man</rs>
+                     jerlich dint <rs type="fn" role="recipient"><rs type="person"
+                           ref="#pe__simon_pirkwicz"><roleName type="title">hern</roleName> Symon
+                           Pirkwicz <roleName type="off"
+                              corresp="#org__st_agnes_auf_der_himmelpforte">caplan</roleName> der
+                              <rs type="org" ref="#org__st_agnes_auf_der_himmelpforte">Heiligen
+                              dreir Kunig altar zu der Himlporten</rs></rs></rs><rs type="fn"
+                        role="transactiongood_I"><measure>vii tl. d.</measure></rs> zu purkrecht und
+                     nicht mer.</rs>
+                  <rs type="fn" role="recipient">Dem <rs type="person" ref="#pe__andreas_hiltprant"
+                           ><roleName type="title">erbern</roleName>
+                        <roleName type="title">weisen</roleName> Andren Hiltprant diezeit des
+                           <roleName type="off" corresp="#org__stadt_wien">rats</roleName> der <rs
+                           ref="#org__stadt_wien">stat ze Wienn</rs></rs> und seinen erben</rs>
+                  <rs type="fn" role="transactiongood_II">umb <measure>xliiii tl. d.</measure></rs>
+                  <rs type="fn" role="transactiongood_I">und sind zu beczaln zu den vír quatembern
+                     im jar zu yeder quatember <measure>xi tl. d.</measure> und sullen mit der
+                     ersten werung anheben zu der quatember schirist kunftig anvercziehen</rs>.
+                  Actum an Montag vor sand Veits tag, anno etc. xlviii<hi rend="super"
+               >o</hi>.</rs></p>
+            <p rend="Summa"><rs type="event" ref="#ev__haus_im_huehnergesslein_1_satz_1">Summa
+                     <measure>lxxxviii d.</measure></rs></p>
+            <p rend="Nachtrag">
+               <rs type="event" ref="#ev__haus_im_huehnergesslein_1_satz_1"><unclear>Testa
+                     etc</unclear> ha<unclear>be</unclear>t cedulam.</rs></p>
          </div>
       </body>
    </text>
