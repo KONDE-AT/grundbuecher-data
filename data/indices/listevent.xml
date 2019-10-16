@@ -58,11 +58,20 @@
                   <desc type="recipient">Wolfgang Winter</desc>
                   <desc><measure>drewhundert und funfzehen pfunt phenning</measure></desc>
                </event>
-               <event xml:id="ev__haus_wiltwerkerstrasse_3_satz_1" type="debit" from="" to="">
+               <event xml:id="ev__haus_wiltwerkerstrasse_3_satz_1" type="debit" notAfter="1448-08-09">
                   <label>Satz</label>
                   <desc type="recipient">Hainrichs des Frankchen seligen kindern</desc>
                   <desc><measure>hundert sechsunddreissig phund zweunndfunfczig phening</measure></desc>
-                  <desc><placeName ref=""></placeName></desc>
+               </event>
+               <event xml:id="ev__haus_wiltwerkerstrasse_3_satz_2" type="debit" from="1448-05-09" to="1448-08-09">
+                  <label>Satz</label>
+                  <desc type="recipient">Wolfgang und Mertten Hansen des Nagl am Graben Kindern</desc>
+                  <desc><measure>hundert phund wienner phening</measure></desc>
+               </event>
+               <event xml:id="ev__testament_katharina_nagl" type="testament" notAfter="1448-08-09">
+                  <label>Geschäft</label>
+                  <desc></desc>
+                  <desc></desc>
                </event>
             </listEvent>
         </p>

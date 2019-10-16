@@ -94,6 +94,38 @@
                      <surname><orig>Haiden</orig></surname>
                   </persName>
                </person>
+               <person xml:id="pe__heinrich_frank" sex="m">
+                  <persName>
+                     <forename><reg>Heinrich</reg></forename>
+                     <surname><reg>Frank</reg></surname>
+                  </persName>
+               </person>
+               <person xml:id="pe__jakob_oesterreicher" sex="m">
+                  <persName>
+                     <forename><reg>Jakob</reg></forename>
+                     <surname><orig>Österreicher</orig></surname>
+                  </persName>
+               </person>
+               <person xml:id="pe__johann_nagl_am_graben" sex="m">
+                  <persName>
+                     <forename><reg>Johann</reg></forename>
+                     <surname><orig>Nagl</orig></surname>
+                     <addName><reg>am Graben</reg></addName>
+                  </persName>
+               </person>
+               <person xml:id="pe__katharina_nagl" sex="f">
+                  <persName>
+                     <forename><reg>Katharina</reg></forename>
+                     <surname><add>Nagl</add></surname>
+                     <note>HF von Michael Nagl</note>
+                  </persName>
+               </person>
+               <person xml:id="pe__konrad_kopfdrechsel" sex="m">
+                  <persName>
+                     <forename><reg>Konrad</reg></forename>
+                     <surname><orig>Kopfdrechsel</orig></surname>
+                  </persName>
+               </person>
                <person xml:id="pe__lukas_hulber" sex="m">
                   <persName>
                      <forename><reg>Lukas</reg></forename>
@@ -104,9 +136,24 @@
                   <persName>
                      <forename><reg>Margarethe</reg></forename>
                      <surname><add>Meichsner</add></surname>
-                     <surname></surname>
                   </persName>
                   <note>HF von Andreas Meisner</note>
+               </person>
+               <person xml:id="pe__martin_sb_cd_00056" sex="m">
+                  <persName>
+                     <forename><reg>Martin</reg></forename>
+                     <surname><add>Nagl</add></surname>
+                  </persName>
+                  <note>Kind v. Johann Nagl am Graben</note>
+               </person>
+               <person xml:id="pe__michael_nagl_der_sattler_am_kohlmarkt" sex="m">
+                  <persName>
+                     <forename><reg>Michael</reg></forename>
+                     <surname><orig>Nagl</orig></surname>
+                     <addName><reg>der Sattler</reg></addName>
+                     <addName><reg>am Kohlmarkt</reg></addName>
+                  </persName>
+                  <note></note>
                </person>
                <person xml:id="pe__michael_stadl" sex="m">
                   <persName>
@@ -132,6 +179,12 @@
                      <surname><orig>Imbrung</orig></surname>
                      <addName><reg>der Kramer</reg></addName>
                   </persName>
+               </person>
+               <person xml:id="pe__wolfgang_sb_cd_00056" sex="m">
+                  <persName>
+                     <forename><reg>Wolfgang</reg></forename>
+                  </persName>
+                  <note>Kind v. Johann Nagl am Graben</note>
                </person>
                <person xml:id="pe__wolfgang_winter" sex="m">
                   <persName>
