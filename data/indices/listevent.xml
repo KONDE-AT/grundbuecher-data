@@ -73,6 +73,10 @@
                   <desc></desc>
                   <desc></desc>
                </event>
+               <event xml:id="ev__haus_judengasse_am_neuen_platz_1_satz_1" type="debit" from="1448-09-13" to="1448-12-13">
+                  <label>Satz</label>
+                  <desc type="recipient">Kunraten Erweit, dem kursner</desc>
+               </event>
             </listEvent>
         </p>
       </body>

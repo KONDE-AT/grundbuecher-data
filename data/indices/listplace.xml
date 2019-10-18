@@ -46,16 +46,22 @@
             <!--            Straßen-->
 
             <place xml:id="pl__alter_fleischmarkt" type="street">
-               <placeName><reg type="norm" source="u_512">Alter Fleischmarkt</reg></placeName>
+               <placeName><reg source="u_512">Alter Fleischmarkt</reg></placeName>
             </place>
-            <place xml:id="pl__unter_den_hafnern">
+            <place xml:id="pl__unter_den_hafnern" type="street">
                <placeName><reg source="u_522">unter den Hafnern</reg></placeName>
             </place>
-            <place xml:id="pl__huehnergesslein">
+            <place xml:id="pl__huehnergesslein" type="street">
                <placeName><reg>im Hühnergesslein</reg></placeName>
                <idno></idno>
             </place>
-            <place xml:id="pl__wiltwerkerstrasse">
+            <place xml:id="pl__judengasse" type="street">
+               <placeName><reg>Judengasse</reg></placeName>
+            </place>
+            <place xml:id="pl__am_neuen_platz" type="street">
+               <placeName><reg>an dem neuen Platz</reg></placeName>
+            </place>
+            <place xml:id="pl__wiltwerkerstrasse" type="street">
                <placeName><reg source="u_587">Wiltwercherstrasse</reg></placeName>
             </place>
 
@@ -78,6 +84,33 @@
                <location>
                   <address>
                      <addrLine corresp="#pl__huehnergesslein"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__haus_judengasse_am_neuen_platz_1" type="immo">
+               <placeName>Berthold Merman Haus</placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="#pl__judengasse"/>
+                     <addrLine corresp="#pl__am_neuen_platz"></addrLine>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__haus_judengasse_am_neuen_platz_2" type="immo">
+               <placeName>Jacoben des Smalen Haus</placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="#pl__judengasse"/>
+                     <addrLine corresp="#pl__am_neuen_platz"></addrLine>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__haus_judengasse_am_neuen_platz_3" type="immo">
+               <placeName>Erhart von Prag des peutler haus</placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="#pl__judengasse"/>
+                     <addrLine corresp="#pl__am_neuen_platz"></addrLine>
                   </address>
                </location>
             </place>

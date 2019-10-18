@@ -81,6 +81,18 @@
                   </persName>
                   <note>HF von Andreas Vischel</note>
                </person>
+               <person xml:id="pe__berthold_merman" sex="m">
+                  <persName>
+                     <forename><reg source="https://docs.google.com/spreadsheets/d/1a91QkqzNyPZ1OGXvx3IIyaT4VAQMoYG0ZX0dQLUUHaU/edit#gid=0">Berthold</reg></forename>
+                     <surname><orig>Merman</orig></surname>
+                     <addName><reg>Kursner</reg></addName>
+                  </persName>
+               </person>
+               <person xml:id="pe__erhard_von_prag" sex="m">
+                  <forename><reg>Erhard</reg></forename>
+                  <addName><orig>von Prag</orig></addName>
+                  <addName><orig>der peutler</orig></addName>
+               </person>
                <person xml:id="pe__georg_leinburger" sex="m">
                   <persName>
                      <forename><reg>Georg</reg></forename>
@@ -106,6 +118,12 @@
                      <surname><orig>Österreicher</orig></surname>
                   </persName>
                </person>
+               <person xml:id="pe__jakob_smal" sex="m">
+                  <persName>
+                     <forename><reg>Jakob</reg></forename>
+                     <surname><orig>Smal</orig></surname>
+                  </persName>
+               </person>
                <person xml:id="pe__johann_nagl_am_graben" sex="m">
                   <persName>
                      <forename><reg>Johann</reg></forename>
@@ -124,6 +142,13 @@
                   <persName>
                      <forename><reg>Konrad</reg></forename>
                      <surname><orig>Kopfdrechsel</orig></surname>
+                  </persName>
+               </person>
+               <person xml:id="pe__konrad_erweit" sex="m">
+                  <persName>
+                     <forename><reg>Konrad</reg></forename>
+                     <surname><orig>Erweit</orig></surname>
+                     <addName><reg>der Kursner</reg></addName>
                   </persName>
                </person>
                <person xml:id="pe__lukas_hulber" sex="m">
