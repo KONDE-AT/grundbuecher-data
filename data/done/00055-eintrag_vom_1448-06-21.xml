@@ -135,12 +135,12 @@
       <body>
          <div type="entry">
             <p><rs type="event" ref="#ev__haus_am_alten_fleischmarkt_1_satz_1"><rs type="fn"
-                     role="issuer"><rs type="person" ref="#pe__agathe_00055">Agatha <rs
+               role="issuer"><rs type="person" ref="#pe__agathe_SB_CD_00055">Agatha <rs
                            type="person" ref="#pe__lukas_hulber">Lucasen Hulber</rs><roleName
                            type="kin" corresp="#pe__lukas_hulber">hausfrau</roleName></rs></rs>
                   <catchwords n="disp">hat versaczt</catchwords>
                   <rs type="fn" role="transactiongood_I"><rs ref="#pl__haus_am_alten_fleischmarkt_1"
-                           ><roleName type="owner" corresp="#pe__agathe_00055">ir</roleName> halbs<note>
+                     ><roleName type="owner" corresp="#pe__agathe_SB_CD_00055">ir</roleName> halbs<note>
                            <p rend="footnote text">
                               <unclear> ausradiert.</unclear>
                            </p>

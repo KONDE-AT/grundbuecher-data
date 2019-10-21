@@ -17,10 +17,10 @@
       </fileDesc>
       <encodingDesc>
          <p>
-            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
-               href="listevent.xml"
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="listevent.xml"
                xpointer="listevent">
-               <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be found</fallback>
+               <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be
+                  found</fallback>
             </xi:include>
          </p>
       </encodingDesc>
@@ -38,22 +38,23 @@
             <place xml:id="pl__nuernberg" type="town">
                <placeName><reg>Nürnberg</reg></placeName>
                <location>
-                  <geo decls="LatLng"></geo>
+                  <geo decls="LatLng"/>
                </location>
-               <idno type="URL"></idno>
+               <idno type="URL"/>
             </place>
 
             <!--            Straßen-->
 
             <place xml:id="pl__alter_fleischmarkt" type="street">
-               <placeName><reg source="u_512">Alter Fleischmarkt</reg></placeName>
+               <placeName><reg source="QGW_II_I_register_pg_512">Alter
+                  Fleischmarkt</reg></placeName>
             </place>
             <place xml:id="pl__unter_den_hafnern" type="street">
-               <placeName><reg source="u_522">unter den Hafnern</reg></placeName>
+               <placeName><reg source="QGW_II_I_register_pg_522">unter den Hafnern</reg></placeName>
             </place>
             <place xml:id="pl__huehnergesslein" type="street">
                <placeName><reg>im Hühnergesslein</reg></placeName>
-               <idno></idno>
+               <idno/>
             </place>
             <place xml:id="pl__judengasse" type="street">
                <placeName><reg>Judengasse</reg></placeName>
@@ -62,7 +63,11 @@
                <placeName><reg>an dem neuen Platz</reg></placeName>
             </place>
             <place xml:id="pl__wiltwerkerstrasse" type="street">
-               <placeName><reg source="u_587">Wiltwercherstrasse</reg></placeName>
+               <placeName><reg source="QGW_II_I_register_pg_587"
+                  >Wiltwercherstrasse</reg></placeName>
+            </place>
+            <place xml:id="pl__neuermarkt" type="street">
+               <placeName><reg source="QGW_II_I_register_pg_557">Neuermarkt</reg></placeName>
             </place>
 
             <!--            Immobilien -->
@@ -76,8 +81,12 @@
                      <addrLine corresp="#pl__huehnergesslein"/>
                   </address>
                </location>
-               <event ref="#ev__haus_im_huehnergesslein_1_burgrecht_1"><label>Burgrecht</label></event>
-               <event ref="#ev__haus_im_huehnergesslein_1_satz_1"><label>Satz</label></event>
+               <event ref="#ev__haus_im_huehnergesslein_1_burgrecht_1">
+                  <label>Burgrecht</label>
+               </event>
+               <event ref="#ev__haus_im_huehnergesslein_1_satz_1">
+                  <label>Satz</label>
+               </event>
             </place>
             <place xml:id="pl__haus_im_huehnergesslein_2" type="immo">
                <placeName>Stephan Imbrung Haus</placeName>
@@ -92,7 +101,7 @@
                <location>
                   <address>
                      <addrLine corresp="#pl__judengasse"/>
-                     <addrLine corresp="#pl__am_neuen_platz"></addrLine>
+                     <addrLine corresp="#pl__am_neuen_platz"/>
                   </address>
                </location>
             </place>
@@ -101,7 +110,7 @@
                <location>
                   <address>
                      <addrLine corresp="#pl__judengasse"/>
-                     <addrLine corresp="#pl__am_neuen_platz"></addrLine>
+                     <addrLine corresp="#pl__am_neuen_platz"/>
                   </address>
                </location>
             </place>
@@ -110,7 +119,7 @@
                <location>
                   <address>
                      <addrLine corresp="#pl__judengasse"/>
-                     <addrLine corresp="#pl__am_neuen_platz"></addrLine>
+                     <addrLine corresp="#pl__am_neuen_platz"/>
                   </address>
                </location>
             </place>
@@ -143,6 +152,22 @@
                <location>
                   <address>
                      <addrLine corresp="#pl__wiltwerkerstrasse"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__haus_neuermarkt_1">
+               <placeName>Kunz und Preid Eggenfelder Haus</placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="#pe__neuermarkt"/>
+                  </address>
+               </location>
+            </place>
+            <place xml:id="pl__haus_neuermarkt_2">
+               <placeName>Thomans Kuntter Haus</placeName>
+               <location>
+                  <address>
+                     <addrLine corresp="#pe__neuermarkt"/>
                   </address>
                </location>
             </place>

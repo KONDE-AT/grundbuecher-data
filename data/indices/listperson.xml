@@ -35,7 +35,7 @@
       <body>
          <p>
             <listPerson xml:id="listperson">
-               <person xml:id="pe__agathe_00055" sex="f">
+               <person xml:id="pe__agathe_SB_CD_00055" sex="f">
                   <persName>
                      <forename><reg>Agathe</reg></forename>
                      <surname><add>Hulber</add></surname>
@@ -61,7 +61,7 @@
                      <surname><orig>Vischel</orig></surname>
                   </persName>
                </person>
-               <person xml:id="pe__anna_00056" sex="f">
+               <person xml:id="pe__anna_SB_CD_00056" sex="f">
                   <persName>
                      <forename><reg>Anna</reg></forename>
                      <surname><add>Leinburger</add></surname>
@@ -74,7 +74,7 @@
                      <surname><orig>Gerhart</orig></surname>
                   </persName>
                </person>
-               <person xml:id="pe__barbara_00054" sex="f">
+               <person xml:id="pe__barbara_SB_CD_00054" sex="f">
                   <persName>
                      <forename><reg>Barbara</reg></forename>
                      <surname><add>Vischel</add></surname>
@@ -86,6 +86,13 @@
                      <forename><reg source="https://docs.google.com/spreadsheets/d/1a91QkqzNyPZ1OGXvx3IIyaT4VAQMoYG0ZX0dQLUUHaU/edit#gid=0">Berthold</reg></forename>
                      <surname><orig>Merman</orig></surname>
                      <addName><reg>Kursner</reg></addName>
+                  </persName>
+               </person>
+               <person xml:id="pe__brigitta_SB_CD_00226" sex="f">
+                  <persName>
+                     <forename><reg>Brigitta</reg></forename>
+                     <surname><add><reg source="QGW_II_II_register_pg_450">Eggenfelder</reg></add></surname>
+                     <note>HF von Kunz Eggenfelder</note>
                   </persName>
                </person>
                <person xml:id="pe__erhard_von_prag" sex="m">
@@ -110,6 +117,12 @@
                   <persName>
                      <forename><reg>Heinrich</reg></forename>
                      <surname><reg>Frank</reg></surname>
+                  </persName>
+               </person>
+               <person xml:id="pe__jakob_kolbl" sex="m">
+                  <persName>
+                     <forename><reg>Jakob</reg></forename>
+                     <surname><reg source="QGW_II_II_register_pg_476">Kolbl</reg></surname>
                   </persName>
                </person>
                <person xml:id="pe__jakob_oesterreicher" sex="m">
@@ -151,20 +164,33 @@
                      <addName><reg>der Kursner</reg></addName>
                   </persName>
                </person>
+               <person xml:id="pe__konrad_reiff" sex="m">
+                  <persName>
+                     <forename><reg>Konrad</reg></forename>
+                     <surname><reg source="QGW_II_II_register_pg_495">Reiff</reg></surname>
+                  </persName>
+               </person>
+               <person xml:id="pe__kunz_eggenfelder" sex="m">
+                  <persName>
+                     <forename><reg>Kunz</reg></forename>
+                     <surname><reg source="QGW_II_II_register_pg_450">Eggenfelder</reg></surname>
+                     <addName><reg>der Schmied</reg></addName>
+                  </persName>
+               </person>
                <person xml:id="pe__lukas_hulber" sex="m">
                   <persName>
                      <forename><reg>Lukas</reg></forename>
                      <surname><orig>Hulber</orig></surname>
                   </persName>
                </person>
-               <person xml:id="pe__margarethe_00057" sex="f">
+               <person xml:id="pe__margarethe_SB_CD_00057" sex="f">
                   <persName>
                      <forename><reg>Margarethe</reg></forename>
                      <surname><add>Meichsner</add></surname>
                   </persName>
                   <note>HF von Andreas Meisner</note>
                </person>
-               <person xml:id="pe__martin_sb_cd_00056" sex="m">
+               <person xml:id="pe__martin_SB_CD_00056" sex="m">
                   <persName>
                      <forename><reg>Martin</reg></forename>
                      <surname><add>Nagl</add></surname>
@@ -205,7 +231,13 @@
                      <addName><reg>der Kramer</reg></addName>
                   </persName>
                </person>
-               <person xml:id="pe__wolfgang_sb_cd_00056" sex="m">
+               <person xml:id="pe__thomas_kunter" sex="m">
+                  <persName>
+                     <forename><reg>Thomas</reg></forename>
+                     <surname><reg source="QGW_II_II_register_pg_479">Kunter</reg></surname>
+                  </persName>
+               </person>
+               <person xml:id="pe__wolfgang_SB_CD_00056" sex="m">
                   <persName>
                      <forename><reg>Wolfgang</reg></forename>
                   </persName>

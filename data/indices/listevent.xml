@@ -76,6 +76,17 @@
                <event xml:id="ev__haus_judengasse_am_neuen_platz_1_satz_1" type="debit" from="1448-09-13" to="1448-12-13">
                   <label>Satz</label>
                   <desc type="recipient">Kunraten Erweit, dem kursner</desc>
+                  <desc><measure>virczig phund phening</measure></desc>
+               </event>
+               <event xml:id="ev__haus_am_neuen_markt_1_satz_1" type="debit" from="1447-11-23" to="1448-02-23">
+                  <label>Satz</label>
+                  <desc type="recipient">Kunraten Reiff</desc>
+                  <desc><measure>lxxii tl. d.</measure></desc>
+               </event>
+               <event xml:id="ev__haus_am_neuen_markt_1_burgrecht_1" type="debit" notAfter="1448-02-23">
+                  <label>Burgrecht</label>
+                  <desc type="recipient">Jacoben Kolbl</desc>
+                  <desc><measure>vi tl. d.</measure></desc>
                </event>
             </listEvent>
         </p>

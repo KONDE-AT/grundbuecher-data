@@ -136,13 +136,13 @@
          <div type="entry">
             <p><rs type="event" ref="#ev__haus_im_huehnergesslein_1_satz_1"><rs type="fn"
                      role="issuer"><rs type="person" ref="#pe__andreas_vischel">Andre Vischel und
-                           <rs type="person" ref="#pe__barbara_00054">Barbara sein <roleName
+                        <rs type="person" ref="#pe__barbara_SB_CD_00054">Barbara sein <roleName
                               type="kin" corresp="#pe__andreas_vischel"
                         >hausfrau</roleName></rs></rs>
                      <catchwords n="disp">habent versaczt</catchwords>
                      <rs type="fn" role="transactiongood_I"><rs type="place"
                            ref="#pl__haus_im_huehnergesslein_1"><roleName type="owner"
-                              corresp="#pe__barbara_00054">ír</roleName><roleName type="owner"
+                              corresp="#pe__barbara_SB_CD_00054">ír</roleName><roleName type="owner"
                               corresp="#pe__andreas_vischel"><add>ir</add></roleName></rs> haws,
                            <roleName type="topo" corresp="#pl__huehnergesslein">gelegen im
                            Húnergesslein</roleName>
