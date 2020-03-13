@@ -3,7 +3,9 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1452-05-12</title>
-               <title type="rubrik">Tempore dominorum, Alb Dieses Wort wurde eigentlich nicht durchgestrichen, sondern das darauffolgende Stephan darüber gesetzt. Stephan Awer, consulis, Hannsen von Eslorn, anno etc. liido.</title>
+               <title type="rubrik"><p rend="Rubrik">Tempore dominorum, Alb<note>
+                  <p rend="footnote text"> Dieses Wort wurde eigentlich nicht durchgestrichen, sondern das darauffolgende Stephan darüber gesetzt.</p>
+               </note> Stephan Awer, consulis, Hannsen von Eslorn, anno etc. lii<hi rend="super">do</hi>.</p></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -115,8 +117,6 @@
                <p>Adam Hertting und Margreth sein hausfrau habent verkaufft zehen phunt gelts purkrechts auf írn zwain drittailen hauss, die si von Barbaren, Sebastians des Zieglshauser hausfraun gekaufft habent, ganczes gelegen pei dem Rotentúrn, zenagst Thomans Praitenweidaher haus auf dem steig an aim tail und an dem andern zenagst Hansen Hermans haws. Und auf allen den gemechen und gemainen stukchen, die nach lautt der tailbrief zu denselben zwain drittailen hauss gehörnt. Umb hundert phund phening dem erbern hern Jorgen Schrot, caplan Sand Peters cappelln, dieczeit verweser der messe, die Eberhart Kasstner daselbs zu stifften geschafft hat und seinen nachkomen. Und sind zu dienn zu drein tègen und wider abczukauffen miteinander und den nagsten dinst damitt, ut littera. Actum an Freitag sand Pangreczen tag, anno etc. lii<hi rend="super">do</hi>.</p>
                <p rend="Summa">Summa vi s. xx d.</p>
                <p rend="Nachtrag">Die hundert pfunt sind zum puch gelegt feria sexta ante Scolastice, anno etc. liii.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0031.jpg</p>
-               <p rend="Rubrik">Tempore dominorum, Stephani Awer, consulis, Jacobi Rechwein, anno etc. liii<hi rend="super">o</hi>.</p>
             </div>
          </body>
       </text>
