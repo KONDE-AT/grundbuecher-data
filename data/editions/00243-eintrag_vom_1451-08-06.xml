@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1451-08-06</title>
-               <title type="rubrik">Tempore dominorum, Arnolt Galander, consulis, et Hanns von Eslorn, anno etc limo.</title>
+               <title type="rubrik">Tempore dominorum, Arnolt Galander, consulis, et Hanns von Eslorn, anno etc li<hi rend="super">mo</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0118.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -116,6 +116,7 @@
                <p rend="Summa">Summa nulla propter beatam virginem.</p>
                <p rend="Nachtrag">Purger habet cedulam.</p>
                <p rend="Nachtrag">Nota die egenanten lxxxii tl. d. hat Caspar Maler, Niclasen Purger, kirchmaister zu Unsrer Frawen widerumb vergütt und verschriben in den vorgeschriben rechten auf seinem haus, in der Huterstrasen gelegen, das der Augustiner grunt ist, nach laut ainer zedl aines demselben gruntpuch, die der egenant Purger darumb innhat. Actum anno etc. lvii<hi rend="super">mo</hi> feria ii<hi rend="super">ta </hi>post Marei.</p>
+               <!-- Seitnenumbruch und neuer Eintrag -->
                <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0119.jpg</p>
                <p>Chuncz Schersmid und Anna sein hausfrau habent versaczt ir haus, gelegen hinder Sand Prangreczen in des Krafftshof, zenagst Hannsen Freisleben des nagler haus, umb virundzwainczig phund phening dem erbern Jacoben Dorn und seinen erben.</p>
             </div>

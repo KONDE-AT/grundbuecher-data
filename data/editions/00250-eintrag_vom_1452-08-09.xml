@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1452-08-09</title>
-               <title type="rubrik">Tempore dominorum, Stephan Awer, consulis, Hannsen von Eslorn, anno etc. liido.</title>
+               <title type="rubrik">Tempore dominorum, Stephan Awer, consulis, Hannsen von Eslorn, anno etc. lii<hi rend="super">do</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0120.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -115,7 +115,6 @@
                <p>Chuncz Harant von Dingolfing hat versaczt sein haws, gelegen in der Newlukchen vor Widmertor zenagst Petern des Pheiffer haws, dem erbern Leopolten Lengenawer und Dorothen seiner hausfraun umb ainsundzwainczig phund phening. Und sind zu beczalen halb auf sand Michels tag nagstkunfftigen und halb auf die Weichnachten darnach schiristkunfftigen anvercziehen. Actum an sand Larenczen abent, anno etc. lii<hi rend="super">do</hi>.</p>
                <p rend="Summa">Summa xlii d.</p>
                <p rend="Nachtrag">Den Sacz habent die egenanten kanleut ledig gesagt an sand Lucein tag, anno etc. lii<hi rend="super">do</hi>.</p>
-               <p rend="Rubrik">Tempore dominorum, Steffan Awer, consulis, et Jacoben Rechwein, anno etc. liii<hi rend="super">o</hi>.</p>
             </div>
          </body>
       </text>

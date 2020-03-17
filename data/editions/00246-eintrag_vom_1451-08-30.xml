@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1451-08-30</title>
-               <title type="rubrik">Tempore dominorum, Arnolt Galander, consulis, et Hanns von Eslorn, anno etc limo.</title>
+               <title type="rubrik">Tempore dominorum, Arnolt Galander, consulis, et Hanns von Eslorn, anno etc li<hi rend="super">mo</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,14 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0119.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Caspar Egenburger hat verchaufft sechs phunt gelts purkrechts auf der uberteurung seins hauss, gelegen am egk pei dem Reflpühl in der Pognergassen, zenagst Gruber des messrer haus. Über die sechs dreiling mosts, die Hannsen Kanstorffer, kellermaister vor darauf verphendt H sind, und uber die zwai phunt gelts purkrechts, die hern Kolman Frech, kaplan Sand Pauls kapellen zu Erdpurg nachmalen darauf verschriben sind, nach lautt ains purkrechtsbriefs. Umb achtundvirczig pfunt pening dem erbern herren, hern Jorgen Schrot, caplan der mess, die Hainreich Kessler auf Allerheiligen altar zu Sand Steffan gestifft hat, und seinen nachkomen. Und sind zu diennen und wider abczukauffen mitenandern und den nagsten dinst damit, ut littera sonat. Actum an Montag vor Egidii, anno etc. li<hi rend="super">o</hi>.</p>
                <p rend="Summa">Summa iii s. vi d.</p>
-               <p rend="Rubrik">Tempore dominorum, Stephan Awer, consulis, Hannsen von Eslorn, anno etc. lii<hi rend="super">do</hi>.</p>
             </div>
          </body>
       </text>

@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1453-04-20</title>
-               <title type="rubrik">Tempore dominorum, Steffan Awer, consulis, et Jacoben Rechwein, anno etc. liiio.</title>
+               <title type="rubrik">Tempore dominorum, Steffan Awer, consulis, et Jacoben Rechwein, anno etc. liii<hi rend="super">o</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0120.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -115,7 +115,6 @@
                <p>Colman Wulderstorffer der kursner und Kathrey sein hausfrau habent versaczt ir haws, gelegen am Hohen Markt gegen dem Vischmarkt über, zenagst Steffans Fugenstaler des kursner haws an aim tail. Davon man jerlich dint dem kirchmaister zu Sant Michel zu Leuppolts Prümer selgret und jartag sechs phunt phening und zu Jorgen Guttawer jartag zway pfunt und zu Niclasen Kreser jartag ain pfunt pfenig, alles zu purkrecht und nicht mer. Dem erbern Kristoffen Oczestorffer, burger zu Wienn und seinen erben umb hundert und sechsundzwainczig phunt pfening und sind zu beczalen auf Sand Mertten tag schiristküfntigen an alles vercziehen. Actum an Freitag vor sant Jorgen tag, anno domini etc. liii<hi rend="super">o</hi>.</p>
                <p rend="Summa">Summa i tl., xii d.</p>
                <p rend="Nachtrag">Kristof habet cedulam.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0121.jpg</p>
             </div>
          </body>
       </text>

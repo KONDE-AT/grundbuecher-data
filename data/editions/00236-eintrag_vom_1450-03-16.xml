@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1450-03-16</title>
-               <title type="rubrik">Tempore dominorum, Petern Strasser, consulis, et Hansen von Eslorn, anno etc lmo.</title>
+               <title type="rubrik">Tempore dominorum, Petern Strasser, consulis, et Hansen von Eslorn, anno etc l<hi rend="super">mo</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,14 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0116.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Caspar Egenburger hat versatzt sein haus mit seiner zugehorung, gelegen am egk pey dem <unclear>Roselpuhl</unclear> in der Pognergassen, zenagst des Gruber messerer haus an ainem tail. Der ersamen geistlichen frawn, swester Erntrauten von Tehenstain, briorinn des frawnklosters dacz Sand Larenczen zu Wienn, dem convent gemain daselbs und irn nachkommen umb hundert und zwainczig pfunt phening. Und sind zu beczalen halb auf sand Johans tag zu Sunwenden schiristkunftigen und halb auf sand Michels tag darnach nagstkunftigen anvercziehen, ut littera sonat. Actum an Montag nach Letare zu Mittervaster, anno etc. l<hi rend="super">mo</hi>.</p>
                <p rend="Summa">Summa i tl. d.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0117.jpg</p>
             </div>
          </body>
       </text>

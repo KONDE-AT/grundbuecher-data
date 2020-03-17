@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1448-11-20</title>
-               <title type="rubrik">Tempore dominorum Hainreich Haiden, consulis, et Hannsen von Eslorn, anno etc. xlviiio</title>
+               <title type="rubrik">Tempore dominorum Hainreich Haiden, consu<unclear>lis</unclear>, et Hannse<unclear>n</unclear> von Eslorn, anno etc. xlviii<hi rend="super">o</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -111,12 +111,13 @@
       </teiHeader>
       <facsimile>
          <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0114.jpg"/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0115.jpg"></graphic>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Cirnos Waczla Wuntartzt und Dorothe, sein hausfrau die emalen Michlen Gruber den wuntartzt selign auch elichen gehabt hat, habent versaczt ir haus, gelegen pey den Fleischpenkchen am egk zenagst Mathesen des Salczer haus. Umb anderthalbhundert pfund phening, die der egenanten Dorothen morgengab sind, des obgnanten Micheln Gruber irs erern manns seligen nagsten erben. Also das sy die ir lebteg innhaben nuczen und niessen sol</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0115.jpg</p>
+               <pb/>
                <p>unverkumert als morgengab recht ist und nach irm abgang sullen denn dieselben i ½ c tl. d. morgengab hinwider erben und gevallen auf des egnanten Micheln Gruber seligen nagst erben, darauf sy dann zurecht erben und gevallen sullen, ut littera. Actum an Mitichen vor Katherine, anno etc. xlviii<hi rend="super">o</hi>.</p>
                <p rend="Summa">Summa x s. d.</p>
                <p rend="Nachtrag">Nota den brief hat man zu der erben handen in den rat gelegt.</p>

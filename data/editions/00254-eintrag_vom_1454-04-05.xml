@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1454-04-05</title>
-               <title type="rubrik">Tempore dominorum, Cristan Wissinger, consulis, et Peter von Aslabing, anno etc. liiiio.</title>
+               <title type="rubrik">Tempore dominorum, Cristan Wissinger, consulis, et Peter von Aslabing, anno etc. liiii<hi rend="super">o</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0121.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -115,7 +115,6 @@
                <p>Colman Wulderstorffer der kurnser und Kathrey sein hausfrau habent versaczt ir haws, gelegen am Hohen Markt gegen dem Vischmarkt uber, zenagst Steffans Fugenstaler haws an aim tail und stosset mit dem hindern tail an Perchtolts Hessen haws. Dem erbern Hannsen von Hayburg zu Augstpurg seiner gesellschafft und irn erben umb hundert und sechsundachczig pfunt pfening und sind zu bechalen auf sand sand Larenczen tag schiristkunfftigen an alles vercziehen. Da man von dem egenanten haws zuvordrist jerlichen dint dem kirchmaister zu Sand Michel zu Leuppolts Prunner selgret und jartag sechs pfunt pfening und zu Jorgen Gutawer jartag zway pfund und zu Niclasen Krembser jartag ain pfund pfening, alles zu purkrecht und nicht mer. Actum an Freitag vor Judica in der vasten, anno etc. liiii<hi rend="super">to</hi>.</p>
                <p rend="Summa">Summa xii s. xii d.</p>
                <p rend="Nachtrag">Die geltschld hat ledig gesagt Hans Kursner, Hansen Welser diener, nach laut ains gwaltbriefs, der pei dem puch ligt. Actum an Freytag ante Simonis et Jude, anno etc. lvii<hi rend="super">to</hi>.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0122.jpg</p>
             </div>
          </body>
       </text>

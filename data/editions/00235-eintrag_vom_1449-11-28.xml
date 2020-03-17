@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1449-11-28</title>
-               <title type="rubrik">Tempore dominorum Hainreich Haiden, consulis, et Hannsen von Eslorn, anno etc. xlviiio</title>
+               <title type="rubrik">Tempore dominorum Hainreich Haiden, consu<unclear>lis</unclear>, et Hannse<unclear>n</unclear> von Eslorn, anno etc. xlviii<hi rend="super">o</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0116.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -116,7 +116,6 @@
                <p rend="Summa">Summa xlviii d.</p>
                <p rend="Nachtrag">Nota das gelt ist widerumb angelegt und auf Michels Waidhofer, puchveler, und seiner mutter Barbaren hewsern im Tewffengraben, in des pharrer zum hof gruntpuch verschriben. Actum an Freitag post Mathie, anno domini etc. lxviii<hi rend="super">o</hi>.</p>
                <p rend="Nachtrag">Nota das vorgenant purkrecht hat Hanns Phuntimaschen auf das gancz hawss genommen utz libro novo venditionum folio li. Nota das obgenant purkrecht haubtgut ist zu dem puch erlegt zusambt zwain dinsten. Actum an Eritag post Pauli Conversationis, anno domini etc. lxviii.</p>
-               <p rend="Rubrik">Tempore dominorum, Petern Strasser, consulis, et Hansen von Eslorn, anno etc l<hi rend="super">mo</hi>.</p>
             </div>
          </body>
       </text>

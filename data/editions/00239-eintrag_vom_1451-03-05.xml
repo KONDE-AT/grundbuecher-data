@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1451-03-05</title>
-               <title type="rubrik">Tempore dominorum, Arnolt Galander, consulis, et Hanns von Eslorn, anno etc limo.</title>
+               <title type="rubrik">Tempore dominorum, Arnolt Galander, consulis, et Hanns von Eslorn, anno etc li<hi rend="super">mo</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,14 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0117.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Colman Wulderstorffer, kursner, und Kathrey sein hausfrau habent verkaufft iii tl. d. gelts purkrechts auf irm haws, gelegen am Hohen Markt zu Wienn gegen dem Vischmarkt uber, zenagst Steffan Fugenstaler des kursner haus an aim tail und stost hinden an Perchtolts Hessen haus. Davon man jerlich dint dem kirchmaister zu Sant Michl zu Leuppolten des Prunner selgret und jartag vi tl. d. zu purkrecht, nach lautt ains purkrechtbriefs und nicht mer. Umb xxiiii tl. d. dem erbern Ulreichen Fochter, kirchmaister zu Sand Michael und seinen nachkommen, der ii tl. gelts zu Jorgen Gutawer und ain phunt gelts zu Niclasen Kremser jarteg gehornt und sind zu dienn und wider abczukauffen, ut littera. Actum an Freitag vor Esto Michi, anno etc. li<hi rend="super">o</hi>.</p>
                <p rend="Summa">Summa xlviii d.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0118.jpg</p>
             </div>
          </body>
       </text>

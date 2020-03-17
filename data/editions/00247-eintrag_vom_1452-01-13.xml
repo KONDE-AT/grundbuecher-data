@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1452-01-13</title>
-               <title type="rubrik">Tempore dominorum, Stephan Awer, consulis, Hannsen von Eslorn, anno etc. liido.</title>
+               <title type="rubrik">Tempore dominorum, Stephan Awer, consulis, Hannsen von Eslorn, anno etc. lii<hi rend="super">do</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,13 +107,14 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0119.jpg"/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0120.jpg"></graphic>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Chunrat peim Goczakcher hat gemacht seiner hausfrawn Dorothen, Larenczen Lew`stubichs seligen tochter zwayhundert phunt phening auf seinem grossern haus, gelegen vor Kernertor gegen dem spital über, zenagst Hainreichs Wurm des pekchen haus. Davon man jerlich dint dem kaplan der Heiligen Drivaltikait altar in Sand Michls kirchen zu Wien fünf phunt phening und maister Thoman von Gelestorf, caplan der mess, die maister Albertin auf Sand Kathrein altar im Dew`tschen Haws zu Wien gestifft hat, xii s d., alles zu purkrecht und nicht mer. Und auf seinem klainen haus, zenagst dem vorgenanten seinen grossern haus gelegen, zenagst Hansen Seczenwein haus gelegen, davon man jerlich dint der burgerspital vor Kernertor lvii d., auch zu purkrecht und nicht mer. Also mit ausgenommen worten, daz die obgenant Dorothe sein hausfraw sol nu furbas die obgenanten </p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0120.jpg</p>
+               <pb/>
                <p>zwaihundert phunt phening auf den egenanten zwain hewsern lediklichen haben und allen irn frauen damit schaffen, machen und geben, wem si will, an sein und seiner erben irrung. Doch wenn er oder sein erben die vorgenanten zwai hewser von ir herwider losen wellen, die sol si in zulosen geben zwischen sand Merten tag und vaschang umb cc tl d., die ir wider angelegt sullen werden, nach rat irer nagsten frewnt, in der maynung, so vorgeschriben stet ungeverlich, ut littera sonat. Actum an Freitag vor sand Anthoni tag, anno etc. lii<hi rend="super">do</hi>.</p>
                <p rend="Summa">Summa xiii s. d.</p>
             </div>
