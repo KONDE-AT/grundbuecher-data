@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1459-04-30</title>
-               <title type="rubrik">Anno etc. lviiiio.</title>
+               <title type="rubrik">Anno etc. lviiii<hi rend="super">o</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,14 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0202.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Erhart Zudinger hat versaczt sein haws, gelegen am Kienmarkt zenagst weilent Jorgen von Gelestorf haws, davon man jerlich dint dem caplan der mess, die Anna, Mertten Reidegker im Vischhof witib auf der Zwelfpoten altar zu Sand Steffan zu Wienn gestifft hat, zehen phunt phening zu purkchrecht und nicht mer. Dem erbern Linharten Pérger dem goltsmid zu Wienn und seinen erben umb zwayundsechczig phunt und fünf schilling phening lanndeswerung und sind zu beczallen auf sand Mertteins tag schiristkünftigen an alles vercziehen. Actum an Montag vor Philippi et Jacobi, anno etc. lviiii<hi rend="super">o</hi>.</p>
                <p rend="Summa">Summa ½ tl. iiii d.</p>
-               <p rend="Rubrik">Tempore dominorum, maister Mertten Guldein, consulis, et Hannsen von Eslorn, anno domini etc. lxi<hi rend="super">o</hi>.</p>
             </div>
          </body>
       </text>

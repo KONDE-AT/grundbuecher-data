@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1442-11-23</title>
-               <title type="rubrik">Tempore dominorum Symonis Potl, consulis, Cristanni Wissinger, anno etc. xliido</title>
+               <title type="rubrik">Tempore dominorum Symonis Potl, consulis, Cristanni Wissinger, anno etc. xlii<hi rend="super">do</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0224.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -115,8 +115,6 @@
                <p>Friedreich Flugengl, burger zu Wienn, hat versaczt die uberteurung seins hauss, gelegen am Alten Kolmarkht zu Wien zenagst weilnt des Hertenkeyl haws. Uber die virhundert phunt pfening, darumb es emaln Hansen Peiczkofer versaczt ist, den erbern Niclasen Gravétl und Casparn Lawburger, burgern zu Nürnberg, irer gesellschaft und iren erben von aller raittung und handlung wegen so si von vergangner zeit miteinander uncz auf heutigen tag gehabt habent, umb zwayhundert und fünf und dreissig phunt Wiener pfening und sind zu beczalen auf sant Johanns tag ze Sunbenden nachstkunftig zwainczig phunt pfening und auf die Weichnachten die darnach nagst komend auch zwainczig phunt pfening und darnach alle jar zu yedem benanten tag zwainczig pfunt pfening, solang uncz daz si der egenanten zwairhundert und funfunddreissig phunt pfening génczlich beczalt werden an alles vercziehen: Welhen tag si aber verczugen und nicht hielten so sullen die andern teg all ab sein und in ir gelt was in des aussten wurde genczlich beczaln an alle waygrung ungeverlich, ut littera sonat. Actum an Freitag vor sant Kathrein tag, anno etc. xliido.</p>
                <p rend="Summa">Summa vii s. xx d.</p>
                <p rend="Summa">Summa i tl. vii s. xx d.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0225.jpg</p>
-               <p rend="Rubrik">Tempore dominorum Oswaldi Reicholf, consulis, Cristanni Wissinger, anno etc. xliiiito</p>
             </div>
          </body>
       </text>

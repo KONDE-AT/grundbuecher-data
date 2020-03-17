@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1444-12-14</title>
-               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, Cristanni Wissinger, anno etc. xliiiito</title>
+               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, Cristanni Wissinger, anno etc. xliiii<hi rend="super">to</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0225.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -115,8 +115,6 @@
                <p>Fridreich Elsendorffer, burger zu Wienn, und Margret, sein hausfrau, habent versaczt ir haus mit aller seiner zugehorung, gelegen an hof zenagst dem kassten, das ettwenn Ulreichs Schrots gewesen ist. Dem erbern Ulreichen Veldner, Anastasia, seiner hausfraun, und irn baiden erben umb ccc tl. Wienner d., die der benanten Anastasia morgengab sind, und sind zu beczalen von den nagstkunftigen Weichnachten uber funf gancze jar anverziehen und sullent in auch dieselben funf jar jerlich davon raichen und dienen xxiiii tl. Wiener d. zu den vir quatembern im jar zu yedem quatember sechs pfund Wienner pfening, ut littera sonat. Actum an Montag post Lucie, anno etc. xliiiito.</p>
                <p rend="Summa">Summa ii ½ tl. d.</p>
                <p rend="Nachtrag">Nota die egenanten ccc tl. d. sind zu dem gruntbuch erlegt worden die der Veldnerinn morgengab sind, feria secunda post Letare, ano domini etc. liiiito.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0226.jpg</p>
-               <p rend="Rubrik">Tempore dominorum Oswalt Reicholff, consulis, Cristan Wissinger, anno etc. xlvto.</p>
             </div>
          </body>
       </text>

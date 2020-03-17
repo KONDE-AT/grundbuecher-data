@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1463-06-08</title>
-               <title type="rubrik">Tempore dominorum, hern Hannsen Ravenspurger, consulis, und Hannsen Ernsten, anno etc. domini etc. lxiiio.</title>
+               <title type="rubrik">Tempore dominorum, hern Hannsen Ravenspurger, consulis, und Hannsen Ernsten, anno etc. domini etc. lxiii<hi rend="super">o</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0203.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -117,7 +117,6 @@
                <p rend="Nachtrag">Ex iussu consily.</p>
                <p rend="Nachtrag">Nota die obgenant junkfraw Ursula ist umb irn tail lxxv gulden versorgt, ut fo. Ciiii sequitur.</p>
                <p rend="Nachtrag">Nota der obgenant Wolfgang Newman ist vogtper und seins tails aus den obgenanten 150 Ungrische gulden, der da bringt lxxv gulden, gantz und gar betzalt worden, ut quiitung. Und den satz so enthalben beym gruntpuch ledig gesagt von derselben lxxv guldein wegen Und diesen.</p>
-               <p rend="Rubrik">Tempore dominorum, hern Hannsen Ravenspurger, consulis, und Ernreichen Köpl, anno domini etc. lxiiii.</p>
             </div>
          </body>
       </text>

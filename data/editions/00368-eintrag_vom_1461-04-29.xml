@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1461-04-29</title>
-               <title type="rubrik">Tempore dominorum, maister Mertten Guldein, consulis, et Hannsen von Eslorn, anno domini etc. lxio.</title>
+               <title type="rubrik">Tempore dominorum, maister Mertten Guldein, consulis, et Hannsen von Eslorn, anno domini etc. lxi<hi rend="super">o</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,14 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0202.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Erasem Kolnhofer der pogner zu Wienn und Anna sein hausfraw habent versaczt ir haws, gelegen undern Pogner zwischen Steffans Leisser und Steffans Nrczenpekchen der pogner hewser. Mertten Mawmgarttner, Thomans Pawmgarttner des pogner seligen sun, der noch nicht vogtper ist, umb funczig phunt Wienner phening, die im der benant Pawmgarttner sein vatter seliger geschafft hat und die im auch Ursula sein mutter vormalen darauf verphendt hat gehabt. Und sind zu beczalen, wenn derselb Mertt vogtper wirdet und zwainczig jar alt ist, an alles vercziehen nach lautt des egenanten seins vaters seligen geschefft, daz in dem statpuch geschriben stet. Actum an Mitichen vor sand Philipp und sand Jacobs tag, anno etc. lxi<hi rend="super">o</hi>.</p>
                <p rend="Summa">Summa iii s. x. d.</p>
-               <p rend="Rubrik">Tempore dominorum, hern Lorenntzen Swanntz, consulis, und Hannsen von Eslorn, anno etc. lxiii<hi rend="super">o</hi>.</p>
             </div>
          </body>
       </text>

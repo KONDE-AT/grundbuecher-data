@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1471-06-28</title>
-               <title type="rubrik">Tempore dominorum, heren Niclasen Erensst, consulis, und Cristan Schonnperger, anno etc. lxximo.</title>
+               <title type="rubrik">Tempore dominorum, heren Niclasen Erensst, consulis, und Cristan Schonnperger, anno etc. lxxi<hi rend="super">mo</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0208.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -116,7 +116,6 @@
                      <p rend="footnote text"> Kasstner: Über der Zeile eingefügt.</p>
                   </note> daselbs zu stifften geschafft hat, und seinen nachkomen verwesern der yeczgenannten mess. Und sind zu dienn zu drein tegen im jare und widerumb abzekauffen miteiannder mit virczigkh phunt Wienner phening und dem nagsten dinst damit, ut littera sonat. Actum an Freitag vor sand Peter und sand Pauls tag apostolorum, anno domini etc. lxxi<hi rend="super">mo</hi>.</p>
                <p rend="Summa">Summa lxxx d.</p>
-               <p rend="Rubrik">Tempore dominorum, hern Ulreichs Métzleinstorff, consulis, und Jacoben Rechwein, anno domini etc. lxxiii<hi rend="super">o</hi>.</p>
             </div>
          </body>
       </text>

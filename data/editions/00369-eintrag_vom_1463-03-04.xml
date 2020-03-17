@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1463-03-04</title>
-               <title type="rubrik">Tempore dominorum, hern Lorenntzen Swanntz, consulis, und Hannsen von Eslorn, anno etc. lxiiio.</title>
+               <title type="rubrik">Tempore dominorum, hern Lorenntzen Swanntz, consulis, und Hannsen von Eslorn, anno etc. lxiii<hi rend="super">o</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0202.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -116,8 +116,6 @@
                <p rend="Summa">Summa lxxx d.</p>
                <p rend="Nachtrag">Nachtigal habet cedulam.</p>
                <p rend="Nachtrag">Nota der obgenant Oswalt Nachtigal hat den sacz ledig gesaczt am Freitag vor Lettare, anno etc. lxvii<hi rend="super">mo</hi>.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0203.jpg</p>
-               <p rend="Rubrik">Tempore dominorum, hern Hannsen Ravenspurger, consulis, und Hannsen Ernsten, anno etc. domini etc. lxiii<hi rend="super">o</hi>.</p>
             </div>
          </body>
       </text>
