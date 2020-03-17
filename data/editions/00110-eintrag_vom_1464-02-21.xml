@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0043.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -115,6 +115,7 @@
                <p>Andree Zeisslmaurer der maler und Elsbet sein hausfrau habend verkauft sechs pfund phennig geltz purgkrechts auf irm hauss, gelegen in der Kernerstrass zenagst des hauss, umb sechczigk phund Wienner phennig, die emalen gelegen gewesen sein auf Niclasen Wischnetor des knawffl am Hoff hawss. Den erbern Benedicten Cappelln und Micheln Colman, diezeit zechmaister Sand Niclas zech der kirchen und pharrmeng zu Awerstal und irn nachkommen zechmaistern daselbs. Und sind zu dien zu drein tegen im jar und abczelosen umb sechczigk phund phennig und den negsten dinst damit ungeverlich, ut literra sonat. Actum an Mitichen vor sannd Mathias tag apostoli, anno etc. lxiiii.</p>
                <p rend="Summa">Summa ½ tl. d. </p>
                <p rend="Nachtrag">Nota die purkrecht ist abgelosst und auf Wolfgangn Wolfgangn Fuchssen und Annen seiner hausfraun hawss vor Werdertor gelegt. </p>
+               <!-- hier Seitenumbruch und neuer Eintrag -->
                <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0044.jpg</p>
                <p rend="Rubrik">Tempore dominorum, herren Hannsen Ravenspurger, consulis, und Ernreichn Koppl, anno etc. lxiiii<hi rend="super">mo</hi>.</p>
                <p>Hanns Kellner hat versaczt sein haws, gelegn in der Radstrass, zenagst des von Pettaw haws an aim tail und an dem andern zenagst des Graneucgker haws, dem erbern Wilhalm Purkhawser, mitburger zu Wienn und Elspeten seiner hausfraun umb sechig phunt phennig guter landeswerung in Osterreich. Ud sind zu beczaln von sand Jorgen nagstkunftigen uber vier jar nagstnacheinander vollgend.</p>
