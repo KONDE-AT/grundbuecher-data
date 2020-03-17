@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1457-12-16</title>
-               <title type="rubrik">Tempore dominorum, Jacoben Rechwein, consulis, et Hannsen von Eslorn, anno etc. lvito.</title>
+               <title type="rubrik">Tempore dominorum, Jacoben Rechwein, consulis, et Hannsen von Eslorn, anno etc. lvi<hi rend="super">to</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -118,7 +118,6 @@
                      <p rend="footnote text"> Dieser Nachtrag und die darauffolgende Rubrik („Tempore dominorum Andre…“) überschneiden sich teilweise.</p>
                   </note>
                </p>
-               <p rend="Rubrik">Tempore dominorum, Andre Schonprugker, consulis, et Thoman Egkenperger, anno etc. lviii<hi rend="super">o</hi>.</p>
             </div>
          </body>
       </text>
