@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1445-06-11</title>
-               <title type="rubrik">Tempore dominorum Oswaldi Reicholff, consulis, et Cristani Wissinger, anno etc. xlvto</title>
+               <title type="rubrik">Tempore dominorum Oswaldi Reicholff, consulis, et Cristani Wissinger, anno etc. xlv<hi rend="super">to</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -111,12 +111,13 @@
       </teiHeader>
       <facsimile>
          <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0060.jpg"/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0061.jpg"></graphic>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Berchtolt, Jégermaister von Hessen, hat versaczt sein haus gelegen vor der Heiligenkreuczer hof zenagst Ulreichs Gundlochs zuehaus. Seiner hausfraun Kathrein, Dietreichs Starhants seligen tochtter, für cc tl. d. haymsteur nach der statrechten zu Wienn. Also das dieselben summ pfening die vorgenant sein hausfrau ir lebtteg unverkumert innhaben nuczen und niessen sol als haimsteur recht ist und nach írm abgang sullen sy erben und gevallen auf ire kinder, die sy yecz miteinander haben, und furbaser miteinander gewinnen. Liesse sy aber nicht Kinder hinder ir, die sy miteinander hieten gehabt oder ob sy kinder hinder ir liess und das die auch abgingen ee denn sy vogtpér wurden, so sulln dann die egnant cc tl. d. haimsteur erben und gevallen auf der egnant Kathrein seiner hausfraun nagst erben, darauf sy dann zurecht erben und gevallen sullen, der sy dann von dem egnant haus irm furpfant bekomen múgen als recht ist. Wér aber das der egnant Berchtolt mit dem tod abging ee dann die vorgnant Kathrei sein hausfrau und das er ir nicht kinder liess oder ob er ir kinder liess, die sy miteinander hieten gehabt und das die auch abgingen ee dann dieselb Kathrey sein hausfrau,</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0061.jpg</p>
+               <pb/>
                <p>so sind ir dann die obgnant cc tl. d. haimsteur auf dem vorgnanten haus genczlich wider ledig worden. Und wann der vorgnant Berchtolt das haus von seiner hausfraun lósen wil, das sol sy im an alle widerred zulosen geben, wan er des begert umb cc tl. d. Also das dann dieselben pfening nach irer freunt rat derselben seiner hausfraun wider angelegt gemacht und verschriben sullen werden als haimsteur und der statrecht ist und in den rechten so vor geschriben stet ungevérlich, ut littera sonat. Actum an Freitag vor Sant Veits tag, anno etc. xlv<hi rend="super">to</hi>.</p>
                <p rend="Summa">Summa xiii s. x d.</p>
             </div>

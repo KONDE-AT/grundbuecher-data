@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1457-09-09</title>
-               <title type="rubrik">Tempore dominorum, Jacob Rechwein, consulis, Michel von Menestorf, anno etc. lviio.</title>
+               <title type="rubrik">Tempore dominorum, Jacob Rechwein, consulis, Michel von Menestorf, anno etc. lvii<hi rend="super">o</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0065.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -115,7 +115,6 @@
                <p>Barbara, hern Wülffings von Liechtenegk seligen witib, die emaln Micheln Parsenprunner seligen auch elichen gehabt hat, hat versaczt ir haws, gelegen in der Mentlerstrass bey der rinkchmawr, zenagst Cristans Prenner spitalmaister haws. Dem edlen Ludweigen Rewter, írm brúder und seinen erben umb sechczigk phunt phenig lanndeswerung und sind zu beczaln auf unser Frawn tag der Liechtmess nagstkünftigen an alles vercziehen. Actum an Freitag nach unser Frawn tag, als sy geporn ist, anno domini etc. lvii<hi rend="super">mo</hi>.</p>
                <p rend="Summa">Summa ½ tl. d.</p>
                <p rend="Nachtrag">Der sacz hat der vorgenant Rewtter ledig gesagt an Samstag post Viti, anno etc. lviiii.</p>
-               <p rend="Rubrik">Tempore dominorum, maister Mertten Guldein, kellermaister et consul, et Thoman Egkenperger, anno etc. lx<hi rend="super">o</hi>.</p>
             </div>
          </body>
       </text>

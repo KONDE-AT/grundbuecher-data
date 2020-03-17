@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1453-06-25</title>
-               <title type="rubrik">Tempore dominorum, Steffan Awer, consulis, et Jacob Rechwein, anno etc. liiio.</title>
+               <title type="rubrik">Tempore dominorum, Steffan Awer, consulis, et Jacob Rechwein, anno etc. liii<hi rend="super">o</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0062.jpg"/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0063.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -115,7 +115,6 @@
                <p>Barbara, Kristans Getzendorffer des floczer hausfrau hat versaczt die ubertewrung ains hawss, gelegen vor Werdertor undern Flötzern, zenagst Jorgen Een haws, über die achtzehen phund phenig, darumb das vormalen Erharten, Kristan und Margrethen, irn geswistreiden, Erharts des Mullner kindern versatzt ist. Den erbern Andren Schober und seinen erben umb aindlef phundt und sechs schilling phenig und sind zu beczaln auf sand Michels tag nagstkünfftigen an alles vertziehen. Actum an Montag nach sand Johans tag zu Sunwenden, anno etc. liii<hi rend="super">o</hi>.</p>
                <p rend="Summa">Summa xxii d.</p>
                <p rend="Summa">Schober habet cedulam.</p>
-               <p rend="Rubrik">Tempore dominorum, Andre Schonprukker, consulis, Petern von Aslabing, anno etc. liiii<hi rend="super">o</hi>.</p>
             </div>
          </body>
       </text>

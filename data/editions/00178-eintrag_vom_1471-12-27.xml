@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1471-12-27</title>
-               <title type="rubrik">Tempore dominorum, heren Niclasen Erenst, consulis, und Kristann Schonnperger, anno etc. lxximo.</title>
+               <title type="rubrik">Tempore dominorum, heren Niclasen Erenst, consulis, und Kristann Schonnperger, anno etc. lxxi<hi rend="super">mo</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0069.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -116,7 +116,6 @@
                <p rend="Summa">Summa xiii s. x d.</p>
                <p rend="Nachtrag">Pötl habet cedulam.</p>
                <p rend="Nachtrag">Nota maister Paul Tag, chorherr zu Sand Steffan und diczmals ain ainiger geschefftherr des Pötlein hat den sacz ledig gesagt, auch von der sacz zedl wegen ainen tödt- und schermbrief zu dem puch erlegt. Actum feria sexta ante Johannis Baptiste, anno 99.</p>
-               <p rend="Rubrik">Tempore dominorum, heren Niclasen Ernsst, consulis, und Ulreichs Metzleinstorffer, anno etc. lxxii. </p>
             </div>
          </body>
       </text>

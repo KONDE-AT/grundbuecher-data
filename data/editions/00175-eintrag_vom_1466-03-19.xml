@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1466-03-19</title>
-               <title type="rubrik">Tempore dominorm, hern Ernreichs Köpls, consulis, und Jacoben Gsmechl, anno etc. lxvito.</title>
+               <title type="rubrik">Tempore dominorm, hern Ernreichs Köpls, consulis, und Jacoben Gsmechl, anno etc. lxvi<hi rend="super">to</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,14 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0068.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Berchtols von Rab der pader, mitburger ze Wienn und Elspet sein hausfrau habend versaczt ir halbs haws, ganntzes gelegen am alten Kolmarkht zenagst Hannsen Swaben des sneider hauss an ainem tail. Dem erbern maister Mertten Zeinstrikher, auch mitburger ze Wienn und Kathrein seiner hausfrauen und iren erben umb vierundachczigk Ungrischer gulden, gerecht in gold und wag. Und sind zú beczalen auf den nagstkünftigen Sand Jorgen tag über ain ganntz jar an alles vercziehen ungeverlich. Actum an Mitichen vor dem Suntag Judica in der vasten, anno etc. lxvi<hi rend="super">to</hi>.</p>
                <p rend="Summa">Summa vi s. xx d.</p>
-               <p rend="Rubrik">Tempore dominorum, hern Erenreich Köppl, consulis, und Veiten Hintperger, anno tc. lxvii<hi rend="super">mo</hi>.</p>
             </div>
          </body>
       </text>

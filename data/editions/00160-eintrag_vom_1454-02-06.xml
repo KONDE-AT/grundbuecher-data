@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1454-02-06</title>
-               <title type="rubrik">Tempore dominorum, Andre Schonprukker, consulis, Petern von Aslabing, anno etc. liiiio.</title>
+               <title type="rubrik">Tempore dominorum, Andre Schonprukker, consulis, Petern von Aslabing, anno etc. liiii<hi rend="super">o</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,15 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0062.jpg"/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0063.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Barbara, Kristans Getzendorffer des flotzer hausfraw hat versaczt die uberteurung irs hauss, gelegen vor Werdertor undern Flotzern, zenagst Jorgen Een haus. Uber die xviii tl. d., darumb es emaln Erharten, Kristan und Margreten, irn geswistreiden, Erharts des Mullner kindern versaczt ist, und uber die xiii tl. lx d., darumb es nachmaln Hannsen Een verphent ist. Den erbern Erharten, Kristan und Margreten, irn geswistreiden, Erharts des Mulner seligen kindern und irn erben umb xiii tl. d. Und sind zu beczaln auf unser Frawn tag der Liechtmesse nagstkunftigen anvercziehen. Actum an sand Dorothea tag, anno etc. liiii<hi rend="super">to</hi>.</p>
                <p rend="Summa">Summa xxvi d.</p>
-               <p rend="Rubrik">Tempore dominorum, Cirstan Wissinger, consulis, Petern von Aslabing, anno etc. liiii<hi rend="super">to</hi>.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0064.jpg</p>
             </div>
          </body>
       </text>

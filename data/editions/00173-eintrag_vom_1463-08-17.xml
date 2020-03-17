@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1463-08-17</title>
-               <title type="rubrik">Tempore dominorum, hern Hannsen Ravenspurger, consulis, und Hannsen Ernsten, anno etc. lxiiio.</title>
+               <title type="rubrik">Tempore dominorum, hern Hannsen Ravenspurger, consulis, und Hannsen Ernsten, anno etc. lxiii<hi rend="super">o</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,15 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0066.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Berchtols von Raab der pader, mitburger ze Wienn und Elspet sein hausfraw habend versaczt ir halbs hauss, ganntzes gelegen am alten Kolmarkht zenagst Hannsen Swaben des sneider hauss an ainem tail, der erbern frawen Kathrein, Wolfgangs Zeller, mitburger ze Wienn hausfrauen und irn erben umb sechczigk Ungrischer gulden, gerecht in gold und wag. Und sind zu beczalen auf sannd Mertten tag nachstkünfftigen an alles vercziehen ungeverlichen. Actum an Mitichen nach unserer lieben Frawn tag Assumptionis, anno etc. lxiii<hi rend="super">o</hi>.</p>
                <p rend="Summa">Summa ½ tl. d.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0067.jpg</p>
-               <p rend="Rubrik">Tempore dominorum, hern Hannsen Ravenspurger, consulis, et Erenreich Köppl, anno domini etc. lxv<hi rend="super">to</hi>.</p>
             </div>
          </body>
       </text>

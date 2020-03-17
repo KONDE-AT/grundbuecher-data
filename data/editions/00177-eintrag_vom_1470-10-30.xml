@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1470-10-30</title>
-               <title type="rubrik">Tempore dominorum, herren Niclasen Erenst, consulis, und Cristan Schönnperger, anno etc. lxxmo.</title>
+               <title type="rubrik">Tempore dominorum, herren Niclasen Erenst, consulis, und Cristan Schönnperger, anno etc. lxx<hi rend="super">mo</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,14 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0069.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Barbara, Jorgen Talhaimer hausfraw hat versaczt die uberterung irs hawss, gelegen am Harmarkt zenagst Petern Gmerlich hawss. Uber die zwayhundert phunt phenning haimstewr, darumb es Annen, Hannsen Gulden tochter, des bemelten Talhaimer erern hausfrawen, und uber die iiiic tl. d. haimstewr und morgengab, darumb es der egenanten Barbaren vormalen verschriben ist. Dem edlen vessten ritter, herren Leupolten Holczlér und den edlen vessten Mathesen und Colman den Hölczlern, seinen prudern und iren erben umb zwaihundert phunt guter Wienner phennig. Und sind zu beczalen, wann sy die ervordern und nicht lennger peiten wellen inner ainem halben jare, darnach nagstkünfftigen an alles verziehen. Ir hat auch die bemelt Barbara Barbara gwalts vorbehalten, wann sy die ubertewrung des egenanten hawss von den berurtten geprudern den Hölczlern und irn erben losen wellen, das sy ir und iren erben des stattun sullen umb die obgenanten iic tl. Wienner phenning, zu welher zeit im jare sy verlusst. Doch also, daz sy in solh losung ains halben jars vorhin zu wissen chun, ut littera sonat. Actum an Eritag vor Allerheiligen tag, anno domini etc. lxxmo.</p>
                <p rend="Summa">Summa xiii s. x d.´</p>
-               <p rend="Rubrik">Tempore dominorum, heren Niclasen Erenst, consulis, und Kristann Schonnperger, anno etc. lxxi<hi rend="super">mo</hi>.</p>
             </div>
          </body>
       </text>

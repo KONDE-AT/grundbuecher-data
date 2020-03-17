@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1456-09-27</title>
-               <title type="rubrik">Tempore dominorum, Jacobs Rechwein, consulis, et Hannsen von Eslorn, anno etc. lvito.</title>
+               <title type="rubrik">Tempore dominorum, Jacobs Rechwein, consulis, et Hannsen von Eslorn, anno etc. lvi<hi rend="super">to</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,15 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0064.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Balthezar Fugenstaler hat verchaufft aindlef pfunt und sechs schilling pfenig gelts purkrechts auf seim haus, gelegen am Kienmarkt zenagst der Reicholf haus, umb virundnewnczig pfund pfenig, der newnthalb pfund gelts zu Niclasen des Gelwaiczen jartag und zway pfunt gelts zu Otten des Futrer jartag und zehen schilling gelts zu Josten des Goltsmids jartag gehörnt. Dem erbern weisen Jorgen Pruntaler, kirchmaister zu Sand Michel und seinen nachkomen und sind zu dienn zu drein tegen und wider abczukauffen miteinander und den nagsten dinst damit, ut littera sonat. Actum an Montag vor sand Michels tag, anno domini etc. lvi<hi rend="super">to</hi>.</p>
                <p rend="Summa">Summa vi s. d.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0065.jpg</p>
-               <p rend="Rubrik">Tempore dominorum, Jacob Rechwein, consulis, Michel von Menestorf, anno etc. lvii<hi rend="super">o</hi>.</p>
             </div>
          </body>
       </text>

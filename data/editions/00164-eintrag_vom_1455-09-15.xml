@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1455-09-15</title>
-               <title type="rubrik">Tempore dominorum, hern Niclasen Teschler, consulis, et Thom(as) Egkenperger, anno etc. lvto.</title>
+               <title type="rubrik">Tempore dominorum, hern Niclasen Teschler, consulis, et Thom(as) Egkenperger, anno etc. lv<hi rend="super">to</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,14 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0064.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Barbara, Philipps Sailer hausfrau hat verchaufft zehen pfunt gelts purkrechts auf irm haws, gelegen am Newnmarkt zenagst Thomans des Smids haus. Umb hundert und zwayundfunftzig pfund pfennig, und sind emalen gelegen gewesen auf Mathesen Kornmetzen haus am Kienmarkt, dem erbern briester hern Wolfgangen Stadler, caplan der messe, die Niclas Kornner auf Sant Jacobs altar zu Sant Steffan gestifft hat und seinen nachkomen. Und sind zu dienn zu drein tegen und wider abczukauffen miteinander und den nagsten dinst damit, ut littera. Actum an Montag vor sant Mathens tag apostoli et ewangeliste, anno domini etc. lv<hi rend="super">to</hi>.</p>
                <p rend="Summa">Summa x s. iiii d.</p>
-               <p rend="Rubrik">Tempore dominorum, Jacobs Rechwein, consulis, et Hannsen von Eslorn, anno etc. lvi<hi rend="super">to</hi>.</p>
             </div>
          </body>
       </text>

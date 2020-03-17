@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1460-12-03</title>
-               <title type="rubrik">Tempore dominorum, maister Mertten Guldein, kellermaister et consul, et Thoman Egkenperger, anno etc. lxo.</title>
+               <title type="rubrik">Tempore dominorum, maister Mertten Guldein, kellermaister et consul, et Thoman Egkenperger, anno etc. lx<hi rend="super">o</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,15 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0065.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Barbara, Petern von Lincz seligen witib hat versaczt ir haws, gelegen hinder Sand Pangreczen zenagst des Starkchen Hainreichen, refler, haws an ainem tail, davon man jerlich dint dem kaplan der ewigen mess, die der Stettner ledrer auf unser Frawn altar, in Sand Johanns kappellen vor Werdertor gelegen, gestifft hat, i tl. d. zu purkrecht und nicht mer. Dem erbern Ulrichen Medinger, schuster, und seinen erben umb lx tl. Wiener d. und sind zu beczalen, wann sy die vodernt und nicht lenger peiten wellent, darnach an alles vercziehen. Actum an Mitichen vor sand Niclas tag, anno etc. lx<hi rend="super">o</hi>.</p>
                <p rend="Summa">Summa ½ tl. d.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0066.jpg</p>
-               <p rend="Rubrik">Tempore dominorum, hern Lorennczen Swanntz, consulis, und Hannsen von Eslorn, anno etc. lxiii<hi rend="super">o</hi>.</p>
             </div>
          </body>
       </text>
