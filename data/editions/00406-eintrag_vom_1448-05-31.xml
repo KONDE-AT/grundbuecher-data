@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1448-05-31</title>
-               <title type="rubrik">Tempore dominorum Hainreich Haiden, Hanns von Eslorn, anno etc. xlviiio</title>
+               <title type="rubrik">Tempore dominorum Hainreich Haiden, Hanns von Eslorn, anno etc. xlviii<hi rend="super">o</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0228.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -121,7 +121,6 @@
                <p rend="Summa">Summa xii s. viii d.</p>
                <p rend="Summa">Habet cedulam.</p>
                <p rend="Nachtrag">Den sacz hat Wolfgang Holczer an stat dem der Epishauser die geltschuld het ubergeben nach laut ains briefs der zu dem puch erlegt ist ledig gesagt, an Montag vor Philippi et Jacobi, anno etc. l.</p>
-               <p rend="Rubrik">Tempore dominorum, Peter Strasser, consulis, et Hanns von Eslorn, anno etc. lmo.</p>
             </div>
          </body>
       </text>

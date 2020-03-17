@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1450-04-27</title>
-               <title type="rubrik">Tempore dominorum, Peter Strasser, consulis, et Hanns von Eslorn, anno etc. lmo.</title>
+               <title type="rubrik">Tempore dominorum, Peter Strasser, consulis, et Hanns von Eslorn, anno etc. l<hi rend="super">mo</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0228.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -115,7 +115,6 @@
                <p>Fricz im Hof der slosser hat versaczt ein haws, gelegen undern Slossern auf der Morin am Graben, zenagst Niclasen Légler haws an aim tail, mit seiner zugehorung dem erbern Wolfgangen Holczler, burger zu Wienn und seinen erben umb hundert und sibenczig pfund Wienner phening. Und sind zu beczaln auf den nagstkünfftigen Gotsleichnams tag, an alles vercziehen. Actum an Montag vor sant Philipp und sand Jacobs tag, anno etc. l<hi rend="super">mo</hi>.</p>
                <p rend="Summa">Summa xi s. x d.</p>
                <p rend="Nachtrag">Habet cedulam.</p>
-               <p rend="Rubrik">Tempore dominorum, Arntolt Galander, consulis, et Hanns von Eslorn, anno etc. lprimo.</p>
             </div>
          </body>
       </text>

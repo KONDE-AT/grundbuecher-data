@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1447-07-19</title>
-               <title type="rubrik">Tempore dominorum Erasm Ponhaimer, consulis, et Hannsen von Eslorn, anno etc. xlviio</title>
+               <title type="rubrik">Tempore dominorum Erasm Ponhaimer, consulis, et Hannsen von Eslorn, anno etc. xlvii<hi rend="super">o</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0227.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -115,8 +115,6 @@
                <p>Fricz im Hof der slosser, hat versaczt sein haws, gelegen Undern Slossern auf der Morin am Graben zenagst Niclasen Legler haus. Dem erbern Hannsen Holczer, burger zu Wienn, und seinen erben, umb hundert und zwainczig gulden ungrisch gerecht in gold und wag, und sind zu bezalen auf sand Merten tag nagst kunftig anvercziehen. Actum an Mitichen vor sand Maria Magdalen tag, anno domini etc. xlvii<hi rend="super">o</hi>.</p>
                <p rend="Summa">Summa vii s. d.</p>
                <p rend="Nachtrag">Den sacz hat der Holczer ledig gesagt, feria sexta ante Petronelle anno etc. xlviii.</p>
-               <p rend="Rubrik">Tempore dominorum Hainreich Haiden, Hanns von Eslorn, anno etc. xlviiio</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0228.jpg</p>
             </div>
          </body>
       </text>
