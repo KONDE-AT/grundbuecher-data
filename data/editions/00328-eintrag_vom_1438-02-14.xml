@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1438-02-14</title>
-               <title type="rubrik">Tempore dominorum Micheln Lienvelder, Dyetreichs Starhannd, anno etc. xxxviiivo</title>
+               <title type="rubrik">Tempore dominorum Micheln Lienvelder, Dyetreichs Starhannd, anno etc. xxxviii<hi rend="super">vo</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -115,7 +115,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0190.jpg"/>
       </facsimile>
       <text>
          <body>

@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1467-12-08</title>
-               <title type="rubrik">Tempore dominorum, heren Erenreich Köppl, consulis, und Veiten Hintperger, anno etc. lxviimo.</title>
+               <title type="rubrik">Tempore dominorum, heren Erenreich Köppl, consulis, und Veiten Hintperger, anno etc. lxvii<hi rend="super">mo</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0157.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -118,7 +118,6 @@
                      <p rend="footnote text"> Öczesstorff habet: Über der Zeile eingefügt.</p>
                   </note>
                </p>
-               <p rend="Rubrik">Tempore dominorum, heren Niclasen Ernsst, consulis, und Veiten Hintperger, anno etc. lxviiii<hi rend="super">no</hi>.</p>
             </div>
          </body>
       </text>

@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1454-12-11</title>
-               <title type="rubrik">Tempore dominorum, Cristan Wissinger, consulis, et Petern von Aslabing, anno etc. liiiito.</title>
+               <title type="rubrik">Tempore dominorum, Cristan Wissinger, consulis, et Petern von Aslabing, anno etc. liiii<hi rend="super">to</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -115,7 +115,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0151.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -124,8 +124,6 @@
                <p rend="Summa">Summa ix s. d.</p>
                <p rend="Nachtrag">Maister Pangrecz habet cedulam.</p>
                <p rend="Nachtrag">Nota die obgenanten hundert und virczigk phunt phening habent maister Pangretz Krewtz und Steffan Kisling zu der kinder hannden ingenommen und sullen in behalten werden. Actum an Phicztag vor Oculi in der vasten, anno etc. lviiii<hi rend="super">o</hi>.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0152.jpg</p>
-               <p rend="Rubrik">Tempore dominorum, hern Niclasen Teschler, consulis, et Thoman Egkenperger, anno etc. lvto.</p>
             </div>
          </body>
       </text>

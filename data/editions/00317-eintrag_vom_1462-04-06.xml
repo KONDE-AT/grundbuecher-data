@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1462-04-06</title>
-               <title type="rubrik">Tempore dominorum, Hannsen von Eslorn, consulis, und Jacoben Rehwein, anno domini etc. lxiio.</title>
+               <title type="rubrik">Tempore dominorum, Hannsen von Eslorn, consulis, und Jacoben Rehwein, anno domini etc. lxii<hi rend="super">o</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0154.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -116,7 +116,6 @@
                <p rend="Summa">Summa vi s. xx d.</p>
                <p rend="Nachtrag">Winkler habet cedulam.</p>
                <p rend="Nachtrag">Not, ob die die obgenant fraw Dorothea, Hanns Kalschinger, ir sun und fraw Ursula, sein swester, baider der egenanten Dorothen kinder das obgenant haws verkauffen wollten zwischen hie und Goczleichnams tag obgenant. So sullen sy das F dem egenanten Hannsen Winkhler und Eslpeten seiner hausfrawen nach rat frumer lewt vor meinklich ze kauffen geben an widersprechen ungeverlich.</p>
-               <p rend="Rubrik">Tempore dominorum, hern Hannsen Ravenspurger, consulis, und Ernreichen Koppl, burger zu Wienn, anno etc. lxiiii<hi rend="super">to</hi>.</p>
             </div>
          </body>
       </text>

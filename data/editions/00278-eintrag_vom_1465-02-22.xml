@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1465-02-22</title>
-               <title type="rubrik">Tempore dominorum, hern Hannsen Ravenspuger, consulis, und Ernreichen Köppel, anno etc. lxvto.</title>
+               <title type="rubrik">Tempore dominorum, hern Hannsen Ravenspuger, consulis, und Ernreichen Köppel, anno etc. lxv<hi rend="super">to</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0128.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -115,7 +115,6 @@
                <p>Cristan Schönnperger, burger zu Wien hat versaczt sein haus, gelegen in der Münnsserstrass zu Wien, zenagst dem gésslein, als man in den Kamerhof geet, an aim tail und an dem andern zenagst Hannsen Haringseer zuhaus. Dem erbern Jacoben Münich, mitburger zu Wien an stat und zu hannden Mathesen seins suns, der noch nicht vogtper ist, umb hundert und dreissgk phunt phennig, die im von aim drittail des obgenanten hauss wegen, das der berürt Cristan gekaufft hat, zugepüren. Und sind zu beczalen zwischen dato des saczs und sand Merten tag nagstkünftigen an vercziehen ungeverlich. Actum an Freitag vor sand Mathias tag apostoli, anno domini etc. lxv<hi rend="super">to</hi>.</p>
                <p rend="Summa">Summa i tl. xx d.</p>
                <p rend="Nachtrag">Nota aus der obgenanten súm ist dem bemelten Capitel Mathesen ain weingarten umb xxx tl. d. erkaufft und in der korheren zu Sand Stephan hie grutpuch geschriben und kommen. Und um die ubermass ain hawss, gelegen vor Stubentor, gekaufft, das Appolonien und Lucein des vorgenanten Mathesen geswistreid in der Schotten gruntpuch geschriben. Actum an Mitichen post Anthoni, anno etc. lxviiii.</p>
-               <p rend="Rubrik">Tempore dominorum, hern Erenreich Köppel, consulis, und Veiten Hintperger, anno etc. lxvii<hi rend="super">mo</hi>.</p>
             </div>
          </body>
       </text>

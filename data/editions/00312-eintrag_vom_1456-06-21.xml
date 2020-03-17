@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1456-06-21</title>
-               <title type="rubrik">Tempore dominorum, Jacoben Rechwein, consulis, et Hannsen von Eslorn, anno etc. lvito.</title>
+               <title type="rubrik">Tempore dominorum, Jacoben Rechwein, consulis, et Hannsen von Eslorn, anno etc. lvi<hi rend="super">to</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,14 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0152.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Dorothe, Erharts Ottentaler hausfrau hat verchaufft funf pfund pfening gelts purkrechts auf der uberteurung irs hauss, gelegen am Kienmarkt zenagst weilent Larenczen des Sixten haus. Uber die hundert und virczig pfund pfening, darumb es Affren und Margreten, Oswalts Wolfger des kramer und Ursulen seiner hausfraun seligen kindern emalen in der stat gruntpuch versaczt ist. Umb vierundfünfczig pfund pfening, der emalen sind gelegen gewesen acht pfunt auf Linharts Gailperger haus in der Laimgrub, drewunddreissig pfund und achczig pfening auf Hannsen Unverdrossen halben haus am Kolmarkt und sechs pfund auf Ulreichen Sikenfurter haus om der Krembserstrass und die ubrigen sechs pfund funf schilling und zehen pfening von dinsten daczu komen sind. Dem erben hern Symon von Recz, caplan der mess, die weilent die von Esloren auf Gotsleichnams altar zu Sand Michel unde dem türn gestifft habent, und seinen nachkomen. Ud sind zu dienn zu drein tegen und wider abczekauffen miteinander und den nagsten dinst damit, ut littera sonat. Actum an Montag vor sand Johans tag zu Sunbenden, anno domini etc. lvi<hi rend="super">to</hi>.</p>
                <p rend="Summa">Summa iii s. x d.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0153.jpg</p>
             </div>
          </body>
       </text>

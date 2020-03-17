@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1440-03-16</title>
-               <title type="rubrik">Tempore dominorum Diecz Starhant, consulis, Michel Linfelder, anno domini etc. xlmo</title>
+               <title type="rubrik">Tempore dominorum Diecz Starhant, consul<unclear>is</unclear>, Michel Linfelder, anno domini etc. xlm<hi rend="super">o</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -119,8 +119,6 @@
                      <p rend="footnote text"> Über dem Text mit Verweis eingefügt.</p>
                   </note> anno etc xlmo, feria quarta post Judica in der vasten.</p>
                <p rend="Summa">Summa xlviii d.</p>
-               <p rend="Rubrik">Tempore dominorum Symon Pótel, consu<unclear>lis</unclear>, Michael Linfelder, anno etc. xli<hi rend="super">o</hi>
-               </p>
             </div>
          </body>
       </text>

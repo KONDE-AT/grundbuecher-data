@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1447-06-09</title>
-               <title type="rubrik">Tempore dominorum Erasm Ponhaimer, consulis, et Niclas pur Hans von Eslorn, anno etc. xlviio</title>
+               <title type="rubrik">Tempore dominorum Erasm Ponhaimer, cons<unclear>ulis</unclear>, et Niclas pur Hans von Eslorn, anno etc. xlviio</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -119,8 +119,6 @@
                <p rend="Summa">Summa i tl. d.</p>
                <p rend="Nachtrag">Ipse habet cedulam.</p>
                <p rend="Nachtrag">Den saczt hat Jacob Swab fur sich und sein pruder ledig gesagt, an Freitag vor Oculi, anno xlviii<hi rend="super">o</hi>.</p>
-               <p rend="Rubrik">Tempore dominorum Hainreich Haiden, consul<unclear>is</unclear>, et Hannsen von Eslorn, anno etc. xlviii<hi rend="super">o</hi>
-               </p>
             </div>
          </body>
       </text>

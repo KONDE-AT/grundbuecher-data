@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1438-02-06</title>
-               <title type="rubrik">Tempore dominorum Micheln Lienvelder, Dyetreichs Starhannd, anno etc. xxxviiivo</title>
+               <title type="rubrik">Tempore dominorum Micheln Lienvelder, Dyetreichs Starhannd, anno etc. xxxviii<hi rend="super">vo</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -115,16 +115,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0190.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Elspeth, Marxen Freydentzwey des kürsner hausfraw, hat versaczt ír haus, gelegen in der Wildwercherstrass am ekg zenagst bei der durichfart zenagst des Matern haus. Dem vessten ritter herrn Hannsen dem Stegér, burgermaister und kellermaister ze Wienn, und Conraten dem Strobl, burger daselbs, baid Micheln des Karlinger geschéfftléuten zu hannden Niclasen des Karlinger, des gerhaben si sein, und seinen erben, umb xxxii tl. d. Also daz si und ír man denselben Niclasen drew jar nagst nacheinander kúnftig mit kósst und gwant versargen und das hantwerich lernen sullen an abslag, und nach ausgang der dreyr jar so súllen si im und seinn erben die benant phening beczalen inner den nagsten drein moneiden. Wér das derselb Niclas in den drein jaren hinlúff oder mit tod abgieng vor ausgang derselben dreyr jar, wenn denn die obgenanten geschéfftherren die benante summ phening an si vórdernt, so sullen si im die dann darnach inner den nagsten drein móneiden beczalen und ausrichten, zu ut littera sonat. Actum an sand Dorothen tag, anno etc. xxxviii<hi rend="super">vo</hi>.</p>
                <p rend="Summa">Summa lxiiii d.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0191.jpg</p>
-               <p rend="Rubrik">Anno etc. xxxviiii<hi rend="super">o</hi>
-               </p>
             </div>
          </body>
       </text>

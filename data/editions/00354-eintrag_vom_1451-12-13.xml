@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1451-12-13</title>
-               <title type="rubrik">Tempore dominorum, Arnolt Galander, consulis, et Hannsen von Eslorn, anno etc. lmo primo.</title>
+               <title type="rubrik">Tempore dominorum, Arnolt Galander, consulis, et Hannsen von Eslorn, anno etc. l<hi rend="super">mo</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0199.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -117,7 +117,6 @@
                <p rend="Nachtrag">Judex habet cedulam.</p>
                <p rend="Nachtrag">Holczlein habet cedulam.</p>
                <p rend="Nachtrag">Daruber Den sacz hat ledig gesagt frau Kathrey die Holczlein, Jorg Talhaimer und Hans Ponhaimer. Und daruber ledig ein quittung geben, von der ain zedl Die wegen, die verloren ist worden. Actum feria sexta post Dorothee, ano etc. lvii<hi rend="super">to</hi>.</p>
-               <p rend="Rubrik">Tempore dominorum, Steffan Awer, consulis, et Jacob Rechwein, anno etc. liii<hi rend="super">o</hi>.</p>
             </div>
          </body>
       </text>

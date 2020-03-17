@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1447-03-24</title>
-               <title type="rubrik">Tempore dominorum Diecz Starhand Michel Línfelder, anno etc. xlo</title>
+               <title type="rubrik">Tempore dominorum Diecz Starhand Michel Línfelder, anno etc. xl<hi rend="super">o</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,14 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0148.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Junkfrau Dorothe, Artolfs Gréfenawer seligen tochter, hat versaczt ir halbs haus mit allen gemechen ud gemain stukchen, die nach laut der tailbrief darczu gehornt, gelegen in der Schefstrass, des gegentail ir swester Barbara die Réwschlin hat. Dem erbern Steffan Rewschel irm swager und seinen erben, umb lx tl. Wienner d. und sind zu beczaln auf sand Michels tag nagstkunftig anvercziehen. Actum an unser lieben frawn tag abent der Kundung, anno domini etc. xlvii<hi rend="super">o</hi>.</p>
                <p rend="Summa">Summa ½ tl. d.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0149.jpg</p>
             </div>
          </body>
       </text>

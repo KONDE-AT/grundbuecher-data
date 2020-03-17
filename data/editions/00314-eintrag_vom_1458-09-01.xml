@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1458-09-01</title>
-               <title type="rubrik">Tempore dominorum, Jacoben Rechwein, consulis, et Hannsen von Eslorn, anno etc. lvito.</title>
+               <title type="rubrik">Tempore dominorum, Jacoben Rechwein, consulis, et Hannsen von Eslorn, anno etc. lvi<hi rend="super">to</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0153.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -124,8 +124,6 @@
                <p rend="Nachtrag">[1459-05-11]</p>
                <p>Dorothe, Hannsen Sumerpekchen hausfraw, die emaln Erharten Ottentaler seligen auch elichen gehabt hat, hat versaczt die ubertewrung irs hawses, gelegen am Kienmarkt zenagst weilent Larenczen des Sixten haws. Davon man jerlich dint hern Symon von Recz, caplan der mess, die weilentt die von Eslorn auf Goczleichnams altar zu Sand Michel zu Wienn gestifft habent, fünf phunt, fünf schilling und fünfczehen phening zu purkchrecht, die abczulosen sind mit newnundfünczig phunten und vir schilling phenigen nach lautt aines purkrechtbriefs und nicht mer. Uber die hundert phunt phening und fünfczigk Ungerisch guldein in gold, die dem edlen Hainreichen Kilaw, mawtter zu Hainburg nachmalen darauf verphenndt sein. Dem erbern herren Hannsen Gebharten, pharrer zu Newnhoven an stat und zu hannden Mathesen, Thomans bebharten seines pruders seligen sun, der noch nicht vogtper ist, und seinen erben umb anderthalbhundert phunt phening lanndeswerung in Österreich. Und sind zu beczaln auf sand Jörgen tag nagstkünftigen an alles vercziehen, ut littera sonat. Actum an Freitag vor sand Pangretzen tag, anno etc. lviiii<hi rend="super">o</hi>.</p>
                <p rend="Summa">Summa x s. d.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0154.jpg</p>
-               <p rend="Rubrik">Tempore dominorum, maister Mertten Guldein, kellermaister in Österreich et consul, et Thoman Egkenperger, anno etc. lx<hi rend="super">mo</hi>.</p>
             </div>
          </body>
       </text>

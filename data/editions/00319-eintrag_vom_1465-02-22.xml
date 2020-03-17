@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1465-02-22</title>
-               <title type="rubrik">Tempore dominorum, hern Hannsen Ravenspurger, consulis, et Erenreich Köppl, anno domini etc. lxvto.</title>
+               <title type="rubrik">Tempore dominorum, hern Hannsen Ravenspurger, consulis, et Erenreich Köppl, anno domini etc. lxv<hi rend="super">to</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0155.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -122,14 +122,13 @@
                <p rend="Summa">Summa vi d. </p>
                <p rend="Nachtrag">Dorothea habet cedulam.</p>
                <p rend="Nachtrag">Nota die obgenannten iii tl. d. sein durch Michlenn Schon, goldsmid, zum puch erlegt. Actum secunda post Kathrine, anno etc. lxxxvi<hi rend="super">to</hi>.</p>
+               <!-- neuer Eintrag -->
                <p rend="Nachtrag">[1467-02-07]</p>
                <p>Dorothe, Hannsen Sunenpekhen seligen witib, die vormalen Erharten Ottentaler auch elichen gehabt hat, versaczt ir hawss, gelegen am Kienmarkt, zenagst weilent Larenczen Sixten hawss. Davon man jerlich dint dem capplan der mess, so weilent die von Esloren auf Goczleichnams altar zu Sand Michel gestifft habend, funff phunt funff schilligen und funffczehen phening zu purkrecht und nicht mer<note>
                      <p rend="footnote text"> Mer: Über der Zeile eingefügt.</p>
                   </note>. Dem erbern Hannsen Spiegler, mitburger zu Wienn, irem lieben sun und sein erben umb hundert phunt phening und fünffczigk guter newer Ungerischer guldein, gerecht in gold und wag, darumb vormalen das obgenant hawss Hainrichen Kilaw, mautter und ungelter zu Hainburgkh und seinen erben versaczt ist gewesen, die der obgenant Hanns Spiegler bezalt hat. Und sind zu bezalen, wann sy die vordern und nicht lennger peyten wellen, darnach an alles verziehen. Und sollen auch mit der bezalung vorgeen vor Mathesen, Thomans Gebharten seligen sun, dem das obgenant hawss auch verschriben ist. In aller der mass, als der obgenante Kilaw und sein erben hieten getun mugen, getrewlich und ungeverlich. Actum an Sambstag nach Sand Dorothen tag virginis, anno domini etc. lxvii<hi rend="super">mo</hi>.</p>
                <p rend="Summa">Summa x s. xxii d.</p>
                <p rend="Nachtrag">Nota Hanns Aspekh und Stephan Stressel, baid genant habend ir kuntschafft bey dem puch gesagt, das der obgenant sacz mit willen und wissen der obgenanten beschehen ist. Und ist geschehen ut wann die obgenant Dorothe von merklicher irer krankhait wegen selbs zu dem puch nicht hat kommen mügen.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0156.jpg</p>
-               <p rend="Rubrik">Tempore dominorum, heren Erenreich Köppl, consulis, und Veiten Hintperger, anno etc. lxvii<hi rend="super">mo</hi>.</p>
             </div>
          </body>
       </text>

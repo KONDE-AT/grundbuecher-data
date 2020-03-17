@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1455-11-21</title>
-               <title type="rubrik">Tempore dominorum, hern Niclasen Teschler, consulis, et Thoman Ekenperger, anno etc. lvto.</title>
+               <title type="rubrik">Tempore dominorum, hern Niclasen Teschler, consulis, et Thoman Ekenperger, anno etc. lv<hi rend="super">to</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0200.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -115,8 +115,6 @@
                <p>Elspeth, Jorgen Vessten des kramer seligen witib hat versaczt ir haus, gelegen am Liechtensteg zenagst Petern des Wéginger haws, dem erbern Hannsen Schonhawer, zimerman, und seinen erben umb sibenundczaiwnczig pfund pfening. Und sind zu beczalen auf mittvasten nagstkunfftigen anvercziehen. Actum an Freitag vor sand Kathrein tag, anno domini etc. lv<hi rend="super">to</hi>.</p>
                <p rend="Summa">Summa liiii d.</p>
                <p rend="Nachtrag">Nota Hanns Schonhawer hat dem vorgenanten sacz ledig gesagt an Freitag vor Erasmi, anno etc. lviii<hi rend="super">o</hi>.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0201.jpg</p>
-               <p rend="Rubrik">Tempore dominorum Jacobs Rechwein, consulis, et Hannsen von Eslorn, anno etc. lvi<hi rend="super">to</hi>.</p>
             </div>
          </body>
       </text>

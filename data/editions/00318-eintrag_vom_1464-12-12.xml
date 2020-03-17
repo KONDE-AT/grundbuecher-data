@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1464-12-12</title>
-               <title type="rubrik">Tempore dominorum, hern Hannsen Ravenspurger, consulis, und Ernreichen Koppl, burger zu Wienn, anno etc. lxiiiito.</title>
+               <title type="rubrik">Tempore dominorum, hern Hannsen Ravenspurger, consulis, und Ernreichen Koppl, burger zu Wienn, anno etc. lxiiii<hi rend="super">to</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,15 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0154.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Dorothe, Andres Krembniczer des goltsmids, weilent mitburger zu Wienn seligen witib hat versaczt ir haws, gelegen am alten Kollmarkcht, zenagst Hannsen Meyrl haws an aim tail und an dem andern zenagst Ulreichs Ganser des sneider haws. Davon man jerlich dint hern Niclasen Kuliber, kapplan der mess, die Ulreich Flekch auf Unser Frawn altar, in Sand Johans kappeln vor Werdertor gelegen, gestifft hat, zway phunt phening zu purkrecht, die abtzelosen sind mit xx tl. d. nach laut ains purkrechtbriefs und nicht mer. Pangretzen und Elspeten, Andres Meichsner des goltsmids seligen kindern, die noch nicht vogtper sind, und irn erben umb hundert phunt, aindli schilling und funf phening Wienner munss. Und sind zu betzaln ir yedem seinen tail, so im aus der benanten sum gepürt, wann es vogtper wirdet an alels vertziehen ungeverlich. Actum an Mitichen vor sand Lucein tag, anno etc. lxiiii<hi rend="super">to</hi>.</p>
                <p rend="Summa">Summa vi s. xx. d.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0155.jpg</p>
-               <p rend="Rubrik">Tempore dominorum, hern Hannsen Ravenspurger, consulis, et Erenreich Köppl, anno domini etc. lxv<hi rend="super">to</hi>.</p>
             </div>
          </body>
       </text>

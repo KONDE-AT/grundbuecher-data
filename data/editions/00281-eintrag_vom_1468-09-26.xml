@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1468-09-26</title>
-               <title type="rubrik">Tempore dominorum, hern Niclasen Ernst, consulis, und Veiten Hintperger, anno domini etc. lxviiimo.</title>
+               <title type="rubrik">Tempore dominorum, hern Niclasen Ernst, consulis, und Veiten Hintperger, anno domini etc. lxviii<hi rend="super">mo</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,14 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0129.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Conrat Reyff hat versaczt sein haws, gelegen auf der Morinn zenagst Ulreichs Kerner haws, Brigiden, Merten Mandl hausfrawn und irn erben umb acht phunt phening jerlicher gült irer haimstewr, die mit zwain hundert phunt phenigen ab zulosen sind. In der maynung, das derselb Reyff und sein erbn der egenanten Brigiden und irn erbn die egenanten acht phunt phening alle jar von der egenanten haubtsum, halb zu Weichnachten und halb zu Phingsten ausrichten und mit der ersten zalung anheben sullen zu Weichnachten nagstkunftigen, auf ir quittung, ut littera. Actum an Montag vor sand Michels tag, anno etc. lxviii.</p>
                <p rend="Summa">Summa xiii s. d.</p>
-               <p rend="Rubrik">Tempore dominorum, heren Niclasen Ernsst, consulis, und Veiten Hintperger, anno domini etc. lxviiii.</p>
             </div>
          </body>
       </text>

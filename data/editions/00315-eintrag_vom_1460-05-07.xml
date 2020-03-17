@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1460-05-07</title>
-               <title type="rubrik">Tempore dominorum, maister Mertten Guldein, kellermaister in Österreich et consul, et Thoman Egkenperger, anno etc. lxmo.</title>
+               <title type="rubrik">Tempore dominorum, maister Mertten Guldein, kellermaister in Österreich et consul, et Thoman Egkenperger, anno etc. lx<hi rend="super">mo</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0154.jpg"/>
       </facsimile>
       <text>
          <body>

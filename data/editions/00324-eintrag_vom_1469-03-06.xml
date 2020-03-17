@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1469-03-06</title>
-               <title type="rubrik">Tempore dominorum, heren Niclasen Ernsst, consulis, und Veiten Hintperger, anno etc. lxviiiino.</title>
+               <title type="rubrik">Tempore dominorum, heren Niclasen Ernsst, consulis, und Veiten Hintperger, anno etc. lxviiii<hi rend="super">no</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0157.jpg"/>
       </facsimile>
       <text>
          <body>

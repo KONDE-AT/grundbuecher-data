@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1469-06-23</title>
-               <title type="rubrik">Tempore dominorum, heren Niclasen Ernsst, consulis, und Veiten Hintperger, anno etc. lxviiiino.</title>
+               <title type="rubrik">Tempore dominorum, heren Niclasen Ernsst, consulis, und Veiten Hintperger, anno etc. lxviiii<hi rend="super">no</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,15 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0157.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Dorothe, Leopolten Stadler pewtler witib hat versaczt ir hawss, gelegen in der Walichstrass, Do der Wolf den Gennsen predigt, zenagst heren Hannsen Jarolter hawss an ainem tail, dem erbern Wolfgangen Ortter und seinen erben. Umb fünffczigkh phunt Wienner phenning guter lanndeswerung in Österreich, in solher maynung, das nach seinem abgangkh dieselben sum phening gevallen und erben sullen auf seine kinder, die er bey seiner hausfrawen Affren seligen elichen gehabt hat. Gingen aber dieselben ir baider kinder nach im auch ungevogt ab oder ob sy vogper wurden und die bemlten funffczigkh phunt phening unverschafft, unvermarkt und unverkumert hinder in liessen, so sullen sy dann erben und gevallen auf derselben kanlewt baider nagst erben, darauf sy zu recht erben und gevallen sullen. Wér aber das dieselben kinder vor dem bemelten Orter irm vater mit tod abgiengen, so sullen die bemelten fünfftzigkh phunt phening gleich halb im lediclich beleiben und den andern halben tail desselben gelts sol und mag er sein lebtég unverkumert innhaben, núczen und nyessen, als leibgedings recht ist. Und nach seinem abgangkh sol derselb halb tail gelts erben und gevallen auf der egenanten Affren, seiner hausfraun nagst erben, darauf er zu recht erben und gevallen sullen sol ungeverlich. Und sind zu bezalen von datum des briefs über ain gannczs jare an widerred und alles verziehen, ut littera sonat. Actum an sand Johanns abent zu Sunbenndten, anno etc. lxviiii<hi rend="super">no</hi>.</p>
                <p rend="Summa">Summa iii s. x. d.</p>
-               <p rend="Rubrik">Tempore dominorum, heren Niclasen Erensst, consulis, und Cristan Schönnperger, anno etc. lxxi<hi rend="super">mo</hi>.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0158.jpg</p>
             </div>
          </body>
       </text>

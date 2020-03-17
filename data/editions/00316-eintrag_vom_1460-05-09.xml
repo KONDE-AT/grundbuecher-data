@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1460-05-09</title>
-               <title type="rubrik">Tempore dominorum, maister Mertten Guldein, kellermaister in Österreich et consul, et Thoman Egkenperger, anno etc. lxmo.</title>
+               <title type="rubrik">Tempore dominorum, maister Mertten Guldein, kellermaister in Österreich et consul, et Thoman Egkenperger, anno etc. lx<hi rend="super">mo</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,14 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0154.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Dorothe, Hannsen Spanring seligen witib hat versaczt die ubertewrung irs hawss, gelegen in der vodern Pekchenstrass zenagst Thomans Swarczen haws, uber die hundert phunt phening, darumb es vormalen Barbaren irer tochtter verphent ist. Derselben Barbaren irer tochtter, die noch nicht vogtper ist, umb funfczig phunt phening und sind zu beczalen, wenn dieselb Barbara vogtper wirdet. Wer aber, daz sy ungevogte abging, so sullen dann dieselben funfczig phunt phening lediclich erben und gevallen auf dieselb Dorothe ir mutter oder ir erben. Actum an Freitag vor sand Pangreczen tag, anno etc. lx<hi rend="super">mo</hi>.</p>
                <p rend="Summa">Summa iii s. x d.</p>
-               <p rend="Rubrik">Tempore dominorum, Hannsen von Eslorn, consulis, und Jacoben Rehwein, anno domini etc. lxii<hi rend="super">o</hi>.</p>
             </div>
          </body>
       </text>

@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1468-06-01</title>
-               <title type="rubrik">Tempore dominorum, hern Niclasen Ernst, consulis, und Veiten Hintperger, anno domini etc. lxviiimo.</title>
+               <title type="rubrik">Tempore dominorum, hern Niclasen Ernst, consulis, und Veiten Hintperger, anno domini etc. lxviii<hi rend="super">mo</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0128.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -115,7 +115,6 @@
                <p>Cristoff Ötzestorffer, burger zu Wienn verkaufft fünff phunt fünff Schilligen und funffzehn phening gelts purkrechts auf seinem hawss, gelegen am Kienmarkt zenagst weilent Larenczen Sixten seligen hawss an ainem tail, umb newnundfünfftzigkh phunt und vier Schilligen phening Wienner munss. Dem erbern priester, heren Jorgen von der Ygla, capplan der mess, so die von Eslorn auf Goczleichnambs altar zu Sand Michel únder dem türn gestifft habend, und seinen nachkommen capplen derselben mess. Und sind zu dienn zu drein tegen im jare und widerumb abzekauffen mit lviiii tl. und iiii s. d. und den nagsten dinst damit an anverziehen, ut littera sonat. Actum an Mitichen vor Sand Erasm tag, anno domini etc. lxviii<hi rend="super">no</hi>.</p>
                <p rend="Summa">Summa iii s. xxviii d.</p>
                <p rend="Nachtrag">Ist widerumb auf dem bemelten hawss durch Kristoffen Rössel verschriben, utz libro isto, folio sequenti.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0129.jpg</p>
             </div>
          </body>
       </text>
