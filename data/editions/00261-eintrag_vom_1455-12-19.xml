@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1455-12-19</title>
-               <title type="rubrik">Tempore dominorum, hern Niclasen Teschler, consulis, et Thoman Ekenperger, anno domini etc. lvto.</title>
+               <title type="rubrik">Tempore dominorum, hern Niclasen Teschler, consulis, et Thoman Ekenperger, anno domini etc. lv<hi rend="super">to</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0123.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -115,7 +115,6 @@
                <p>Caspar Phabendirtt der goltsmid und Helen, sein hausfrau habent verchaufft zehen pfund gelts purkrechts auf irm haws, gelegen in der Sunigerstrass zenagst der padstuben. Umb hundert pfund pfenig, dem erbern hern Jorgen Schrot, caplan Sand Peters capellen und verweser der mess, so Eberhart Kasstner daselbs zu stifften geschaft hat, und seinen nachkomen. Und sind zu dienn zu drein tegen und wider abczuchauffen miteinander und den nagsten dinst damit, ut littera. Actum an Freitag ante Thome, anno domini etc. lv<hi rend="super">to</hi>.</p>
                <p rend="Summa">Summa vi s. xx. d.</p>
                <p rend="Nachtrag">Nota des egenanten purkrechts ist gelegt worden auf Wolfgangs Pilsner haws am Hof, ut littera sonat.</p>
-               <p rend="Rubrik">Tempore dominorum, Jacob Rechwein, consulis, et Hanns von Eslorn, anno etc. lvi<hi rend="super">to</hi>.</p>
             </div>
          </body>
       </text>

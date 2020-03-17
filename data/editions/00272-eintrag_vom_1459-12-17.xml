@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1459-12-17</title>
-               <title type="rubrik">Anno etc. lviiiio.</title>
+               <title type="rubrik">Anno etc. lviiii<hi rend="super">o</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0126.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -116,7 +116,6 @@
                <p rend="Summa">Summa i tl. xx d.</p>
                <p rend="Nachtrag">Hanns Pawmgartner habet zedulam.</p>
                <p rend="Nachtrag">Nota des sacz hat Hanns Pauwngartner auf ainem spruch zwischen sein und Reisinger erbern beschehnn ledig gesagt, quinta post Oculi 89.</p>
-               <p rend="Rubrik">Tempore dominorum, maister Mert Gulden, consulis, und Hanns von Eslorn.</p>
             </div>
          </body>
       </text>

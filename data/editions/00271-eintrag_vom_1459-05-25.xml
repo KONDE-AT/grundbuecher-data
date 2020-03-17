@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1459-05-25</title>
-               <title type="rubrik">Anno etc. lviiiio.</title>
+               <title type="rubrik">Anno etc. lviiii<hi rend="super">o</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,8 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0125.jpg"/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0126.jpg"></graphic>
       </facsimile>
       <text>
          <body>
@@ -115,9 +116,10 @@
                <p>Kuncz Weinstain, Henglweiner, hat versaczt sein haws, gelegen vor Widmertor in der Krembserstrass zenagst Merten Weschen haws, dem erbern Ernreichen Koppel, burger zu Wienn und seinen erben umb xxxviiii tl d. Und sind zu beczaln auf die Weinachten nagstkunftig anvercziehen. Actum an sand Urbans tag, anno etc. lviiii.</p>
                <p rend="Summa">Summa lviii d.</p>
                <p rend="Nachtrag">Koppl habet cedulam.</p>
+               <!-- neuer Eintrag -->
                <p>[1459-08-13]</p>
                <p>Chunrat Muttenhawser hat versaczt sein haws, gelegen in der vodern Peckenstrass zenagst Andres Kolhaimer haws, seiner hausfrawn Kunigunden, Hainreichs des Phangawer tochtter umb hundert pfunt phenig haimstewr und umb cc tl. d. widerlegung und morgengab, nach landesrechten. Also daz dasselb haws darumb ir furphant sein sol vor aller meinclich. Doch in solher maynung, wann er oder sein erben nach seinem tod die egenanten sein hausfrawn ermonen und sey der egenanten ccc tl. d. entrichten, so sol sy in dann dasselb haws darumb zu losen geben. Und sol dann sein hausfraw Kunigund die c tl. d. ir leibgeding, so uber ir morgengab da sind, mit seiner nagsten erben oder frewnt willen und wissen anlegen aus aim erbschafft im land in Österreich oder an ander enden. Und sol das uverkumert innhaben ir lebteg, also ob zu schulden kem, daz die sein nagst erben nach irm abgang wissen ze vinden. Wer aber, das sy er abging dann er und nicht leiberben mit im hinder ir liesse, so sol er die c tl. d. ir heiratgut, so so sy im zubracht hat, auch unverkumert innhaben sein lebteg. Und nach seinem abgang so sullen sew hinwider erben und gevallen auf ir nagst erben, dafur sy zu recht erben und gevallen sullen. Es ist auch bredt, ob beschech, daz der egenant Muttenhawser mit dem tod abging ee wenn sein hausfraw Kunigund undn erblich leiberben mit irh hinder sein liesse, so sol er derselben seiner hausfraun</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0126.jpg</p>
+               <pb/>
                <p>Kunigunden aus aller seiner varundenhab, daz dann nach der stat zu Wienn rechte und gewonhait varundenhab gehaissen ist, ausgenommen kaufmanschafft, damit ainer handelt ungeverlich, der drittail gefallen und vervolgen und seinen vadern kindern und auch den kindern, so sy baide elichen miteinander hieten oder liessen, die zway tail der varundenhab auch gefallen und verfolgen sol, auch an alle widerred. Wer aber, daz sew kainen leiberben hieten oder liessen, so sol der offtgenante seiner hausfrawn Kunigunden halbertail aller seiner varundenhab, als oben vermelt ist gefallen und verfoligen und seinen kindern, so er vor ir gehabt hat, der ander halb tail gefallen und eleiben, auch treulich und ungeverlich, ut littera sonat. Actum an Montag vor Unser Vrawn tag der Schidung, anno domini etc. lviiii<hi rend="super">o</hi>.</p>
                <p rend="Summa">Summa ii ½ tl. d.</p>
                <p rend="Nachtrag">Kunigund Mattinhawsin habet cedulam.</p>

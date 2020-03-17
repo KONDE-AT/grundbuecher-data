@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1456-03-05</title>
-               <title type="rubrik">Tempore dominorum, Jacob Rechwein, consulis, et Hanns von Eslorn, anno etc. lvito.</title>
+               <title type="rubrik">Tempore dominorum, Jacob Rechwein, consulis, et Hanns von Eslorn, anno etc. lvi<hi rend="super">to</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0123.jpg"/>
       </facsimile>
       <text>
          <body>

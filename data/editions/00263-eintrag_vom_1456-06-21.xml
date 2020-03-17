@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1456-06-21</title>
-               <title type="rubrik">Tempore dominorum, Jacob Rechwein, consulis, et Hanns von Eslorn, anno etc. lvito.</title>
+               <title type="rubrik">Tempore dominorum, Jacob Rechwein, consulis, et Hanns von Eslorn, anno etc. lvi<hi rend="super">to</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0123.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -116,7 +116,6 @@
                <p rend="Summa">Summa v s. xxviii d.</p>
                <p rend="Nachtrag">Kuncz habet cedulam.</p>
                <p rend="Nachtrag">Nota die ain zedl ist zum puch pracht und verricht und die annder ist verlorn, darumb ain totbrief Zum puch erlegt ist geben und von dem egenanten Kunczen Prantsteter zu dem gruntpuch erlegt. Actum an Mitichen nach Michaelis, lxxi<hi rend="super">mo</hi>.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0124.jpg</p>
             </div>
          </body>
       </text>
