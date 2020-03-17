@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1470-09-05</title>
-               <title type="rubrik">Tempore dominorum, herren Niclasen Erensst, consulis, und Cristan Schönnperger, anno etc. lxxmo.</title>
+               <title type="rubrik">Tempore dominorum, herren Niclasen Erensst, consulis, und Cristan Schönnperger, anno etc. lxx<hi rend="super">mo</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,15 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0048.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Albrecht Unger der wagner und Anna sein hausfraw habent versaczt ir hawss, gelegen am newn Markht zenagst Hannsen Hirssen haws, dem ersamen weisen Wolfgangen Ruelannd, spitalmaister der burger spital vor Kernertor zu Wienn und seinen erben umb achtundsechczigkh phunt phennig. Und sind zu beczalen von den phingsten nagstkunfftigen uber ain ganncz jare, darnach an alles vercziehen ungeverlich. Actum an Mitichen nach sand Giligen tag, anno domini etc. lxx<hi rend="super">mo</hi>.</p>
                <p rend="Summa">Summa ½ tl., xvi d.</p>
-               <p rend="Rubrik">Tempore dominorum, herren Niclasen Erenst, consulis, und Cristan Schonnperger, anno domini etc. lxxi<hi rend="super">mo</hi>
-               </p>
             </div>
          </body>
       </text>

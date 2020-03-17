@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1467-07-20 </title>
-               <title type="rubrik">Tempore dominorum, herren Erenreich Koppel, consulis, und Veiten Hingperger, anno etc. lxviimo.</title>
+               <title type="rubrik">Tempore dominorum, herren Erenreich Koppel, consulis, und Veiten Hingperger, anno etc. lxvii<hi rend="super">mo</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0045.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -116,7 +116,6 @@
                <p rend="Summa">Summa xxiiii d. </p>
                <p rend="Summa">Herren Hanns Mulfelder habet cedulam. </p>
                <p rend="Nachtrag">Von der egenant Hanns Mulvelder ist der vorgenanten und gehornt  summen guldein beczalt, ut quittung, die zu dem puch erlegt ist.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0046.jpg</p>
             </div>
          </body>
       </text>

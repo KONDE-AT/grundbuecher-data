@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1466-07-11 </title>
-               <title type="rubrik">Tempore dominorum, herren Erenreich Koppl, consulis, und Jacoben Gsmechl, anno etc. lxvito.</title>
+               <title type="rubrik">Tempore dominorum, herren Erenreich Koppl, consulis, und Jacoben Gsmechl, anno etc. lxvi<hi rend="super">to</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,14 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0044.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Andre Awer, burger zu Wienn hat versaczt die ubertewrung seins hawss, gelegen in Sand Johannsstrass zenagst weilent herren Jorgen von Kurring hawss, über die zehen Ungrisch guldein, darumb es vormaln maister Ulreichen Griessenpekh, licenciat geistlicher rechten, statschreiber zu Wien und sein erben versaczt ist. Dem erbern weisen Sigmunden Gwalthofer, burger saselbst und sein erben umb dreyunddreissig Ungrisch guldein, gerecht in gold und wag und sind zu beczalen auf Sannd Michels tag nagstkufnftigen an alles vercziehen, getrewlich und ungeverlich. Actun an Freytag vor sand Margrethen tag, anno domini etc. lxvi<hi rend="super">to</hi>.</p>
                <p rend="Summa">Summa lxxxii d Gwalthofer habet cedulam.</p>
-               <p rend="Rubrik">Tempore dominorum, herren Erenreich Koppel, consulis, und Veiten Hingperger, anno etc. lxvii<hi rend="super">mo</hi>.</p>
             </div>
          </body>
       </text>

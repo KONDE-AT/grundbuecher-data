@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1470-02-16</title>
-               <title type="rubrik">Tempore dominorum, herren Niclasen Erensst, consulis, und Cristan Schönnperger, anno etc. lxxmo.</title>
+               <title type="rubrik">Tempore dominorum, herren Niclasen Erensst, consulis, und Cristan Schönnperger, anno etc. lxx<hi rend="super">mo</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,14 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0047.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Anna, Wilhalms Holczl seligen witib hat versaczt irn tail hawss, gannczes gelegen in der Wolczeil zenagst weilent Casparn Reysinger seligen hawss, und von dem ersamen priester herren Hannsen Stascheul mit kauff an sy komen ist. Dem ersamen priester herren Symon Holczl, irem sun und seinen erben umb anderthalb hundert gutter Ungrischer guldein, gerecht in gold und wag. Und sind zu beczalen, wann sy die vordern und nicht lennger peyten wellen, darnach an alles verziehen und an allen iren schaden, getrewlich und ungeverlich. Actum an Freitag sand Juliana tag, anno domini etc. lxx<hi rend="super">mo</hi>.</p>
                <p rend="Summa">Summa xi s. d. </p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0048.jpg</p>
             </div>
          </body>
       </text>

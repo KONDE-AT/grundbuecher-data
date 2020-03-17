@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1467-03-02 </title>
-               <title type="rubrik">Tempore dominorum, herren Erenreich Koppel, consulis, und Veiten Hingperger, anno etc. lxviimo.</title>
+               <title type="rubrik">Tempore dominorum, herren Erenreich Koppel, consulis, und Veiten Hingperger, anno etc. lxvii<hi rend="super">mo</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,13 +107,14 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0044.jpg"/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0045.jpg"></graphic>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Agnes, Hannsen Larenczen des schuester seligen witib hat versaczt ir hawss, gelegen in der Kernerstrass zenagst Cristans Wissinger hawss, Wolfgangen irm pruder, der noch ungevogt ist, und seinen erben umb xlii t fünff schilling und zehn phennig. Und sind zu beczalen,</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0045.jpg</p>
+               <pb/>
                <p>wann der vorgenant Wolfgang vogtper wurdet oder, ob er ungevogt mit tod abging, seinen nagsten erben, darnach an alles verziehen. Und sol auch den benanten irm pruder, uncz er gevogt wiret, mit irm leib und gut innhaben, uncz er gevogt wirdet, an allen seins guts getreulich und ungeverlich. Actum an Montag nach dem Suntag Oculi in der vassten, anno domini etc. lxvii<hi rend="super">mo</hi>.</p>
                <p rend="Summa">Summa lxxxiiii d.</p>
                <p rend="Summa">Wolfgang Widmer obgenannt habet zedulaz.</p>

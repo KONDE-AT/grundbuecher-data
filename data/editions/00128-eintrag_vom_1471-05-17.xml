@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1471-05-17</title>
-               <title type="rubrik">Tempore dominorum, herren Niclasen Erenst, consulis, und Cristan Schonnperger, anno domini etc. lxximo</title>
+               <title type="rubrik">Tempore dominorum, herren Niclasen Erenst, consulis, und Cristan Schonnperger, anno domini etc. lxxi<hi rend="super">mo</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,34 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0048.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Andre Milt hat versaczt die gerechtigkait und tail, so er hat an ainem hawss, gelegen hinder Sand Pangretzen, gelegen zenagst der Starkhen Hainreichin hawss. Davon man jerlich dint Sand Pangreczen cappelln am Hof ain phunt phennig zu purkrecht und nicht mer, darumb er und sein swester Elspeth, Hannsen Slegl hausfraw miteinadner nucz und gwer geschriben stent. Den erbern Hannsen Sundinger, Ursulen seiner hausfrawn, seiner stewfmutter und irn baiden erben umb zwainczigkh Hungrisch guldein, gerecht in gold und wag und sind zu be bezalen auf sand Merten tag nagstkunfftign an alles verziehen nach lautt ains spruchbriefs. Actum an Freitag nach sand Pangreczen tag, anno domini etc. lxxi<hi rend="super">mo</hi>.</p>
                <p rend="Summa">Summa l. d. Sundinger hz cclii</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0049.jpg</p>
-               <p>Leere Seite</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0050.jpg</p>
-               <p>Leere Seite</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0051.jpg</p>
-               <p>Leere Seite</p>
-               <p rend="FAKSIMILELINK">Faksimile fehlt</p>
-               <p>Leere Seite</p>
-               <p rend="FAKSIMILELINK">Faksimile fehlt</p>
-               <p>Leere Seite</p>
-               <p rend="FAKSIMILELINK">Faksimile fehlt</p>
-               <p>Leere Seite</p>
-               <p rend="FAKSIMILELINK">Faksimile fehlt</p>
-               <p>Leere Seite</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0052.jpg</p>
-               <p>Leere Seite</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0053.jpg</p>
-               <p>Leere Seite</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0054.jpg</p>
-               <p rend="Rubrik">Tempore dominorum Michel Lyenvelder et Dy<unclear>et</unclear>z Starhant, anno etc. xxxviii<hi rend="super">o</hi>
-               </p>
             </div>
          </body>
       </text>

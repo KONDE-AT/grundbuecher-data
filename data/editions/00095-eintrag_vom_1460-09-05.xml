@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1460-09-05</title>
-               <title type="rubrik">Tempore dominorum, maister Merten Guldein, consulis, Thoman Ekkenperger, anno etc. lxmo.</title>
+               <title type="rubrik">Tempore dominorum, maister Merten Guldein, consulis, Thoman Ekkenperger, anno etc. lx<hi rend="super">mo</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0039.jpg"/>
       </facsimile>
       <text>
          <body>

@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1468-03-04</title>
-               <title type="rubrik">Tempore dominorum, herren Niclasen Ernst, consulis, und Veiten Hintperger, anno etc. lxviiio.</title>
+               <title type="rubrik">Tempore dominorum, herren Niclasen Ernst, consulis, und Veiten Hintperger, anno etc. lxviii<hi rend="super">o</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0047.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -115,7 +115,6 @@
                <p>Affra, Sigmunds Umckhen, mitburger zu Wienn hawsfraw hat verkauft auf irm hawss zehen phund phennig gelts purkrechts, gelegen in der Wollzeyl zenagst maister Merten Guldein haws. Umb hundert pfund Wienner phennig Herren Hannsen Payr, dizeyt cantor zu Sand Steffan, capplan der mess, di fraw Anna, Mertten Reydecker im Vischhof witib auf der zwelfpotenaltar daselbst gestift hat, und sein nachkommen capplain derselben mess. Und sind zu diennen zu drew tegen und wider abzekauffen miteinander und dem nagsten dienst damit, ut littera. Actum an Freytag vor Invocavit in der vassten, anno etc. lxviii.</p>
                <p rend="Summa">Summa vi s. xx d.</p>
                <p rend="Nachtrag">Nota des vorgenanten hawss stet Sigmunds Umkh und Affra sein hausfrau in der gwer und habent das vorgenant purkrecht wider auf sich genomen.</p>
-               <p rend="Rubrik">Tempore dominorum, herren Niclasen Ernsst, consulis, und Veiten Hintperger, anno etc. lxviiii<hi rend="super">mo</hi>.</p>
             </div>
          </body>
       </text>

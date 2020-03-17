@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1467-07-20</title>
-               <title type="rubrik">Tempore dominorum, herren Erenreich Koppel, consulis, und Veiten Hingperger, anno etc. lxviimo.</title>
+               <title type="rubrik">Tempore dominorum, herren Erenreich Koppel, consulis, und Veiten Hingperger, anno etc. lxvii<hi rend="super">mo</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,14 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0046.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Andre Makchl, vischer, und Elsbeth sein hausfraw habend versaczt die ubertewrung irs hawss, gelegen vor Werdertor zenagst Linharts Kuchleins hawss. Uber die fünff phunt phennig gelts purkrechts, darumb es vormalen dem capplan der mess auf Sand Peter und Sand Pauls altar in Sand Johanns cappelln vor Werdertor, so Stephan Helmreich gestifft hat, und über die xii Ungrischer gulden, darumb es herrn Hannsen Mulfelder und seinen erben auch vormalen versaczt ist. Dem erbern Hannsen Freitl und Elspethen seiner hausfrawn und iren baiden erben umb funffundzwainczig phunt phennig und sind zu bezalen auf sand Margrethen tag nagstkunfftigen an alles verziehen, getrwlich und ungeverlich. Actum an Montag post Alexi, anno etc. lxvii<hi rend="super">mo</hi>.</p>
                <p rend="Summa">Summa tl. d.</p>
-               <p rend="Rubrik">Tempore dominorum, herren Niclasen Ernst, consulis, und Veiten Hintperger, anno etc. lxviii<hi rend="super">o</hi>.</p>
             </div>
          </body>
       </text>

@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1465-07-31 </title>
-               <title type="rubrik">Tempore dominorum, herren Hannsen Ravenspurger, consulis, und Ernreichen Kopl, anno etc. lxvto.</title>
+               <title type="rubrik">Tempore dominorum, herren Hannsen Ravenspurger, consulis, und Ernreichen Kopl, anno etc. lxv<hi rend="super">to</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0044.jpg"/>
       </facsimile>
       <text>
          <body>
