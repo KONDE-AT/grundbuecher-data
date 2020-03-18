@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1458-06-12</title>
-               <title type="rubrik">Tempore dominorum, Jacobs Rechwein, consulis, et Hannsen von Eslorn, anno etc. lvito.</title>
+               <title type="rubrik">Tempore dominorum, Jacobs Rechwein, consulis, et Hannsen von Eslorn, anno etc. lvi<hi rend="super">to</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,14 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0231.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Fridrich Gerunger, dieczeit des rats der stat zu Wienn hat verkauft zwelf phunt pfening geltes purkrechts auf seinem haws und seiner zugehorung, daz er von Wilhalm Mertinger und seiner hausfrawn gekauft hat, gelegen am Kienmarkt zenagst Erharts Stecher haws. Davon man jérlich dint dem kaplan der ewigen mess, die weilent maister Gerhart Vischwekch korherr dacz Sant Steffan zu Wienn gestifft hat, zehen phunt pfening zu purkrecht und nicht mer. Umb zwaihundert guter newr Ungrischer guldein, gerecht in gold und wag, die emaln gelegen gewesen sind auf Larencz Swancz haws am Silberpuhel, die man damit darab geledigt und gelost hat, dem erbern weisen, · dem richtter und rat zu Hainburg und allen irn nachkómen. Und sind zu dienn zu den vir quatembern jar, zu der quatember drew phunt Wienner pfening und wider abczukauffen miteinander mit zwainhundert Ungrischer guldein und den negsten dinst damit, der denn davon zu dienn gevellet, ut littera sonat. Actum an Montag vor sant Veits tag, anno domini etc. lviii.</p>
                <p rend="Summa">Summa xiii s. d.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0232.jpg</p>
             </div>
          </body>
       </text>

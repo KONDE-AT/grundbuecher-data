@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1458-06-14</title>
-               <title type="rubrik">Tempore dominorum, Jacobs Rechwein, consulis, et Hannsen von Eslorn, anno etc. lvito.</title>
+               <title type="rubrik">Tempore dominorum, Jacobs Rechwein, consulis, et Hannsen von Eslorn, anno etc. lvi<hi rend="super">to</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,14 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0232.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Fridrich Gerunger, dieczeit des rats der stat zu Wienn hat versaczt sein haws mit seiner zugehorung, das er weilent von Wilhalm Merttinger und seiner hausfrawn gekauft hat, gelegen am Kienmarkt zenagst Erharts Stecher haws. Davon man jerlich dint dem kaplan der ewigen mess, die weilent maister Gerhart Vischwekch, korher dacz Sand Steffan zu Wien gestifft hat, zehen phunt phening zu purkrecht und den erbern weisen, dem richtter und rat zu Hainburg zwelif phunt phening, auch zu purkrecht, die abczulosesn sind mit zwainhundert guldein nach lawtt ains purkrechtbriefs und nicht mer. Dem edeln vesten ritter, hern Wernharten Drugkseczen von Grub und seinen erben umb hundert und sibenczig guldein Hungrisch und ducaten, gerecht in gold und wag. Und sind zu beczalen auf die Weichnachten nagstkünftigen an alles vercziehen, ut littera sonat. Actum an Mitichen vor sand Veits tag, anno domini etc. lviii<hi rend="super">o</hi>.</p>
                <p rend="Summa">Summa nulla propter summam priorem.</p>
-               <p rend="Rubrik">Tempore dominorum, maister Mert Guldein, consulis, et Hanns von Eslarn, anno domini etc. lxi<hi rend="super">mo</hi>.</p>
             </div>
          </body>
       </text>

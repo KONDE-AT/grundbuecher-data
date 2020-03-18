@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1461-10-07</title>
-               <title type="rubrik">Tempore dominorum, maister Mert Guldein, consulis, et Hanns von Eslarn, anno domini etc. lximo.</title>
+               <title type="rubrik">Tempore dominorum, maister Mert Guldein, consulis, et Hanns von Eslarn, anno domini etc. lxi<hi rend="super">mo</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0232.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -117,7 +117,6 @@
                <p rend="Nachtrag">Nota der obgenant Hennsel ist ungevogt und burgermaister<note>
                      <p rend="footnote text"> Burger: Über der Zeile eingefügt.</p>
                   </note> und rat habend den sacz aufzethun geschafft. Und ist sein tail des obgenanten gelts verpawt worden an das hawss, gelegen bey Peyrertor, daz im sein Vater und seine mutter, sein vater geschafft hat.</p>
-               <p rend="Rubrik">Tempore dominorum, heren Niclasen Erenst, consulis, und Veiten Hintperger, anno etc. lxviii<hi rend="super">vo</hi>.</p>
             </div>
          </body>
       </text>
