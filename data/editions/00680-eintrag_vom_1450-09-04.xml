@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1450-09-04</title>
-               <title type="rubrik">Tempore dominorum, Arnoldi Galander, consulis, Hannsen von Eslorn, anno etc. lprimo.</title>
+               <title type="rubrik">Tempore dominorum, Arnoldi Galander, consulis, Hannsen von Eslorn, anno etc. l<hi rend="super">primo</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0351.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -115,8 +115,6 @@
                <p>Hanns Kanstorffer, dieczeit des rats der stat zu Wien und kellermaister in Osterreich hat versaczt die überteurung seins hauss, das er von dem abtt zu Altenburg kaufft hat, gelegen in der Weihenpurk gegen Kötweig hof uber, zenagst maister Petern Vólczian haus. Uber die zwaihundert und neunczig phund phening, die er seim steufsun Erasm Kieler emalen darauf verphendt hat, nach lautt ains saczbriefs. Der erbern Barbara seiner hausfraun und irn erben umb funfczig phund phening, die si auf irs erern manns Hannsen des Kieler haus in der Kernerstrass, oben am egk pei Kernertor gelegen, vormalen gehabt hat. Und sind zu beczalen, wan si die vordern und nicht lenger peiten wellen, darnach ynner den nagsten zwain moneiden an alles vercziehen. Actum an Freitag nach sand Giligen tag, ano etc. l<hi rend="super">mo</hi>.</p>
                <p rend="Summa">Summa iii s. x. d.</p>
                <p rend="Nachtrag">Item die vorgenanten funfczig phunt phening sind umgeschriben worden auf sein haws mit seiner zugehorung, gegen Sand Yeroiy uber, an sand Elspeten tag actum, anno etc. lviiii<hi rend="super">o</hi>.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0352.jpg</p>
-               <p>Richard</p>
             </div>
          </body>
       </text>

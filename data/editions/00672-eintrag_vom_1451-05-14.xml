@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1451-05-14</title>
-               <title type="rubrik">Tempore dominorum, Arnoldi Galander, consulis, Hannsen von Eslorn, anno etc. lprimo.</title>
+               <title type="rubrik">Tempore dominorum, Arnoldi Galander, consulis, Hannsen von Eslorn, anno etc. l<hi rend="super">primo</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,15 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0348.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Hainreich Swab, brúnner, hat versaczt die uberteurung seiner werchstat, mül, mulhaus, hamer und slifstain mit aller irer zugehörung, pei dem Pibersturn auf der Wienn pei der Túnaw gelegen, zenagst den Kleubhöfen ain aim tail. Uber die fünfczehen pfunt phening, so er der stat vor darauf schuldig ist, da man von der egnanten seiner werchstat, mül, mulhaus, hamer und slifstain alle jar dint der vorgnanten stat zu Wienn sechczig phening an sant Michels tag zu gruntdinst und nicht mer. Dem erbern Jörgen Krempl, fraun Juliana, seiner hausfraun und irn paiden erben umb hundert phund phening und sind zu beczaln, wan sy die ainsten an in oder sein erben ervordernt und nicht lenger peiten wellent, darnach an widerred und an alles vercziehen, ut littera sonat. Actum an Freitag nach sand Pangréczen tag, anno etc. li<hi rend="super">o</hi>.</p>
                <p rend="Summa">Summa vi s. xx. d.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0349.jpg</p>
-               <p>Richard</p>
             </div>
          </body>
       </text>

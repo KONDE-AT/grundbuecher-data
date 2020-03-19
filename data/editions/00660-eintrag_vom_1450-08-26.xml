@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1450-08-26</title>
-               <title type="rubrik">Tempore dominorum, Peter Strasser, consulis, Hannsen von Eslorn, anno etc. lmo.</title>
+               <title type="rubrik">Tempore dominorum, Peter Strasser, consulis, Hannsen von Eslorn, anno etc. l<hi rend="super">mo</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0345.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -115,8 +115,6 @@
                <p>Hanns Schúchl, goltsmid, hat verchaufft virdhalben Ungrischer gulden in gold jérlicher gult auf der uberteurung seins hauss, gelegen am alten Kolmarkt zenagst Ulreichs Vochter haws, uber die fünfczig phund phening, die maister Hans Han püchsenmaister vor darauf hat. Umb fünfczig guter Ungrischer gulden, gerecht in gold und wag, der hochwirdigen vacultet geistlicher rechten der schúl hie zu Wienn, zu der newen cappellen in derselben schul. Und sind die vorgnanten virdhalben guldein gelts zu dienn zu drein tégen, zu Weichnachten, zu sand Jorgen tag und sand Michels tag, zu yedem tag ainen guldein und ain drittail ains halben guldein und wider abczukauffen miteinander mit funfczig gulden und den négsten dinst damit, ut littera sonat. Actum an Mitichen vor Augustini, anno etc. l<hi rend="super">mo</hi>.</p>
                <p rend="Summa">Summa iii s. d.</p>
                <p rend="Nachtrag">Nota die l guldein sein abgelosst und auf frawen Barbaren, Pauln Feyrtag hausfrau und Kristoffen irs suns hawss, den sy bey weilent Niclasen Lebhofer irem erern man seligen elichen gehabt hat, gelegt utz libro novo venditionum E, folio 3.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0346.jpg</p>
-               <p>Richard</p>
             </div>
          </body>
       </text>

@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1452-05-12</title>
-               <title type="rubrik">Tempore dominorum, Stephan Aw`er, consulis, Hanns von Eslorn, anno etc. liido.</title>
+               <title type="rubrik">Tempore dominorum, Stephan Aw`er, consulis, Hanns von Eslorn, anno etc. lii<hi rend="super">do</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,15 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0353.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Hanns Hémerl und Barbara sein hausfrau habent versaczt ir haws, gelegen in der Wolczeil innerhalb Stubentor, zenagst Merten Fliehenaschen haws. Davon man jerlich dint hern Hannsen Veltpekchen, caplan der messe, so die Úrbetschen auf der Zwelfpotenaltar zu Sant Steffan gestifft habent, acht phunt phening und hern Kunraten Kaczpekchen, kaplan der Heiligen Dreir Kunig altar zu der Himlporten siben phund phening, alles zu purkrecht, die abczulosen sind nach lautt der purkrechtbrief und nicht mer. Dem edln Sigmunden Weihenperger und seinen erben umb drewhundert Ungrischer gulden in gold und sind zu beczalen in Linharts des Ulmer haus am graben, halb auf sand Giligen tag und halb auf sand Mertten tag, paid nagstkunfftigen an alles vercziehen, ut littera. Actum an Freitag sand Pangreczen tag, anno etc. lii<hi rend="super">do</hi>.</p>
                <p rend="Summa">Summa xii s. d.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0354.jpg</p>
-               <p>Richard</p>
             </div>
          </body>
       </text>

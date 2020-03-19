@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1450-12-02</title>
-               <title type="rubrik">Tempore dominorum, Peter Strasser, consulis, Hannsen von Eslorn, anno etc. lmo.</title>
+               <title type="rubrik">Tempore dominorum, Peter Strasser, consulis, Hannsen von Eslorn, anno etc. l<hi rend="super">mo</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0346.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -115,8 +115,6 @@
                <p>Hanns Frankch hat versaczt sein haws, gelegen in der Wolczeil zenagst Wolfgangs des Hollenbrunner haus, dem erbern Ulreichen Vochtter, dieczeit des rats und kirchmaister zu Sand Michel zu Wienn und seinen nachkómen kirchmaistern. Umb hundert guter newrer Ungrischer guldein in gold, die herkómen sind von aim weingarten, gelegen zu Médling, genant der Popp, und gehörnt zu dem ewigen jartag, den frau Kathrey, des egnanten Franken erste hausfraw zu Sant Michel zu begeen geschafft hat, nach lautt irs gescheffts. Und alle dieweil der vorgnant Hanns Frankch und sein erben die vorgnanten hundert guldein innhabent und nicht beczalent, so sullen sy alle jar mit ains kirchmaisters wissen den egnanten jartag ausrichten und begen, in der obgnanten kirchen an Suntag Reminiscere in der vasten. Des nachts mit ainer gesungen vigili und des morgens mit aim gesungen selamt und mit dreissig gesprochen selmessen darunder und mit xxiiii stekkerczen, die pey der vigili und dem selambt prinen sullen und mit dem gelewtt und vorhin auf dem predigstul verchünden lassen und, wenn sy oder ir erben den jartag nicht lenger begeen wellent und die obgnanten hundert gulden zu den gruntpuch niderlegent mit wissen ains kirchmaisters, so sol in das haus wider ledig sein. Also das dann ain kirchmaister dasselb gelt mit des egnanten Frankchen oder seiner erben wissen dem jartag nüczlich an ain guts gut legen oder darumb kauffen und nicht umb purkrecht ausleihen sol, damit der jartag an abgang begangen werd, ut littera. Actum an Mitichen nach Andre, anno etc. l<hi rend="super">o</hi>.</p>
                <p rend="Summa">Summa vi s. iiii d.</p>
                <p rend="Nachtrag">Nota des obgenanten hauss ist Margreth, des benanten Hannsen Frankhen seligen wittib an nutz und gewer kómen, aus gescheft meiner herrn, burgermaister und des rats nach lautt irs bemelten manes seligen geschéfts im statpuch geschriben. Und hat den obgeschriben satz umb die obgenanten hundert gulden in obgeschriben mass auf sich genomen. Actum an Erihtag vor Steffani im snyt anno etc. lxiii.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0347.jpg</p>
-               <p>Richard</p>
             </div>
          </body>
       </text>

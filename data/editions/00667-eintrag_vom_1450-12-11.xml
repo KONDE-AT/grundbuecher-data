@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1450-12-11</title>
-               <title type="rubrik">Tempore dominorum, Peter Strasser, consulis, Hannsen von Eslorn, anno etc. lmo.</title>
+               <title type="rubrik">Tempore dominorum, Peter Strasser, consulis, Hannsen von Eslorn, anno etc. l<hi rend="super">mo</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,16 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0347.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Hanns Warnhofer hat verkaufft aindlef phund gelts purkrechts auf seim haus, gelegen an des Herczogen hof zenagst der Weissenpruder freithof, da man von dem höflein des egnanten hauss alle jar dint der stat zu Wienn ain phunt phening zu gruntdinst und nicht mer. Umb achtundachczig phund phening und sind emalen gelegen auf Jacoben Gsméchl des kursner haus pey der purkch, dem erbern hern Petern Schalhaimer von Obernperg, caplan der mess, die Albrecht Weinstock auf Sand Annen altar in Unsers Fraun capelln auf der Stetten gestifft hat, und seinen nachkomen. Und sind zu dienn zu drein tegen und wider abczukauffen miteinander und den nagsten dinst damit, ut littera. Actum an Freitag vor Lucie, anno etc. l<hi rend="super">mo</hi>.</p>
                <p rend="Summa">Summa v s. xxvi d.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0348.jpg</p>
-               <p>Richard</p>
-               <p rend="Rubrik">Tempore dominorum, Arnoldi Galander, consulis, Hannsen von Eslorn, anno etc. l<hi rend="super">primo</hi>.</p>
             </div>
          </body>
       </text>

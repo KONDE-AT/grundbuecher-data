@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1453-05-02 </title>
-               <title type="rubrik">Tempore Stephan Awer, consulis, Jacob Réchwein, anno etc. liiio.</title>
+               <title type="rubrik">Tempore Stephan Awer, consulis, Jacob Réchwein, anno etc. liii<hi rend="super">o</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,15 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0356.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Hanns Rannt der sporer und Margret sein hausfraw haben versaczt ir haus, gelegen hinder Sand Pangreczen, zenagst Jacoben Nadler haws, darvon man jerlich dint dem kirchmaister zu Sand Michel zu des Arrer jartag ii tl. d. zu purkrecht und nicht mer. Den erbern Josten Plattner, Otten Eschlbach und Friczen Hagendorn, den brunnern an stat und als gerhaben Wolfgangen, Hainreichs Eschlbach des brunner seligen sun und seinen erben umb sechsundzwainczig phunt phening. Und sind zu beczaln auf sand Jorgen tag nagstkunftig und sullen in auch daz jar davon dienen drew phunt und sechczig phening an alles vercziehen, ut littera sonat. Actum an Mitichen vor des heiligen Kreucz tag, als es erfunden ist, anno etc. liii<hi rend="super">o</hi>.</p>
                <p rend="Summa">Summa lii d.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0357.jpg</p>
-               <p>Richard</p>
             </div>
          </body>
       </text>

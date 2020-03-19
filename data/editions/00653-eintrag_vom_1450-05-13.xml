@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1450-05-13</title>
-               <title type="rubrik">Tempore dominorum, Peter Strasser, consulis, Hannsen von Eslorn, anno etc. lmo.</title>
+               <title type="rubrik">Tempore dominorum, Peter Strasser, consulis, Hannsen von Eslorn, anno etc. l<hi rend="super">mo</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0343.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -120,8 +120,6 @@
                <p rend="Nachtrag">Nota den vorgenanten sacz hat<note>
                      <p rend="footnote text"> Hat: Über der Zeile eingefügt.</p>
                   </note> Larencz Kellner, Hannsen Smidmayr von Nürnberg diener, an stat des Garttner kinder gancz ledig gesagt. Actum an Mitichen vor Letare zu mittervassten, anno etc. lx<hi rend="super">mo</hi>.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0344.jpg</p>
-               <p>Richard</p>
             </div>
          </body>
       </text>

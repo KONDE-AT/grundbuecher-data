@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1452-12-13 </title>
-               <title type="rubrik">Tempore dominorum, Stephan Aw`er, consulis, Hanns von Eslorn, anno etc. liido.</title>
+               <title type="rubrik">Tempore dominorum, Stephan Aw`er, consulis, Hanns von Eslorn, anno etc. lii<hi rend="super">do</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0355.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -115,8 +115,6 @@
                <p>Hanns Neisser, messrer hat versaczt sein haws, gelegen hinder Sant Pangreczen zenagst Hannsen Scherrubl des pismacher haus, davon man jerlich dint Sand Pangreczen kappellen funf schilling und acht phening und in der purgerspital vor Kernertor sechsunddreissig phening, alles zu purkrecht und nicht mer. Dem erbern Larenczen Hochkircher dem messrer und seinen erben umb sibenczig phunt pfening landeswerung und sind zu beczalen von den nagstkünfftigen Weichnachten über ain jar an alles vercziehen. Actum an sand Lucein tag, anno etc. lii<hi rend="super">do</hi>.</p>
                <p rend="Summa">Summa ½ tl. xx d.</p>
                <p rend="Nachtrag">Den sacz hat der Hochkircher ledig gesagt feria secunda ante Lucie, anno etc. liii<hi rend="super">o</hi>.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0356.jpg</p>
-               <p>Richard</p>
             </div>
          </body>
       </text>

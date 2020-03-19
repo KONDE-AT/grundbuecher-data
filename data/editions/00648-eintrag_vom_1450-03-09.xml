@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1450-03-09</title>
-               <title type="rubrik">Tempore dominorum, Peter Strasser, consulis, Hannsen von Eslorn, anno etc. lmo.</title>
+               <title type="rubrik">Tempore dominorum, Peter Strasser, consulis, Hannsen von Eslorn, anno etc. l<hi rend="super">mo</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0342.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -115,8 +115,6 @@
                <p>Hanns Spannberger vor Schottentor und Kathrei sein hausfraw habent versaczt ir haws, gelegen auf der Alsserstrazz zenagst des Rauscher haus, davon man jerlich dint hern Jacoben Moshaimer, kapplan der mezz, die Jorg am Kienmarkht auf Sand Veits altar dacz Sand Steffan gestifft hat, vir phunt phening zu purkrecht und nicht mer. Dem erbern weisen Hainrichen Enczesvelder, diezeit des rats der stat zu Wienn und seinen erben umb newnczehen phunt phening und sind zu beczaln auf Sand Merten tag nagstkunftig anvercziehen. Actum an Montag nach Ocúli in der vasten, anno etc. l<hi rend="super">mo</hi>.</p>
                <p rend="Summa">Summa xxxviii d.</p>
                <p rend="Nachtrag">Den sacz hat Hanns Vogl ledig gesagt. Actum an Montag post Michaelis, anno etc. liiii<hi rend="super">to</hi>.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0343.jpg</p>
-               <p>Richard</p>
             </div>
          </body>
       </text>

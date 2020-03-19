@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1454-04-12</title>
-               <title type="rubrik">Tempore dominorum, Andre Schonprugker, consulis, Peter von Aslabing, anno etc. liiiito.</title>
+               <title type="rubrik">Tempore dominorum, Andre Schonprugker, consulis, Peter von Aslabing, anno etc. liiii<hi rend="super">to</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0360.jpg"/>
       </facsimile>
       <text>
          <body>

@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1451-09-27</title>
-               <title type="rubrik">Tempore dominorum, Arnoldi Galander, consulis, Hannsen von Eslorn, anno etc. lprimo.</title>
+               <title type="rubrik">Tempore dominorum, Arnoldi Galander, consulis, Hannsen von Eslorn, anno etc. l<hi rend="super">primo</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0350.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -115,8 +115,6 @@
                <p>Hanns Paitter hat verkaufft siben phund phening gelts purkrechts auf der überteurung seins hauss, gelegen im Schiltergésslein, das weilent Jacoben von Velach gewesen ist, zenagst Bérlmen des Kócherndorffer haws. Uber die dritthalbhundert phund phening, die Eustachen von Velach, seim steufsun nach lautt ains briefs emalen darauf verschriben sein. Umb sechsundfünfczig phund phening, dem erbern briester, hern Steffan Behem von Olerstorff, dieczeit caplan der messe, die frau Alhait, Dietmars des Gafferswents witib auf Unsers Fraun altar dacz Sand Steffan zu Wienn gestifft hat, und seinen nachkomen. Und sind zu dienen zu drein tégen und wider abczukauffen miteinander und den nagsten dinst damit, ut littera sonat. Actum an Montag vor sand Michels tag anno etc. li<hi rend="super">o</hi>.</p>
                <p rend="Summa">Summa iii s. xx. d.</p>
                <p rend="Nachtrag">Die egenanten lvi tl. d sind zu dem puch gelegt worden feria sexta ante Margrete, anno etc. lvii.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0351.jpg</p>
-               <p>Richard</p>
             </div>
          </body>
       </text>

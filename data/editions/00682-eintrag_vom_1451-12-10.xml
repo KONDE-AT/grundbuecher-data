@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1451-12-10</title>
-               <title type="rubrik">Tempore dominorum, Arnoldi Galander, consulis, Hannsen von Eslorn, anno etc. lprimo.</title>
+               <title type="rubrik">Tempore dominorum, Arnoldi Galander, consulis, Hannsen von Eslorn, anno etc. l<hi rend="super">primo</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,14 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0352.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Hanns Praitter hat verchaufft zehen phunt gelts purkrechts auf der uberteurung seins hauss mit seiner zugehörung, im Schiltergésslein zenagst Pértlmes Kócherndorffer haus an aim tail gelegen. Uber die dritthalbhundert phund phening, die Ewstachien von Velach vor darauf verschriben sein, nach lautt ains saczbriefs. Und uber die siben phund gelts purkrechts, die hern Steffan von Olerstorf, caplan der ewigen messe, die frau Alhait Gafferswenttin auf Unsers Fraun altar zu Sant Steffan gestifft hat, nachmalen darauf verphendt und abczulosen sind nach lautt ains purkrechtbriefs und nicht mer. Umb achczig pfunt Wienner phening, die emalen auf Petern Englhartstetter haus im gesslein pey den Weissenprudern gelegen sind, hern Symon Bukwicz, caplan der Heiligen Dreier Kunig altar in dem frauncloster dacz der Himlporten und seinen nachkomen caplénn desselben altars. Und sind zu dienn zu drein tegen und wider abczukauffen miteinander und den nagsten dinst damit, ut littera. Actum an Freitag vor sand Lucein tag, anno domini etc. li<hi rend="super">o</hi>.</p>
                <p rend="Summa">Summa v s. x. d. </p>
-               <p rend="Rubrik">Tempore dominorum, Stephan Aw`er, consulis, Hanns von Eslorn, anno etc. lii<hi rend="super">do</hi>.</p>
             </div>
          </body>
       </text>

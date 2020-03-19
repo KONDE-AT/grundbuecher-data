@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1454-08-07</title>
-               <title type="rubrik">Tempore dominorum, Andre Schonprugker, consulis, Peter von Aslabing, anno etc. liiiito.</title>
+               <title type="rubrik">Tempore dominorum, Andre Schonprugker, consulis, Peter von Aslabing, anno etc. liiii<hi rend="super">to</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,15 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0361.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Hanns Welser der schuster hat versaczt sein haws, gelegen pey der purkch zenägst des von Neitperg haws an aim tail, Henslein aim knaben, den er durch gots willen zogen hat, umb zwayunddreissig pfund pfening, die im sein erere hausfrau Margreth geschafft hat, nach lautt irs gescheffts, das im statpuch geschriben stet. Und sind zu beczaln, wan derselb knab vogtpér wirt. Ging er aber ungevogt mit tod ab, so sullen dem egnanten Hannsen Welser dieselben zwayunddreissig pfund pfening lediclich beleiben. Actum an Mitichen vor sand Larenczen tag, anno etc. liiii<hi rend="super">to</hi>.</p>
                <p rend="Summa">Summa lxiiii d.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0362.jpg</p>
-               <p>Richard</p>
             </div>
          </body>
       </text>

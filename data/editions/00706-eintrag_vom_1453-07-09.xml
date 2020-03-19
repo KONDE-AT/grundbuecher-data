@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1453-07-09</title>
-               <title type="rubrik">Tempore Stephan Awer, consulis, Jacob Réchwein, anno etc. liiio.</title>
+               <title type="rubrik">Tempore Stephan Awer, consulis, Jacob Réchwein, anno etc. liii<hi rend="super">o</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,15 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0357.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Hainreich Enczesfeder hat versaczt sein haws, gelegen in der Goltsmidgassen, gegen dem tumbbrobsthof über zenagst der Sibenkinder haws an aim tail. Dem erwirdigen geistlichen herren, hern Johannsen von Pomersheim, landtcomenteur Deutsches ordens in Osterreich, dieczeit verweser des Deútschen hawss zu der Newnstat und allen seinen nachkomen anstat und zuhanden desselben hawss. Umb virhundert Ungrisch guldein, gerecht in gold und wag, und sind zu beczalen von dem nagstkunfftigen sand Jacobs tag uber drew gancze jar, die negst nacheinander koment an widerred und alles vercziehen, ut littera sonat. Actum an Montag vor sand Margrethen tag, anno domini etc. liii<hi rend="super">o</hi>.</p>
                <p rend="Summa">Summa ii ½ tl. d. </p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0358.jpg</p>
-               <p>Richard</p>
             </div>
          </body>
       </text>

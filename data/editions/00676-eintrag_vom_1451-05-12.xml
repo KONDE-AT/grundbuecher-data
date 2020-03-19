@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1451-05-12</title>
-               <title type="rubrik">Tempore dominorum, Arnoldi Galander, consulis, Hannsen von Eslorn, anno etc. lprimo.</title>
+               <title type="rubrik">Tempore dominorum, Arnoldi Galander, consulis, Hannsen von Eslorn, anno etc. l<hi rend="super">primo</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,15 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0349.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Hanns Schrot hat in bestandesweis hinlassen sein haus ain stuben, terrhaus darob, das mushaus daran, die kamer dabey, mitsambt der kuchen und den laden in seim haus, ynnerhalb Stubentor zenagst des Panczawn haus gelegen, von dem nagstkunfftigen sand Michels tag zeraitten drew jar nagstnacheinander kunfftig und nicht lenger. Dem erbern Andren Teispecken dem schuster und seinen erben, also das er die egnanten gemechen und daraus unvertriben die vorgnanten drew jar ordenlich und unwugstlich innhaben, nuczen und niessen und dem egnanten Schrot jerlich acht pfunt phening zu hofczins davon raihen und geben sol, als hofczins recht ist, ut littera sonat. Actum an Mitichen Pangracii anno etc. li<hi rend="super">o</hi>.</p>
                <p rend="Summa">Summa lxxii d.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0350.jpg</p>
-               <p>Richard</p>
             </div>
          </body>
       </text>
