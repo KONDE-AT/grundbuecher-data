@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1457-09-09</title>
-               <title type="rubrik">Tempore dominorum, Jacobs Rechwein, consulis, et Micheln Menestorffer, anno etc. lviio.</title>
+               <title type="rubrik">Tempore dominorum, Jacobs Rechwein, consulis, et Micheln Menestorffer, anno etc. lvii<hi rend="super">o</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0372.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -115,8 +115,6 @@
                <p>Hanns Molss und Barbara sein hausfraw habent versaczt die übertewrung irs hawss, gelegen in der Kernerstrass am egk, genant die Almarein, zenagst des von Sunnberg haws. Uber die hundert newnundfünfczigk phunt und newnundsibenczigk phening, dafür es emaln Thoman, Helen und Elspeten, Jacoben Gocznam, irs swehers und vaters seligen kindern, nach lautt des gruntpúchs versaczt ist, und uber die sechczig phunt phening, darumb es hern Micheln Wülfing und seinen erben oder, wem er die schafft, nachmaln verschriben ist, nach lautt ains saczbriefs. Dem erbern Symon Reispekchen dem pekchen, an stat und zu hannden jamkchfrawnn Helen, seiner tochter, die er bey seiner erern hausfrawn Preiden seligen gehabt hat, und irn erben. Umb sechczigk phunt phening, die der benanten Helen zu irm tail zugepürnt von irs müterlichen erbtails wegen, so sy gehabt hat an dem haws, auf der Allserstrass gelegen, das der egenant ir vater Jorgen Prew dem sneider zu kauffen gegeben hat. Und sind zu beczalen von dem nagstkünftigen sand Michels tag über ain ganczes jar an alles vercziehen. Actum an Freytag nach unser Frawn tag, als sy geporen ist, anno etc. lvii<hi rend="super">mo</hi>.</p>
                <p rend="Summa">Summa ½ tl. d. propter virum eius</p>
                <p rend="Nachtrag">Helena habet cedulam.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0373.jpg</p>
-               <p>Richard</p>
             </div>
          </body>
       </text>
