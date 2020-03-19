@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1444-11-18</title>
-               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, Cristanni Wissinger, anno etc. xliiiito</title>
+               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, Cristanni Wissinger, anno etc. xliiii<hi rend="super">to</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0309.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -115,7 +115,6 @@
                <p>Hainreich Staindlperger hat versaczt sein haus, gelegen auf der Hochstrass gegen des von Liechtenstain haus uber zenagst Casparn Scharff haus, davon man jerlich dint hern Cristan Widhakcher, dieczeit capplan der mess die weilent Hainreich Purkhartsperger dacz Sand Steffan gestifft hat, drew phund pfening zu purkrecht und nicht mer. Umb virundzwainczig pfund pfening, die aus frawn Annen der Riemerinn seiner swiger seligen geschefft so sy getan hat herkomen sein, Annen seiner hausfrauen irn kindern und Thomans Nüsner kindern. Also das die benant Anna sein hausfrau die egnanten virundzwainczig pfund pfening auf dem egnanten haus ir lebtteg sol innhaben nuczen und niessen unverkumert und nach irm abgang sullen sy erben auf ire kinder. Das sy die auch ir lebtteg innhaben nuczen und niessen sullen unverkumert und nach irm abgang sullen sy dann erben auf Thomans Nüsner kinder ledigclich der sy dann von dem egnanten haus bekomen mügen als recht ist und wenn der egnant Staindelperger oder sein erben vir und zwainczig pfund pfening zu dem gruntpuch nyderlegent, so ist in dann das benant haus wider ledig und sol dann dasselb gelt wider angelegt werden in den rechten so vorgeschriben stet, ut littera sonat. Actum an Mittichen ante Elizabeth, anno etc. xliiiito.</p>
                <p rend="Summa">Summa xlviii d.</p>
                <p rend="Nachtrag">Jorg Waldner habet cedulam.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0310.jpg</p>
             </div>
          </body>
       </text>

@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1445-11-05 </title>
-               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, et Cristan Wissinger, anno etc. xlvto</title>
+               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, et Cristan Wissinger, anno etc. xlv<hi rend="super">to</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0314.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -117,7 +117,6 @@
                <p rend="Nachtrag">Nota die genanten dcliii tl. xxxviii d. hat man dem Andre Schonprugker an den kauff des hauss abzogen als daz in Jacoben Linfelder und seiner swester tailbriefen und nemlich in des genanten Schonprugker kaufbrief geschriben stet. Actum an Samstag Montag<note>
                      <p rend="footnote text"> Montag: Über der Zeile eingefügt.</p>
                   </note> vor Jeorii, ano etc. lo.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0315.jpg</p>
             </div>
          </body>
       </text>

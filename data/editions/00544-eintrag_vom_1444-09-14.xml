@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1444-09-14</title>
-               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, Cristanni Wissinger, anno etc. xliiiito</title>
+               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, Cristanni Wissinger, anno etc. xliiii<hi rend="super">to</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,14 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0308.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Hanns Weingang, der satlér, und Agnes, sein hausfrau, habent versaczt ir halbs haus, ganczes gelegen am alten Kolmarkt den tail zenagst weilent Larenczen Renner des sneider haus. Dem erbern Seifriden Haider, dem eisner, irm aidem und seinen erben, umb fünfczig phund phening und sind zu beczalen, wan sy die vordernt und nicht lenger peiten wellent darnach anvercziehen. Actum an Montag exaltacionis Sancte Crucis, anno domini etc. xliiiito.</p>
                <p rend="Summa">Summa iii s. x d.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0309.jpg</p>
             </div>
          </body>
       </text>

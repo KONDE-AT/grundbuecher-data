@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1445-12-10 </title>
-               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, et Cristan Wissinger, anno etc. xlvto</title>
+               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, et Cristan Wissinger, anno etc. xlv<hi rend="super">to</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0315.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -117,8 +117,6 @@
                <p rend="Nachtrag">Datz purkrecht ist zum puch erlegt, an sand Michels tag<note>
                      <p rend="footnote text"> Tag: Über der Zeile eingefügt.</p>
                   </note> xlvii.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0316.jpg</p>
-               <p rend="Rubrik">Tempore dominorum Andre Gundorffer, consulis, et Niclas Purger, anno etc. xlvito</p>
             </div>
          </body>
       </text>

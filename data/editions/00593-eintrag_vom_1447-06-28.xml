@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1447-06-28</title>
-               <title type="rubrik">Tempore dominorum Erasm Ponhaymer, consulis, Hansen von Eslorn, anno etc. xlviio.</title>
+               <title type="rubrik">Tempore dominorum Erasm Ponhaymer, consulis, Hansen von Eslorn, anno etc. xlvii<hi rend="super">o</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0327.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -115,7 +115,6 @@
                <p>Hanns Hintperger, stainmecz und Dorothe, sein hausfrau, habent versaczt ir haws, gelegen gegen der padstuben zu den Rörn uber zenagst Jacobs Smal haus an aim tail und an dem andern stosset es auf der Weissenprudern freithof. Der erbern fraun Annen, Hannsen des Pusmer hausfraun, und irn erben, umb hundert fünfczehen pfund phening und sind zu beczalen funfczehen phund phening von datum der saczung ynner der nagsten zwain moneiden und hundert pfunt phening auf sand Johanns tag zu Sunbenden nagstkünfftigen anvercziehen. Actum an sand Peter und sand Pauls abend, anno etc. xlviio.</p>
                <p rend="Summa">Summa i tl. xx d.</p>
                <p rend="Nachtrag">Nota den sacz hat Hanns Püsmer ledig gesagt, an Freitag ante Johannis Baptiste anno domini etc. xlviiio.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0328.jpg</p>
             </div>
          </body>
       </text>

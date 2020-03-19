@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1447-11-20</title>
-               <title type="rubrik">Tempore dominorum Erasm Ponhaymer, consulis, Hansen von Eslorn, anno etc. xlviio.</title>
+               <title type="rubrik">Tempore dominorum Erasm Ponhaymer, consulis, Hansen von Eslorn, anno etc. xlvii<hi rend="super">o</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,14 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0329.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Hanns Megenprecht, der goltsmid, und Kathrey, sein hausfrau, habent verchaufft ii tl. d. gelts purkrechts auf írm haus, am Alten Kolmarkcht zenagst Hannsen Unverdrossen des plattner haus gelegen, davon man jerlich dint dem kirchmaister zu Sant Michel zu des Zergadmer jartag und selgrét und zu des Staindleins jartag, sibenthalb pfunt phening zu purkrecht nach lautt ains purkrechtbriefs und nicht mer. Umb xvi tl. d., dem ersamen herren maister Linharten von Stain, caplan der ewigen mess die der Lorwerer auf Sand Jacobs altar in Sand Michels kirchen zu Wienn gestifft hat, und seinen nachkomen caplenen derselben mess und sind zu dienn zu drein tégen und wider abczukauffen und den nagsten dinst damit, ut littera sonat. Actum an Montag vor sand Kathrein tag, anno etc. xlviio.</p>
                <p rend="Summa">Summa xxxii d.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0330.jpg</p>
             </div>
          </body>
       </text>

@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1444-07-17</title>
-               <title type="rubrik">Tempore dominorum Andre Gundorffer, consulis, et Niclas Purger, anno etc. xlvito</title>
+               <title type="rubrik">Tempore dominorum Andre Gundorffer, consulis, et Niclas Purger, anno etc. xlvi<hi rend="super">to</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0318.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -117,7 +117,6 @@
                   </note> nachmalen darauf hat verschriben sein, dem vorgnanten Alexen Newnkircher auch anstat und zu handen junkfraun Ursulen seiner swester umb funfczig pfund phening, davon sol er dieselb Ursulen an abslag irs gelts innhaben ziehen mit speis und gewant versorgen als sein swester uncz sy gevogt wirt, und umb zehen gulden, die ir zu írm tail zugepürt habent von maister Thoman Sibenburger dem goltsmid von ains weingartens wegen an der Durrn Wering gelegen und sind die egnanten funfczig pfund phening und die zehen gulden zu beczalen von dem nagstkunfftigen sand Jacobs tag über ain jar anvercziehen. Wér aber das die benant junkfrau Ursula mit tod abging ungevogt so sullen dann die egnanten funfczig pfund phening erben lediclich auf den egnanten Alexen iren pruder dann die zehen gulden auf ir nagst erben darauf sy dann zu recht erben und gevallen sullen. Actum an Freitag ante Marie Magdalene, anno etc. xliiiio.</p>
                <p rend="Summa">Summa iii s. xxvi d.</p>
                <p rend="Nachtrag">Nota die egnanten l tl. d. und x gulden hat maister Hanns Zeller nach abgang der egnanten junkfraun Ursulen beczalt und ausgericht Alexn Newnkircher irm pruder nach lautt ainer quittung die maister Hanns Zeller daruber hat, an Mitichen ante Pangraci, anno etc. xlvito.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0319.jpg</p>
             </div>
          </body>
       </text>

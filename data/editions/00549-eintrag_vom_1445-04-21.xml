@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1445-04-21</title>
-               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, et Cristan Wissinger, anno etc. xlvto</title>
+               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, et Cristan Wissinger, anno etc. xlv<hi rend="super">to</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,14 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0310.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Hanns Wigfring, der kuphersmid, und Kathrey, sein hausfrau, habent verkaufft zway phunt phening gelts purkrechtz auf der ubertewrung írs hauss, gelegen vor Kernertor an der Mietstat zenagst Ulreichs des Meichsner haus an aim tail. Uber die xxx tl. d. morgengab die der obgenanten Kathreyen vor darauf verschriben sind in dem gruntbuch, umb xvi tl. d. dem erbern Jorgen Prumtaler, dieczeit kirchmaister Sand Michels pharrkirchen hie zu Wien, und seinen nachkómen und gehörnt zu Jörgen des Gutawer jartag, den im ain kirchmaister daselbs jerlich begeen sol, und sind zu dienen zu drin tégen und wider abczukauffen miteinander und den nägsten dinst damit, ut littera sonat. Actum an Mittichen vor sand Jörgen tag, anno domini etc. xlvto.</p>
                <p rend="Summa">Summa xxxii d.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0311.jpg</p>
             </div>
          </body>
       </text>

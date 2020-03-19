@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1444-07-17</title>
-               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, Cristanni Wissinger, anno etc. xliiiito</title>
+               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, Cristanni Wissinger, anno etc. xliiii<hi rend="super">to</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0307.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -118,7 +118,6 @@
                      <p rend="footnote text"> Junkfrauen: Über der Zeile eingefügt.</p>
                   </note> Margreten wegen beczalt und ausgericht Alexen Newnkircher irm pruder nach laut ainer quittung, die maister Hans Zeller von im hat, an Mitichen vor sand Pangreczen tag, anno etc. xlvito </p>
                <p rend="Nachtrag">Nota Nota die egenanten c tl. d. hat maister Hans Zeller zu dem puch gelegt zu der egenanten junkfraun Margreten handen und in den rechts, so vorgeschriben stet. Actum ut supra.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0308.jpg</p>
             </div>
          </body>
       </text>

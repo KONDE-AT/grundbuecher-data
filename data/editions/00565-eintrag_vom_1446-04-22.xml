@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1446-04-22</title>
-               <title type="rubrik">Tempore dominorum Andre Gundorffer, consulis, et Niclas Purger, anno etc. xlvito</title>
+               <title type="rubrik">Tempore dominorum Andre Gundorffer, consulis, et Niclas Purger, anno etc. xlvi<hi rend="super">to</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,14 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0317.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Hanns Haschart und Dorothe, sein hausfrau, habent verchaufft siben pfund phening gelts purkrechts auf írm haus, gelegen am Newnmarkcht zenagst des Stokcharner haus an aim tail und an dem andern zenagst der Meirpekchin haus. Umb lxx tl. d., und sind emalen gelegen auf Steffan Haselawer des kursner haus hinder der Heiligenkreuczerhof, hern Jorgen Schrot, pfarrer zu Manswerd caplan Sand Peters cappellen und verweser der ewigen mess die Eberhart Kastner gestifft hat, und seinen nachkomen und sind zu dienn zu drin tegen und wider abczukauffen miteinander und den nagsten dinst damit, ut littera sonat. Actum an Freitag vor Jeori, anno etc. xlvito.</p>
                <p rend="Summa">Summa ½ tl. xx d.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0318.jpg</p>
             </div>
          </body>
       </text>

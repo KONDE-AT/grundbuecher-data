@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1446-06-22</title>
-               <title type="rubrik">Tempore dominorum Andre Gundorffer, consulis, et Niclas Purger, anno etc. xlvito</title>
+               <title type="rubrik">Tempore dominorum Andre Gundorffer, consulis, et Niclas Purger, anno etc. xlvi<hi rend="super">to</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0321.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -117,7 +117,6 @@
                <p rend="Nachtrag">Ex iussu consilii</p>
                <p rend="Nachtrag">Nota der vorgnant saczbrief ligt im Ratturren zu der egnanten erben handen Ruberen 33</p>
                <p rend="Nachtrag">Nota die vorgnanten lx tl. d. hat ingnomen bruder Hans von Gelestorf conventpruder des klosters ze Obernburgk als der egnanten Margreten nagster erb und hat den sacz ledig gesagt nach lautt ainer quittung und der beweisten freuntschafft, die der Planer innhat. Actum an Eritag ante Nativitatis Marie, xlvito.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0322.jpg</p>
             </div>
          </body>
       </text>

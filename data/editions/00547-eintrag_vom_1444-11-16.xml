@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1444-11-16</title>
-               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, Cristanni Wissinger, anno etc. xliiiito</title>
+               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, Cristanni Wissinger, anno etc. xliiii<hi rend="super">to</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,14 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0310.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Hainreich Mosman hat verkaufft funfundzwainczig pfund Wienner pfening gelts purkrechts auf seim haus, gelegen am Kienmarkt zenagst der Heiligen Drivaltikait cappellen an aim tail und an dem andern zenagst des Weinperger haus und auf dem presshaus daentgegen uber gelegen zenagst der Gémnygker haus. Umb drewhundert und achczig pfunt pfening dem erbern briester her Augustin von Rustpach, caplan der ewigen mess so weilent fraw Dorothe die Fluschartin dacz Sand Steffan zu stifften geschafft hat, und seinen nachkomen und sind zu dienn zu drein tégen und abczukauffen miteinander und den nagsten dinst damit, ut littera sonat. Actum an Montag vor Elizabet, anno etc. xliiiito.</p>
                <p rend="Summa">Summa iii tl. xl d.</p>
-               <p rend="Rubrik">Tempore dominorum Oswaldi Reicholf, consulis, et Cristan Wissinger, anno etc. xlvto</p>
             </div>
          </body>
       </text>

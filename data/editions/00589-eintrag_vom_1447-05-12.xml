@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1447-05-12</title>
-               <title type="rubrik">Tempore dominorum Erasm Ponhaymer, consulis, Hansen von Eslorn, anno etc. xlviio.</title>
+               <title type="rubrik">Tempore dominorum Erasm Ponhaymer, consulis, Hansen von Eslorn, anno etc. xlvii<hi rend="super">o</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,14 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0326.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Hanns Hashart und Dorothe sein hausfrau habent versaczt ir haws, gelegen am Newnmarkt zenagst des Stokcharner haus, davon man jerlich dint hern Jorgen Schrot, pfarrer zu Manswerd, dieczeit caplan Sand Peters cappelln und verweser der ewigen mess die Eberhart Kasstner in derselben capellen zu stifften geschafft hat, vii tl. d. zu purkrecht die abczulosen sind mit lxx tl. d. nach lautt ains purkrechtbriefs und nicht mer. Dem erbern briester hern Hannsen Oppenweiler, dieczeit caplan der mess die Hainreich Hutstokch auf Sand Kathrein altar zu Sand Steffan gestifft hat, und seinen nachkomen, umb hundert und zehen pfund phening und sind zu beczalen von datum der saczung uber ain ganczs jar und sullen auch dasselb jar davon dienn xi tl. d., ut littera sonat. Actum an sand Pangreczen tag, anno domini etc. xlviio.</p>
                <p rend="Summa">Summa vii s. x d.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0327.jpg</p>
             </div>
          </body>
       </text>

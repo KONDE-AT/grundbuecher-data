@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1446-05-11 </title>
-               <title type="rubrik">Tempore dominorum Andre Gundorffer, consulis, et Niclas Purger, anno etc. xlvito</title>
+               <title type="rubrik">Tempore dominorum Andre Gundorffer, consulis, et Niclas Purger, anno etc. xlvi<hi rend="super">to</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,8 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0319.jpg"/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0320.jpg"></graphic>
       </facsimile>
       <text>
          <body>
@@ -115,7 +116,7 @@
                <p>Maister Hanns Zeller, lerer in der erczney, und Margreth, sein hausfrau, habent versaczt die uberteurung irs hauss, gelegen in der Kernerstrass zenagst Hannsen Marchfelder haus. Uber die vir pfund phening geltz purkrechts, die man jerlich dem kaplan unser fraun altar in Sand Johanns kappelln vor Werdertor davon dint, und uber die hundert pfund phening, die junkfraun Margrethen Erharts Newnkircher des Glokengiesser seligen tochtter nachmalen darauf verschriben sein, und uber die hundert und sibenczig pfund phening, die fraun Margreten Symons des Sweller witiben und irn erben und uber die funfczig phunt phening, die Gregorii Sweller irm sun<note>
                      <p rend="footnote text"> Und uber die funfczig phunt phening, die Gregorii Sweller irm sun: Links neben der Zeile eingefügt.</p>
                   </note>, darnach darauf verphentt sind nach lautt des saczpuchs Wolfgangen, Hannsen Guldein anders genant Térneis Wiltpreter seligen sun, den er mit der</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0320.jpg</p>
+               <pb/>
                <p>obgnanten fraun Margreten der Zellerinn weilent seiner hausfraun gehabt hat, umb hundert und sechczig pfund Wienner pfening, die herkomen sind von dem haus in der Prewdenstrass gelegen das des egnanten Térneis seligen gewesen ist und der obgnanten seiner hausfraun Margreten halbs und dem egnanten Wolfgangen seim sun auch halbs geschafft und das darnach dieselb Margreth umb die egnanten hundert und sechczig pfund phening verchaufft und auf der uberteurung des vorgnanten hauss vergütt hat. Also ist das der egnant Wolfgang ir sun mit dem tod abget ee dann die benant Margreth die Zellerinn sein mutter, so sol sy dann die benant sum pfening lediclichen haben. Ging aber dieselb Margreth sein mutter ab mit dem tod ee dann der egnant Wolfgang ir sun, so sol er dann die vorgnanten hundert und sechczig pfund pfening auf der uberteurung des egnanten hauss lediclich haben an irrung als die maynung des egnanten seins vaters seligen geschefft innhaldet. Actum an Mittichen ante Pangracii xlvito.</p>
                <p rend="Summa">Summa x s. xx d.</p>
                <p rend="Nachtrag">Nota der egenant Wolfgang Terneis hat seinen tail an den egenanten c und lx tl. d. der vorgenanten seiner mutter bey dem gruntpuch ledigklichen ubergeben allen iren frumen damit zu schaffen. Actum an Montag vor sand Thomans tag apostoli, anno etc. lviiio.</p>

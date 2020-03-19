@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1447-02-15</title>
-               <title type="rubrik">Tempore dominorum Erasm Ponhaymer, consulis, Hansen von Eslorn, anno etc. xlviio.</title>
+               <title type="rubrik">Tempore dominorum Andre Gundorffer, consulis, et Niclas Purger, anno etc. xlvi<hi rend="super">to</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0323.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -115,7 +115,6 @@
                <p>Hainrich Wurm, der pekch, Anna, sein hausfraw, habent versaczt ir haus, gelegen vor Kernertor zenagst dem gotzakcher, davon man jerlich dint der Burgerspital x d. zu purkrecht und nicht mer. Dem erbern Steffan Graser, Kathrein, seiner hausfraun, und irn paiden erben, umb xviiii tl. d. und sind zu beczaln auf sand Pertlmes tag nagstkunftig anvertziehen. Actum an Mitichen vor sand Juliana tag, anno etc. xlviio.</p>
                <p rend="Summa">Summa xxxviii d.</p>
                <p rend="Nachtrag">Den sacz hat der Graser ledig gesagt an Freitag vor Martini anno etc. xlviio.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0324.jpg</p>
             </div>
          </body>
       </text>

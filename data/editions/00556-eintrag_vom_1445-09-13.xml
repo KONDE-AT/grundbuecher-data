@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1445-09-13</title>
-               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, et Cristan Wissinger, anno etc. xlvto</title>
+               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, et Cristan Wissinger, anno etc. xlv<hi rend="super">to</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,13 +107,14 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0313.jpg"/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0314.jpg"></graphic>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Maister Hanns Zellér, lerér in der ercznei, und Margret, sein hausfrau, habent versaczt die uberteurung irs hauss, gelegen in der Kernerstrass zenagst Erasm Umkch des schuster haus uber die vir pfunt pfening geltz purkrechts, so der capplan unser fraun altar in Sant Johanns cappellen vor Werdertor vor darauf hat und abzulosen sind mit zwainunddreissig pfunt pfeningen nach seiner urchunt lautt, und uber die hundert pfunt pfening und zehen gulden, die junkfraun Margreten Erharts Glokengiesser seligen tochter, und uber die funfczig pfund pfening und zehen gulden, die junkfraun Ursulen auch desselben Glokengiesser tochter die mit tod verschaiden ist nachmalen darauf verpfentt sind nach lautt des gruntpuchs der</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0314.jpg</p>
+               <pb/>
                <p>erbern fraun Margreten, Symons Sweller seligen witiben, und irn erben, umb hundert und sibenczig pfunt pfening, und Gregorgen dem Sweller, burger zu Karnnewnburg irm sun, und seinen erben, umb funfczig pfunt pfening und sind zu beczalen von dem nagstkunftigen sant Merttentag uber ain ganczs jar anvercziehen. Actum an Montag vor des Heiligen Kreuczs tag exaltacionis, anno etc. xlvto.</p>
                <p rend="Summa">Summa xi s. d.</p>
                <p rend="Nachtrag">Nota die egenanten l tl. d. hat maister Hans Zeller dem Gregorii zu dem puch erlegt, feria sexta ante Pangracii xlvito Recepit manu de libro fundi magister Johannes Zeller ex iussu consulis etc. xl tg<note>

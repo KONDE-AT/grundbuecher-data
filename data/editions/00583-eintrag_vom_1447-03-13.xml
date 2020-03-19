@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1447-03-13</title>
-               <title type="rubrik">Tempore dominorum Erasm Ponhaymer, consulis, Hansen von Eslorn, anno etc. xlviio.</title>
+               <title type="rubrik">Tempore dominorum Erasm Ponhaymer, consulis, Hansen von Eslorn, anno etc. xlvii<hi rend="super">o</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,14 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0324.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Hanns Plum, der kursner, und Elspeth, sein hausfrau, habent versaczt ir haws, gelegen am Hohenmarkt zenagst dem Kursenhaus, davon man jèrlichen dint hern Niclasen Weiss, caplan der mess die Albrecht Weinstokch auf Sand Annen altar in unser frawn capellen auf der Stetten zu Wienn gestifft hat und seinen nachkomen, v c d. zu purkrecht und nicht mer. Dem erbern Niclasen Deukchl, gesessen zu Grossen-Enczestorff, anstat und zu handen Jorgen, Steffans des Prükchl seins vettern seligen sun, der noch nicht vogtper ist, und seinen erben, umb xiiii tl. d., die im von seim erbtail so er an dem egnanten haus halben gehabt hat zugebürnt und herkomen sind. Und sind zu beczalen wenn der egenant Jorg vogtpér wirt oder ob er ungevogt abging darnach seinen nagsten erben anvercziehen ungeverlich und sol auch denselben Jorgen innhaben und mit kosst und gewant versorgen als aim solhen knaben zugehort und das hantwerch lernen alst an abslag des gelts als er sich des selbs verwilligt hat. Actum an Montag post Oculi in der vasten, anno etc. xlviio.</p>
                <p rend="Summa">Summa xxviii d.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0325.jpg</p>
             </div>
          </body>
       </text>

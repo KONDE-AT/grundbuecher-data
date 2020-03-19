@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1446-03-23</title>
-               <title type="rubrik">Tempore dominorum Andre Gundorffer, consulis, et Niclas Purger, anno etc. xlvito</title>
+               <title type="rubrik">Tempore dominorum Andre Gundorffer, consulis, et Niclas Purger, anno etc. xlvi<hi rend="super">to</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0316.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -115,7 +115,6 @@
                <p>Hanns Eisenkekch, der goltsmid, hat verchaufft vii tl. Wiener d. gelts purkrechts auf der uberteurung seins hauss, gelegen in der Kernerstrass zenagst Erharts Glokengiesser haus. Uber die hundert pfund phening, dafur es Wilhalmen Merttinger und fraun Annen Berchtolts Schüczperger seligen tochtter weilent seiner hausfraun nagsten erben emalen versaczt ist, davon man dem benanten Merttinger sein lebtteg alle jar dint zehen pfund phening und nicht mer nach lautt ains briefs den er darumb hat, umb lvi tl. Wiener d., dem erbern herren hern Petern dem Humel, kapplan Sant Niclas und Sant Kathrein altar auf der parkirchen in unser fraun kappellen auf der Stetten, und seinen nachkomen und sind zu dienen zu drin tégen und wider abczukauffen miteinander und den nägsten dinst damit, ut littera sonat. Actum an Mittichen post Oculi in der vassten, anno etc. xlvito.</p>
                <p rend="Summa">Summa iii s. xxii d.</p>
                <p rend="Nachtrag">Nota dacz gelt liii tl. d. hat der Eisenkek abgelost und zu dem puch gelegt, an sand Michels abent, anno etc. xlvito.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0317.jpg</p>
             </div>
          </body>
       </text>
