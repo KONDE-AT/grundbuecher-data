@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1443-01-03</title>
-               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, Arnoldi Galander, anno etc. xliiio</title>
+               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, Arnoldi Galander, anno etc. xliii<hi rend="super">o</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0299.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -116,7 +116,6 @@
                <p rend="Summa">Summa ii tl. xx d.</p>
                <p rend="Nachtrag">Ad relacionem Heringer slosser Steffan Pusenperger zingiesser.</p>
                <p rend="Nachtrag">Den sacz hat Maricz Irher und Niclas Gewsmid anstat seiner hausfraun ledig gesagt, Sabotho ante Palmarum anno domini etc. lmo.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0300.jpg</p>
             </div>
          </body>
       </text>

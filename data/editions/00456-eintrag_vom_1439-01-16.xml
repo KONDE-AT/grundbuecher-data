@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1439-01-16</title>
-               <title type="rubrik">Tempore dominorum Michel Lyenvelder et Dyetz Starhant, anno etc. xxxviiivo</title>
+               <title type="rubrik">Tempore dominorum Michel Lyenvelder et Dyetz Starhant, anno etc. xxxviii<hi rend="super">vo</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,14 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0277.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Hanns Dorner der obser und Anna sein hausfrau habent verchaufft vier pfunt und virczig pfening geltz purkrechtz auf irm haus gelegen an der vischerstieg zu Wien zenagst Hansen Wiltsfeur des kursner haus, davon man jerlich dint hern Hansen von der Newnstat capplan Sant Jacobs altar in Sant Jacobs kloster zu Wien iii tl. d. ze purkrecht und nicht mer, umb xxxiii tl. und lxxx d. den erbern weisen Dietreichen Starhant und Hansen Mauttinger burgern zu Wien diezeit verwesern des hauss der becherten frawn zu Sant Jeronimy dasselbs und irn nachkomen furbaser daz purkrecht innzehaben ze nuczen und ze niessen als ander gult die zu demselben haus gehornt davon sullen si alle jar daselbs ausrichten und begeen ainen loblichen jartag mit vigilii und selambt und mit prynunden kerczen durch frawn Margreten Jorgen des Gumpendorffer hausfraun selen hails willen und sind zu dienn zu drein tégen und wider abzekauffen an miteinander und den nagsten dinst damit ut littera sonat. Actum an Freitag vor Sand Anthonien tag, anno etc. xxxviiiio.</p>
                <p rend="Summa">Summa lxvi d.</p>
-               <p rend="Rubrik">Anno etc. xxxviiiio</p>
             </div>
          </body>
       </text>

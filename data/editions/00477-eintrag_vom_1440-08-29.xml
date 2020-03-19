@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1440-08-29 </title>
-               <title type="rubrik">Tempore dominorum Diecz Starhant, consul, Michel Linfelder, anno etc. xlmo.</title>
+               <title type="rubrik">Tempore dominorum Diecz Starhant, consul, Michel Linfelder, anno etc. xl<hi rend="super">mo</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0284.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -117,7 +117,6 @@
                   </note>, an sand Michels tag und ze Weichnachten zu yedem tag iii tl. lxxx d. und sullent auch mit dem ersten dinst anheben an sant Jorgen tag schiristkunftig anvercziehen, ut littera sonat. Actum feria secunda ante Egidi, anno etc. xlo.</p>
                <p rend="Summa">Summa x s. d.</p>
                <p rend="Nachtrag">Habet cedulam.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0285.jpg</p>
             </div>
          </body>
       </text>

@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1443-11-18</title>
-               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, Arnoldi Galander, anno etc. xliiio</title>
+               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, Arnoldi Galander, anno etc. xliii<hi rend="super">o</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,14 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0305.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Hanns Slahinhauffen, der wagner, gesessen am Newnmarkt und Barbara, sein hausfrau, habent versaczt ir haus, gelegen am Newnmarkt daselbs zenagst weilent Thomans Kuntter haus, davon man jèrlich dint dem erbern briester hern Jacoben dem Kolbel sechs pfunt pfening zu purkrecht und nicht mer. Dem erbern Petern Weinhals, dem wagner, gesessen zu Laa, Elspeten, seiner hausfraun, und irn baiden erben, umb zwainczig pfund pfening und sind zu beczalen, wan sy die an sew vordernt und nicht lenger peiten wellent darnach inner dem nagsten moneid an alles vercziehen, ut littera sonat. Actum an Montag vor sant Elsbeten tag, anno etc. xliiio.</p>
                <p rend="Summa">Idem</p>
-               <p rend="Rubrik">Tempore dominorum Oswaldi Reicholf, consulis, Cristanni Wissinger, anno etc. xliiiito</p>
             </div>
          </body>
       </text>

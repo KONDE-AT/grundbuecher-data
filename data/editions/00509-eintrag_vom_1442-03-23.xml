@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1442-03-23</title>
-               <title type="rubrik">Tempore dominorum Symon Potel, consulis, Erasm Ponhaymer, ano etc. xlio</title>
+               <title type="rubrik">Tempore dominorum Symon Potel, consulis, Erasm Ponhaymer, ano etc. xli<hi rend="super">o</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,14 +107,15 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0295.jpg"/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0296.jpg"></graphic>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Hanns Marichvelder der tischer, mitburger zu Wien, und Irmgart, sein hausfraw, habent verkaufft siben phunt pfening geltz purkrechts auf der ubertewrung irs hauss, gelegen in der Kernerstrass zenagst Erhartz Glokkengiesser haus. Uber die hundert phunt pfening, dafur daz Wilhalm dem Merttinger und frawn Annen Berchtoltz Schutzperger seligen tochter weilnt seiner hausfrawn nagsten erben emaln versaczt ist, davon man dem benanten Merttinger sein lebteg alle jar dint x tl. d. und nicht mer nach laut ains briefs, der darumb ist, umb lvi tl. Wiener d. , dem erbern herren herren Hannsen Prenner, caplan Sant Niclas und Sand Kathrein altar auf der Parkirhen in unser frawn kappellen auf der Stetten, und seinen nachkomen und sind zu dienen zu drin tegen und wider abzekauffen miteinander und den nagsten dinst damit, ut littera sonat. Actum an Freytag vor dem Palm tag, anno etc. xliido.</p>
                <p rend="Summa">Summa iii s. xxii d.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0296.jpg</p>
+               <pb/>
                <p>Hanns Slachinhaussner, der wagner, und Barbara, sein hausfraw, habent versaczt ir haus, gelegen am Newnmarkht zenagst Thomans Kuntter haus, davon man jerlich dint hern Jacoben Kolbl sechs phunt pfening zu purkrecht und nicht mer. Dem erbern weisen Erharten dem Griesser, diezeit des rats der stat zu Wienn und seinen erben, umb zehen pfunt Wienner pfening und sind zu beczalen wen si die vodernt und nicht lenger empern wellent. Actum an Mitichen vor dem heiligen phingsttag, anno etc. xliido.</p>
                <p rend="Summa">Summa xx d.</p>
             </div>

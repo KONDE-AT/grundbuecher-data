@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1439-09-04</title>
-               <title type="rubrik">Anno etc. xxxviiiio</title>
+               <title type="rubrik">Anno etc. xxxviiii<hi rend="SUPER">o</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0279.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -115,7 +115,6 @@
                <p>Hanns Scharffenperger, burger zu Wien, hat verchaufft zehen pfunt pfening gelcz purkrechtz auf seinem haws, stadel und garten mitsambt dem hoflein daz ettwen ain zuheusl gewesen ist bei dem stadel, gelegen haws, stadl und garten in der Weyhenpurgk zenagst Margreten weilnt Jany des Weinmaisters hausfraun haus und daz hofel daselbs bei dem stadel zenagst hern Steffans des Holczl haus an ainem tail und auf seinem zuhaus, daz er von hern Merten von Weikchartzlag gekauft hat, gelegen zenagst seinem grossem haus im Vischhof und stosst auch in daz Ratgéssel. Umb clxiii tl. d und lxxx d., dem ersamen herren maister Hansen Aichelperger, pfarrer zu Grillnperg, diezeit caplan Sant Annen cappellen in unsers gnedigisten herren · des kunigs canczley haus in der Verberstrazz hie zu Wien gelegen, und seinen nachkomen caplénen derselben cappellen und sind zu dienen zu drein tégen und wider abzekauffen mit clxiii tl. und lxxx d. und den nagsten dinst damit, ut littera sonat. Actum an Freytag nach sand Giligen tag, anno domini etc. xxxviiiio.</p>
                <p rend="Summa">Summa x s. xxvi d.</p>
                <p rend="Nachtrag">Nota die egnanten clxiii tl. lxxx d. sind zu dem puch gelegt worden, feria sexta ante Philipi et Jacobi, anno limo und der purkrechtbrief zesniten</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0280.jpg</p>
             </div>
          </body>
       </text>

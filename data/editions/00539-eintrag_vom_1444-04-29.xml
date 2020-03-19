@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1444-04-29</title>
-               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, Cristanni Wissinger, anno etc. xliiiito</title>
+               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, Cristanni Wissinger, anno etc. xliiii<hi rend="super">to</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0306.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -116,6 +116,7 @@
                <p rend="Summa">Summa i tl. xxiiii d.</p>
                <p rend="Nachtrag">Daz vorgenant gelt hat der genant Niclas Lewter ingenomen von Petern Strasser der das haus gekauft hat und den sacz ledig gesagt, an Freytag ante Martini, anno etc. xlviio.</p>
                <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0307.jpg</p>
+               Tempore dominorum Oswaldi Reicholf, consulis, Cristanni Wissinger, anno etc. xliiii<hi rend="super">to</hi>
             </div>
          </body>
       </text>

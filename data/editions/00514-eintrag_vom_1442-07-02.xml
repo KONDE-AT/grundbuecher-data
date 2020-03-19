@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1442-07-02</title>
-               <title type="rubrik">Tempore dominorum Symonis Potel, consulis, et Kristan Wissinger, anno etc. xliido</title>
+               <title type="rubrik">Tempore dominorum Symonis Potel, consulis, et Kristan Wissinger, anno etc. xlii<hi rend="super">do</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,13 +107,14 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0297.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Hanns Praytter, burger zu Wien, hat versaczt sein haus daz ettwen Jacobs von Velach gewesen ist, gelegen im Schiltergéssl zenagst Hanynn der Gürtlerin haws. Den ersamen weisen hern Andren Hiltprant, zu den zeiten burgermaister, und dem rat der stat ze Wien und iren nachkomen anstat und als obristen gerhaben Ewstachien und Reginen, Jacobs von Velach seligen kindern, und iren erben, umb dritthalbhundert phunt Wiener d und sind zu beczalen, wenn dieselben kinder vogtper werdent und zu iren beschaiden jaren komend, darnach ynner dem nagsten moneid anvercziehen. Und ob ir ains gevogt wurde so sol man demselben seinen tail geben auch in der yeczgemelten zeit darumb sol man den egenanten Praitter oder seine erben daengegen nach notdurften quittirn und ob der egenanten kinder ains abging ungevogt, so sol desselben kinds tail gelt erben auf das ander sein geswistreid das in leben bleibt. Ging in dann dasselbig darnach auch ungevogts ab, so sullen dann die obgenanten ii ½c tl. d. erben und gevallen auf desselben kinds nagst erben darauf si zurecht erben und gevallen sullen in allen den rechten als daz egenant haws ob das nicht verchauft wer von rechtens wegen solt oder mecht dahin geerbt haben, ut littera sonat. Actum an Montag vor sand Ulreichs tag, anno etc. xliido.</p>
                <p rend="Summa">Summa ii tl. xx d.</p>
+               <!-- Seitenumbruch neuer Eintrag -->
                <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0298.jpg</p>
                <p>Hanns Holczl, sneider, hat verchaufft, drew phunt Wiener pfening gelcz purkrechts auf seinem haus, gelegen in der Wildberherstrass daselbs zenagst Jacobs des Rechwein haus an aim tail, davon man jèrlich dint hern Merten von Wels, caplan gotzleichnams altar zu Sand Michel der von Eslorn stifftung, vir pfunt pfening und hern Jacoben, Frawndinst kaplan der mess die weilnt Hanns der Poll auf Sand Merten altar dacz Sand Steffan gestifft hat vi tl. d. und Johannesen Hofkircher, verweser der mess die Steffan Helmberch auf Sand Peters und Sant Pauls altar in Sant Johans kappellen vor Werdertor gestift hat, funf pfunt pfening alles zu purkrecht und nicht mer. Umb xxxi tl. d. dem erbern herren herren Hansen Weiss von Harras, kaplan Sant Margreten cappellen ze Meczleinsdorf, und seinen nachkomen und sind zu dienn von zu drin tegen und wider abzekauffen wen man daz getun mag miteinander und den nagsten dinst damit, ut littera sonat. Actum an Mitichen vor des heiligen krewtz tag exaltacionis, anno etc. xliido.</p>
                <p rend="Summa">Summa lxii d.</p>

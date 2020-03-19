@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1442-08-22</title>
-               <title type="rubrik">Tempore dominorum Symonis Potel, consulis, et Kristan Wissinger, anno etc. xliido</title>
+               <title type="rubrik">Tempore dominorum Symonis Potel, consulis, et Kristan Wissinger, anno etc. xlii<hi rend="super">do</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0296.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -115,7 +115,6 @@
                <p>Hanns Mautter, burger zu Wien hat versaczt sein haus, gelegen in der Munsserstrass am egk zenagst Lewpolts des Weissen haus. Seiner hausfrawn Magdalen, Mathesen des Heldenstain seligen tochter, umb cc tl. d., die si im zu haimsteur zubracht hat und umb drewhundert phunt pfening, die er ir daengegen zu morgengab gelobt hat, nach der stat rechten zu Wienn. Doch wenn er oder sein erben oder wem er das schafft die benanten funfhundert phunt pfening in haimsteur und morgengab rechten in der stat hie auf ainem andern gut ausczaigen oder anlegen und der egenanten Magdalen verschreibent, so sol dann daz haus dem egenanten Mautter seinen erben oder wem er daz schafft von der verphendung génczlich wider ledig sein an alle irrung nach lautt des briefs der darumb ist. Actum an Mitichen vor sand Bertlmes tag, anno etc. xliido.</p>
                <p rend="Summa">Summa iiii tl. xl d.</p>
                <p rend="Nachtrag">Nota die obgenanten vc tl. d. haimsteur und morgengab sind auf Oswalten Mautter des egenanten Hannsen Mautter und seiner hausfraun Magdalen seligen sun lediclich gevallen und hat von des gemechtbriefs wegen ain totbrief zum gruntpuch erlegt.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0297.jpg</p>
             </div>
          </body>
       </text>

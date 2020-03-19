@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1442-07-06</title>
-               <title type="rubrik">Tempore dominorum Symon Potel, consulis, Erasm Ponhaymer, ano etc. xlio</title>
+               <title type="rubrik">Tempore dominorum Symon Potel, consulis, Erasm Ponhaymer, ano etc. xli<hi rend="super">o</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0296.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -115,7 +115,6 @@
                <p>Hanns Scherrübel, der pismacher hinder Sand Pangreczen, hat verchauft zwelf schilling phening geltz purkrechts auf seinem haus, gelegen daselbs zenagst Giligen des smids haus. Umb xii tl. d., und sind emaln gelegen auf Steffans Herczogenperger haus, und gehornt zu dem ewigen liecht so weilnt Hanns Welsser hincz Sand Michel gestift hat, dem erbern Gabrieln Gresenperger, diezeit kirchmaister dasselbs zu Sant Michel, und seinen nachkomen und sind zu dienen und wider abzekauffen miteinander und den nagsten dinst damit, ut littera sonat. Actum an Freitag nach sant Ulreichs tag, anno etc. xliido.</p>
                <p rend="Summa">Summa xxiiii d.</p>
                <p rend="Nachtrag">Nota das purkrecht ist abgelösst und zum gruntpuch erlegt, utz in registro.</p>
-               <p rend="Rubrik">Tempore dominorum Symonis Potel, consulis, et Kristan Wissinger, anno etc. xliido</p>
             </div>
          </body>
       </text>

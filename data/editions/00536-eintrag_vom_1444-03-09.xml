@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1444-03-09</title>
-               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, Cristanni Wissinger, anno etc. xliiiito</title>
+               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, Cristanni Wissinger, anno etc. xliiii<hi rend="super">to</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0305.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -115,7 +115,6 @@
                <p>Hanns Slahinhauffen, der wagner, gesessen am Newnmarkt zu Wien und Barbara, sein hausfrau, habent versaczt ir haus, gelegen am Newnmarkt daselbs zenagst weilend Thomans des Kuntter haus, davon man jerlich dint dem erbern briester hern Jacoben dem Kolbel vi tl. d. zu purkrecht und nicht mer. Dem erbern Petern Weinhals, mitburger zu Laa, und seinen erben umb xxxii tl. d. und sind zu beczalen, wan sy die vordernt und nicht lenger peiten wellent, darnach ynner dem nagsten moneid an alles vercziehen, ut littera sonat. Actum an Montag nach Reminiscere in der vassten, anno etc. xliiiito.</p>
                <p rend="Summa">Summa lxiiii d.</p>
                <p rend="Nachtrag">Den sacz hat der Weinhals ledig gesagt, quarta ante Margarethe.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0306.jpg</p>
             </div>
          </body>
       </text>

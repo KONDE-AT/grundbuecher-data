@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1438-07-21</title>
-               <title type="rubrik">Tempore dominorum Michel Lyenvelder et Dyetz Starhant, anno etc. xxxviiivo</title>
+               <title type="rubrik">Tempore dominorum Michel Lyenvelder et Dyetz Starhant, anno etc. xxxviii<hi rend="super">vo</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="Faksimile fehlt"/>
       </facsimile>
       <text>
          <body>

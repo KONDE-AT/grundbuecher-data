@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1452-05-24</title>
-               <title type="rubrik">Tempore dominorum, Steffan Awer, consulis, et Hanns von Eslorn, anno etc. liido.</title>
+               <title type="rubrik">Tempore dominorum, Steffan Awer, consulis, et Hanns von Eslorn, anno etc. lii<hi rend="super">do</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,14 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0253.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Gebhart Voburger hat versaczt die ubetreurung Mathesen des Voburger, seins pruder haus, gelegen im schulhof zenagst Steffans Reschhofer haus. Uber die zwanhundert funfunddreissig phund phening haimstewr und morgengab, die dem benanten Gebharten und Margrethen seiner hausfraun vor darauf verschriben sind, nach lautt ains briefs, den sy daruber habent, dem erbern Hannsen Waldegker, vilczhuter, und seinen erben umb zwainczig phunt phening. Und sind zu beczalen, wan sy die vardernt und nicht lenger peiten wellent, darnach an alles vercziehen. Actum an Mitichen vor sand Urbans tag, anno etc. lii<hi rend="super">do</hi>.</p>
                <p rend="Summa">Summa xl d.</p>
-               <p rend="Rubrik">Tempore dominorum, Cristan Wissinger, consulis, et Peter von Aslabing, anno etc. liiii<hi rend="super">to</hi>.</p>
             </div>
          </body>
       </text>

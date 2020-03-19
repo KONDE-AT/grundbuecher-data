@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1455 VI 23 </title>
-               <title type="rubrik">Tempore dominorum, Cristan Wissinger, consulis, et Peter von Aslabing, anno etc. liiiito.</title>
+               <title type="rubrik">Tempore dominorum, Cristan Wissinger, consulis, et Peter von Aslabing, anno etc. liiii<hi rend="super">to</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,14 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0253.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Gerdraut, Dietreichs Holfus hausfraun, die emalen Jacoben Olmansperger seligen auch elichen gehabt hat, hat versaczt dreu phunt phening gelts purkrechts auf irm halben haus, ganczes gelegen am Harmarkt zenagst weilent Jorgen von Nicospurg haus. Umb virundczainczig phund pfening und sind emalen gelegen auf Micheln Nernsnabl haws, dem ersamen maister Hannsen von Mistlbach, caplan der messe, die Jacob von Mergestorf auf dem newen karnner zu Sant Steffan gestifft hat, und seinen nachkomen. Und sind zu dienn zu drein tegen und wider abczukauffen miteinander und den nagsten dinst damit, ut littera. Actum an Montag vor sand Johanns tag, anno etc. lv<hi rend="super">to</hi>.</p>
                <p rend="Summa">Summa xlviii d.</p>
-               <p rend="Rubrik">Tempore dominorum, Jacoben Rèchwein, consulis, et Hannsen von Eslorn, anno etc. lvi<hi rend="super">to</hi>.</p>
             </div>
          </body>
       </text>

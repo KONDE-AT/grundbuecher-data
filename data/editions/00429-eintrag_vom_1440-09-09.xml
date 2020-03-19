@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1440-09-09</title>
-               <title type="rubrik">Tempore Diecz Starhant, consulis, Michel Linfelder, anno domini etc. xlo</title>
+               <title type="rubrik">Tempore Diecz Starhant, consulis, Michel Linfelder, anno domini etc. xl<hi rend="super">o</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0252.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -116,8 +116,6 @@
                <p rend="Summa">Summa lx d.</p>
                <p rend="Nachtrag">Habet cedulam.</p>
                <p rend="Nachtrag">Den sacz hat die genant fraw Kathrey ledig gesagt, feria sexta post Exaltacionis sancte Crucis anno domini etc. xlviio.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0253.jpg</p>
-               <p rend="Rubrik">Tempore dominorum, Steffan Awer, consulis, et Hanns von Eslorn, anno etc. lii<hi rend="super">do</hi>.</p>
             </div>
          </body>
       </text>

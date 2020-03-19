@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1443-09-27</title>
-               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, Arnoldi Galander, anno etc. xliiio</title>
+               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, Arnoldi Galander, anno etc. xliii<hi rend="super">o</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0303.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -115,7 +115,6 @@
                <p>Hanns von Graben hat versaczt sein haus, gelegen am Liechtensteg zenagst · des Füchssleins haus, da man von ainer kram in dem yeczgenanten haus zenagst dem Fuchsslein alle jar dint zu der ewigen mess die weilent maister Hanns Sachs der maler auf dem Karnner dacz Sant Steffan zu Wienn gestifft hat, vir phund Wienner pfening nach der briefsag so die schreiberczech daselbs darumb hat und nicht mer. Dem erbern Philippen Kügersauf von Presspurg und seinn erben umb hundert drewundzwainczig phund pfening und sind zu beczalen halb auf die nagstkünftigen Ostern und halb auf sant Bertlmes tag darnach schiristkünftig an alles vercziehen. Actum an Freitag vor Sant Michels tag, anno domini etc. xliiio.</p>
                <p rend="Summa">Summa i tl. vi d.</p>
                <p rend="Nachtrag">Den sacz hat Ana des Kugersauf hausfrau, ledig gesagt an stat irs manns des gwalt si het ut littera, der zu dem puch gelegt ist, feria secunda post crucis Exaltacionis ano etc. xliiiito.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0304.jpg</p>
             </div>
          </body>
       </text>

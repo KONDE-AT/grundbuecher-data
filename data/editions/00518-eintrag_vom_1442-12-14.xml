@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1442-12-14</title>
-               <title type="rubrik">Tempore dominorum Symonis Potel, consulis, et Kristan Wissinger, anno etc. xliido</title>
+               <title type="rubrik">Tempore dominorum Symonis Potel, consulis, et Kristan Wissinger, anno etc. xlii<hi rend="super">do</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0299.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -116,7 +116,6 @@
                <p rend="Summa">Summa xl d.</p>
                <p rend="Nachtrag">Habet cedulam.</p>
                <p rend="Nachtrag">Nota daz gelt hat die egenant frau Elzbet ingenomen und den sacz ledig gesagt, an Montag vor sand Michls tag, ano etc. xliiio.</p>
-               <p rend="Rubrik">Tempore dominorum Oswaldi Reicholf, consulis, Arnoldi Galander, anno etc. xliiio</p>
             </div>
          </body>
       </text>

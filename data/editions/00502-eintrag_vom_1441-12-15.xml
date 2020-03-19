@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1441-12-15</title>
-               <title type="rubrik">Tempore dominorum Symon Potel, consulis, Erasm Ponhaymer, ano etc. xlio</title>
+               <title type="rubrik">Tempore dominorum Symon Potel, consulis, Erasm Ponhaymer, ano etc. xli<hi rend="super">o</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0293.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -115,7 +115,6 @@
                <p>Hanns Zwetler am Salczgriezz hat emphan versaczt sein haws, gelegen am Salczgriezz zenagst frawn Regina, Hansen Miltenberger des wachsgiesser hausfrawn, haus. Dem erbern Pangreczen, weilnt Berchtols Swinden des schirmer seligen sun, den der rat dem egenanten Zwetler mit leib und gut innzehaben empholhen hat, umb lxxxiiii tl. d. und sind zu beczaln, wen der egenant knab vogtbér wirdet oder ob er ungevogter abging, darnach seinen erben nach innhaldung des statpuchs und in der maynung als im derselb knab vom rat ingeantwurt und empholhen worden ist. Actum an Freitag nach sant Lucein tag, ano etc. xlio.</p>
                <p rend="Summa">Summa v s. xviii d.</p>
                <p rend="Nachtrag">Item xxxviii tl. v s. iiii d. sind dem Zwetler abgeczogen worden von der gepauten nucz wegen auf dem hof zu Sibenhirten, die der Keyger, hofmaister gevechsent hat und die ubrigen xlv tl. lxxxvi d. hat der Kerner zu der stat handen ingenomen, feria prim secunda ante Marie Magdalene, ano etc. xlvito, und den vorgenanten sacz ledig gesagt.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0294.jpg</p>
             </div>
          </body>
       </text>

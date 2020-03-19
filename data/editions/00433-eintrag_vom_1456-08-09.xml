@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1456-08-09 </title>
-               <title type="rubrik">Tempore dominorum, Jacoben Rèchwein, consulis, et Hannsen von Eslorn, anno etc. lvito.</title>
+               <title type="rubrik">Tempore dominorum, Jacoben Rèchwein, consulis, et Hannsen von Eslorn, anno etc. lvi<hi rend="super">to</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,17 +107,17 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0253.jpg"/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0254.jpg"></graphic>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Gilig und Jacob, geprüder die Waldner habent versaczt ír haus mit aller seiner zúgehorung, gelegen in der Munsserstrass zenagst Oswalts Sweiker haws. Der erbern Annens, des egenanten Giligen Waldner hausfraun, die emalen Jorgen den Obrechten auch elichen gehabt hat, umb drewhundert pfund pfening, die von dem benanten Obrechten ir morgengab und pey der stat gruntpuch gelegen</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0254.jpg</p>
+               <pb/>
                <p>gewesen sein, also das sy die ir lebtag innhaben, nuczen und niessen sol unverkumert. Und nach irm abgang sullen sy erben und gevallen auf des egenanten Jörgen Obrechts nagst erben, darauf si zurecht erben und gevallen sullen, ut littera sonat. Actum an Montag vor sand Larenczen tag, anno domini etc. lvi<hi rend="super">to</hi>.</p>
                <p rend="Summa">Summa ii ½ tl. d.</p>
                <p rend="Nachtrag">Nota der vorgenante brief ist hinder den rat gelegt worden des egenanten Obrechts nagsten erben zu irn handen.</p>
-               <p rend="Rubrik">Tempore dominorum, Jacobs Rechwein, consulis, et Micheln Menestorffer, anno etc. lvii<hi rend="super">o</hi>.</p>
             </div>
          </body>
       </text>

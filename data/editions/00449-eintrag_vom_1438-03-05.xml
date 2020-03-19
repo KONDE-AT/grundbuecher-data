@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1438-03-05</title>
-               <title type="rubrik">Tempore dominorum Michel Lyenvelder et Dyetz Starhant, anno etc. xxxviiivo</title>
+               <title type="rubrik">Tempore dominorum Michel Lyenvelder et Dyetz Starhant, anno etc. xxxviii<hi rend="super">vo</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,14 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0275.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Hanns Welser, burger ze Wienn, hat versatzt sein haws, gelegen niderhalb der Heyligen Kreuczer hof zenagst Hannsen von Fürstenveld des fleischhakker haws. Junkfrauen Ursulen und Margreten, seinen swestern, Hartmans von Bresla töchtern, und iren erben, umb xl tl. Wiener d., und sind herkomen von dem haws in der vordern Pekchenstrass gelegen zenagst Petern dem Lökl, das Dyetreich Starhand an irer stat mitsambt den andern iren geswistreiden verkaufft hat, und sind zu beczalen wenn sy vogtpér werdent. Actum feria quarta ante Reminiscere in der vassten, anno etc. xxxviiio.</p>
                <p rend="Summa">Summa lxxx d.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0276a.jpg</p>
             </div>
          </body>
       </text>

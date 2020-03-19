@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1438-01-17</title>
-               <title type="rubrik">Tempore dominorum Michel Lyenvelder et Dyetz Starhant, anno etc. xxxviiivo</title>
+               <title type="rubrik">Tempore dominorum Michel Lyenvelder et Dyetz Starhant, anno etc. xxxviii<hi rend="super">vo</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0274.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -115,7 +115,6 @@
                <p>Hanns Drumawer, der ledrer, mitburger ze Wienn, hat versatzt die übertewrung seins hawss und der weingarten daran und was darczu gehoret, gelegen vor Stubentor im Grewt zenagst der Mülgassen an ainem tail und an dem andern zenagst des Pirpawmer haws, davon man jerlichen dint hern Micheln von Aschach, capplan der ewigen mess die frau Elspet Ulreichs des Kerczenmacher wittib auf Allerheiligen altar datz Sand Steffan ze Wienn ze stifften geschafft hat, vi tl. lx d. ze purkrecht und nicht mer. Über die lx tl. d., die seiner erérn hausfraun Margreten seligen und iren erben in haimsteur weis vormalen darauf verschriben seien, der erbern fraun Kúnigunden, Paulen des Pekchen seligen tochter, seiner hausfraun, umb l tl. d. haimsteur und lxxv tl. d. morgengab nach der statrechten ze Wienn, ut littera sonat. Actum an sand Anthonien tag, anno etc. xxxviiivo.</p>
                <p rend="Summa">Summa i tl. x d.</p>
                <p rend="Nachtrag">Hanns Planer habet cedulam.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0275.jpg</p>
             </div>
          </body>
       </text>

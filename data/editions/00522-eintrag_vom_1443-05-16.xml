@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1443-05-16</title>
-               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, Arnoldi Galander, anno etc. xliiio</title>
+               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, Arnoldi Galander, anno etc. xliii<hi rend="super">o</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,8 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0300.jpg"/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0301.jpg"></graphic>
       </facsimile>
       <text>
          <body>
@@ -115,7 +116,7 @@
                <p>Her Hanns Steger, burgermaister zu Wienn, hat versaczt die uberteurung seins hauss mit seiner zugehorung genant Sand Margreten hof, gelegen in der Münsserstrass zu Wienn zenagst Petern des Strasser haus. Uber die zwayhundert phunt pfening, die er seinen kindern Agnesen und Hannsen vormalen darauf verschriben hat, der edeln Magdalen, Symons des Eschpau seligen tochter, seiner hausfrawn, umb zwayhundert pfunt pfening heiratguts so sy dem egenanten irm man zupracht hat und<note>
                      <p rend="footnote text"> Und: Über der Zeile eingefügt.</p>
                   </note> umb virhundert pfunt pfening widerlegung desselben heiratguts insolher maynung ist daz der vorgenant her Hanns Steger mit tod abget ee dann die benant Magdalen sein hausfraw is haben kinder miteinander oder nicht so sol si dann die obgenanten sechshundert pfunt pfening heiratgut und uberl widerlegung lediklich und freilich haben und allen irn frumen damit schaffen machen und geben wem si wil an seiner erben irrung. Und die uberteurung des egenanten hauss mit seiner zugehorung dafur innhaben nuczen und niessen an abslag solang uncz daz das seinen nagst erben oder wem er daz schafft uber sechshundert phunt pfening von ir losent. Beschech aber daz die benant Magdalen mit tod abging ee denn der vorgenant ir man si haben kinder miteinander oder nicht, so sind im dann die obgenanten cccc tl. d. widerlegung auf der uberteurung seins hauss génczlich wider ledig, dann die egenanten cc tl. d. heiratguts sol und mag er dennoch sein lebtteg unverkumert innhaben nuczen und niessen an abslag als leibgedings recht ist und nach seinem abgang sullen die egenanten zwayhundert pfunt pfening erben und gevallen auf sein und der egenanten Magdalen seiner hausfrawn kinder. Ob sy die miteinander gewynnen und hinder in lassen, ob aber die nicht enwérn oder ob si kinder miteinander gewunnen und hinder in liessen und daz die ungevogte abgingen, so sullen </p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0301.jpg</p>
+               <pb/>
                <p>die egenanten zwaihundert pfunt pfening erben und gevallen auf sein und der egenanten Magdalen seiner hausfraun kinder ob si die miteinander gewynnen und hinder in lassen nagst erben darauf sy dann zu recht erben und gevallen sullen die dy uberteurung des egenanten hauss ob daz alslang ungelost beleibt auch dafür innhaben nüczen und niessen sullen an abslag solang uncz daz es sein nagst erben oder wem er daz schafft umb cc tl. d. von in losent. Doch wenn daz ist daz der egenant her Hanns der Steger pey der egenanten Magdalen seiner hausfraun lebttégen die uberteurung des vorgenanten hauss mit seiner zugehorung umb die egenanten sechshundert phunt pfening von ir losen wil, des sol er alczeit recht und gewalt haben zetun oder wen er die sechshundert pfunt pfening zu der stat gruntbuch niderlegt zu irn handen so sol im dann die uberteurung des hauss ledig sein an alle irrung und dieselben sechshundert phunt pfening sullen der egenanten seiner hausfraun nach ir paider frewnt rat wider angelegt und verschriben werden in allen den rechten als vorbegriffen ist angever, ut littera sonat. Actum an Phincztag nach sand Pangréczen tag, anno etc. xliiio.</p>
                <p rend="Summa">Summa v tl. d.</p>
             </div>

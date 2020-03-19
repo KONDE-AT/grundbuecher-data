@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1440-08-05</title>
-               <title type="rubrik">Tempore dominorum Diecz Starhant, consul, Michel Linfelder, anno etc. xlmo.</title>
+               <title type="rubrik">Tempore dominorum Diecz Starhant, consul, Michel Linfelder, anno etc. xl<hi rend="super">mo</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,14 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0285.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Hanns Hémerl hat versaczt die ubertewrung seins hauss, gelegen im grashof bey der Heiligenkrewczerhof zenagst des Gundlochs haus an ainem tail, uber die sechs phunt und sechczig phening geltz purkrechts, so die ächter zu Sant Stephan vor darauf habent, und uber die xxxviii ½ tl. d., die Ulreichen Perman nachmaln darauf verphent sein, und ain haus, hofstat und garten daran mit seiner zugehorung gelegen vor Schottentor auf der Alsserstrass zenagst Dieczen Starhantz haus das alles der stat grunt ist mitsambt drein weingerten bey Dornpach gelegen, die in denselben hof dinstpérig sind. Den erbern weisen Jobsten und Ytalen gevettern den Huntpiss und Hannsen Lukly, burgern zu Ravenspurg, irer gesellschafft und irn erben, umb zwayhundert funfundachczig phunt pfening und sind zu beczalen halb auf unser frawen tag zu der Liechtmess nagstkünftig und halb von derselben Liechtmess uber ain ganczs jar anvercziehen, ut littera sonat. Actum an Freytag vor sand Larenczen tag, anno etc. xlo.</p>
                <p rend="Summa">Summa i tl. d.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0286.jpg</p>
             </div>
          </body>
       </text>
