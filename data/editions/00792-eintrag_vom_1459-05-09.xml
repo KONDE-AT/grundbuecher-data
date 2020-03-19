@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1459-05-09</title>
-               <title type="rubrik">Anno domini etc. lviiiio.</title>
+               <title type="rubrik">Anno domini etc. lviiii<hi rend="super">o</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -116,8 +116,6 @@
                <p rend="Summa">Summa nulla propter summam priorem.</p>
                <p rend="Nachtrag">Wolfganng Kottrer habet cedulam.</p>
                <p rend="Nachtrag">Nota den sacz hat Wolfgang Kottrer ledig gesagt an Freitag vor Invocavit, lxxxiii.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0377.jpg</p>
-               <p>Richard</p>
             </div>
          </body>
       </text>

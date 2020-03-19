@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1438-10-20</title>
-               <title type="rubrik">Tempore dominorum Michel Lyenveldér et Dyetz Starhant anno xxxviiio</title>
+               <title type="rubrik">Tempore dominorum Michel Lyenveldér et Dyetz Starhant anno xxxviii<hi rend="super">o</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,14 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0413.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Jorg Pelhaymer hat versaczt die uberteurung seiner zwair hewser, gelegen vor Widmertor zenagst der padstuben, uber die zwelf pfunt pfening geltz purkrechts, so Arnolt von Ach vor darauf hat, und uber die hundert phunt phening, die seiner hausfraun Kathrein nachmaln darauf verschriben sein. Dem edeln Jorgen Schekhen, pfleger zu Weytenegk, und seinen erben, umb funfczig pfunt Wienner pfening und sind zu beczalen auf unser frawn tag zu der Liechtmess nagst künftig, ut littera sonat. Actum an Montag nach sant Gallen tag, anno etc. xxxviiio.</p>
                <p rend="Summa">Summa iii s. x d.</p>
-               <p rend="Rubrik">Anno etc. xxxviiiio</p>
             </div>
          </body>
       </text>

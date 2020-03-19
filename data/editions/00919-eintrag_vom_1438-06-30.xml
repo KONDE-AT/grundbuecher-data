@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1438-06-30</title>
-               <title type="rubrik">Tempore dominorum Michel Lyenveldér et Dyetz Starhant anno xxxviiio</title>
+               <title type="rubrik">Tempore dominorum Michel Lyenveldér et Dyetz Starhant anno xxxviii<hi rend="super">o</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,14 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0412.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Jorig Pelhaimer hat versaczt gemacht Kathrein seiner hausfraun c tl. d. auf der uberteurung seiner zwair hewser nebeneinander, gelegen vor Widmértór ze Wien zenagst der padstuben, über die xii tl. d. geltes púrkhrechts, die Arnold von Ach vor darauf hat, und über die xlvi tl. d., die Jacoben von Brunn dem gürttler, Katrein seiner hausfraun und íren baiden erben nachmalen darauf verphendet sein. Also ist daz er mit tod abgeet ee denn si, so sol die c tl. d. auf der überteurung der vorgenanten zwair hewser ledikhlichen haben. Gieng si aber ab ee denn er, so sind im dieselben c tl. wider ledig worden, ut littera sonat. Actum an Montag nach sand Peter und sand Pauls tag, anno domini etc. xxxviiivo.</p>
                <p rend="Summa">Summa vi s. xx d.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0413.jpg</p>
             </div>
          </body>
       </text>

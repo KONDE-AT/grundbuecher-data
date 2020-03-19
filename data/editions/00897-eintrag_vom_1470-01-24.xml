@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1470-01-24</title>
-               <title type="rubrik">Tempore dominorum herrn Niclasen Ernsst consul und Cristann Schönnperger anno etc. lxxmo.</title>
+               <title type="rubrik">Tempore dominorum herrn Niclasen Ernsst consul und Cristann Schönnperger anno etc. lxx<hi rend="super">mo</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -123,7 +123,6 @@
                   </note> valigund, an alles verziehen getrewlich und ungeverlich. Actum an Mitichen vor sand Pauls tag confessionis, anno etc. lxx<hi rend="super">mo</hi>.</p>
                <p rend="Summa">Summa nulla propter officium.</p>
                <p rend="Nachtrag">Herr Paul habet cedulam.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0407.jpg</p>
             </div>
          </body>
       </text>

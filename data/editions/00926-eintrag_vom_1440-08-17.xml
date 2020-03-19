@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1440-08-17</title>
-               <title type="rubrik">Anno etc. xxxviiiio</title>
+               <title type="rubrik">Anno etc. xxxviiii<hi rend="super">o</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0414.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -118,7 +118,6 @@
                <p rend="Summa">Summa xiii s. x d.</p>
                <p>Habet cedulam.</p>
                <p rend="Nachtrag">Andre Hiltprant hat an stat Erharts Peilhakchen den genanten sacz ledig gesagt und und der benant Peilhakch wenn der in xiiii tagen nagstkunftigen kombt der sol seinen willen auch darczu geben und ob des nicht beschech so hat Jorg Kellner noch dem genanten Andren gelobt pei dem puch die cc tl. d. zu von des saczs wegen zu dem puch ze legen anvercziehen. Actum an Montag nach Pangracii, anno etc. xliiio.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0415.jpg</p>
             </div>
          </body>
       </text>
