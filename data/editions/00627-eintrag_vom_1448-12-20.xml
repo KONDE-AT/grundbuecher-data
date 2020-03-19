@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1448-12-20</title>
-               <title type="rubrik">Tempore dominorum Hainreich Haiden, consulis, et Hannsen von Eslorn, anno etc. xlviiio</title>
+               <title type="rubrik">Tempore dominorum Hainreich Haiden, consulis, et Hannsen von Eslorn, anno etc. xlviii<hi rend="super">o</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,14 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0338.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Hainreich Wurm, pekch, hat versaczt sein haus, gelegen vor Kernertor zenagst dem gotzakcher, davon man jerlich dint in der Purgerspital daselbs zehen pfening zu purkrecht und nicht mer. Den erbern Symon Lémpl, Wilhalmen von Freising und Niclasen Pehem, den pekchen, Erharts Smidpekchen seligen geschefftleuten, zu handen Hainreichen, Margrethen und Annen, desselben Smidpekchen kinder, und iren erben, umb funfczig phund phening und sind zu beczalen von den nagstkunfftigen Weichnachten uber ain ganczs jar anvercziehen. Es sol auch der egnant Wúrm das obgenant junger kind Annen das vorgemelt jar innhaben, ziehen mit kost und gewant versorgen nach notdurfften als aim solhen kind zugepurt und das dann nach ausgang des jars mitsambt dem obgnanten gelt den vorgnanten geschefftleuten wider uberantwurten und geben an abslag und an alles vercziehen, act ut littera. Actum an sand Thomans abent, anno etc. xlviiio.</p>
                <p rend="Summa">Summa iii s. x d.</p>
-               <p rend="Rubrik">Tempore dominorum, Peter Strasser, consulis, Hanns von Eslorn, anno domini etc. xlviiii.</p>
             </div>
          </body>
       </text>

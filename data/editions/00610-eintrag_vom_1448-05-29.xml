@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1448-05-29</title>
-               <title type="rubrik">Tempore dominorum Hainreich Haiden, consulis, et Hannsen von Eslorn, anno etc. xlviiio</title>
+               <title type="rubrik">Tempore dominorum Hainreich Haiden, consulis, et Hannsen von Eslorn, anno etc. xlviii<hi rend="super">o</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,14 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0333.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Hanns Ofner, munsser, und Dorothe, sein hausfrau, habent verchaufft vir pfunt gelts purkrechts auf irm halben haus, in der Vordern Schulstrass gegen der Jurissten Schul über zenagst Petern Engelharsteter haus. Umb zwayunddreissig phund phening, dem ersamen geistlichen herren maister Niclasen Zingk, licentiat geistlicher rechten korherr zu Varaw und pharrer zu Fridberg, sein lebtteg innczuhaben ze nüczen und ze niessen und nach seim abgang zu gevallen dem erwirdigen geistlichen herren dem brobst und dem convent des gotshauss ze Varaw und irn nachkomen ledliclich innczuhaben als ander gult die zu demselben gotshaws gehornt und sind zu dienn zu drein tégen und wider abczukauffen miteinander und den nagsten dinst damit, ut littera. Actum an Mittichen vor Petronelle, anno domini etc. xlviiio.</p>
                <p rend="Summa">Summa lxiiii d.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0334.jpg</p>
             </div>
          </body>
       </text>

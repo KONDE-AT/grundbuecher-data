@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1448-09-02</title>
-               <title type="rubrik">Tempore dominorum Hainreich Haiden, consulis, et Hannsen von Eslorn, anno etc. xlviiio</title>
+               <title type="rubrik">Tempore dominorum Hainreich Haiden, consulis, et Hannsen von Eslorn, anno etc. xlviii<hi rend="super">o</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -108,12 +108,13 @@
       </teiHeader>
       <facsimile>
          <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0335.jpg"/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0336.jpg"></graphic>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Hainrich Eschlbach, der brunner und Margreth, sein hausfrau, habent verchauft vi ½ tl. d. gelts purkrechts auf irm haus, gelegen am Alten Kolmarkt zenagst des Fuchsleins haus. Umb zwayundfunfczig phund phening, und sind emalen gelegen auf Fridreichs kochs haus und hofstat weingarten im Gereutt, dem erbern Jorgen Bruntaler, kirchmaister zu Sand Michel, und seinen nachkomen. Der funf phunt gelcz gehornt zu Niclasen Zergadmer jartag den im ain kirchmaister daselbs jerlich begen sol des nagsten tags vor unser fraun tag concepcionis oder des nagsten tags hinnach des nachts mit ainer gesungen vigili des morgens mit aim gesungen selambt mit ausgerichter par geleutt kerczen und messprechen als solher jarteg zu begen sit und gewonhait ist und zu ainem ewigen olliecht das an underlas alle nacht in unser fraun abseitten ewiclich leichten und prynen sol durch des egnanten Zergadmer selhails willen und die ubrigen</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0336.jpg</p>
+               <pb/>
                <p>zwelf schilling gelts gehornt zu des Staindleins jartag den ain kirchmaister alle quatember in der benanten kirchen begen sol als auch solher jarteg gewonhait ist und sind zu dienn zu drin tegen und wider abczukauffen miteinander und den nagsten dinst damit, ut littera. Actum an Montag nach Egidi, anno etc. xlviiio.</p>
                <p rend="Summa">Summa iii s. xiiii d.</p>
                <p rend="Nachtrag">Nota Jorg Jorger kirchmaister zu Sand Michel hat von des purkrechtbriefs wegen ain totbrief zum puch erlegt. Actum an Freitag vor Letare, anno domini etc. lxxxii.</p>

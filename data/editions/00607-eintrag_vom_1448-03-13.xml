@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1448-03-13</title>
-               <title type="rubrik">Tempore dominorum Hainreich Haiden, consulis, et Hannsen von Eslorn, anno etc. xlviiio</title>
+               <title type="rubrik">Tempore dominorum Hainreich Haiden, consulis, et Hannsen von Eslorn, anno etc. xlviii<hi rend="super">o</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,14 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0332.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Hanns Spannberger vor Schottentor und Kathrey, sein hausfrau, habent verchaufft vir phunt phening geltz purkrechts auf irm haus gelegen daselbs auf der Alsserstrasse zenagst des Rauscher haus. Umb zwayunddreissig pfund phening, dem erbern briester hern Jacoben Moshaimer, caplan der mess die Jorg am Kienmarkt auf Sand Veits altar dacz Sand Steffan gestifft hat, und seinen nachkomen und sind zu dienen zu drin tégen und wider abczukauffen und den nagsten dinst damit, ut littera sonat. Actum an Mitichen vor dem heiligen Palmtag, anno etc. xlviiio.</p>
                <p rend="Summa">Summa lxiiii d.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0333.jpg</p>
             </div>
          </body>
       </text>

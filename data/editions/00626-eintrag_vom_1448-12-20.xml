@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1448-12-20</title>
-               <title type="rubrik">Tempore dominorum Hainreich Haiden, consulis, et Hannsen von Eslorn, anno etc. xlviiio</title>
+               <title type="rubrik">Tempore dominorum Hainreich Haiden, consulis, et Hannsen von Eslorn, anno etc. xlviii<hi rend="super">o</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,13 +107,14 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0337.jpg"/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0338.jpg"></graphic>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Hanns Weilhaimer, der goltslaher, hat verchaufft funf phund gelts purkrechts auf seim haus, gelegen in der Strauchgassen zenagst Hainreichs Maler haus, davon man jerlich dint hern Kristan Widhakcher, caplan der messe und caplaneistat die Hainreich Purkchartsperger dacz Sand Steffan gestifft hat, drew phund phening zu purkrecht und nicht mer. Umb xl tl. d. und sind emaln gelegen auf Larenczen Swarcz haus in der Walichstrass, her Hannsen von Wätsch, kaplan der messe die her Kunrat pfarrer</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0338.jpg</p>
+               <pb/>
                <p>zu Rakerspurg auf Sant Jorgen und Sand Erasms altar in Sant Michls pfarrkirchen gestifft hat, und seinen nachkomen und sind zu dienn zu drin tegen und wider abczukauffen miteinander und den nagsten dinst damit, ut littera. Actum an Freitag sant Thomans abent, anno etc. xlviiio.</p>
                <p rend="Summa">Summa lxxx d.</p>
                <p rend="Nachtrag">Die xl tl. d. hat her Hans von Watsch gelihen Alex Tewfl und seiner hausfrau auf seinem haws in goltsmidgassen an Mitichen post Egidi lvto ut purkrechtbrief sonat.</p>

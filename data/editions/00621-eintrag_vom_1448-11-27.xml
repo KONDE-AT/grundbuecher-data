@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1448-11-27</title>
-               <title type="rubrik">Tempore dominorum Hainreich Haiden, consulis, et Hannsen von Eslorn, anno etc. xlviiio</title>
+               <title type="rubrik">Tempore dominorum Hainreich Haiden, consulis, et Hannsen von Eslorn, anno etc. xlviii<hi rend="super">o</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0336.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -115,7 +115,6 @@
                <p>Hanns Herman hat versaczt sein haus, gelegen an dem Harmarkcht am egk gegen Jorgen von Nicolspurg haus über zenagst der gassen als man an den Alten Fleischmarkcht get an aim tail und an dem andern zenagst weilent Ulreichs von Steir haus. Dem erbern Hannsen Ungerlandt, erhalt des kunigkreichs zu Ungern, und seinen erben oder wem er das schafft, macht oder geit, umb sechshundert guter newer Ungrischer gulden gerecht in gold und wag und sind zu beczalen von den nagstkünfftigen Weichnachten uber drew gantze jar an alles vercziehen nach lautt ains saczbriefs vo mit der statgruntinsigl gevertigt von dem egnanten Hannsen Herman und Kathrein seiner hausfraun ausgangen. Actum an Mitichen vor Andree, anno domini etc. xlviiio.</p>
                <p rend="Summa">Summa iiii ½ tl. xx d.</p>
                <p rend="Nachtrag">Nota die vorgnanten vic gulden hat ingenomen Symon der Potl anstat des egnanten Ungerlands des gewalt er hat, an Mitichen vor sand Veits tag, anno etc. liiio, und darumb den sacz ledig gesagt und den saczbrief ubergeben.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0337.jpg</p>
             </div>
          </body>
       </text>
