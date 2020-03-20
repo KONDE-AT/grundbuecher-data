@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1447-09-11</title>
-               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, et Cristan Wissinger, anno etc. xlvto</title>
+               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, et Cristan Wissinger, anno etc. xlv<hi rend="super">to</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0425.jpg"/>
       </facsimile>
       <text>
          <body>

@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1445-02-22</title>
-               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, et Cristan Wissinger, anno etc. xlvto</title>
+               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, et Cristan Wissinger, anno etc. xlv<hi rend="super">to</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,14 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0421.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Jorg Hofkircher, der sneider, und Agnes, sein hausfrau, habent versaczt ir haus, gelegen in der Kernerstrass gegen Sant Johanns uber zenagst Niclasen des Piligreim haus. Den erbern Thoman Judenmair und Kunraten Kuntter dem sneider, anstat und als gerhaben junkfraun Margreten, Niclasen des Prewssen seligen tochtter, der egnanten Agnesen swester, und irn erben, umb anderthalbhundert pfunt pfening und sind zu beczalen wan dieselb junkfrau Margret vogtper wirdet oder ob sy ungevogte abging darnach irn nagsten erben den das rechtlich zugebürt anvercziehen, ut littera sonat. Actum an Montag post Reminiscere in der vasten, anno etc. xlvto.</p>
                <p rend="Summa">Summa x s. d.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0422.jpg</p>
             </div>
          </body>
       </text>

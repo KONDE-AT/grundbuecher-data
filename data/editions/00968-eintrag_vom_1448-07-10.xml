@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1448-07-10</title>
-               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, et Cristan Wissinger, anno etc. xlvto</title>
+               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, et Cristan Wissinger, anno etc. xlv<hi rend="super">to</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,13 +107,14 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0426.jpg"/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0427.jpg"></graphic>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Jacob Straiffing und Peter Obrecht, zingiesser, habend versaczt ir haus, das weilend maister Erharts Newnkircher des glokengiesser gewesen ist	, gelegen in der Kernerstrass zenegst Hainrich Stolln des pekchen haus an aim tail. Der erbern fraun Dorothen, Hannsen Veder des gurtler hausfrawn, die emalen den benanten maister Erharten seligen auch elichen gehabt hat, und desselben maister Erharts erben, umb lx tl. d.. die der egnanten Dorothen von dem benanten maister Erharten morgengab sein, und sullen ir jerlich davon dienn alledieweil sy die innhabend funfthalb phund phening zu den zwain tegen im jar halb zu Weichnachten und halb zu Sunwenden anvercziehen und an abgang des haubtguts. Wer aber das die egnant Dorothe mit tod abging ee wen</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0427.jpg</p>
+               <pb/>
                <p>sy das gelt abgeledigt d oder nidergelegt hieten, so sullen sy dann die egnanten lx tl. d. ausrichten des obgnanten maister Erharts seligen negsten erben den sy rechtlichen zugeburnt wenn sy darum ermont werden darnach ynner den nagsten vir wochen anvercziehen. Auch habend sy ganczen gewalt wenn sy die vorgnanten funfthalb phund der vorgnanten Dorothen nicht mer dienn wellen, so sullen sy dann die obgnanten lx tl. d.ynner den nagsten virczehen tagen nach aim yeden dinsttag an den dinst oder ynner den nagsten virczehen tagen von aim yeden dinsttag mit demselben dinst zu der stat gruntpuch niderlegen mit irm wissen und wenn sy das getan habend, so sol in das vorgnant ir haus wider ledig sein und der saczbrief geanttwurtt werden zu irn handen und sullen auch dann dieselben lx tl. d.der egnanten Dorothen wider angelegt und verschriben werden als morgengab und der statrecht ist damit die des egnanten maister Erharts negst erben so das zuschulden kumbt wissen zufinden, ut littera sonat. Actum an Mitichen ante Margarethe, anno etc. xlviiio.</p>
                <p rend="Summa">Summa ½ tl. d.</p>
                <p rend="Nachtrag">Nota der vorgnant saczbrief ligt hier im Raeturn zu der nagsten erben und der egnanten Dorothen handen.</p>

@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1452-03-10</title>
-               <title type="rubrik">Tempore dominorum Steffan Awer consul et Hannsen von Eslorn anno etc. liido.</title>
+               <title type="rubrik">Tempore dominorum Steffan Awer consul et Hannsen von Eslorn anno etc. lii<hi rend="super">do</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -114,12 +114,13 @@
       </teiHeader>
       <facsimile>
          <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0430.jpg"/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0431.jpg"></graphic>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Jorg Notlich smelczer hat verchaufft anstat sein und seiner kinder Sebastian, Henslein, Barbaren und Wolfgangen, die er mit seiner erern hausfraun Margreten seligen gehabt hat, die noch nicht vogtper sind, drew phunt phenning gelts purkrechts, auf seim haws, das er mit der egenant Margrethen seligen kaufft hat, und darnach Jorgen von Ernstprunn versaczt hetten, gelegen vor Werdertor zenagst Sand Johanns kappellen freithof. Davon man jerlich dint hern Hannsen Trautman kaplan der messe, die Hainreichin Wachsgiesserin, Steffans von Stets tochter auf Allerheiligen altar zu Sant Steffan gestiffft hat, drew phunt phenning zu purkrecht und nicht mer, umb virundczwainczig phunt phenning die dem egenant Jorgen von Ernsprunn</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0431.jpg</p>
+               <pb/>
                <p>an seiner geltschuld gevallen sind, dem erbern Ulreichen Fechter dieczeit kirchencuster Sand Michels pfarrkirchen zu Wienn und seinen nachkomen und gehornt zu Petern Underm Pirpawm jartag den im ein kirchmeister daselbs jerlich begeen sol und sind die vorgenant dren phunt zu dienn zu drein tegen und wider abczukauffen miteinander und den nagsten dinst damit ut littera. Actum an Freitag vor Oculi in der vasten, anno etc. lii<hi rend="super">do</hi>.</p>
                <p rend="Summa">Summa xlviii d.</p>
             </div>

@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1447-11-10</title>
-               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, et Cristan Wissinger, anno etc. xlvto</title>
+               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, et Cristan Wissinger, anno etc. xlv<hi rend="super">to</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,14 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0425.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Jorg und Jacob, geprüder die Munich, habent versaczt ir haws, gelegen auf dem Anger zenagst der Newnperger hof, davon man jerlichen dint dem pfarrer zu Sant Paul ze Erdpurg zway phunt phening und dem kaplan des Heiligen Krewtzs altar zu der Himelporten zu Wienn auch zway phunt phening alles ze purkrecht und nicht mer. Dem erbern Erharten Zudinger dem kramer und seinen erben, umb lxxxxiii tl. d. und sind zu beczalen auf sand Petronellen tag nagstkunftig anvertziehen, de ut littera sonat. Actum an Freytag vor sant Merten tag, anno etc. xlvii.</p>
                <p rend="Summa">Summa vi s. vi d.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0426.jpg</p>
             </div>
          </body>
       </text>

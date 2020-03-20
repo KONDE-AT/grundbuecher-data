@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1444-05-22</title>
-               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, Arnoldi Galander, anno etc. xliiio</title>
+               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, Arnoldi Galander, anno etc. xliii<hi rend="super">o</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0420.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -118,7 +118,6 @@
                <p rend="Summa">Summa iii s. x d.</p>
                <p rend="Nachtrag">Habet cedulam Narczendorffer</p>
                <p rend="Nachtrag">Nota Jorig Prewer stet des haws nutz und gewer libro nofo E. vendicionis folio 31</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0421.jpg</p>
             </div>
          </body>
       </text>

@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1446-09-05</title>
-               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, et Cristan Wissinger, anno etc. xlvto</title>
+               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, et Cristan Wissinger, anno etc. xlv<hi rend="super">to</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -108,15 +108,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0423.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Jorg Staindlperger, der pekch, und Agnes, sein hausfrau, habent verchaufft i tl. d. gelts purkrechts auf irm haus, gelegen vor Schottentor auf der Newnburgerstrass zenagst des Gelestorffer haus. Den geistlichen herren hincz den Minnornprudern und irn nachkomen, umb viii tl. d. und gehornt in irn sagrer und sind zu dienn zu drin tegen und wider abczukauffen miteinander und den nagsten dinst damit, ut littera sonat. Actum an Montag vor unsers fraun tag nativitatis, anno etc. xlvito.</p>
                <p rend="Summa">Summa xvi d.</p>
-               <p>Junk</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0424.jpg</p>
             </div>
          </body>
       </text>

@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1443-09-09</title>
-               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, Arnoldi Galander, anno etc. xliiio</title>
+               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, Arnoldi Galander, anno etc. xliii<hi rend="super">o</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0419.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -115,7 +115,6 @@
                <p>Jorg von Nicolspurg hat versaczt die uberteurung seins hauss mit aller seiner zuegehorung, gelegen am Harmarkt zenagst Jacoben Olmansperger haus, über die newn pfund und sechs schilling phening geltes purkrechts, so zu des Vinkchen messe hincz Sandt Steffan gehörnt, und uber die hundert pfund phening haymsteur und drewhundert phund pfening morgengab, die er seiner hausfraun Margreten des Pirpawmer tochtter vormalen darauf verschriben sind. Dem erbern Micheln dem Weissen von Onen, burger zu Wienn, und seinen erben, umb drewhundert guter newer ungrischer guldein gerecht in gold und wag und sind zu beczalen auf mittvassten nagstkünftig anvercziehen. Actum an Montag nach unser fraun tag als sy geporen ist, anno domini etc. xliiio.</p>
                <p rend="Summa">Summa ii tl. xlv d.</p>
                <p rend="Nachtrag">Michl Weiss habet cedulam.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0420.jpg</p>
             </div>
          </body>
       </text>

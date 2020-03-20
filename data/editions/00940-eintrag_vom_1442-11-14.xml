@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1442-11-14</title>
-               <title type="rubrik">Tempore dominorum Simonis Potl, consulis, Cristanni Wissinger, xliido</title>
+               <title type="rubrik">Tempore dominorum Simonis Potl, consulis, Cristanni Wissinger, xlii<hi rend="super">do</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0418.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -115,7 +115,6 @@
                <p>Jorg Vesst, kramer am Liechtensteg, und Elzbet, sein hausfraw, habent verkaufft drew phunt pfening gelts purkrechtz auf irm haus, gelegen daselbs am Liechtensteg zenagst Wolfgangs Peczolts haus. Umb xxiiii tl. Wiener d. dem ersamen herren herren Jacoben Frawndinst, diezeit kaplan der ewigen mess die Hanns Poll auf Sant Merten altar dacz Sand Steffan zu Wien gestift hat, und seinen nachkomen und sind zu dienen zu drin tegen und wider abzekauffen miteinander und den negsten dinst damit, ut littera sonat. Actum an Mitichen nach sant Merten tag, anno etc. xliido.</p>
                <p rend="Summa">Summa xlviii d.</p>
                <p rend="Nachtrag">Nota das purkrecht ist zu dem puch gelegt, anno etc. xliiio.</p>
-               <p rend="Rubrik">Tempore dominorum Oswaldi Reicholf, consulis, Arnoldi Galander, anno etc. xliiio</p>
             </div>
          </body>
       </text>

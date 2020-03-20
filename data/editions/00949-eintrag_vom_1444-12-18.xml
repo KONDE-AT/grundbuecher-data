@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1444-12-18</title>
-               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, Arnoldi Galander, anno etc. xliiio</title>
+               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, Arnoldi Galander, anno etc. xliii<hi rend="super">o</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0421.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -115,7 +115,6 @@
                <p>Jorg von Nicolspurg, burger zu Wienn, hat versaczt sein haus mit aller seiner zugehorung, gelegen am Harmarkt zenagst des Olmansperger haus, uber die newn pfund und sechs schilling pfening gelts purkrechts, die zu des Vinkchen mess gehornt, und uber die hundert pfund pfening haimsteur und uber die drewhundert pfund pfening morgengab, so seiner hausfraun Margreten emalen darauf verschriben sein. Den erbern Conraten Pawmgartner, Bertlmeen Knébl, Sewolten Halbwachsen und Niclasen Granétl, burgern zu Nurnberg, irer gesellschafft, und irn erben, umb drewhundert ungrisch gulden in gold und sind zu beczalen von dem nagstkunftigen sand Margreten tag uber ain jar anvercziehen. Actum an Freitag ante Thome apostoli, anno etc. xliiiito.</p>
                <p rend="Summa">Summa xvii s. xiiii d.</p>
                <p rend="Nachtrag">Habet cedulam.</p>
-               <p rend="Rubrik">Tempore dominorum Oswaldi Reicholf, consulis, et Cristan Wissinger, anno etc. xlvto</p>
             </div>
          </body>
       </text>

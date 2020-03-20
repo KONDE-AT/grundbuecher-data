@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1442-06-06</title>
-               <title type="rubrik">Tempore dominorum Simon Potel, consulis, Erasm Ponhaymer, anno etc. xliido</title>
+               <title type="rubrik">Tempore dominorum Simon Potel, consulis, Erasm Ponhaymer, anno etc. xlii<hi rend="super">do</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,12 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0417.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
-               <p>Jacob Krewss hat versaczt die ubertewrung seins hauss, gelegen in Sant Johannsstrass zenagst Micheln Munsser haus, uber die fünftzig pfunt pfening, dafur es Giligen Zerer von Ménhestorf emaln versaczt ist. Dem erbern Hannsen Gruntreich, burger zu Wien, und seinen erben, umb xvi tl. d. und sind zu beczalen auf sant Cholmans tag nagstkünftig anvercziehen. Actum an Mitichen nach sant Erasms tag, anno etc. xliido.</p>
+               <p>Jacob Krewss hat versaczt sein haws, gelegen in Sant Johannsstrass zunagst Micheln Münsser haws. Dem erbern Hannsen Gruntreich, burger zu Wien, und seinen erben, umb</p>
+               <p>Jacob Krewss hat versaczt die ubertewrung seins hauss, gelegen in Sant Johannsstrass zenagst Micheln Munsser haus, uber die fünftzig pfunt pfening, dafur es Giligen Zerer von Ménhestorf emaln versaczt ist. Dem erbern Hannsen Gruntreich, burger zu Wien, und seinen erben, umb xvi tl. d. und sind zu beczalen auf sant Cholmans tag nagstkünftig anvercziehen. Actum an Mitichen nach sant Erasms tag, anno etc. xlii<hi rend="super">do</hi>.</p>
                <p rend="Summa">Summa xxxii d.</p>
                <p rend="Nachtrag">Den sacz hat der Gruntreich ledig gesagt, feria secunda post Judica, ano etc. xliiio.</p>
             </div>

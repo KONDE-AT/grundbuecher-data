@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1448-12-16</title>
-               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, et Cristan Wissinger, anno etc. xlvto</title>
+               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, et Cristan Wissinger, anno etc. xlv<hi rend="super">to</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0427.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -115,8 +115,6 @@
                <p>Jorg und Jacob, gepruder die Münich, habent verchaufft vi tl. gelts purkrechts auf irm haus, gelegen aufm Anger zenagst der Newnperger hof, davon man jerlich dint dem pharrer zu Sand Paul zu Erdpurg ii tl. d. und dem kaplan des Heiligenkreuczs altar zu der Himlporten auch zway pfund phening alles zu purkrecht und nicht mer. Umb xlviii tl. d., und sind emalen gelegen auf Petern von Nusdorf des sneider haus gegen den Predigern uber, hern Mathesen Seirer, caplan der messe die Hainreich Kessler auf allerheiligen altar zu Sant Steffan gestifft hat, und seinen nachkomen und sind zu dienn zu drein tégen und wider abczukauffen miteinander und den nagsten dinst damit, ut littera. Actum an Montag vor Thome, anno etc. xlviiio.</p>
                <p rend="Summa">Summa iii s. vi d.</p>
                <p rend="Nachtrag">Nota die egenanten xlviii tl. d. hat her Jorg Schrot angelegt auf Casparn Egenburger haus undern Pognern, ut littera, feria quarta ante Egidi anno domini etc. lpmo.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0428.jpg</p>
-               <p rend="Rubrik">Tempore dominorum Peter Strasser consul, Hanns von Eslorn Anno etc. <unclear>xl</unclear>viiii</p>
             </div>
          </body>
       </text>
