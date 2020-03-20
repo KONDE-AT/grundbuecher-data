@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1442-11-09</title>
-               <title type="rubrik">Tempore dominorum Symon Potel, consulis, Erasm Ponhaymer, anno etc. xliido</title>
+               <title type="rubrik">Tempore dominorum Symon Potel, consulis, Erasm Ponhaymer, anno etc. xlii<hi rend="super">do</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,14 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0579.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Lucas Hulber hat seiner hausfrawn Agathen gemacht auf seinen haus, am Alten Fleischmarkht, dacz ettwenn des Sunter gewesen ist, zenagst Hansen Zehentner haus, drewhundert phunt pfening. Also das si die bei seinen lebtegen und nach seinen tod lediklich darauf haben, nuczen und niessen, und allen irn frumen damit schaffen sol und mag, wie si des verlust, ut littera sonat. Actum an Freitag vor sand Merten tag, anno etc. xliido.</p>
                <p rend="Summa">Summa ii ½ tl. d.</p>
-               <p rend="Rubrik">Tempore dominorum Oswaldi Reicholf, consulis, Arnoldi Galander, anno etc. xliiio</p>
             </div>
          </body>
       </text>

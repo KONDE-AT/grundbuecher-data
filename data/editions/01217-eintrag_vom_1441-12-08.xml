@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1441-12-08</title>
-               <title type="rubrik">Tempore dominorum Symon Potel, consulis, Michel Linfelder, anno etc. xlio</title>
+               <title type="rubrik">Tempore dominorum Symon Potel, consulis, Michel Linfelder, anno etc. xli<hi rend="super">o</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,14 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0577.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Margret, Hainreichs Rémptendorffer hausfraw, hat versaczt irn drittail hawss, gelegen beim Rotenturn zu Wienn zenagst Niclasen Kamhofer haus mit allen den gemechen und gemain stúkchen, die nach laut der tailbrief darczu gehórnt. Der erbern frawn Agnesen, Hermans Perman seligen witib, und irn erben, umb hundert phunt Wienner pfening. Und sind zu beczaln auf sant Michels tag nagstkunftig anvercziehen. Actum an Freitag Unser Frawn tag Concepcionis, anno etc. xlio.</p>
                <p rend="Summa">Summa vi s. xx d.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0578.jpg</p>
             </div>
          </body>
       </text>

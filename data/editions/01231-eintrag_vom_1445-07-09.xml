@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1445-07-09</title>
-               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, et Cristani Wissinger, anno etc. xlvto</title>
+               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, et Cristani Wissinger, anno etc. xlv<hi rend="super">to</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0581.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -115,7 +115,6 @@
                <p>Maister Mertt Guldein, lerer in der ercznei, und Barbara, sein hausfrau habent versaczt ir haus, in der Sinngerstrass zenagst Maister Hannsen von Prag des arczts haus. Frawn Annen, Hannsen des Pusmer hausfraun, und irn erben, umb fúnfczig pfunt pfening und sind zu beczalen auf Mittvassten nagstkúnftig anvercziehen. Actum an Freitag ante Margarethe, anno etc. xlvto.</p>
                <p rend="Summa">Summa iii s. x d.</p>
                <p rend="Nachtrag">Den sacz hat die genant Pusmerin ledig gesagt, feria sexta ante Palmarum xlvito.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0582.jpg</p>
             </div>
          </body>
       </text>

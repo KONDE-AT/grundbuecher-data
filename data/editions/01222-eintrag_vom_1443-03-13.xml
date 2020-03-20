@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1443-03-13</title>
-               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, Arnoldi Galander, anno etc. xliiio</title>
+               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, Arnoldi Galander, anno etc. xliii<hi rend="super">o</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0579.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -115,7 +115,7 @@
                <p>Michel Prawnsperger, riemer, hat versaczt sein halbs haus, das er von Hansen Méirestorffer geschéfftléwten gekauft hat, gelegen in der Riemergassen, zenagst Simon Vankchen haus. Dem ersamen herren hern maister Niclasen Krotendorffer, korherr dacz Sant Steffan, und seinen erben, umb virczig pfunt pfening. Und sind zu beczaln, wenn sy die vodernt und nicht lenger peiten wellent, darnach an alles vercziehen. Actum an Mitichen nach sand Gregorgen tag, anno etc. xliiio.</p>
                <p rend="Summa">Summa lxxx d.</p>
                <p rend="Nachtrag">Maister Nicl(as) habet cedulam.</p>
-               <p rend="Nachtrag">Den sacz hat maister Niclas ledig gesagt, feria secunda post Egidi, anno domini etc. xlviiio.</p>
+               <p rend="Nachtrag">Den sacz hat maister Niclas ledig gesagt, feria secunda post Egidi, anno domini etc. xlviii<hi rend="super">o</hi>.</p>
             </div>
          </body>
       </text>

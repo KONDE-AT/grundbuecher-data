@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1444-10-30</title>
-               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, Cristanni Wissinger, anno etc. xliiiito</title>
+               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, Cristanni Wissinger, anno etc. xliiii<hi rend="super">to</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,14 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0581.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Mathes Wákcherl, wúrffler, hat versaczt sein haus, hinder Sand Pangreczen zenagst Engl des Kéuffl haus. Dem erbern Leuppolten Welser, phleger zu Paden, seim Swager, uns seinn erben, umb xxxii tl. d. Und sind zu beczalen von den nagstkúnftigen Weichnachten uber ain jar anvercziehen. Actum an Freitag ante Omnium Sanctorum, anno etc. xliiiito.</p>
                <p rend="Summa">Summa lxiiii d.</p>
-               <p rend="Rubrik">Tempore dominorum Oswaldi Reicholf, consulis, et Cristani Wissinger, anno etc. xlvto</p>
             </div>
          </body>
       </text>

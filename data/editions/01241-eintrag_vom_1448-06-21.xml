@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1448-06-21</title>
-               <title type="rubrik">Tempore dominorum Hainreich Haiden, consulis, et Hannsen von Eslorn, anno etc. xlviiio</title>
+               <title type="rubrik">Tempore dominorum Hainreich Haiden, consulis, et Hannsen von Eslorn, anno etc. xlviii<hi rend="super">o</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0584.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -115,7 +115,6 @@
                <p>Michel Tóllr, fleischhakcher, und Dorothe, sein hausfrau, habent verchaufft xii ½ tl. d. gelts purkrechts auf írm ramhof, gelegen mit dem vordern tail in der Riemerstrass zenagst Meinharts Riemer haus an aimm tail und an dem andern zenagst Symons Vankchen haus und stosst mit dem hindern tail in das Kumphgéssl zenagst des Widhakcher haus. Umb hundert pfunt phening, und sind emalen gelegen auf Steffans Herczogenperger haus oberhalb Pewrértor, hern Niclasen Notter, capplan der messe die maister Albertinus der pucharczt auf Unser Fraun Altar zu Sand Steffan gestifft hat, und seinen nachkomen. Und sind zu dienn zu drin tégen und wider abczukauffen miteinander und den nagsten dinst damit, ut littera. Actum an Freitag vor sand Johans tag zu Sundwenden, anno etc. xlviiio.</p>
                <p rend="Summa">Summa vi s. xx d.</p>
                <p rend="Nachtrag">Daz gelt ist abgelost und wider gelihen worden auf Mathesen Ubermut. swertferger und Margreten seiner hausfrau hewser ut littera, anno liiio.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0585.jpg</p>
             </div>
          </body>
       </text>

@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1441-12-18</title>
-               <title type="rubrik">Tempore dominorum Symon Potel, consulis, Michel Linfelder, anno etc. xlio</title>
+               <title type="rubrik">Tempore dominorum Symon Potel, consulis, Michel Linfelder, anno etc. xli<hi rend="super">o</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,14 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0578.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Lucas Húlber hat versaczt sein haus und zuhaus hinden daran, gelegen am Alten Fleischmarkht zenagst Hannsen Zehentner haus an aim tail und an dem andern zenagst dem gesslein als man under die Hafner get. Dem edeln Hannsen Gotesprunner und seinen erben, umb drewhundert funf und virczig pfunt Wienner pfening. Und sind zu beczaln auf sant Jorgen tag nagstkunftig anvercziehen. Actum an Montag vor sand Thomans tag apostoli, anno etc. xli.</p>
                <p rend="Summa">Summa ii tl. vii s. d.</p>
-               <p rend="Rubrik">Tempore dominorum Symon Potel, consulis, Erasm Ponhaymer, anno etc. xliido</p>
             </div>
          </body>
       </text>

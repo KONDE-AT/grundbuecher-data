@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1448-09-13</title>
-               <title type="rubrik">Tempore dominorum Hainreich Haiden, consulis, et Hannsen von Eslorn, anno etc. xlviiio</title>
+               <title type="rubrik">Tempore dominorum Hainreich Haiden, consulis, et Hannsen von Eslorn, anno etc. xlviii<hi rend="super">o</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0585.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -116,8 +116,6 @@
                <p rend="Summa">Summa i tl. xx d.</p>
                <p rend="Nachtrag">Nota der saczbrief ist in den rat gelegt worden etc.</p>
                <p rend="Nachtrag">Nota die obgenanten c und xxx tl. d. sind zu dem púch erlegt worden, an Freitag post Pangraczii, anno etc. lviimo.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0586.jpg</p>
-               <p rend="Rubrik">Tempore dominorum Petern Strasser consul et Hannsen Esloren Anno etc. xlviiii<hi rend="super">o</hi>.</p>
             </div>
          </body>
       </text>

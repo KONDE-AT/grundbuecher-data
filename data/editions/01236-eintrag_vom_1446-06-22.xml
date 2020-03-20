@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1446-06-22</title>
-               <title type="rubrik">Tempore dominorum Andre Gundorffer, consulis, et Niclas Purger, anno etc. xlvito</title>
+               <title type="rubrik">Tempore dominorum Andre Gundorffer, consulis, et Niclas Purger, anno etc. xlvi<hi rend="super">to</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0583.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -115,7 +115,6 @@
                <p>Michel Stainprecher, der seidenvater, und Barbara, sein hausfraw, habent verchaufft iiii tl. d. gelts purkrechts auf irm haus, gelegen in der Kernerstrass zenagst Hannsen des Luchsen haus. Dem erbern briester hern Pernharten Kanczler, dieczeit pfarrer zu Eczkestorff, und seinen nachkomen, und gehornt zu der mess gen Altmanstorff, umb xl tl. d. Und sind zu dienn zu drein tégen und wider abczukauffen miteinander, ut littera sonat. Actum an Mitichen vor Johannis Bapptiste, anno etc. xlvito.</p>
                <p rend="Summa">Summa lxxx d.</p>
                <p rend="Nachtrag">Nota des hauss ist Ulrich Perman nutz und gewer geschriben worden und hat das purchrecht auf sich genomen, ut libro vendicionis comm... folio lxxxxvi cccc lxxx</p>
-               <p rend="Rubrik">Tempore dominorum Erasm Ponhaymer, consulis, et Hannsen Eslorn, anno etc. xlviio</p>
             </div>
          </body>
       </text>

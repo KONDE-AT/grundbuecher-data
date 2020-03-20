@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1445-12-20</title>
-               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, et Cristani Wissinger, anno etc. xlvto</title>
+               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, et Cristani Wissinger, anno etc. xlv<hi rend="super">to</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0582.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -115,7 +115,6 @@
                <p>Michel Meichsner, der sneider, hat versaczt sein haus, gelegen in der Wildwercherstrass zu Wienn zenagst Kunrats Kuntter des sneider haus. Dem erbern Larenczen Leittner, dem zingiesser zu Zwetl, und Barbaren, seiner hausfraun, umb xviii ½ tl. d. Und sind zu beczalen auf sand Jorgen tag schiristkünfftigen an alles vercziehen. Actum an sant Thomans abent apostoli, anno etc. xlvto.</p>
                <p rend="Summa">Summa xxxvi d.</p>
                <p rend="Nachtrag">Habet cedulam.</p>
-               <p rend="Rubrik">Tempore dominorum Andre Gundorffer, consulis, et Niclas Purger, anno etc. xlvito</p>
             </div>
          </body>
       </text>
