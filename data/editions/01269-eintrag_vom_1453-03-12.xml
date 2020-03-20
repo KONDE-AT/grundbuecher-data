@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1453-03-12</title>
-               <title type="rubrik">Tempore dominorum Steffan Awer consul .. Jacoben Reichwein Anno etc. liiido. (sic)</title>
+               <title type="rubrik">Tempore dominorum Steffan Awer cons<unclear>ul ..</unclear> Jacoben Reichwein Anno etc. liii<hi rend="super">do</hi>. <unclear>(sic)</unclear></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -114,6 +114,7 @@
       </teiHeader>
       <facsimile>
          <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0591.jpg"/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0592.jpg"></graphic>
       </facsimile>
       <text>
          <body>
@@ -123,7 +124,7 @@
                <p rend="Nachtrag">Hic nota.</p>
                <p rend="Nachtrag">
                   <unclear>Ex iussu consilii</unclear>.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0592.jpg</p>
+               <pb/>
                <p rend="Nachtrag">Nota das die vorgena<unclear>nt</unclear> her Mathes und her Niclas gepruder die Slikchen habent sich gegen dem burgermaister und rat anstat irselbs und hern Casparn irs pruders seligen kinder verschriben und verpunden, das sy sew, von der saczung und vertigung des egemelten saczbriefs an allen irn schaden ledigen und losen sullen. Und sol in auch unvergriffen sein an der verschreibung, so sy emaln von hern Casparen haben, nach lautt ains besundern versorgbriefs, die paid peyeinander in ainer <unclear>statk</unclear> im Rotturn, darczu der kamrer die slussn hat, ligent.</p>
             </div>
          </body>

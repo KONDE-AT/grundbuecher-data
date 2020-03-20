@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1454-04-12</title>
-               <title type="rubrik">Tempore Andre Schonprukh consul Petern von Aslabingen Anno etc. liiiito.</title>
+               <title type="rubrik">Tempore Andre Schonpruk<unclear>h</unclear> consul Petern von Aslabingen Anno etc. liiii<hi rend="super">to</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -114,13 +114,14 @@
       </teiHeader>
       <facsimile>
          <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0594.jpg"/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0595.jpg"></graphic>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Michel Tollr fleischakcher und Dorothe sein hausfrau habent verchaufft virczehenthalben schilling pfenning gelts purkrechts auf irm halben haws in der Riemerstrassen gelegen zenagst Meinharts Reiner haws, davon man jerlich dint hern Jacoben Veleis caplan der messe, die frau Dorothe Niclasen vom Tanwald witib zu Sant Steffan zu Wienn zustifften geschafft hat und zu frawn Elspethen der Redischerin messe geaigent sind newn pfund pfenning zu purkrecht und nicht mer, umb virczehenthalb pfund pfenning dem vorgenant hern Jacoben Veleis  caplan der messe, so Anna die Sindraininn auf Allerheiligen altar zu Sand Steffan gestifft hat und seinen nachkomen caplenen. Und sind zu dienn zu drein tegen und wider abczukauffen miteinander und den nagsten dinst damit ut littera. Actum an Freitag vor dem Palmtag, anno domini etc. liiii<hi rend="super">to</hi>.</p>
                <p rend="Summa">Summa xxvi d.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0595.jpg</p>
+               <pb/>
                <p rend="Nachtrag">
                   <unclear>... viro fo 305</unclear> libro isto.</p>
             </div>

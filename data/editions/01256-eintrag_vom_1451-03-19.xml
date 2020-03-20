@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1451-03-19</title>
-               <title type="rubrik">Tempore dominorum Arnolts Galander consul et Hannsen von Esloren Anno etc. lo. primo.</title>
+               <title type="rubrik">Tempore dominorum Arnolts Galander consul et Hannsen von Esloren Anno etc. l<hi rend="super">o</hi>. primo.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -122,7 +122,6 @@
                <p rend="Summa">Summa vi s. xviii d.</p>
                <p rend="Nachtrag">Helfus habet cedulam.</p>
                <p rend="Nachtrag">Den sacz hat Linhart Dinpl an stat sains herren ledig gesagt. An Mitichen ante Letare, anno etc. lii d.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0589.jpg</p>
             </div>
          </body>
       </text>
