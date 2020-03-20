@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1473-07-30</title>
-               <title type="rubrik">Tempore dominorum herrn Ulrich Metzleinstorffer consul und Jacoben Rechwein Anno etc. lxxiiio.</title>
+               <title type="rubrik">Tempore dominorum herrn Ulrich Metzleinstorffer consul und Jacoben Rechwein Anno etc. lxxiii<hi rend="super">o</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -114,6 +114,7 @@
       </teiHeader>
       <facsimile>
          <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0457.jpg"/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0458.jpg"></graphic>
       </facsimile>
       <text>
          <body>
@@ -122,7 +123,7 @@
                <p rend="Nachtrag">Nota Herr Hanns Liebl hat den sacz sovil in von sein <unclear>sers</unclear> und seiner abgeleibten geswistern wegen angerurt ist frey gesagt Auch er und Casper Veyal umb den auszug des sacz der verlegt ist am tod verschriben geben Actum <unclear>..</unclear> quarta post Judica 89.</p>
                <p rend="Nachtrag">Nota die obgenant Kathrey, die yetz Gregorien Herman Puchveler elichen, hat des obgenant Welser seligen erben, des saczs sovil sey das berurtt und auch alles des so ir von den obgenant Wolfgangen und Micheln iren priedern, die ungevogt mit tod abgangen sein, zugepurtt, aus dem satz ledigt gesagt zugegenburtigkait des egenant irs mans. Actum an Mitichen vor dem Suntag Domine in der vassten Anno domini etc. lxxviiii.</p>
                <p rend="Nachtrag">Nota Hannsen Welser haws ist des satzs gantz ledig gesagt von des Ackher kinder und des Welser mueter.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0458.jpg</p>
+               <pb/>
                <p>Wer aber das der egenant Wolfgang ungevogt mit tod abging, so sullen aus seinem tail guldein gevalln und zuesteen seiner muter Annen die yetz Hannsen vom Lannd den kramer seinen stewfvater elichen hat funfczehen guldein und die anndern funfczehen guldein Ungrisch auf die egenannten seine geswistreid. Gingen aber derselben seiner geswistreid ains vor dem anndern ungevogt ab, so sol desselben guts albeg von ainem auf das annder erben und gevallen. Beschech aber das sy alle ungevogt abgiengen, so sol dasselb ir gescheffs gut erben und gevallen auf des obgenant irs vater des lieben seligen nagst frewnd nach innhalt seins geschefts das im statpuch hie geschriben stet. Actum an Freytag nach sand Jacobs tag im snyt, anno etc. lxxiii<hi rend="super">o</hi>.</p>
                <p rend="Summa">Summa x s. xx d.</p>
                <p rend="Nachtrag">Veyal kramer gerhab habet cedulam.</p>

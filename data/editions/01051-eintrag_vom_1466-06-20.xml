@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1466-06-20</title>
-               <title type="rubrik">Tempore dominorum herren Erenreich Köppl consul und Jacoben Gsméchel Anno domini etc. lxvito.</title>
+               <title type="rubrik">Tempore dominorum herren Erenreich Köppl consul und Jacoben Gsméchel Anno domini etc. lxvi<hi rend="super">to</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -114,12 +114,13 @@
       </teiHeader>
       <facsimile>
          <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0447.jpg"/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0448.jpg"></graphic>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Jobst Pergawer mitburger zu Wienn und Agnes sein hausfraw habend versaczt die übertewrung irs hawss gelegen hinder Sand Pangretzen zenagst Giligen Smids hawss an ainen tail, uber die dreyunddreissigkh Ungrisch guldein gerecht in gold und wag und siben phunt Wienner phenning darumb es vormalen dem erbern Hannsen Swarczen</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0448.jpg</p>
+               <pb/>
                <p>dem Zeinstrikher mitburger zu Wienn und sein erben versaczt ist. Davon man jerlich dint dem kirchmaister zu Sand Micheln daß zu Wienn zu dem ewigen liecht, das weilent Hanns Welser daselbs zu Sand Michel gestifft hat xii s. d. zu purkrecht und nicht mer, dem obgenant Hannsen Swarczen und seinen erben und wann umb xxxvii tl. d. und vii Ungrisch guldein gerecht in gold und wag,<note>
                      <p rend="footnote text"> umb xxxvii tl. d. und vii Ungrisch guldein gerecht in gold und wag, mit Verweiszeichen am linken Rand nachgetragen.</p>
                   </note> sind zubeczalen wann sy die haben und nicht lennger peyten wellen an alles verziehen getrewlich und ungeverlich. Actum an Freytag nach sand Veits tag, anno etc. lxvi<hi rend="super">to</hi>.</p>

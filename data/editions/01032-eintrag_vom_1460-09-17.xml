@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1460-09-17</title>
-               <title type="rubrik">Tempore dominorum maister Mert Guldein consulis Thomam Egkenperger anno etc. lxmo.</title>
+               <title type="rubrik">Tempore dominorum maister Mert Guldein consul<unclear>is</unclear> Thomam Egkenperger anno etc. lx<hi rend="super">mo</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -114,13 +114,14 @@
       </teiHeader>
       <facsimile>
          <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0441.jpg"/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0442.jpg"></graphic>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Jacob Starch, dieczeit burgermaister zu Wienn, hat versaczt und verschriben sein haws mitsambt dem stokch hinden daran, daz er von Goczleichmans zech darczu gekauft hat, gelegen am Alten Kolmarkt zu Wienn zenagst Jorgen Goltperger des satler haws mit der obern seitten und mit der nidern zenagst dem andern seinen haws, daz ettwen Kunczen Pintter gewesen ist, umb funfhundert phunt Wienner phenning, die sy im zubracht hat, und umb funfhundert phunt Wienner phenning, die er ir, daengegen gelobt hat. Also ist, das der egenant Jacob Starch mit dem tod abget, ee dann sy, so sind ir dann die funfhundert phunt phenning, die sy im zubracht hat, génczlich wider ledig worden und mag der davon bekomen als der stat recht ist, dann die obgenant v<hi rend="super">c</hi> tl. d., die er ir gelobt hat, sol sy ir lebtég unverkumert innhaben, nuczen und niessen, und nach irm tod sullen dann dieselben v<hi rend="super">c</hi> tl. d. herwider erben und gevallen auf des egenant Jacoben Starch nagst erben, darauf sy zurecht </p>
                <p rend="Nachtrag">Nota des obgemelten satz halber tail ist gevalln van bemelter Annen Storchin auf maister Ludwig Storch und Ulrichen Storch ir sun lautt irer bewerten sipp zal im statpuch zw Wienn geschriben und der annderhalb tail mit verzeichung Magdalenen Leschenprantin ir swesster und Jacoben Storch des jungern ableibung von Jacoben Storch dem elltern auf des obemelten Ludwigen und Ulrichen und Wilpolten die Storch komen ist. So hat Ulrich Storch seiner brueder tail und gerechtigkait, so sy daran gehabt, umb ain summa gellts abgelöst, die darauf den satz abzechen gebeten lautt ainer auffandd zum puch erlegt. Auch den gemechtbrief zusambt der obemelten verzaichung welche zum puch erlegt. Actum F. prima ante Achatii Anno etc. duodecimo.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0442.jpg</p>
+               <pb/>
                <p>erben und gevallen sullen oder wem er die pey seinen lebtégen schafft. Ging aber die egenant fraw Anna mit dem tod ab, ee denn er, so sind im dann die egenant vc tl. d., die er ir gelobt hatt genczlich wider ledig worden. Aber die egenant vc tl. d., die sy im zubracht hat, sol er sein lebteg unverkumert innhaben, nuczen und niessen und nach seinen tod sullen dann die selben v<hi rend="super">c</hi> tl. d. hin wider erben und gevallen auf der egenant frawn Annen nagst erben, darauf sy dann zu recht erben und gevallen sullen ut littera sonat. Actum an Mitichen sand Lamprechts tag, anno etc. lx.</p>
                <p rend="Summa">Summa nulla propter officium.</p>
             </div>

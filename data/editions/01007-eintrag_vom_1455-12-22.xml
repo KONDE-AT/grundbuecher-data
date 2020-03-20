@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1455-12-22</title>
-               <title type="rubrik">Tempore dominorum hern Niclasen Teschler consul et Thomen Egkenperger Anno domini etc. lvto.</title>
+               <title type="rubrik">Tempore dominorum hern Niclasen Teschler consul et Thomen Egkenperger Anno domini etc. lv<hi rend="super">to</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -122,7 +122,6 @@
                      <p rend="footnote text"> an Freitag hätte wohl getilgt werden sollen. Der betreffende Festtag fiel auf einen Sonntag.</p>
                   </note> an Montag post Thome, anno domini etc. lv<hi rend="super">to</hi>.</p>
                <p rend="Summa">Summa i tl. d.</p>
-               <p rend="Rubrik">Tempore dominorum Jacobs Rechwein consul und Hannsen von Eslorn anno etc. lvito.</p>
             </div>
          </body>
       </text>

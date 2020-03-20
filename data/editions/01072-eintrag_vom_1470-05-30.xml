@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1470-05-30</title>
-               <title type="rubrik">Tempore dominorum herrn Niclasen Ernsst consulis und Cristan Schonnperger anno etc. lxximo.</title>
+               <title type="rubrik">Tempore dominorum herrn Niclasen Ernsst consul<unclear>i</unclear>s und Cristan Schonnperger anno etc. lxxi<hi rend="super">mo</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -114,16 +114,16 @@
       </teiHeader>
       <facsimile>
          <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0453.jpg"/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0454.jpg"></graphic>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Jorg Kranperger burger zu Wienn hat versaczt die ubertewrung seins hawss gelegen vor dem Kamerhof mit seiner zugehorung zenagst Friderichs Gsmechl hawss an aim tail uber die sybenhundert guldein Ungrisch so vormaln auf demselben seinem hawss und Thomans Tengken und seiner hausfrawn Barbaren haws am Graben zenagst Conrats Reytter des Appoteker haws Achaczen und Clarn Hannsen Frolich seligen kindern</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0454.jpg</p>
+               <pb/>
                <p>verschriben sein der erbern Elspeten seiner hausfrauwn der yeczgenanten kinder muter die sy pey dem egenanten Hannsen Frolich irm erern mann elichen gehabt hat umb hundert Ungrisch guldein gerecht in gold und wag, die ir durch seins allergnedigsten herren des Romischen kaiser etc reten hie von desselebn irs erern manns gelassen gut zu leibgeding gesprochen sind nach lautt ains spruchbriefs darumb ausgangen. In der maynung das dieselb sein hausfraw Elspeth die obgenanten hundert guldein auf der ubertewrung des egenanten seins hawss ir lebtag unverkumert innhaben nuczen und nyessen sol und mag als leibgedings und der stat zu Wienn recht ist, und nach irm tod sullen dieselben hundert guldein auf die egenanten Achaczen und Clarn, ob sy aber dieselbtzeit nicht in leben wern auf ir nagst erben darauf sy zu recht erben und gevallen sullen, die dann derselben hundert guldein anvercziehen davon bekomen mugen als solhs saczs und der stat zu Wienn recht ist, ut littera. Actum an Mitichen vor Ascenionis Domini anno eiusdem lxx<hi rend="super">mo</hi>.</p>
                <p rend="Summa">Summa vi s. xxii d.</p>
                <p rend="Nachtrag">Nota der sacz ist umbgeschriben ut patet libro novo E fo. 34.</p>
-               <p rend="Rubrik">Tempore dominorum herrn Niclasen Erensst consul<unclear>is</unclear> und Cristan Schonnperger Anno etc. lxxi<hi rend="super">mo</hi>.</p>
             </div>
          </body>
       </text>
