@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1438-10-27</title>
-               <title type="rubrik">Tempore dominorum Michels Lienvelder und Dyeczen Starhannd, anno etc. xxxviiivo</title>
+               <title type="rubrik">Tempore dominorum Michels Lienvelder und Dyeczen Starhannd, anno etc. xxxviii<hi rend="super">vo</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,11 +107,14 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0574.jpg"/>
       </facsimile>
       <text>
          <body>
-            <div type="entry"/>
+            <div type="entry">
+               <p>Michel Tórl hat verchaufft iii ½ tl. d. geltz purkrechts auf sein halben hauss, gelegen am Kienmarkht zu Wienn zenachst Ulreichs des Pekchen und Hansen Irher hauser. Umb xxviii tl. d., dem erbern herren hern Thoman von Gelestorf, capplan der mess so die Würffl auf Sand Wolfgangs altar undern letter zu Sant Steffan zu Wienn gestifft habent und seinen nachkomen und sind zu dienn zu drein tegen und wider abzekauffen miteinander und den nagsten dinst damit, ut littera sonat. Actum an sant Symons und sand Judas abent, anno domini etc. xxxviii<hi rend="super">o</hi>.</p>
+               <p rend="Summa">Summa lvi d.</p>
+            </div>
          </body>
       </text>
    </TEI>

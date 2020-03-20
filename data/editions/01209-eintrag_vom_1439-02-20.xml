@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1439-02-20</title>
-               <title type="rubrik">Anno etc. xxxviiio</title>
+               <title type="rubrik">Anno etc. xxxviii<hi rend="super">o</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0575.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -115,7 +115,6 @@
                <p>Michel Rothut, burger zu Wienn hat versaczt die ubertewrung seins hauss, gelegen am Harmarkht, zenachst Hannsen des Aczinger haus, úber die funfhundert pfunt pfening haimsteur und morgengab, die sein hausfraw Ursula, Paul und Margret ire kinder, die sie bey irm erern mann Petern dem Unger seligen gehabt hat, vor darauf habent. Den benanten Pauln und Margreten, seinen steufkindern, und irn erben, umb hundert und zwainczig pfunt pfenig, die dy hern dieselben kinder von Ursulen weilnt des genanten Petern des Unger seligen tochter irer swester seligen geerbt habent, und in mit recht von dem rat nach laut ains grechtbriefs zugesprochen sind worden. Und sind zu beczaln wenn dieselben kinder vogtber werdent und sol die kinder davon ziehen an abslag des haubtgutz. Beschéch aber daz si ungevogte abgingen, so sol der egenant Rothut oder sein erben dieselb summ pfening beczaln derselbn kinder nagsten erben wenn si die vordernt, darnach ynner den nagsten zwain moneiden an alles vercziehen. Actum an Freytag vor Invocavit in der vassten, anno etc. xxxviiiio.</p>
                <p rend="Summa">Summa i tl. d.</p>
                <p rend="Nachtrag">Nota die vorgnanten cxx tl. d. hat die egenant Margreth, yecz Niclasen Kramer hausfrau, von Paulen irm pruder gancz geerbt und darumb den vorgenanten sacz auch Echarten Mistelbekcher irm steuffater und Ursulen ir rechte muter gerecht ledig gesagt nach lautt ainer quittung die sy darumb habent. Actum an Freitag nach sand Niclas tag, anno etc. liiio.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0576.jpg</p>
             </div>
          </body>
       </text>

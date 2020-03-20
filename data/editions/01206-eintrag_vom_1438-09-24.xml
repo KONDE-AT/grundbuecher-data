@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1438-09-24</title>
-               <title type="rubrik">Tempore dominorum Michels Lienvelder und Dyeczen Starhannd, anno etc. xxxviiivo</title>
+               <title type="rubrik">Tempore dominorum Michels Lienvelder und Dyeczen Starhannd, anno etc. xxxviii<hi rend="super">vo</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,14 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0574.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Mert Mórl und Anna, sein hausfraw, habent versaczt verkaufft néwn pfunt pfenig geltz purkrechts auf irm haus, gelegen in der Wiltwerherstrass zenagst des Angervelder haus an aim tail, und an dem andern zenagst des Kartners haus. Umb lxxii tl. d., der xxxii tl. zu Pernhartz von Hanenstain jartag und die xl tl. zu hern Linharten des Schawr jartag gehórnt. Dem erbern herren hern Linharten Orthaber, diezeit kormaister, und den curherren gemain zu Sant Stephan zu Wienn und irn nachkomen. Und sind zu dienn zu drein tegen und wider abzekauffen miteinander und den nagsten dinst damit, ut littera sonat. Actum an Mitichen vor sand Michels tag, anno etc. xxxviiio.</p>
                <p rend="Summa">Summa ½ tl. xxiiii d.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0575.jpg</p>
             </div>
          </body>
       </text>

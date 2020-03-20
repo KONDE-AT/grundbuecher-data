@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1438-12-17</title>
-               <title type="rubrik">Tempore dominorum Michels Lienvelder und Dyeczen Starhannd, anno etc. xxxviiivo</title>
+               <title type="rubrik">Tempore dominorum Michels Lienvelder und Dyeczen Starhannd, anno etc. xxxviii<hi rend="super">vo</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0575.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -115,7 +115,6 @@
                <p>Martine von Swembart hat verchaufft ain pfunt phening geltz purkrechtz auf seinen haus, bey der Purgk gelegen zenagst Mathesen Lunczperger des schuester haus. Umb acht pfunt pfening, dem erbern weisen Linharten Newnhofer, kirchmaister zu Sant Michel, und seinen nachkomen zu ausrichtigung der xlv mess, die ein kirchmaister nach laut Fridreichs Haberman des schuester geschefft alle jar dasselbs sol lassen sprechen. Und sind zu dienen zu drein tegén und wider abzekauffen miteinander und den nagsten dinst damit, ut littera sonat. Actum an Mitichen nach sant Lucein tag, anno etc. xxxviiio.</p>
                <p rend="Summa">Summa xvi d.</p>
                <p rend="Nachtrag">Das purkrecht hat Paul Meichsner seydrater abgelost und zu den puch gelegt. Actum an Sabstag vor Weihnachttag, anno etc. lviiio.</p>
-               <p rend="Rubrik">Anno etc. xxxviiio</p>
             </div>
          </body>
       </text>

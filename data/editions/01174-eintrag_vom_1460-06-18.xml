@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1460-06-18</title>
-               <title type="rubrik">Tempore dominorum maister Mert Guldein consul, Thoman Egkenperger Anno lxmo.</title>
+               <title type="rubrik">Tempore dominorum maister Mert Guldein consul, Thoman Egkenperger Anno lx<hi rend="super">mo</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -114,6 +114,7 @@
       </teiHeader>
       <facsimile>
          <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0545.jpg"/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0546.jpg"></graphic>
       </facsimile>
       <text>
          <body>
@@ -121,10 +122,9 @@
                <p>Larencz Stadler hat versaczt sein haus aim und zuhaus aneinander gelegen am Alten Fleischmarkt am Egk zenagst dem gésslein als man zu Kollnerhof get an aim tail, und an dem andern zunagst Otten des Meczner haus, davon man jerlich dint herrn Petern Oppenweiler capplan der ewigen mess, die maister Hainreich Lemplshaymer licentiat geistlicher rechten auf Sand Florians altar zu Sand Stephan zu Wienn zustifften geschafft hat, acht phunt Wiener phenning zu purkrecht, die abczulósen sind mit hundert phunt Wienner phenning  nach laut ains purkrechtbriefs und nicht mer. Den erbern weisen Hannsen Kunstorffer dieczeit des rats der stat zu Wienn und Hainreichen Smausen burger daselbs an stat und zuhannden Hensleins Hannsen des Kewschen seligen sun, den er mit seiner erern hausfraun Kathrein Hannsen des Grunpekchen tochter seligen gehabt hat, der noch nicht vogtper und in von dem rat in gerhabsweis empholhen sind ist, und seinen erben den das rechtlich zugepurt umb<note>
                      <p rend="footnote text"> Über der Zeile eingefügt.</p>
                   </note> zwayhundert phunt Wienner phenning haimstewr und morgengab, die weylend der egenant Keusch der vorgenanten Kathrein seiner hausfraun seligen auf seinen haus am Alten Fleischmarkt zunagst Otten des Meczner haus gelegen nach der stat rechten verschriben hat gehabt, die demselben Hennslein von dem egenanten seinen vater Hannsen dem Kewschen und Kathrein seiner hausfraun seiner muter seligen ledig worden und angevallen sind und alle die weil der egenant Hensl nicht vogtper ist so sol in der vorgenant Stadler mitsambt den vorgenanten zwainhundert phunten ordenlich inn haben ziehen gwéntten und mit kosst und mit allen andern seinen notdurfften als aimm solhen knaben zugehort versorgen und aufrichten als im den die egenanten gerhaben empholhen habent</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0546.jpg</p>
+               <pb/>
                <p>uncz das er vogtper wirdet so sullen dann derselb Stadler und sein erben im oder ob er ungevogt abging seine erben den das rechtlich zugepürt, die vorgenanten zwayhundert phunt phenning ausrichten und beczalen darnach ynner den nagsten drein moneiden an alles vercziehen und an abslag irs guts ungverlich, ut littera sonat. Actum an Mitichen vor sand Johanns tag zu Sunnbenden, anno lx<hi rend="super">mo</hi>.</p>
                <p rend="Summa">Summa iii tl. lxxx d.</p>
-               <p rend="Rubrik">Tempore dominorum maister Mertten Guldein consul et Hannsen von Eslorn anno domini etc. lxi<hi rend="super">o</hi>.</p>
             </div>
          </body>
       </text>
