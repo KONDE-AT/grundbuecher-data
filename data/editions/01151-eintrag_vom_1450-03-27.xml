@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1450-03-27</title>
-               <title type="rubrik">Tempore dominorum Peter Strasser consul et Hanns von Eslorn anno etc. lmo.</title>
+               <title type="rubrik">Tempore dominorum Peter Strasser consul et Hanns von Eslorn anno etc. l<hi rend="super">mo</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -116,7 +116,6 @@
                <p rend="Summa">Summa vi s. d.</p>
                <p rend="Nachtrag">Nota der egenant junkfrawn Helen saczbrief ligt im ratturn in der langen almar.</p>
                <p rend="Nachtrag">Nota der obgenante sacz hat die benant Helene ledig gesagt. Actum an Mitichen post <unclear>Crucis</unclear> Anno etc. lxiiii.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0540.jpg</p>
             </div>
          </body>
       </text>
