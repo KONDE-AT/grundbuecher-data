@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1448-04-29</title>
-               <title type="rubrik">Tempore dominorum Hainreich Haiden, consulis, et Hanns von Eslorn, anno etc. xlviiio</title>
+               <title type="rubrik">Tempore dominorum Hainreich Haiden, consulis, et Hanns von Eslorn, anno etc. xlviii<hi rend="super">o</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,15 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0483.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Kathrey, Wentzlaben Grat des schuster hausfrau, hat versaczt ir halbs haus, gelegen am Hohenmarkcht undern Wentkremen zenagst Niclasen Sawr schuster haus an aim tail. Den erbern Erasm Vinkch und Mathesen Kuntschikch, den schustern, anstat und zuhanden junkfraun Annen, Hainrichen Unverdrossen des schuster seligen tochter, und irn erben, umb dreissig Ungrisch guldein in gold die ir der benant ir vater seliger geschafft hat nach lautt seins gescheffts, das im statpuch geschriben stet und sind zu beczalen wann die benant Anna vogtper wirt an alles vercziehen. Actum an Montag ante Philippi et Jacobi, anno etc. xlviiio.</p>
                <p rend="Summa">Summa lii d.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0484.jpg</p>
-               <p rend="Rubrik">Tempore dominorum Peter Strasser consul, Hanns von Eslorn Anno domini etc. xlviiii.</p>
             </div>
          </body>
       </text>

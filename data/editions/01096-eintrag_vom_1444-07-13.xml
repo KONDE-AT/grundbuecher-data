@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1444-07-13</title>
-               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, et Cristan Wissinger, anno etc. xliiiito</title>
+               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, et Cristan Wissinger, anno etc. xliiii<hi rend="super">to</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,14 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0482.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Kathrey, Hainreichs Wygenpródl seligen witib hat versaczt ir haws, gelegen in der Túnfoitstrass zenagst Niclasen Rostauscher haus. Dem erbern Thoman Schütenast, dem zymermann, Barbaren, seiner hausfraun, und irn baiden erben, umb xx Ungrischer guldein gerecht in gold und wag oder aber fur yeden guldein siben schilling Wienner pfening und sind zu beczalen auf sant Mertten tag nagstkúnfftig anvercziehen. Actum an Montag post Margarethe, anno domini etc. xliiiito.</p>
                <p rend="Summa">Summa xxxv d.</p>
-               <p rend="Rubrik">Tempore dominorum Oswaldi Reicholf, consulis, et Kristan Wissinger, anno etc. xlvto</p>
             </div>
          </body>
       </text>

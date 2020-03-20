@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1441-09-06</title>
-               <title type="rubrik">Tempore dominorum Diecz Starhant, consulis, Michel Linfelder, anno etc. xlmo</title>
+               <title type="rubrik">Tempore dominorum Diecz Starhant, consulis, Michel Linfelder, anno etc. xl<hi rend="super">mo</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -108,7 +108,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0531.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -116,8 +116,6 @@
                <p>Lienhart Jémpinczer, búrger zu Wienn, hat versaczt sein haws, gelegen in der Münsserstrazz zenagst Hannsen Waldner haws. Seiner hausfrawn Margreten, Hannsen des Schiemer von Hebersdorf tochter, fúr zwaihundert phunt pfening haimsteuer und fúr drewhundert phunt phening morgengab nach laut ains saczbriefs, den Symon Pötel innhat. Actum an Mitichen vor Unser Frawn tag Nativitatis, anno etc. xlio.</p>
                <p rend="Summa">Summa iii tl. lx d.</p>
                <p rend="Nachtrag">Lucas Hulber saczung quare fo. sequenti cclxxxxiii libro isto.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0533.jpg</p>
-               <p rend="Rubrik">Tempore dominorum Symonis Pótel, consulis, Erasm Ponhaymer, anno xliido</p>
             </div>
          </body>
       </text>

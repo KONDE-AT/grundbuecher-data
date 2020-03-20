@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1439-05-18</title>
-               <title type="rubrik">Anno domini etc. xxxviiiio, tempore Michel Linfelder, Diecz Starhant</title>
+               <title type="rubrik">Anno domini etc. xxxviiii<hi rend="super">o</hi>, tempore Michel Linfelder, Diecz Starhant</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,14 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0531.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Lewpolt Schell hat versaczt sein haus, das im sein vater Hanns der Schell seliger geschafft hat, gelegen vor Kernertor aufm Hewgriezz zenagst Hannsen des Fúrer haus, mit der nidern seitten. Dem erbern Thoman Schütenast dem zimerman und seinen erben, umb xiii tl. und vi s. d. Und sind zu beczalen auf sand Merten tag nagst kunftig anvercziehen. Actum an Montag vor dem heiligen Phingstag, anno domini etc. xxxviiiio.</p>
                <p rend="Summa">Summa xxvi d.</p>
-               <p rend="Rubrik">Tempore dominorum Diecz Starhant, consulis, Michel Linfelder, anno etc. xlmo</p>
             </div>
          </body>
       </text>

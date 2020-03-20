@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1443-09-04</title>
-               <title type="rubrik">Tempore dominorum Simon Pötel, consulis et Erasm Ponhaymer, anno etc. xliido</title>
+               <title type="rubrik">Tempore dominorum Simon Pötel, consulis et Erasm Ponhaymer, anno etc. xlii<hi rend="super">do</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,15 +107,14 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0482.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Kathrey, Wolfgangs des Péczolts seligen witib, hat versaczt die uberteurung irs hauss mit den drein krémen, am Liechtensteg gelegen, die darczue gehörn, zenagst der Prawninn haus und stösset auch in das Taschnergéssl, über die hundert pfund pfenning, die ir der vorgenant ir man seliger bey seinen lebtégen darauf vermacht und verschriben hat. Also das sy die ir lebttég so innhaben, núczen und niessen unverkumert und nach irm abgang sullen sy dann hinwider erben und gevallen auf des egenanten Péczolts irs mans nagst erben, darauf sy dann zurecht erben und gevallen sullen nach lautt ains briefs den sy darumb hat. Daman von dem egenanten haus alle jar dint dem brobst zu Sand Steffan zu Wienn ain halb pfund Wienner pfening zu purkrecht und nicht mer. Dem erbern Mathias Salczer, burger zu Wienn, und seinen erben, umb drewhundert pfund guter Wienner pfenning der swartzen münss. Und sind zu beczallen auf sand Mertten tag nagstkunftig anvercziehen, ut littera sonat. Actum an Mittichen vor Unserr lieben Fraun tag Nativitatis, anno domini etc. quadragesimotercio.</p>
                <p rend="Summa">Summa ii ½ tl. d.</p>
-               <p rend="Nachtrag">Den sacz hat der vorgenant Salczer ledig gesagt, feria quarta ante Andre appostoli, xliiio.</p>
-               <p rend="Rubrik">Tempore dominorum Oswaldi Reicholf, consulis, et Cristan Wissinger, anno etc. xliiiito</p>
+               <p rend="Nachtrag">Den sacz hat der vorgenant Salczer ledig gesagt, feria quarta ante Andre appostoli, xliii<hi rend="super">o</hi>.</p>
             </div>
          </body>
       </text>

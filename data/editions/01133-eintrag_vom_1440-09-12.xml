@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1440-09-12</title>
-               <title type="rubrik">Tempore dominorum Diecz Starhant, consulis, Michel Linfelder, anno etc. xlmo</title>
+               <title type="rubrik">Tempore dominorum Diecz Starhant, consulis, Michel Linfelder, anno etc. xl<hi rend="super">mo</hi></title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -108,7 +108,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0531.jpg"/>
       </facsimile>
       <text>
          <body>

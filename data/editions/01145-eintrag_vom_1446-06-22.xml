@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1446-06-22</title>
-               <title type="rubrik">Tempore dominorum Andre Grundorffer, consulis, et Niclasen Purger, anno etc. xlvito</title>
+               <title type="rubrik">Tempore dominorum Andre Grundorffer, consulis, et Niclasen Purger, anno etc. xlvi<hi rend="super">to</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,15 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0536.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Lienhart Marx, kramer am Liechtensteg, hat verchaufft funfthalb pfund phening gelts púrkrechts auf seim haws, gelegen am Liechtensteg im Winkchl zenagst weilent Hainreichs Prawn haus. Umb xxxvi tl. d., den geistlichen herren hincz den Weissenprudern zu Wienn, und irn nachkomen. Und sind zu dienn zu drein tégen und wider abczukauffen miteinander und den negsten dinst damit, ut littera sonat. Actum an Mittichen vor Sunbenden, anno etc. xlvito.</p>
                <p rend="Summa">Summa lxxii d.</p>
-               <p rend="Rubrik">Tempore dominorum Erasm Ponhaymer, consulis, et Hannsen von Eslorn, anno etc. xlviio</p>
-               <p rend="Rubrik">Tempore dominorum Hainreich Haiden, consulis, et Hannsen von Eslorn, anno etc. xlviiio</p>
             </div>
          </body>
       </text>

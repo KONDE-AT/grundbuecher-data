@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1445-12-13</title>
-               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, et Cristan Wissinger, anno etc. xlvto</title>
+               <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, et Cristan Wissinger, anno etc. xlvtoTempore dominorum Oswaldi Reicholf, consulis, et Cristan Wissinger, anno etc. xlv<hi rend="super">to</hi>./title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0535.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -115,8 +115,6 @@
                <p>Linhart Strobel, messrer, hat verkaufft zwai phunt phening geltz purkrechts auf seinen haus, gelegen im gesslein pei den Weissenprudern zenagst der padstuben pei den Weiss zum Rórn an aimm tail. Umb xvi tl. d., dem erbern herren hern Petern Humel, diezeit kaplan der mess auf Sand Barbaren altar auf der parkirchen in Unser Frawn kappelln auf der Stetten zu Wienn gelegen, und seinen nachkomen und sind zu dienn miteinander und den négsten dinst damit, ut littera sonat. Actum an Montag sand Lucein tag, anno etc. xlvto.</p>
                <p rend="Summa">Summa xxxii d.</p>
                <p rend="Nachtrag">Nota das obgenant purkhrecht ist zu dem puech erlegt, an sand Lamprechts tag ut registrum. Und widerumb angelegt auf Ulreichs Preterschn und Kathrein seiner hausfrawen hawss vor Werdertor am Rosenpuchl gelegen utque libro novo k. fo. 15 obligationum.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0536.jpg</p>
-               <p rend="Rubrik">Tempore dominorum Andre Grundorffer, consulis, et Niclasen Purger, anno etc. xlvito</p>
             </div>
          </body>
       </text>
