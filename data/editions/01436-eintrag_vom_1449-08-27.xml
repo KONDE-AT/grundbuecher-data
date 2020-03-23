@@ -3,7 +3,8 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1449-08-27</title>
-               <title type="rubrik">Tempore dominorum Peter Strasser consul Hanns von Eslorn Anno domini etc. xlviiii.</title>
+               <title type="rubrik">Tempore dominorum Peter Strasser consul Hanns von Eslorn Anno domini
+                  etc. xlviii<unclear>i</unclear>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -113,14 +114,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0643.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Niclas Kramhofer hat emphangen nucz und gewer ains hauss, gelegen im Ratgesslein zenagst weilnt des Hannsen Kramer haus, das Hannsen Zingiesser des Abentenner von Newnberg und Barbaren seiner hausfraw gewesen ist, und umb sein geltschuld dar<unclear>um</unclear>b im daz haus in dem gruntpuch versaczt ist, in der schrann mit den rechten erlangt und behabt hat nach laut der grichtbrief und anpotbrief da<unclear>rum</unclear>b ausgegangen, die zu scherm bey dem puch erlegt sind. Actum an Mitichen post Bartholomaei anno etc. xlviiii.</p>
                <p rend="Summa">Summa lxxii d.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0644.jpg</p>
             </div>
          </body>
       </text>

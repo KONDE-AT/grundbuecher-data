@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1452-06-28</title>
-               <title type="rubrik">Tempore dominorum Arnolt Galander consul et Hannsen von Eslorn anno domini etc. lio.</title>
+               <title type="rubrik">Tempore dominorum Steffan Awer consul et Hannsen von Eslorn anno etc. lii<hi rend="super">do</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -119,8 +119,7 @@
          <body>
             <div type="entry">
                <p>Niclas Ponhalm und Helen sein hausfrau habent versaczt ir haws gelegen <unclear>U</unclear>ndern Satlern, an aim tail zenagst Steffans Vindenstain des satler haws dem erbern Jorgen Krempl und Juliana seiner hausfraw und irn paider erben umb virhundert phunt phenning landeswerung. Und sind zubeczaln auf den nagstkunftigen sand Michels tag anvercziehen. Actum an sand Peters und sand Pauls abend, anno etc. liido.</p>
-               <p>Summa iii tl. lxxx d.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0646.jpg</p>
+               <p rend="Summa">Summa iii tl. lxxx d.</p>
             </div>
          </body>
       </text>

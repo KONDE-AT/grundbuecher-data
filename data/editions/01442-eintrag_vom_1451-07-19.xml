@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1451-07-19</title>
-               <title type="rubrik">Tempore dominorum Arnolt Galander consul et Hannsen von Eslorn anno domini etc. lio.</title>
+               <title type="rubrik">Tempore dominorum Arnolt Galander consul et Hannsen von Eslorn anno domini etc. li<hi rend="super">o</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -119,9 +119,10 @@
          <body>
             <div type="entry">
                <p>Niclas Pelcz der sneider hat versaczt sein haws, gelegen in der Wiltwerherstrass zenagst des Öttinger zuhaus an aim tail und an dem andern zenagst dem Metkeller. Den erbern weisen Kristan Wissinger dieczeit des rats der stat zu Wienn, Steffan Esling und Andren Kelhaimer burger daselbs anstat und zuhanden Hainreichs des Francken seligen kinder und irn erben, umb sechsunddreissig phund phenning und sind zubeczalen auf sand Giligen tag nagstkunftigen an alles vercziehen. Actum an Montag vor Marie Magdalene, anno etc. l<unclear>io</unclear>.</p>
-               <p>Summa lxxii d.</p>
-               <p>Das vorgenant gelt hat Peter Ebinger dem puch erlegt an Freitag post Invencionis sancte crucis. Actum etc. liido.</p>
-               <p>Tempore dominorum Steffan Awer consul et Hannsen von Eslorn anno etc. liido.</p>
+               <p rend="Summa">Summa lxxii d.</p>
+               <p rend="Nachtrag">Das vorgenant gelt hat Peter Ebinger dem puch erlegt an Freitag post Invencionis sancte crucis. Actum etc. liido.</p>
+               <!-- neuer Eintrag -->
+               <p>Tempore dominorum Steffan Awer consul et Hannsen von Eslorn anno etc. lii<hi rend="super">do</hi>.</p>
                <p>[1452-01-21]</p>
                <p>Niclas Schéwtrer futermacher und Margreth sein hausfrau habent versaczt ir haws, gelegen im Húnrrgésslein zenagst Steffans Imbrung des kramer haws, davon man jerlich dint hern Symon Bubvicz caplan der Heiligen dre<unclear>ier</unclear> K<unclear>úni</unclear>g altar zu der Himlporten zu Wienn siben phund phenning zu purkrecht und nicht mer. Den erbern Petern von Ladendorf, Jorgen Hiltprant, Andren Perl und Herman Múlstain Andres von Meran seligen geschefftléuten zuhanden seiner ungevogten kinder, umb zwaiundvirczig phund phenning. Und sind zubeczalen alle jar zu Pfingsten virczehen phund phenning solang uncz das si der egnant summa phenning gancz beczalt sein, und sollent mit der ersten zalung anheben zu Phingsten nagstkúnftigen anvercziehen. Actum an sand Agnesen tag, anno domini etc. liido.</p>
                <p>Summa lxxxiiii d.</p>

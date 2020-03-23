@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1452-01-28</title>
-               <title type="rubrik">Tempore dominorum Arnolt Galander consul et Hannsen von Eslorn anno domini etc. lio.</title>
+               <title type="rubrik">Tempore dominorum Steffan Awer consul et Hannsen von Eslorn anno etc. lii<hi rend="super">do</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -119,8 +119,8 @@
          <body>
             <div type="entry">
                <p>Niclas Ponhalm und Helen sein hausfrau habent versaczt ir haws gelegen <unclear>U</unclear>ndern Satlern, an aim tail zenagst Steffans Vindenstain des satler haus, und an dem andern zenagst Andres Hofmaisters kursner haws. Dem erbern Hannsen von Geraw und seinen erben umb virhundert phund phenning landeswerung. Und sind zubeczaln auf Unsers Herren Auffart tag schiristkunftigen anvercziehen. Actum an Freitag nach sand Pauls tag Conversionis anno domini etc. liido.</p>
-               <p>Summa iii tl. lxxx d.</p>
-               <p>Herr von Gerwa habet cedulam.</p>
+               <p rend="Summa">Summa iii tl. lxxx d.</p>
+               <p rend="Nachtrag">Herr von Gerwa habet cedulam.</p>
             </div>
          </body>
       </text>
