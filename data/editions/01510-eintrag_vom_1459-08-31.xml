@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1459-08-31</title>
-               <title type="rubrik">Anno etc. lviiiino.</title>
+               <title type="rubrik">Anno etc. lviiii<hi rend="super">no</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -113,7 +113,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0698.jpg"/>
       </facsimile>
       <text>
          <body>

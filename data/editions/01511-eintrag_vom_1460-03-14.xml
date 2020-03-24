@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1460-03-14</title>
-               <title type="rubrik">Anno etc. lviiiino.</title>
+               <title type="rubrik">Anno etc. lviiii<hi rend="super">no</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -113,15 +113,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0698.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Oswald Holczleitter der vischer und Margreth sein hausfraw habent versaczt ir haus gelegen vor Werdertor zunagst Wolfgang Speisinger des vischer haus an aim tayl. Den erbern Kathrein und Annen des egenanten Holczleitter kindern, die er pey seiner erérn hausfrawen Kathrein seligen gehabt habt hat, die noch nicht vogtper sind, und irn erben umb fúnfunddreissig phunt lanndeswerung und sind zubeczalen, wenn die egenanten kinder vogtper werdent, oder ob sy ungevogt abgingen, irn erben an alles vercziehen. Von wegen ains hauss auch vor Werdertor zunagst Jorgen Unger haus gelegen, das des egenanten Holczleitter mit der egenanten Kathrein der kinder muter seligen gesambte hant gewesen ist, und Michelen Han dem vischer umb lxx tl. d. verkaufft hat. Actum an Freytag vor Oculi, anno etc. lx<hi rend="super">mo</hi>.</p>
                <p rend="Summa">Summa lxx d.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0699.jpg</p>
-               <p rend="Rubrik">Tempore dominorum maister Mertten Guldein lerer in der erczney et consul et Hannsen von Eslorn anno etc. lxi<hi rend="super">o</hi>.</p>
             </div>
          </body>
       </text>

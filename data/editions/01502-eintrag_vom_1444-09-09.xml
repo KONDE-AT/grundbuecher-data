@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1444-09-09</title>
-               <title type="rubrik">Tempore dominorum Oswalt Reicholf, consulis, et Cristan Wissinger, anno etc. xliiiito</title>
+               <title type="rubrik">Tempore dominorum Oswalt Reicholf, consulis, et Cristan Wissinger, anno etc. xliiii<hi rend="super">to</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,14 +107,13 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0695.jpg"/>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Oswalt Sweiker, burger zu Wienn, hat versaczt sein haus, gelegen in der Munsserstrass zenagst Hannsen des Haringseer seins swehers haus an aim tail, und an dem andern zenagst Hannsen des Waldner haus. Den erbern Jacoben dem Rehwein, burger zu Wienn, und Micheln dem Slinger, dietzeit ausrichter des geschéffts, so weilent Kaspar der Slinger an seinen letzen zeiten getan hat, und irn nachkomen geschefftléwten, zu hannden eins yeden kapplans und verwesers der ewigen mess, die weilent der egenant Slinger in dem frawnkloster dacz Sand Maria Magdalen vor Schottentor zu Wienn zestifften geschaft hat, umb zwayhundert und virczig phund Wienner phening, die zu derselben mess gehórnt und sind emaln gelegen auf des obgenanten Haringseer haus genant des Smerbokchen haus. Insolher maynung alle die weil der egenant Sweiker oder sein erben die egenant summa phening innehabent und die nicht beczalent, so súllen sy aim yedem kapplan und verweser der egenanten mess alle jar davon raichen und diennen sechczehen phunt Wienner phening zu den zwain tégen im jar, ze Weinachten und zu sand Johanns tag zu sunbenten, zu yedem tag acht phunt phening an abslag des egenanten haubtgúts, und sullen auch mit dem ersten dinst anheben zu den Weinachten nagstkunftig anvercziehen. Auch ist zumerken ob beschéch, das die geschefftleút oder der kapplan der egenanten mess ain gút vail funden ze kauffen daz der mess nucz und fúglich wer wann sy dann die egenant summ phening müsten an den obgenanten Sweiker oder sein erben vordernt und nicht lenger empern wellent. So sullen sy in dann dieselben sum phening nach solher mainung ynner den nagsten drein moneiden ausrichten und beczaln an widerred ungevrlich, ut littera sonat. Actum an Mitichen nach Unser Frawn tag Nativitatis, anno etc. xliiiito.</p>
                <p rend="Summa">Summa ii tl. d.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0696.jpg</p>
             </div>
          </body>
       </text>
