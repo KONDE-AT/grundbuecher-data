@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project version="18.1">
+<project version="21.1">
     <meta>
         <filters directoryPatterns="" filePatterns="rb.xpr" positiveFilePatterns="" showHiddenFiles="false"/>
         <options>
-            <serialized version="18.1" xml:space="preserve">
+            <serialized version="21.1" xml:space="preserve">
                 <serializableOrderedMap>
                     <entry>
                         <String>document.types</String>
@@ -3466,9 +3466,6 @@ oxy:current-selected-element()[ancestor-or-self::*:cell]</String>
                                             <field name="openInBrowser">
                                                 <Boolean>true</Boolean>
                                             </field>
-                                            <field name="outputFile">
-                                                <File>${cfd}/${cfn}.html</File>
-                                            </field>
                                             <field name="outputResource">
                                                 <String>${cfd}/${cfn}.html</String>
                                             </field>
@@ -3551,9 +3548,6 @@ oxy:current-selected-element()[ancestor-or-self::*:cell]</String>
                                             </field>
                                             <field name="openInBrowser">
                                                 <Boolean>true</Boolean>
-                                            </field>
-                                            <field name="outputFile">
-                                                <File>${cfd}/${cfn}.pdf</File>
                                             </field>
                                             <field name="outputResource">
                                                 <String>${cfd}/${cfn}.pdf</String>
@@ -3786,9 +3780,6 @@ oxy:current-selected-element()[ancestor-or-self::*:cell]</String>
                                             </field>
                                             <field name="openInBrowser">
                                                 <Boolean>true</Boolean>
-                                            </field>
-                                            <field name="outputFile">
-                                                <null/>
                                             </field>
                                             <field name="outputResource">
                                                 <null/>
@@ -4036,9 +4027,6 @@ oxy:current-selected-element()[ancestor-or-self::*:cell]</String>
                                             <field name="openInBrowser">
                                                 <Boolean>true</Boolean>
                                             </field>
-                                            <field name="outputFile">
-                                                <null/>
-                                            </field>
                                             <field name="outputResource">
                                                 <null/>
                                             </field>
@@ -4285,9 +4273,6 @@ oxy:current-selected-element()[ancestor-or-self::*:cell]</String>
                                             <field name="openInBrowser">
                                                 <Boolean>true</Boolean>
                                             </field>
-                                            <field name="outputFile">
-                                                <null/>
-                                            </field>
                                             <field name="outputResource">
                                                 <null/>
                                             </field>
@@ -4395,6 +4380,9 @@ oxy:current-selected-element()[ancestor-or-self::*:cell]</String>
                                 <field name="customAttributeValueEditor">
                                     <null/>
                                 </field>
+                                <field name="textModeExternalObjectInsertionHandler">
+                                    <null/>
+                                </field>
                             </documentTypeDescriptor>
                         </documentTypeDescriptor-array>
                     </entry>
@@ -4421,6 +4409,10 @@ oxy:current-selected-element()[ancestor-or-self::*:cell]</String>
                     </entry>
                     <entry>
                         <String>key.xml.parser.option.pane</String>
+                        <Boolean>true</Boolean>
+                    </entry>
+                    <entry>
+                        <String>key.xpath.option.pane</String>
                         <Boolean>true</Boolean>
                     </entry>
                     <entry>
@@ -4654,9 +4646,6 @@ oxy:current-selected-element()[ancestor-or-self::*:cell]</String>
                                 <field name="openInBrowser">
                                     <Boolean>false</Boolean>
                                 </field>
-                                <field name="outputFile">
-                                    <File>${cfne}</File>
-                                </field>
                                 <field name="outputResource">
                                     <String>${cfne}</String>
                                 </field>
@@ -4740,9 +4729,6 @@ oxy:current-selected-element()[ancestor-or-self::*:cell]</String>
                                 <field name="openInBrowser">
                                     <Boolean>false</Boolean>
                                 </field>
-                                <field name="outputFile">
-                                    <File>${pd}/data/tmp/editions/${cfne}</File>
-                                </field>
                                 <field name="outputResource">
                                     <String>${pd}/data/tmp/editions/${cfne}</String>
                                 </field>
@@ -4825,9 +4811,6 @@ oxy:current-selected-element()[ancestor-or-self::*:cell]</String>
                                 </field>
                                 <field name="openInBrowser">
                                     <Boolean>false</Boolean>
-                                </field>
-                                <field name="outputFile">
-                                    <null/>
                                 </field>
                                 <field name="outputResource">
                                     <null/>
@@ -5061,9 +5044,6 @@ oxy:current-selected-element()[ancestor-or-self::*:cell]</String>
                                 <field name="openInBrowser">
                                     <Boolean>false</Boolean>
                                 </field>
-                                <field name="outputFile">
-                                    <null/>
-                                </field>
                                 <field name="outputResource">
                                     <null/>
                                 </field>
@@ -5123,6 +5103,21 @@ oxy:current-selected-element()[ancestor-or-self::*:cell]</String>
                     <entry>
                         <String>validation.use-schema-even-if-dtd-specified.v7</String>
                         <Boolean>false</Boolean>
+                    </entry>
+                    <entry>
+                        <String>xpath.proxy.ns.mappings</String>
+                        <String-array>
+                            <String>xs</String>
+                            <String>http://www.w3.org/2001/XMLSchema</String>
+                            <String>fn</String>
+                            <String>http://www.w3.org/2005/xpath-functions</String>
+                            <String>err</String>
+                            <String>http://www.w3.org/2005/xqt-errors</String>
+                            <String>math</String>
+                            <String>http://www.w3.org/2005/xpath-functions/math</String>
+                            <String>tei</String>
+                            <String>http://www.tei-c.org/ns/1.0</String>
+                        </String-array>
                     </entry>
                 </serializableOrderedMap>
             </serialized>

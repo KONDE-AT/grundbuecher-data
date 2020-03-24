@@ -4,13 +4,17 @@
             <titleStmt>
                <title type="main">Eintrag vom 1454-11-06</title>
                <title type="rubrik">Tempore dominorum, Andre Schonprugker, consulis, Peter von Aslabing, anno etc. liiii<hi rend="super">to</hi>.</title>
-               <title type="sub">Digitale Edition der Wiener Grundbücher</title>
-               <respStmt>
-                  <resp>Transkription</resp>
-                  <name>
-                     <rs type="person" ref="#gruenwald_korbinian">Korbinian Grünwald</rs>
-                  </name>
-               </respStmt>
+               <title type="sub">Digitale Edition der Wiener Grundbücher</title><respStmt>
+    <resp>Transkription</resp>
+    <name>
+        <rs type="person" ref="#gruenwald_korbinian">Korbinian Grünwald</rs>
+    </name>
+    <name>
+        <rs type="person" ref="#weinbergmaier_richard">Richard Weinbergmaier</rs>
+    </name>
+</respStmt>
+
+               
             </titleStmt>
             <publicationStmt>
                <publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter Andorfer</publisher>
