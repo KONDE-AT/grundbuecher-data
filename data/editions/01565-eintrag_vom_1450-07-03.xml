@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1450-07-03</title>
-               <title type="rubrik">Tempore Petern Strassser et Hanns von Eslorn anno etc. xlviiiio.</title>
+               <title type="rubrik">Tempore Petern Strassser et Hanns von Eslorn anno etc. xlviiii<hi rend="super">o</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,13 +107,14 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0736.jpg"/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0737.jpg"></graphic>
       </facsimile>
       <text>
          <body>
             <div type="entry">
                <p>Peter von Aslabing hat versaczt sein haus, gelegen am Alten Fleischmarkt zenagst des abtts von Rewn haus, seiner hausfraun Elspeten Thomans Wamweiser seligen tochter, die emalen Hannsen Mauttinger seligen auch elichen gehabt hat, und desselben Mauttinger seligen erben umb drewhundert pfund pfenning, die der benant Elspethen von irm erern mann dem Mauttinger morgengab sind, ir lebtteg zenúczen und zeniessen und nach irm tod</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0737.jpg</p>
+               <pb/>
                <p>zugevallen auf des egenant Mauttinger seligen nagst erben, darauf sy dann zurecht erben und gevallen sullen, doch hat im der egenant Peter ganczen gewalt vorbehalten das egnant haus wider zulosen, also, wan er oder sein erben drewhundert pfund phenning zu dem gruntpuch niderlegen, so sol in das vorgnant haus wider ledig sein, doch das dieselben phenning der egnant Elspethen ob sy dieczeit in leben ist wider angelegt und verschriben sullen werden nach freint rat ir lebteg zenuczen in den rechten so vorgemelt ist ut littera. Actum an Freitag vor sand Ulreichs tag, anno etc. l<hi rend="super">mo</hi>.</p>
                <p rend="Summa">Summa ii ½ tl. d.</p>
                <p rend="Nachtrag">Die egenant ccc tl. habent geerbt Hans und Wiltpolten die Knollen Elsbet Micheln Gebels hausfraw der Kathrein Jorgen goltsmids hausfraw ir swester und Margret Wolfgangs Knollen ha witib an statt irs kinds ut quittung die Peter von Aslabing geschefftlewt darumb habent. Anno etc. lv<hi rend="super">to</hi>.</p>
