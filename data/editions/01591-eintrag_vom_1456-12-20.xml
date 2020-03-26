@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1456-12-20</title>
-               <title type="rubrik">Tempore dominorum Jacoben Rechwein consul et Hannsen von Eslorn anno etc. lvito.</title>
+               <title type="rubrik">Tempore dominorum Jacoben Rechwein consul et Hannsen von Eslorn anno etc. lvi<hi rend="super">to</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -107,7 +107,7 @@
       </encodingDesc>
       </teiHeader>
       <facsimile>
-         <graphic url=""/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0743.jpg"/>
       </facsimile>
       <text>
          <body>
@@ -115,7 +115,6 @@
                <p>Peter von Lincz, der gewentler hat versaczt die uberteurung seins hauss, gelegen hinder sant Pangrétzen zenagst Jacoben des Prennberger haus, davon man jerlich dint sant Pangreczen cappelln newn pfening zu purkrecht und hern Hannsen, pfarrer zu Potendorf, dieczeit caplan der mess die Hanns Reicher auf dem Karnner dacz Sant Steffan gestifft hat, sibenczehen schilling pfening auch zu purkrecht und nicht mer, und uber die zwayundachczig pfunt pfening, die Ulreichen Meilinger dem schuster vor darauf verschriben sind. Dem erbern Hannsen Praitter, purger zu Wienn, und seinen erben, umb funfczig pfunt pfening und sind zu beczalen auf sand Michels tag nagstkunftigen an alles vercziehen. Actum an Montag sand Thomans abent apostoli, anno etc. lvito.</p>
                <p rend="Summa">Summa iii s. x d.</p>
                <p rend="Nachtrag">Praitter habet cedulam.</p>
-               <p rend="Rubrik">Tempore dominorum Jacobs Rechwein consulis et Micheln Menestorffer anno etc. lviio</p>
             </div>
          </body>
       </text>

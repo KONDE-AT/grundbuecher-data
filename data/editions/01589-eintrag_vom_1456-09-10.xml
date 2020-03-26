@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1456-09-10</title>
-               <title type="rubrik">Tempore dominorum Jacoben Rechwein consul et Hannsen von Eslorn anno etc. lvito.</title>
+               <title type="rubrik">Tempore dominorum Jacoben Rechwein consul et Hannsen von Eslorn anno etc. lvi<hi rend="super">to</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -122,6 +122,7 @@
                <p rend="Summa">Summa vi s. xx d.</p>
                <p rend="Nachtrag">Habet cedulam.</p>
                <p rend="Nachtrag">Den sacz hat der Déchsenpek ledig gesagt per servum suum Erhart <unclear>feria secunda</unclear> post Juliana lx<hi rend="super">o</hi>.</p>
+               <!-- neuer Eintrag -->
                <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0743.jpg</p>
                <p>[1456-09-22]</p>
                <p>Peter Hemtaler und Ursula, sein hausfrau, habent versaczt ir haus gelegen an der Vischerstiegen zenagst Hainrichs Haiden haus an aim tail und an dem andern zenagst Ulreichs Strúczl des obsser haus. Der erbern Barbaren, Hannsen Werglperger hausfraun, und irn erben, umb drewhundert pfund pfening der swarczen munss und sind zu beczalen auf sand Jorgen tag nagstkunftigen an alles vercziehen. Actum an Mittichen post Mathei apostoli et ewangeliste, anno etc. lvito.</p>

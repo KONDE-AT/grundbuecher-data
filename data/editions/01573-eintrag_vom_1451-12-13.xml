@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1451-12-13</title>
-               <title type="rubrik">Tempore dominorum Arnolt Gallander consul et Hanns von Eslorn anno etc. limo.</title>
+               <title type="rubrik">Tempore dominorum Arnolt Gallander consul et Hanns von Eslorn anno etc. li<hi rend="super">mo</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -122,7 +122,6 @@
                <p rend="Summa">Summa xiii s. d.</p>
                <p rend="Nachtrag">Habet cedulam.</p>
                <p rend="Nachtrag">Den sacz hat der Unegk d Nicl. Pomer ledig gesagt. Feria sexta post Andree, anno etc. lii<hi rend="super">do</hi>.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0739.jpg</p>
             </div>
          </body>
       </text>
