@@ -1,124 +1,156 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-      <teiHeader>
-         <fileDesc>
-            <titleStmt>
-               <title type="main">Eintrag vom 1440-09-23</title>
-               <title type="rubrik">Tempore dominorum Diecz Starhant, Michel Linfelder, anno domini etc. xlmo</title>
-               <title type="sub">Digitale Edition der Wiener Grundbücher</title>
-               <respStmt>
-                  <resp>Transkription</resp>
-                  <name>
-                     <rs type="person" ref="#gruenwald_korbinian">Korbinian Grünwald</rs>
-                  </name>
-               </respStmt>
-            </titleStmt>
-            <publicationStmt>
-               <publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter Andorfer</publisher>
-               <availability>
-                  <licence target="https://creativecommons.org/licenses/by/4.0/">
-                     <p>CC-BY</p>
-                     <p>You are free to: Share — copy and redistribute the material in any medium or format. Adapt — remix, transform, and build upon the material for any purpose, even commercially.</p>
-                  </licence>
-               </availability>
-            </publicationStmt>
-            <sourceDesc>
-               <msDesc type="invetory">
-                  <msIdentifier>
-                     <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
-                     <repository>Grundbücher</repository>
-                     <idno type="archive">WStLA 2.1.2.1.B1.34</idno>
-                  </msIdentifier>
-                  <msContents>
-                     <msItem>
-                        <locus from=" [444r]" to=" [444v]"/>
-                        <p> [444r] -  [444v]</p>
-                     </msItem>
-                  </msContents>
-                  <history>
-                     <origin notBefore="1440-09-23"/>
-                  </history>
-               </msDesc>
-            </sourceDesc>
-         </fileDesc>
-         <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude"
-                    xmlns:tei="http://www.tei-c.org/ns/1.0">
-            <projectDesc>
-               <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt:
-                                    <table>
-                     <row rend="header">
-                        <cell>Name der Formatvorlage</cell>
-                        <cell>Beschreibung des damit ausgezeichnetem Phänomen</cell>
-                     </row>
-                     <row>
-                        <cell>Folioangabe</cell>
-                        <cell>Seitenangabe durch Angabe von Folio mit recto *r und verso *v (im Nachhinein mit Bleistift im Grundbuch eingetragen). Auf den Seiten befinden sich zudem (ws. zeitnah zur Entstehung angebrachte) Foliozählungen in lateinischen Zahlzeichen in Tinte</cell>
-                     </row>
-                     <row>
-                        <cell>Faksimilelink</cell>
-                        <cell>Dateiname des Faksimiles - zur technischen Verknüpfung des Textes mit der Bilddatei</cell>
-                     </row>
-                     <row>
-                        <cell>Rubrik</cell>
-                        <cell>Gliederung nach Bürgermeistern und Jahren</cell>
-                     </row>
-                     <row>
-                        <cell>Urkundendatum</cell>
-                        <cell>Aufgeschlüsseltes Datum der Urkunde</cell>
-                     </row>
-                     <row>
-                        <cell>Standard</cell>
-                        <cell>Text des Grundbucheintrags</cell>
-                     </row>
-                     <row>
-                        <cell>Summa</cell>
-                        <cell>Für den jeweiligen Grundbucheintrag abgerechnete Summe</cell>
-                     </row>
-                     <row>
-                        <cell>Nachtrag</cell>
-                        <cell>Verschiedene nachträgliche Vermerke und Anmerkungen</cell>
-                     </row>
-                     <row>
-                        <cell>Seitenautor</cell>
-                        <cell>Erstbearbeiter der Seite/des Seitenabschnitts (nicht angezeigt, für die interne Organisation)</cell>
-                     </row>
-                     <row>
-                        <cell>Durchgestrichen</cell>
-                        <cell>Durchgestrichen</cell>
-                     </row>
-                     <row>
-                        <cell>Hochgestellt</cell>
-                        <cell>Hochgestellt</cell>
-                     </row>
-                  </table>
-               </p>
-               <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
-            </projectDesc>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eintrag vom 1440-09-23</title>
+            <title type="rubrik">Tempore dominorum Diecz Starhant, Michel Linfelder, anno domini
+               etc. xl<hi rend="super">mo</hi>.</title>
+            <title type="sub">Digitale Edition der Wiener Grundbücher</title>
+            <respStmt>
+               <resp>Transkription</resp>
+               <name>
+                  <rs type="person" ref="#gruenwald_korbinian">Korbinian Grünwald</rs>
+               </name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter
+               Andorfer</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>CC-BY</p>
+                  <p>You are free to: Share — copy and redistribute the material in any medium or
+                     format. Adapt — remix, transform, and build upon the material for any purpose,
+                     even commercially.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                  <repository>Grundbücher</repository>
+                  <idno type="archive">WStLA 2.1.2.1.B1.34</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus from=" [444r]" to=" [444v]"/>
+                     <p> [444r] - [444v]</p>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1440-09-23"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude"
+         xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <projectDesc>
+            <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende
+               Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt: <table>
+                  <row rend="header">
+                     <cell>Name der Formatvorlage</cell>
+                     <cell>Beschreibung des damit ausgezeichnetem Phänomen</cell>
+                  </row>
+                  <row>
+                     <cell>Folioangabe</cell>
+                     <cell>Seitenangabe durch Angabe von Folio mit recto *r und verso *v (im
+                        Nachhinein mit Bleistift im Grundbuch eingetragen). Auf den Seiten befinden
+                        sich zudem (ws. zeitnah zur Entstehung angebrachte) Foliozählungen in
+                        lateinischen Zahlzeichen in Tinte</cell>
+                  </row>
+                  <row>
+                     <cell>Faksimilelink</cell>
+                     <cell>Dateiname des Faksimiles - zur technischen Verknüpfung des Textes mit der
+                        Bilddatei</cell>
+                  </row>
+                  <row>
+                     <cell>Rubrik</cell>
+                     <cell>Gliederung nach Bürgermeistern und Jahren</cell>
+                  </row>
+                  <row>
+                     <cell>Urkundendatum</cell>
+                     <cell>Aufgeschlüsseltes Datum der Urkunde</cell>
+                  </row>
+                  <row>
+                     <cell>Standard</cell>
+                     <cell>Text des Grundbucheintrags</cell>
+                  </row>
+                  <row>
+                     <cell>Summa</cell>
+                     <cell>Für den jeweiligen Grundbucheintrag abgerechnete Summe</cell>
+                  </row>
+                  <row>
+                     <cell>Nachtrag</cell>
+                     <cell>Verschiedene nachträgliche Vermerke und Anmerkungen</cell>
+                  </row>
+                  <row>
+                     <cell>Seitenautor</cell>
+                     <cell>Erstbearbeiter der Seite/des Seitenabschnitts (nicht angezeigt, für die
+                        interne Organisation)</cell>
+                  </row>
+                  <row>
+                     <cell>Durchgestrichen</cell>
+                     <cell>Durchgestrichen</cell>
+                  </row>
+                  <row>
+                     <cell>Hochgestellt</cell>
+                     <cell>Hochgestellt</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI
+               community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI
+               wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar
+               geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
+         </projectDesc>
          <p>
             <xi:include href="../indices/listperson.xml" xpointer="listperson">
-               <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be found</fallback>
+               <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be
+                  found</fallback>
             </xi:include>
             <xi:include href="../indices/listplace.xml" xpointer="listplace">
-               <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be found</fallback>
+               <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be
+                  found</fallback>
             </xi:include>
             <xi:include href="../indices/listorg.xml" xpointer="listorg">
-               <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be found</fallback>
+               <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be
+                  found</fallback>
             </xi:include>
          </p>
       </encodingDesc>
-      </teiHeader>
-      <facsimile>
-         <graphic url=""/>
-      </facsimile>
-      <text>
-         <body>
-            <div type="entry">
-               <p>Ulreich Metzleindorffer hat versaczt die uberteurung seins hawss, in der Vodern Pekchenstrazz zenagst Reinharts des Hansgrafn haws, uber die hundert phunt pfenig, davon man ièrlich dint acht phunt pfening so der Bürgerspital nach laut ains briefs vor darauf verschribn sein. Der erbern frawn Margreten, Veiten Kolmans des smids zu Entzesdorf an der Vischa hausfrawn, die emaln Kristan Smid vom Durrenholtz auch elichen gehabt hat, an stat und zu handen irer kinder Wentzlaben und Magdalen, die noch nicht gevogt sein, die si bey dem benanten Kristan Smid hat gehabt, umb lxvi tl. v s. x d., die emaln auf Jacbos von Velach haus sind gelegen gewesen, und sind zu betzaln von dem nagstkunftigen sant Michels tag uber zwai gantze jar und sol in auch dieselben zwai jar jerlich davon raihen und diennen vi tl. v s. x d. zu den zwain tegen im jar an sant Jorgen tag und an sant Michesl tag. Doch also daz die egenant fraw Margret die benanten dinst jerlich sol innemen nutzen und niessen und die vorgenant ire kinder erberlich davon gewenten ziehen und verwesen nach irn notdurften uncz daz si zu irn vogtbern jarn komend, dennn so sol si in der egenanten sum phenig haubtguts und dinstz abtreten und furbas an irrung vessen lassen. Beschech aber daz dieselben ire zwai kinder ungevogt abgingen, so sol denn die egenant sum phenimg haubtguts halbe gevallen auf die egenant Margreten ir mutter lediklich und halbe auf derselben zwair kinder nagst erben nach laut und innhaltung des spruchbriefs so vor zeiten von des geltz wegen ausgegangen ist, ut littera sonat. Actum an Freytag vor sant Michels tag, anno etc. xlmo.</p>
-               <p rend="Summa">Summa ½ tl. xii d.</p>
-               <p rend="Nachtrag">Daz gelt ist wider gelegt worden auf Wolfgangen Hasler haus am Newnmarkt.</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0873.jpg</p>
-               <p rend="Rubrik">Tempore dominorum Symon Potel, consulis, Michael Linfelder, anno etc. xlio</p>
-               <p>[1441-05-26]</p>
-            </div>
-         </body>
-      </text>
-   </TEI>
+   </teiHeader>
+   <facsimile>
+      <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0872.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <div type="entry">
+            <p>Ulreich Metzleindorffer hat versaczt die uberteurung seins hawss, in der Vodern
+               Pekchenstrazz zenagst Reinharts des Hansgrafn haws, uber die hundert phunt pfenig,
+               davon man ièrlich dint acht phunt pfening so der Bürgerspital nach laut ains briefs
+               vor darauf verschribn sein. Der erbern frawn Margreten, Veiten Kolmans des smids zu
+               Entzesdorf an der Vischa hausfrawn, die emaln Kristan Smid vom Durrenholtz auch
+               elichen gehabt hat, an stat und zu handen irer kinder Wentzlaben und Magdalen, die
+               noch nicht gevogt sein, die si bey dem benanten Kristan Smid hat gehabt, umb lxvi tl.
+               v s. x d., die emaln auf Jacbos von Velach haus sind gelegen gewesen, und sind zu
+               betzaln von dem nagstkunftigen sant Michels tag uber zwai gantze jar und sol in auch
+               dieselben zwai jar jerlich davon raihen und diennen vi tl. v s. x d. zu den zwain
+               tegen im jar an sant Jorgen tag und an sant Michesl tag. Doch also daz die egenant
+               fraw Margret die benanten dinst jerlich sol innemen nutzen und niessen und die
+               vorgenant ire kinder erberlich davon gewenten ziehen und verwesen nach irn notdurften
+               uncz daz si zu irn vogtbern jarn komend, dennn so sol si in der egenanten sum phenig
+               haubtguts und dinstz abtreten und furbas an irrung vessen lassen. Beschech aber daz
+               dieselben ire zwai kinder ungevogt abgingen, so sol denn die egenant sum phenimg
+               haubtguts halbe gevallen auf die egenant Margreten ir mutter lediklich und halbe auf
+               derselben zwair kinder nagst erben nach laut und innhaltung des spruchbriefs so vor
+               zeiten von des geltz wegen ausgegangen ist, ut littera sonat. Actum an Freytag vor
+               sant Michels tag, anno etc. xl<hi rend="super">mo</hi>.</p>
+            <p rend="Summa">Summa ½ tl. xii d.</p>
+            <p rend="Nachtrag">Daz gelt ist wider gelegt worden auf Wolfgangen Hasler haus am
+               Newnmarkt.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
