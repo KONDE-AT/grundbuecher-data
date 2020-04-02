@@ -4,8 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title type="main">Eintrag vom 1458-</title>
-                <title type="rubrik">Anno etc. lxiio, tempore dominorum Jacobs Rechwein, consulis, et
-                    Michel Menestorffer</title>
+                <title type="rubrik">Anno etc. lxiio, tempore dominorum Jacobs Rechwein, consulis,
+                    et Michel Menestorffer</title>
                 <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                 <respStmt>
                     <resp>Transkription</resp>
@@ -124,11 +124,40 @@
         </encodingDesc>
     </teiHeader>
     <facsimile>
-        <graphic url=""/>
+        <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0922.jpg"/>
+        <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0923.jpg"></graphic>
     </facsimile>
     <text>
         <body>
             <div type="entry">
+                <p>Wolfgang Holczer hat versatzt die ubertewrungen seins hawss, gelegen am Allten
+                    Rossmarkt zenagst weilent Conraten Kophdrechsl haws, uber die funf hundert phunt
+                    phening haymsteur und morgengab, darumb es yetz seiner hausfrawn Margreten
+                    versaczt ist. Den erbern frawn Margreten, Erharts Griess witiben, und Erasem
+                    Leroch burger zu Enns, desselben seligen Griess geschefftlewten, umb zwayhundert
+                    phunt phening, die er weilent von den egenanten Griesser zu seiner erern
+                    hausfrawn Barbaren seligen ingenomen hat zu heyratgut. Insolher maynung das der
+                    egenant Holczer die benanten zway hundert phunt phening sein lebtèg ubverkumert
+                    innhaben nüczen und messen sol und nach seinen abgang sullen dieselbe sum
+                    phening gevallen des egenanten Griesser seligen geschefft lewten der sy dann von
+                    dem egenanten irm fürphant bekomen mügen der sulen sy dann geben zehen</p>
+                <p rend="Nachtrag">Nota des egenant Holczer hauss habent sich die herren ·
+                    burgermaister und rats von versessenen statstewr ausleg und annders kamerguts
+                    wegen so darauf gemainer stat unbezalt gewesen ist zuderselben stat hannden
+                    unnderstanden das Sigmunden Pernfues verkaufft hat und darauf all saczs so von
+                    gemelten Holczer darauf beschehen sein auszethun und zu vernichten geschafft.
+                    Actum an Freitag Annthony Abbatatis, anno etc. lxxxxvi<hi rend="supper"
+                    >to</hi>.</p>
+                <pb/>
+                <p>armen junkchfrawn die aus des Griess frewntschafft verheyrat werden albeg ainer
+                    zehen phunt phenig pringt hundert phunt phening und die andern hundert phunt
+                    phening sullen seinen armen frewnden armen schulern und andern armen knaben oder
+                    armen frewnden die sein notdurftig seinen gevallen und gegeben werden das sullen
+                    sein geschefftleut ausrichten nach innhaldung desselben Griesser seligen
+                    geschefft dacz in dem statpuch geschriben stet, ut littera sonat. Actum an
+                    Phincztag vor der hailigen dreyer künig tag, anno etc. lviii<hi rend="supper"
+                        >o</hi>.</p>
+                <p rend="Summa">Summa xiii s. x d.</p>
             </div>
         </body>
     </text>

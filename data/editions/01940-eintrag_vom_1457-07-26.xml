@@ -2,9 +2,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Eintrag vom 1465-</title>
-            <title type="rubrik">Tempore dominorum Hannsen Ravenspurger consulis, und Ernreichen
-               Köppl, anno domini lxv<hi rend="supper">to</hi>.</title>
+            <title type="main">Eintrag vom 1457-07-26</title>
+            <title type="rubrik">Anno etc. lxiio, tempore dominorum Jacobs Rechwein, consulis, et
+               Michel Menestorffer</title>
             <title type="sub">Digitale Edition der Wiener Grundbücher</title>
             <respStmt>
                <resp>Transkription</resp>
@@ -34,12 +34,12 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus from=" [471v]" to=" [472r]"/>
-                     <p> [471v] - [472r]</p>
+                     <locus from=" [469r]" to=" [469v]"/>
+                     <p> [469r] - [469v]</p>
                   </msItem>
                </msContents>
                <history>
-                  <origin notBefore="1465-"/>
+                  <origin notBefore="1457-07-26"/>
                </history>
             </msDesc>
          </sourceDesc>
@@ -122,23 +122,21 @@
       </encodingDesc>
    </teiHeader>
    <facsimile>
-      <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0927.jpg"/>
+      <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0922.jpg"/>
    </facsimile>
    <text>
       <body>
          <div type="entry">
-            <p>Wenzla Winkler, der schuster, und Breid, sein hausfraw, habent verkaufft sechs
-               schilling phening gelts purkchrechts auf irm haus, gelegen in der Wildwercherstrase
-               zenagst Hannsen Plumen des kursner an aim tail und an dem andern zenagst Hansen
-               Osterreicher des tuchscherer hewsern, davon man jerlich dint dem erbern briester hern
-               Hannsen Ofner, diezeit pharrer zu Sand Paul zu Erdpurg zehn schilling phening zu
-               drein tegen die abzelosen sind mit zehn phunt phening. Die dem obgenanten erbern
-               briester hern Hannsen Ofner, pharrer zu Erdpurg, und seinen nachkomen, umb sechs
-               phunt phening und sind zu dienn zu drein tegen im jar und abzelosen miteinander mit
-               vi tl. Wienner phening und den nagsten dinst damit der dann davon zudienen gevellt an
-               irrung ungeverlich, ut littera sonat. Actum an Sambstag nach sand Thomans tag des
-               heiligen Zwelifpoten anno domini lxv<hi rend="super">to</hi>.</p>
-            <p rend="Summa">Summa xii d.</p>
+            <p>Wolfgang Ottinger, der kursner, hat verchaufft aindlef pfunt und sechs schilling
+               pfening gelts purkrechts auf seinem padstuben genant zu den schenkchen gelegen an der
+               Vischersteg zenagst Hannsen des Wiltsfeur haws. Umb virundnewnczig pfund pfening, und
+               sind emaln gelegen auf Walthezaren Fugenstaler haws am Kienmarkt der newnthalb pfund
+               gelts zu Niclasen des Gelbaicz jartag und zway pfunt gelts zu Otten des Futrer jartag
+               und zehen schilling gelts zu Josten Goltsmids jartag gehornt. Dem erbern Jacoben
+               Gesmechl, kirchmaister zu Sand Michel, und seinen nachkomen und sind zu dinn zudrein
+               tegen und wider abzukauffen miteinander und den nagsten dinst damit, ut littera.
+               Actum an Mittichen nach sand Jacobs tag, anno etc. lvii<hi rend="supper">o</hi>.</p>
+            <p rend="Summa">Summa vi s. viii d.</p>
          </div>
       </body>
    </text>

@@ -1,123 +1,151 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-      <teiHeader>
-         <fileDesc>
-            <titleStmt>
-               <title type="main">Eintrag vom 1461-08-11</title>
-               <title type="rubrik">Tempore dominorum maister Mertten Guldein, lerer in der erczney, et Hannsen von Eslorn, anno etc. lxio</title>
-               <title type="sub">Digitale Edition der Wiener Grundbücher</title>
-               <respStmt>
-                  <resp>Transkription</resp>
-                  <name>
-                     <rs type="person" ref="#gruenwald_korbinian">Korbinian Grünwald</rs>
-                  </name>
-               </respStmt>
-            </titleStmt>
-            <publicationStmt>
-               <publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter Andorfer</publisher>
-               <availability>
-                  <licence target="https://creativecommons.org/licenses/by/4.0/">
-                     <p>CC-BY</p>
-                     <p>You are free to: Share — copy and redistribute the material in any medium or format. Adapt — remix, transform, and build upon the material for any purpose, even commercially.</p>
-                  </licence>
-               </availability>
-            </publicationStmt>
-            <sourceDesc>
-               <msDesc type="invetory">
-                  <msIdentifier>
-                     <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
-                     <repository>Grundbücher</repository>
-                     <idno type="archive">WStLA 2.1.2.1.B1.34</idno>
-                  </msIdentifier>
-                  <msContents>
-                     <msItem>
-                        <locus from="[470v]" to="[471r]"/>
-                        <p>[470v] - [471r]</p>
-                     </msItem>
-                  </msContents>
-                  <history>
-                     <origin notBefore="1461-08-11"/>
-                  </history>
-               </msDesc>
-            </sourceDesc>
-         </fileDesc>
-         <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude"
-                    xmlns:tei="http://www.tei-c.org/ns/1.0">
-            <projectDesc>
-               <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt:
-                                    <table>
-                     <row rend="header">
-                        <cell>Name der Formatvorlage</cell>
-                        <cell>Beschreibung des damit ausgezeichnetem Phänomen</cell>
-                     </row>
-                     <row>
-                        <cell>Folioangabe</cell>
-                        <cell>Seitenangabe durch Angabe von Folio mit recto *r und verso *v (im Nachhinein mit Bleistift im Grundbuch eingetragen). Auf den Seiten befinden sich zudem (ws. zeitnah zur Entstehung angebrachte) Foliozählungen in lateinischen Zahlzeichen in Tinte</cell>
-                     </row>
-                     <row>
-                        <cell>Faksimilelink</cell>
-                        <cell>Dateiname des Faksimiles - zur technischen Verknüpfung des Textes mit der Bilddatei</cell>
-                     </row>
-                     <row>
-                        <cell>Rubrik</cell>
-                        <cell>Gliederung nach Bürgermeistern und Jahren</cell>
-                     </row>
-                     <row>
-                        <cell>Urkundendatum</cell>
-                        <cell>Aufgeschlüsseltes Datum der Urkunde</cell>
-                     </row>
-                     <row>
-                        <cell>Standard</cell>
-                        <cell>Text des Grundbucheintrags</cell>
-                     </row>
-                     <row>
-                        <cell>Summa</cell>
-                        <cell>Für den jeweiligen Grundbucheintrag abgerechnete Summe</cell>
-                     </row>
-                     <row>
-                        <cell>Nachtrag</cell>
-                        <cell>Verschiedene nachträgliche Vermerke und Anmerkungen</cell>
-                     </row>
-                     <row>
-                        <cell>Seitenautor</cell>
-                        <cell>Erstbearbeiter der Seite/des Seitenabschnitts (nicht angezeigt, für die interne Organisation)</cell>
-                     </row>
-                     <row>
-                        <cell>Durchgestrichen</cell>
-                        <cell>Durchgestrichen</cell>
-                     </row>
-                     <row>
-                        <cell>Hochgestellt</cell>
-                        <cell>Hochgestellt</cell>
-                     </row>
-                  </table>
-               </p>
-               <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
-            </projectDesc>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eintrag vom 1461-08-11</title>
+            <title type="rubrik">Tempore dominorum maister Mertten Guldein, lerer in der erczney, et
+               Hannsen von Eslorn, anno etc. lxi<hi rend="supper">o</hi>.</title>
+            <title type="sub">Digitale Edition der Wiener Grundbücher</title>
+            <respStmt>
+               <resp>Transkription</resp>
+               <name>
+                  <rs type="person" ref="#gruenwald_korbinian">Korbinian Grünwald</rs>
+               </name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter
+               Andorfer</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>CC-BY</p>
+                  <p>You are free to: Share — copy and redistribute the material in any medium or
+                     format. Adapt — remix, transform, and build upon the material for any purpose,
+                     even commercially.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                  <repository>Grundbücher</repository>
+                  <idno type="archive">WStLA 2.1.2.1.B1.34</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus from="[470v]" to="[471r]"/>
+                     <p>[470v] - [471r]</p>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1461-08-11"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude"
+         xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <projectDesc>
+            <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende
+               Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt: <table>
+                  <row rend="header">
+                     <cell>Name der Formatvorlage</cell>
+                     <cell>Beschreibung des damit ausgezeichnetem Phänomen</cell>
+                  </row>
+                  <row>
+                     <cell>Folioangabe</cell>
+                     <cell>Seitenangabe durch Angabe von Folio mit recto *r und verso *v (im
+                        Nachhinein mit Bleistift im Grundbuch eingetragen). Auf den Seiten befinden
+                        sich zudem (ws. zeitnah zur Entstehung angebrachte) Foliozählungen in
+                        lateinischen Zahlzeichen in Tinte</cell>
+                  </row>
+                  <row>
+                     <cell>Faksimilelink</cell>
+                     <cell>Dateiname des Faksimiles - zur technischen Verknüpfung des Textes mit der
+                        Bilddatei</cell>
+                  </row>
+                  <row>
+                     <cell>Rubrik</cell>
+                     <cell>Gliederung nach Bürgermeistern und Jahren</cell>
+                  </row>
+                  <row>
+                     <cell>Urkundendatum</cell>
+                     <cell>Aufgeschlüsseltes Datum der Urkunde</cell>
+                  </row>
+                  <row>
+                     <cell>Standard</cell>
+                     <cell>Text des Grundbucheintrags</cell>
+                  </row>
+                  <row>
+                     <cell>Summa</cell>
+                     <cell>Für den jeweiligen Grundbucheintrag abgerechnete Summe</cell>
+                  </row>
+                  <row>
+                     <cell>Nachtrag</cell>
+                     <cell>Verschiedene nachträgliche Vermerke und Anmerkungen</cell>
+                  </row>
+                  <row>
+                     <cell>Seitenautor</cell>
+                     <cell>Erstbearbeiter der Seite/des Seitenabschnitts (nicht angezeigt, für die
+                        interne Organisation)</cell>
+                  </row>
+                  <row>
+                     <cell>Durchgestrichen</cell>
+                     <cell>Durchgestrichen</cell>
+                  </row>
+                  <row>
+                     <cell>Hochgestellt</cell>
+                     <cell>Hochgestellt</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI
+               community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI
+               wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar
+               geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
+         </projectDesc>
          <p>
             <xi:include href="../indices/listperson.xml" xpointer="listperson">
-               <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be found</fallback>
+               <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be
+                  found</fallback>
             </xi:include>
             <xi:include href="../indices/listplace.xml" xpointer="listplace">
-               <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be found</fallback>
+               <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be
+                  found</fallback>
             </xi:include>
             <xi:include href="../indices/listorg.xml" xpointer="listorg">
-               <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be found</fallback>
+               <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be
+                  found</fallback>
             </xi:include>
          </p>
       </encodingDesc>
-      </teiHeader>
-      <facsimile>
-         <graphic url=""/>
-      </facsimile>
-      <text>
-         <body>
-            <div type="entry">
-               <p>Wolfgang Chottrer hat versaczt sein hawss, gelegen hinder der Würrffl grossem hawss gegen dem Kürstenhaws uber an ainen tail. Dem ersamen heren Petern Unumtumb, dieczeit áchter zú Sand Steffans zú Wienn und kapplan der mess die Niclas Tailer seliger zustifften geschaft hat, und seinen nachkomen kapplan derselben mess, umb zwayhundert und sibenczigk pfuntt Wienner phening, die der egenant Niclas Tailer zu der mess geschaft hat nach lautt seins gescheffts das in dem statpuch zu Wienn geschriben stet, und sind zubeczalen von datum des sacz uber zwelf ganncze jar nachst nacheinander künfftig an alles verziehen. Doch also daz er dem obgenanten hern Petern kapplan und seinen nachkomen die egenanten zwelf jar von guten willen und nicht von rechtens wegen raichen und geben sol zwelf pfuntt Wienner phening zu den vier quatembern im jar zu iedem quatember drew pfunt Wienner phening und sullen mit den ersten dinst anheben zu den quatembern in der vassten nachstkünfftigen an wider red, ut littera sonat. Doch unvergriffen Ulrichen Nuczhaymer zu Heynburg und sein erben an den drew hundert Ungrisch gulden darub in das vorgenanten hawss verseczt ist daran derselb nacheinander empfangen hat hundert Ungrisch gulden, ut littera sonat. Actum an Erihtag nach sand Larenczn tag, anno domini etc. lxio.</p>
-               <p rend="Summa">Summa xvii s. d.</p>
-               <p rend="Nachtrag">Kottrer habet cedulam</p>
-               <p rend="FAKSIMILELINK">WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0926.jpg</p>
-               <p rend="Rubrik">Tempore dominorum Hanns von Eslorn, consulis, Jacob Rehwein, anno etc. lxiio</p>
-            </div>
-         </body>
-      </text>
-   </TEI>
+   </teiHeader>
+   <facsimile>
+      <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0925.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <div type="entry">
+            <p>Wolfgang Chottrer hat versaczt sein hawss, gelegen hinder der Würrffl grossem hawss
+               gegen dem Kürstenhaws uber an ainen tail. Dem ersamen heren Petern Unumtumb, dieczeit
+               áchter zú Sand Steffans zú Wienn und kapplan der mess die Niclas Tailer seliger
+               zustifften geschaft hat, und seinen nachkomen kapplan derselben mess, umb zwayhundert
+               und sibenczigk pfuntt Wienner phening, die der egenant Niclas Tailer zu der mess
+               geschaft hat nach lautt seins gescheffts das in dem statpuch zu Wienn geschriben
+               stet, und sind zubeczalen von datum des sacz uber zwelf ganncze jar nachst
+               nacheinander künfftig an alles verziehen. Doch also daz er dem obgenanten hern Petern
+               kapplan und seinen nachkomen die egenanten zwelf jar von guten willen und nicht von
+               rechtens wegen raichen und geben sol zwelf pfuntt Wienner phening zu den vier
+               quatembern im jar zu iedem quatember drew pfunt Wienner phening und sullen mit den
+               ersten dinst anheben zu den quatembern in der vassten nachstkünfftigen an wider red,
+               ut littera sonat. Doch unvergriffen Ulrichen Nuczhaymer zu Heynburg und sein erben an
+               den drew hundert Ungrisch gulden darub in das vorgenanten hawss verseczt ist daran
+               derselb nacheinander empfangen hat hundert Ungrisch gulden, ut littera sonat. Actum
+               an Erihtag nach sand Larenczn tag, anno domini etc. lxi<hi rend="supper">o</hi>.</p>
+            <p rend="Summa">Summa xvii s. d.</p>
+            <p rend="Nachtrag">Kottrer habet cedulam</p>
+         </div>
+      </body>
+   </text>
+</TEI>

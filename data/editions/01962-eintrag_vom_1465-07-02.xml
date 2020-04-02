@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Eintrag vom 1465-</title>
+            <title type="main">Eintrag vom 1465-07-02</title>
             <title type="rubrik">Tempore dominorum Hannsen Ravenspurger consulis, und Ernreichen
                Köppl, anno domini lxv<hi rend="supper">to</hi>.</title>
             <title type="sub">Digitale Edition der Wiener Grundbücher</title>
@@ -34,12 +34,12 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus from=" [471v]" to=" [472r]"/>
-                     <p> [471v] - [472r]</p>
+                     <locus from=" [472r]" to=" [472v]"/>
+                     <p> [472r] - [472v]</p>
                   </msItem>
                </msContents>
                <history>
-                  <origin notBefore="1465-"/>
+                  <origin notBefore="1465-07-02"/>
                </history>
             </msDesc>
          </sourceDesc>
@@ -122,23 +122,21 @@
       </encodingDesc>
    </teiHeader>
    <facsimile>
-      <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0927.jpg"/>
+      <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0928.jpg"/>
    </facsimile>
    <text>
       <body>
          <div type="entry">
-            <p>Wenzla Winkler, der schuster, und Breid, sein hausfraw, habent verkaufft sechs
-               schilling phening gelts purkchrechts auf irm haus, gelegen in der Wildwercherstrase
-               zenagst Hannsen Plumen des kursner an aim tail und an dem andern zenagst Hansen
-               Osterreicher des tuchscherer hewsern, davon man jerlich dint dem erbern briester hern
-               Hannsen Ofner, diezeit pharrer zu Sand Paul zu Erdpurg zehn schilling phening zu
-               drein tegen die abzelosen sind mit zehn phunt phening. Die dem obgenanten erbern
-               briester hern Hannsen Ofner, pharrer zu Erdpurg, und seinen nachkomen, umb sechs
-               phunt phening und sind zu dienn zu drein tegen im jar und abzelosen miteinander mit
-               vi tl. Wienner phening und den nagsten dinst damit der dann davon zudienen gevellt an
-               irrung ungeverlich, ut littera sonat. Actum an Sambstag nach sand Thomans tag des
-               heiligen Zwelifpoten anno domini lxv<hi rend="super">to</hi>.</p>
-            <p rend="Summa">Summa xii d.</p>
+            <p>Wolfgang Awer, der viltzhüter, mitburger ze Wienn, und Ursula, sein hausfrau, habend
+               versaczt ir hawss im lederhof an der hertzogin hof zenagst Ulrichs Hertreichs des
+               obser hawss an aim tail. Dem erbern Chunraten Reyffen, mitburger ze Wienn, und sein
+               erben, umb hundert und fünfunddreissig Ungrischer gulden gerecht in gold und wag und
+               sind zubetzalen ains ieden jars zu den Weinachten fünfzehen Ungrisch gulden solanng
+               untz si der obigen sumen hundert und funfunddreyssigt gulden Ungrisch ganntz und gar
+               vericht und gewert sein und sullen mit der ersten bezalung anheben zu den Weinachten
+               nachstkünftigen an alles verziehen, ut littera sonat. Actum an Mitichen post Petri et
+               Pauli Apostolorum, anno etc. lxv<hi rend="supper">to</hi>.</p>
+            <p rend="Summa">Summa x s. d.</p>
          </div>
       </body>
    </text>
