@@ -123,7 +123,6 @@
    </teiHeader>
    <facsimile>
       <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0824.jpg"/>
-      <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0825.jpg"></graphic>
    </facsimile>
    <text>
       <body>
@@ -142,18 +141,6 @@
                damit ain besiglte quittung die da lautt lx guld sind zu dem puch gelegt worden er
                geb vor umb decz gelt ain quittung und geb uber zum puch die saczzedl. Actum an
                Montag nach Oculi, anno domini etc. lii<hi rend="super">do</hi>. </p>
-            <!-- neue Seite neuer Eintrag -->
-            <pb/>
-            <p>Symon Prunner, satler, und Barbara, sein hausfrau, habent versaczt ir haus, gelegen
-               am Alten Kolmarkt zenagst Paulen Haid des schuster haus, davon man jerlich dint den
-               geistlichen herren dacz den Schotten funfundvirczig phening zu purkrecht und nicht
-               mer. Dem erbern Hannsen Kieler und Barbara, seiner hausfrawn, und irn paiden erben,
-               umb anderthalbhundert phund phening und sind zubeczalen auf unser frawn tag als sy
-               emphangen ist schirstkunftigen anvercziehen, ut littera sonat. Actum an Montag vor
-               Thome, anno etc. xlviii<hi rend="super">o</hi>.</p>
-            <p rend="Summa">Summa x s. d.</p>
-            <p rend="Nachtrag">Den sacz hat Hans Kanstorffer ledig gesagt, an Mitichen vor Gregorii,
-               anno etc. l<hi rend="super">mo</hi>.</p>
          </div>
       </body>
    </text>

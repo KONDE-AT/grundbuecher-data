@@ -3,7 +3,7 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1442-11-05</title>
-               <title type="rubrik">Tempore dominorum Symonis Potel, consulis, et Kristan Wissinger, anno etc. xlii<hi rend="super">do</hi></title>
+               <title type="rubrik">Tempore dominorum Symonis Potel, consulis, et Kristan Wissinger, anno etc. xlii<hi rend="super">do</hi>.</title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -30,8 +30,8 @@
                   </msIdentifier>
                   <msContents>
                      <msItem>
-                        <locus from="[1442-09-12]" to="[153v]"/>
-                        <p>[1442-09-12] - [153v]</p>
+                        <locus from="cliii" to="[153v]"/>
+                        <p>cliii - [153v]</p>
                      </msItem>
                   </msContents>
                   <history>

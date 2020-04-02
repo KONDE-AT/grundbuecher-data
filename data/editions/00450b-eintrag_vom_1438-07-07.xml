@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Eintrag vom 1438-07-07</title>
+                <title type="rubrik">Tempore dominorum Michel Lyenvelder et Dyetz Starhant, anno etc.
+                    xxxviii<hi rend="super">vo</hi>.</title>
+                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
+                <respStmt>
+                    <resp>Transkription</resp>
+                    <name>
+                        <rs type="person" ref="#gruenwald_korbinian">Korbinian Grünwald</rs>
+                    </name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska,
+                    Peter Andorfer</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>CC-BY</p>
+                        <p>You are free to: Share — copy and redistribute the material in any medium
+                            or format. Adapt — remix, transform, and build upon the material for any
+                            purpose, even commercially.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                        <repository>Grundbücher</repository>
+                        <idno type="archive">WStLA 2.1.2.1.B1.34</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <locus from="[141r]" to="[141v]"/>
+                            <p> [141r] - [141v]</p>
+                        </msItem>
+                    </msContents>
+                    <history>
+                        <origin notBefore="1438-07-07"/>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude"
+            xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <projectDesc>
+                <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende
+                    Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt: <table>
+                        <row rend="header">
+                            <cell>Name der Formatvorlage</cell>
+                            <cell>Beschreibung des damit ausgezeichnetem Phänomen</cell>
+                        </row>
+                        <row>
+                            <cell>Folioangabe</cell>
+                            <cell>Seitenangabe durch Angabe von Folio mit recto *r und verso *v (im
+                                Nachhinein mit Bleistift im Grundbuch eingetragen). Auf den Seiten
+                                befinden sich zudem (ws. zeitnah zur Entstehung angebrachte)
+                                Foliozählungen in lateinischen Zahlzeichen in Tinte</cell>
+                        </row>
+                        <row>
+                            <cell>Faksimilelink</cell>
+                            <cell>Dateiname des Faksimiles - zur technischen Verknüpfung des Textes
+                                mit der Bilddatei</cell>
+                        </row>
+                        <row>
+                            <cell>Rubrik</cell>
+                            <cell>Gliederung nach Bürgermeistern und Jahren</cell>
+                        </row>
+                        <row>
+                            <cell>Urkundendatum</cell>
+                            <cell>Aufgeschlüsseltes Datum der Urkunde</cell>
+                        </row>
+                        <row>
+                            <cell>Standard</cell>
+                            <cell>Text des Grundbucheintrags</cell>
+                        </row>
+                        <row>
+                            <cell>Summa</cell>
+                            <cell>Für den jeweiligen Grundbucheintrag abgerechnete Summe</cell>
+                        </row>
+                        <row>
+                            <cell>Nachtrag</cell>
+                            <cell>Verschiedene nachträgliche Vermerke und Anmerkungen</cell>
+                        </row>
+                        <row>
+                            <cell>Seitenautor</cell>
+                            <cell>Erstbearbeiter der Seite/des Seitenabschnitts (nicht angezeigt,
+                                für die interne Organisation)</cell>
+                        </row>
+                        <row>
+                            <cell>Durchgestrichen</cell>
+                            <cell>Durchgestrichen</cell>
+                        </row>
+                        <row>
+                            <cell>Hochgestellt</cell>
+                            <cell>Hochgestellt</cell>
+                        </row>
+                    </table>
+                </p>
+                <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI
+                    community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses
+                    TEI wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario
+                    Kampkaspar geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter
+                    verarbeitet.</p>
+            </projectDesc>
+            <p>
+                <xi:include href="../indices/listperson.xml" xpointer="listperson">
+                    <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be
+                        found</fallback>
+                </xi:include>
+                <xi:include href="../indices/listplace.xml" xpointer="listplace">
+                    <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be
+                        found</fallback>
+                </xi:include>
+                <xi:include href="../indices/listorg.xml" xpointer="listorg">
+                    <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be
+                        found</fallback>
+                </xi:include>
+            </p>
+        </encodingDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0276a.jpg"/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="entry"><p>Hanns Lanng und Hanns Gerestenner habent versaczt ir haws, gelegen in der
+                Kérnerstrass zu Wienn, genant des Vaschanghaws, gegen Sand Johanns über, zenachst
+                Niclasen des Pilgremen haus umb xx. Den erbern Niclasen Schönn und Niclasen Reich dem
+                apoteker zu handen und als gerhaben Petreins des Sturm, Petern des Sturm und Elsbeten
+                seiner hausfraun seligen sun. Umb xxxiiii tl. d., die von des egenanten Sturm zwain
+                heusern bei der Hohenprugk gelegen, die die genanten gerhaben verchaufft habent, und
+                uber die geltschuld, so darauf gewesen ist, uberbeliben sein. Und xvii tl. vii s.
+                xxiiii d, die von den longold, den schenkchandeln und rupfen, so auch der egenant
+                Stúrm hinder im gelassen hat, herkómen, und uber alle ausrichtigung seins geschéfftz
+                über worden sein. Daz alles mit sumen pringt lii tl. vii s. xxiiii d., die sol<note>
+                    <p rend="footnote text"> Sol: Über der Zeile eingefügt.</p>
+                </note> der genant Hanns Lang und sein erben mitsambt ainer weingarten am Kallnperg,
+                in der ziegelgrub, des drew virtail ist, der auch dem egenanten knaben zugehört,
+                innhaben, nüczen und niessen. Und wenn denn derselb knab zu land kumbt und das
+                vorgenant gelt vodert, so sullen si im dann dasselb gelt beczaln und des genanten
+                weingarts abtreten. Beschéch aber, daz derselb knab in rechten tégen nicht zu land
+                kém oder das der genant Lang geweisen moht, daz er gevogter gestorben wér, so sullen
+                dann die genant sumen pfening und der weingarten gevallen und geantwurt werden seinen
+                nachsten erben, den dann dasselb gut rechter angehört. Wer aber, das die genanten
+                gerhaben oder der obgenant Lang geweisen mohten, daz der vorgenant knab ungevogter
+                abgegangen wér, so sullen dann der genant Lang und sein erben den vorgenanten
+                gerhaben oder iren nachkomen darnach nach dem nachsten lesen, des genanten weingarts
+                abtreten. Und in darczu der vorgenanten sumen pfening ausrichten und beczaln, die si
+                dann mitsambt dem genanten weingarten durch gotz willen geben sullen, als das der
+                genant Peter Sturm seliger geschafft hat und<note>
+                    <p rend="footnote text"> Und: Über der Zeile eingefügt.</p>
+                </note> nach laut ains geltbriefen, den die vorgenanten gerhaben darumb habent. Actum
+                feria secunda post Udalrici anno etc. xxxviiio.</p>
+                <p rend="Summa">Summa iii s. x d.</p>
+                <p rend="Nachtrag">Den sacz hat Peter Sturm ledig gesagt feria quarta post Invocavit ano
+                    etc. xl<hi rend="super">mo</hi>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
