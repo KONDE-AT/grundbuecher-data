@@ -3,7 +3,8 @@
       <fileDesc>
          <titleStmt>
             <title type="main">Eintrag vom 1438-04-21</title>
-            <title type="rubrik">Tempore dominorum Michel Lyenvelder, consulis, et Dietrich Starhant, anno etc. xxxviii<hi rend="super">o</hi></title>
+            <title type="rubrik">Tempore dominorum Michel Lyenvelder, consulis, et Dietrich
+               Starhant, anno etc. xxxviii<hi rend="super">o</hi></title>
             <title type="sub">Digitale Edition der Wiener Grundbücher</title>
             <respStmt>
                <resp>Transkription</resp>
@@ -125,7 +126,8 @@
       </encodingDesc>
       <revisionDesc>
          <listChange>
-            <change status="tagged"/>  <!-- gelb -->
+            <change status="tagged"/>
+            <!-- gelb -->
          </listChange>
       </revisionDesc>
    </teiHeader>
@@ -163,12 +165,16 @@
                      <rs type="fn" role="transactiongood_II"><measure>lvii tl. iii s. xxv
                         d.</measure> und sind zu beczaln, wenn sy die vordernt und der nicht lenger
                      empern wellent</rs>, darnach an alles vercziehen. Actum feria secunda ante
-                  Geori, anno xxxviiio</rs>.</p>
-            <p rend="Summa"><rs type="event" ref="#ev__haus_wiltwerkerstrasse_1_satz_1">Summa
-                     <measure>iii s. xxiiii d.</measure></rs></p>
-            <p rend="Nachtrag"><rs type="event" ref="#ev__haus_wiltwerkerstrasse_1_satz_1">Den sacz
-                  hat der <rs type="person" ref="#pe__heinrich_haiden">Haiden</rs> ledig gesagt
-                  feria secunda ante Pangracy 1440.</rs></p>
+                  Geori, anno xxxviii<hi rend="super">o</hi>.</rs></p>
+            <p rend="Summa">
+               <rs type="event" ref="#ev__haus_wiltwerkerstrasse_1_satz_1">Summa <measure>iii s.
+                     xxiiii d.</measure></rs>
+            </p>
+            <p rend="Nachtrag">
+               <rs type="event" ref="#ev__haus_wiltwerkerstrasse_1_satz_1">Den sacz hat der <rs
+                     type="person" ref="#pe__heinrich_haiden">Haiden</rs> ledig gesagt feria secunda
+                  ante Pangracy 1440.</rs>
+            </p>
          </div>
       </body>
    </text>

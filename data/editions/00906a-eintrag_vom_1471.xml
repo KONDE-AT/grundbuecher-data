@@ -4,7 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title type="main">Eintrag vom 1471</title>
-                <title type="rubrik">Tempore dominorum herrn Niclasen Erensst consulis und Cristan Schönnperger anno etc. Lxxi.</title>
+                <title type="rubrik">Tempore dominorum herrn Niclasen Erensst consulis und Cristan
+                    Schönnperger anno etc. Lxxi.</title>
                 <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                 <respStmt>
                     <resp>Transkription</resp>
@@ -127,10 +128,14 @@
     </facsimile>
     <text>
         <body>
-            <div type="entry"><p rend="Nachtrag">Hanns Gotzku der Wagner mitburger zu Wienn hat emphangen nutz und gwer ains hawss gelegen am Newnmarkt zenagst Wenntzlaben des Wagner hawss an aim tail und an dem anndern zenagst weilennd Petern des Kunter haws, das von Steffan Zochman dem wagner umb hundert und virtzig phunt phenning mit kauff an in komen ist.<note>
-                <p rend="footnote text"> Am linken Rand: erratum est.</p>
-            </note>
-            </p>
+            <div type="entry">
+                <p rend="Nachtrag">Hanns Gotzku der Wagner mitburger zu Wienn hat emphangen nutz und
+                    gwer ains hawss gelegen am Newnmarkt zenagst Wenntzlaben des Wagner hawss an aim
+                    tail und an dem anndern zenagst weilennd Petern des Kunter haws, das von Steffan
+                    Zochman dem wagner umb hundert und virtzig phunt phenning mit kauff an in komen ist.<note>
+                        <p rend="footnote text"> Am linken Rand: erratum est.</p>
+                    </note>
+                </p>
             </div>
         </body>
     </text>

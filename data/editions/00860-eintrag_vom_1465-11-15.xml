@@ -2,17 +2,20 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Eintrag vom 1447</title>
-            <title type="rubrik">Tempore dominorum Andre Gundorfer, consulis, et Niclas Purger, anno
-               etc. xlvi<hi rend="super">to</hi></title>
+            <title type="main">Eintrag vom 1465-11-15</title>
+            <title type="rubrik">Tempore dominorum hern Ernreichen Kopl consulen und Jacoben Gsmechl
+               anno etc. lxvi<hi rend="super">to</hi>.</title>
             <title type="sub">Digitale Edition der Wiener Grundbücher</title>
             <respStmt>
                <resp>Transkription</resp>
                <name>
-                  <rs type="person" ref="#gruenwald_korbinian">Korbinian Grünwald</rs>
+                  <rs type="person" ref="#fiska_patrick">Patrick Fiska</rs>
                </name>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription</resp>
                <name>
-                  <rs type="person" ref="#weinbergmaier_richard">Richard Weinbergmaier</rs>
+                  <rs type="person" ref="#gruenwald_korbinian">Korbinian Grünwald</rs>
                </name>
             </respStmt>
          </titleStmt>
@@ -37,12 +40,12 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus from=" [56v]" to="[57r]"/>
-                     <p> [56v] - [57r]</p>
+                     <locus from="[202r]" to=" [202v]"/>
+                     <p>[202r] - [202v]</p>
                   </msItem>
                </msContents>
                <history>
-                  <origin notBefore="1447"/>
+                  <origin notBefore="1465-11-15 1466-11-14"/>
                </history>
             </msDesc>
          </sourceDesc>
@@ -125,31 +128,24 @@
       </encodingDesc>
    </teiHeader>
    <facsimile>
-      <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0112a.jpg"/>
+      <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0396.jpg"/>
    </facsimile>
    <text>
       <body>
          <div type="entry">
-            <p>Chunrat Strobl hat gemacht Dorothen seiner hausfraun drewhundert pfund phenig auf
-               seim haus gelegen in der Kernerstrass zenagstn des abts haus von Sant Mareinzell an
-               aim tail und auf seim höflein gelegen in der Weihenpurk zenagst Ekkharts goltsmids
-               haus an aim tail und an dem andern zenagst Jacoben Gotzman haus genant in der
-               Almarein. In solher Maynung ist, das der vorgenant Strobl mit dem tod abget ee dann
-               die vorgenannt Dorothe sein hausfrau, so sol sy dann die vorgenantn drewhundert pfunt
-               phenig auf dem egenanten haus und hoflein ledicklich und freilich haben und allen irn
-               frumen damit schaffen machen und geben wem sy wil an alle irrung und sol und mag auch
-               dann das vorgenant haus und hofl dafur innhaben nuczen und niessen an abslag des
-               gelts solang untz das dasselb haus und hofl sein nagst erben oder wem er das schafft
-               umb die egenanten drewhundert pfund phenig von ir losent. Get aber die vorgenant
-               Dorothe mit dem tod ab ee denn der vorgenant Strobl ir man, so sind im dann die
-               egenannten drewhundert pfund pfenig auf dem vorgenanten haus und hoflein gentzlich
-               wider ledig allen sein frumen dann davon zu schaffen wie im das fugt an irrung. Actum
-               an Mittichen nach oculi in der vasten, anno etc. xlvii<hi rend="super">o</hi>.</p>
-            <p rend="Summa">Summa ii ½ tl. d.</p>
-            <p>Nota die obgenant Dorothen ist vor dem egenanten Strobl irm man mit tod abgangen
-               dadurch im im die iii<hi rend="super">c</hi> tl. d. sind ledig worden. Actum an
-               Mitichen vor Purificacionis, anno lxxmo.</p>
-            <p>lvii</p>
+            <p>Hanns Veýalrósl, burger zu Wienn, hat versaczt sein hawss gelegen vor Stubentor
+               zenagst der Padstuben genant die Húnttin an ainen tail, Dorotheen seiner hausfrawen
+               Niclasen Héring der ircher gesessen auf der Wienn vor Stubentor tochter, umb
+               zwayundzwaintzig phunt Wiener phenning haimstewr, und umb funfftzig phunt phennig der
+               egenanten múnss widerlegunng nach der stat rechten zu Wienn, ut littera sonat. Actum
+               an Freytag nach sand Merten tag episcopi, anno domini etc. lxv<hi rend="super"
+                  >to</hi>.</p>
+            <p rend="Summa">Summa i t xxiiii d.</p>
+            <p rend="Nachtrag">Nota die obgemelten l tl. d. widerlegung seinn dem Veyolrösl mit tod
+               der obgenanten Dorothen seiner hawsfrawen nach dem er mit ir chaine kinder gehabt,
+               ledig worden und die bestimbte xxii tl. haymsteur. Seinn im auch mit ubergab der
+               benant Dorothen geswistrett gwalttrager ledig gesagt worden vor dem rat hie und der
+               gerechtbrief ist vernicht. Actum an Freytag vor Katherine Anno etc. 92.</p>
          </div>
       </body>
    </text>

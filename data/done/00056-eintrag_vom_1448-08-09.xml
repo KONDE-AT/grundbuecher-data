@@ -3,7 +3,8 @@
       <fileDesc>
          <titleStmt>
             <title type="main">Eintrag vom 1448-08-09</title>
-            <title type="rubrik">Tempore dominorum Heinreich Haiden, consulis, et Hannsen von Eslarn, anno etc. xlviii<hi rend="super">o</hi></title>
+            <title type="rubrik">Tempore dominorum Heinreich Haiden, consulis, et Hannsen von
+               Eslarn, anno etc. xlviii<hi rend="super">o</hi></title>
             <title type="sub">Digitale Edition der Wiener Grundbücher</title>
             <respStmt>
                <resp>Transkription</resp>
@@ -134,15 +135,15 @@
       <body>
          <div type="entry">
             <p><rs type="event" ref="#ev__haus_wiltwerkerstrasse_3_satz_2"><rs type="fn"
-               ref="issuer"><rs type="person" ref="#pe__anna_SB_CD_00056">Anna <rs type="person"
-                           ref="#pe__georg_leinburger">Jörgen Leinburger des <roleName type="prof"
-                              >apoteker</roleName></rs><roleName type="kin"
+                     ref="issuer"><rs type="person" ref="#pe__anna_SB_CD_00056">Anna <rs
+                           type="person" ref="#pe__georg_leinburger">Jörgen Leinburger des <roleName
+                              type="prof">apoteker</roleName></rs><roleName type="kin"
                            corresp="#pe__georg_leinburger">hausfraw</roleName></rs></rs>
                   <catchwords n="disp">hat versaczt die ubertewrung</catchwords>
                   <rs type="fn" role="transactiongood_I"><rs type="place"
                         ref="#pl__haus_wiltwerkerstrasse_3"><roleName type="owner"
-                           corresp="#pe__anna_SB_CD_00056">irs</roleName> hawss, <roleName type="topo"
-                           corresp="#pl__wiltwerkerstrasse">gelegen in der
+                           corresp="#pe__anna_SB_CD_00056">irs</roleName> hawss, <roleName
+                           type="topo" corresp="#pl__wiltwerkerstrasse">gelegen in der
                            Wiltwerherstrass</roleName>
                         <roleName type="topo" corresp="#pl__haus_wiltwerkerstrasse_4"
                            >zenegst</roleName></rs></rs> des <rs type="place"
@@ -161,18 +162,18 @@
                            <roleName type="prof">satler</roleName>
                         <roleName type="rep" corresp="#pe__katharina_nagl"><add>ausrichter des
                               geschéffts</add></roleName><roleName type="rep"
-                                 corresp="#pe__martin_SB_CD_00056"><add>anstat und
+                           corresp="#pe__martin_SB_CD_00056"><add>anstat und
                            zuhanden</add></roleName><roleName type="rep"
-                              corresp="#pe__wolfgang_SB_CD_00056"><add>anstat und
+                           corresp="#pe__wolfgang_SB_CD_00056"><add>anstat und
                            zuhanden</add></roleName></rs> und<note>
                         <p rend="footnote text"> Über der Zeile nachgetragen.</p>
                      </note>
                      <rs type="person" ref="#pe__konrad_kopfdrechsel">Conraten Kopfdréchsel dietzeit
                            <roleName type="rep" corresp="#pe__katharina_nagl">ausrichter des
                            geschéffts</roleName><roleName type="rep"
-                              corresp="#pe__martin_SB_CD_00056"><add>anstat und
+                           corresp="#pe__martin_SB_CD_00056"><add>anstat und
                            zuhanden</add></roleName><roleName type="rep"
-                              corresp="#pe__wolfgang_SB_CD_00056"><add>anstat und
+                           corresp="#pe__wolfgang_SB_CD_00056"><add>anstat und
                            zuhanden</add></roleName></rs></rs>, <rs type="event"
                      ref="#ev__testament_katharina_nagl">so weilent <rs type="person"
                         ref="#pe__katharina_nagl"><roleName type="title">fraw</roleName> Kathrey <rs
@@ -181,9 +182,9 @@
                         <roleName type="dead">seligen</roleName>
                         <roleName type="kin" corresp="#pe__michael_nagl_der_sattler_am_kohlmarkt"
                            >wittib</roleName></rs> getan hat</rs>, anstat und zuhanden <rs
-                              type="person" ref="#pe__wolfgang_SB_CD_00056">Wolfgang <roleName type="kin"
+                     type="person" ref="#pe__wolfgang_SB_CD_00056">Wolfgang <roleName type="kin"
                         corresp="pe__johann_nagl_am_graben"><add>Kind</add></roleName></rs> und <rs
-                           type="person" ref="#pe__martin_SB_CD_00056">Mertten <roleName type="kin"
+                     type="person" ref="#pe__martin_SB_CD_00056">Mertten <roleName type="kin"
                         corresp="pe__johann_nagl_am_graben"><add>Kind</add></roleName></rs>
                   <rs type="person" ref="#pe__johann_nagl_am_graben">Hansen des Nagl am Graben</rs>
                   Kindern, die noch nicht vogtper sind und irn erben, <rs type="fn"
@@ -193,11 +194,11 @@
                      sind</rs>, <rs type="fn" role="transactiongood_I">und sind zu betzalen von sand
                      Jacobs tag im snit negstvergangen uber drew gantze jar, an alles vertziehen.
                      Und sullent auch in, zu derselben kinder handen die benanten drew jar jerlichen
-                     davon raichen und dienen <measure>zehen phund phening</measure> zu den drein tégen im jar, zu sand
-                     Michels zu der Liechtmess und zu sannd Sunnwenden zu yedem tag drew phund und
-                     achtzig phening an abslag, und sullen mit dem ersten dinst anheben zu sand
-                     Michels tag schirist kunftig, ut littera sonat.</rs> Actum an sand Larentzen
-                  abent, anno etc. xlviii<hi rend="super">mo</hi>.</rs></p>
+                     davon raichen und dienen <measure>zehen phund phening</measure> zu den drein
+                     tégen im jar, zu sand Michels zu der Liechtmess und zu sannd Sunnwenden zu
+                     yedem tag drew phund und achtzig phening an abslag, und sullen mit dem ersten
+                     dinst anheben zu sand Michels tag schirist kunftig, ut littera sonat.</rs>
+                  Actum an sand Larentzen abent, anno etc. xlviii<hi rend="super">mo</hi>.</rs></p>
             <p rend="Summa"><rs type="event" ref="#ev__haus_wiltwerkerstrasse_3_satz_2">Summa iii s.
                   x d.</rs></p>
          </div>

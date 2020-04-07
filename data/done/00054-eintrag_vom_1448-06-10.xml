@@ -4,7 +4,7 @@
          <titleStmt>
             <title type="main">Eintrag vom 1448-06-10</title>
             <title type="rubrik">Tempore dominorum Henrici Haiden, consulis, et Johannis de Eslorn,
-               anno etc. xlviiio</title>
+               anno etc. xlviii<hi rend="super">o</hi>.</title>
             <title type="sub">Digitale Edition der Wiener Grundbücher</title>
             <respStmt>
                <resp>Transkription</resp>
@@ -136,7 +136,7 @@
          <div type="entry">
             <p><rs type="event" ref="#ev__haus_im_huehnergesslein_1_satz_1"><rs type="fn"
                      role="issuer"><rs type="person" ref="#pe__andreas_vischel">Andre Vischel und
-                        <rs type="person" ref="#pe__barbara_SB_CD_00054">Barbara sein <roleName
+                           <rs type="person" ref="#pe__barbara_SB_CD_00054">Barbara sein <roleName
                               type="kin" corresp="#pe__andreas_vischel"
                         >hausfrau</roleName></rs></rs>
                      <catchwords n="disp">habent versaczt</catchwords>
