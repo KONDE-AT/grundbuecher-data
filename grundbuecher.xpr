@@ -5117,6 +5117,8 @@ oxy:current-selected-element()[ancestor-or-self::*:cell]</String>
                             <String>http://www.w3.org/2005/xpath-functions/math</String>
                             <String>tei</String>
                             <String>http://www.tei-c.org/ns/1.0</String>
+                            <String>xi</String>
+                            <String>http://www.w3.org/2001/XInclude</String>
                         </String-array>
                     </entry>
                 </serializableOrderedMap>
