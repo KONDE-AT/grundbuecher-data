@@ -9,7 +9,7 @@
             <respStmt>
                <resp>Transkription</resp>
                <name>
-                  <rs type="person" ref="#gruenwald_korbinian">Korbinian Grünwald</rs>
+                  <rs type="person" ref="https://id.acdh.oeaw.ac.at/kgruenwald">Korbinian Grünwald</rs>
                </name>
             </respStmt>
          </titleStmt>
@@ -105,7 +105,7 @@
                wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar
                geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
          </projectDesc>
-         
+
       </encodingDesc>
    </teiHeader>
    <facsimile>

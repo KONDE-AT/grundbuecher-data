@@ -9,13 +9,13 @@
                <respStmt>
                   <resp>Transkription</resp>
                   <name>
-                     <rs type="person" ref="#fiska_patrick">Patrick Fiska</rs>
+                     <rs type="person" ref="https://d-nb.info/gnd/143111221">Patrick Fiska</rs>
                   </name>
                </respStmt>
                <respStmt>
                   <resp>Transkription</resp>
                   <name>
-                     <rs type="person" ref="#gruenwald_korbinian">Korbinian Grünwald</rs>
+                     <rs type="person" ref="https://id.acdh.oeaw.ac.at/kgruenwald">Korbinian Grünwald</rs>
                   </name>
                </respStmt>
             </titleStmt>

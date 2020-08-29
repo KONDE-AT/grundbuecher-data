@@ -9,10 +9,10 @@
             <respStmt>
                <resp>Transkription</resp>
                <name>
-                  <rs type="person" ref="#gruenwald_korbinian">Korbinian Grünwald</rs>
+                  <rs type="person" ref="https://id.acdh.oeaw.ac.at/kgruenwald">Korbinian Grünwald</rs>
                </name>
                <name>
-                  <rs type="person" ref="#weinbergmaier_richard">Richard Weinbergmaier</rs>
+                  <rs type="person" ref="https://id.acdh.oeaw.ac.at/rweinbergmaier">Richard Weinbergmaier</rs>
                </name>
             </respStmt>
          </titleStmt>

@@ -8,7 +8,7 @@
                <respStmt>
                   <resp>Transkription</resp>
                   <name>
-                     <rs type="person" ref="#gruenwald_korbinian">Korbinian Grünwald</rs>
+                     <rs type="person" ref="https://id.acdh.oeaw.ac.at/kgruenwald">Korbinian Grünwald</rs>
                   </name>
                </respStmt>
             </titleStmt>
