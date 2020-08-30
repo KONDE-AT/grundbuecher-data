@@ -26,6 +26,9 @@
             <acdh:hasLastName xml:lang="de">Weinbergmair</acdh:hasLastName>
             <acdh:hasFirstName xml:lang="de">Richard</acdh:hasFirstName>
         </acdh:Person>
+        <acdh:Organisation rdf:about="https://d-nb.info/gnd/2060831-7">
+            <acdh:hasTitle xml:lang="de">Wiener Stadt- und Landesarchiv</acdh:hasTitle>
+        </acdh:Organisation>
     </acdh:MetaAgents>
 
     <acdh:CollStruct>
@@ -39,15 +42,35 @@
             <acdh:hasCreator rdf:resource="https://id.acdh.oeaw.ac.at/kgruenwald"/>
             <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/143111221"/> <!-- Fiska -->
             <acdh:hasCreator rdf:resource="https://id.acdh.oeaw.ac.at/rweinbergmair"/>
+            <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"/> <!-- TEI encoded texts -->
+            <acdh:hasOwner rdf:resource="https://d-nb.info/gnd/131551000"/> <!-- Ertl -->
+            <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/131551000"/><!-- Ertl -->
         </acdh:TopColl>
 
         <acdh:DataColl name="editions">
-            <acdh:hasTitle xml:lang="de">Edierte Grundbucheinträge</acdh:hasTitle>
+            <acdh:hasTitle xml:lang="de">Edierte Grundbucheinträge des Darlehensbuch Satzbuch CD (1438-1473)</acdh:hasTitle>
+            <acdh:hasDescription xml:lang="de">XML/TEI kodierte Transkripte der Einträge des Darlehensbuch Satzbuch CD (1438-1473) (Signatur WStLA 2.1.2.1.B1.34).</acdh:hasDescription>
+            <acdh:hasAppliedMethodDescription xml:lang="de">Die original Quellen wurden in Microsoft Word transkribiert, wobei ausgewählte Textmerkamle mittels projektspezifischer Formatvorlagen ausgeziechnet wurden. Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI-Community-Stylesheets und Oxygen in ein generisches TEI transformiert. Dieses TEI wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</acdh:hasAppliedMethodDescription>
             <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1438-01-01</acdh:hasCoverageStartDate>
             <acdh:hasCoverageEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1473-12-31</acdh:hasCoverageEndDate>
             <acdh:hasCreator rdf:resource="https://id.acdh.oeaw.ac.at/kgruenwald"/>
             <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/143111221"/> <!-- Fiska -->
             <acdh:hasCreator rdf:resource="https://id.acdh.oeaw.ac.at/rweinbergmair"/>
+            <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"/> <!-- TEI encoded texts -->
+            <acdh:hasOwner rdf:resource="https://d-nb.info/gnd/131551000"/> <!-- Ertl -->
+            <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/131551000"/><!-- Ertl -->
+        </acdh:DataColl>
+        <acdh:DataColl name="facs">
+            <acdh:hasTitle xml:lang="de">Faksimiles des Darlehensbuch Satzbuch CD (1438-1473</acdh:hasTitle>
+            <acdh:hasDescription xml:lang="de">Diese Sammlung enthält die Scans des Darlehensbuch Satzbuch CD (1438-1473) (Signatur WStLA 2.1.2.1.B1.34), angefertigt im Auftrag von Thomas Ertl vom Wiener Stadt- und Landesarchiv</acdh:hasDescription>
+            <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1438-01-01</acdh:hasCoverageStartDate>
+            <acdh:hasCoverageEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1473-12-31</acdh:hasCoverageEndDate>
+            <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/2060831-7"/>
+            <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/2060831-7"/>
+            <acdh:hasOwner rdf:resource="https://d-nb.info/gnd/2060831-7"/>
+            <acdh:hasLicensor rdf:resource="https://d-nb.info/gnd/2060831-7"/>
+            <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
+            <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/image"/>
         </acdh:DataColl>
     </acdh:CollStruct>
 
@@ -60,22 +83,22 @@
         <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"/>
         <acdh:hasLicensor rdf:resource="https://d-nb.info/gnd/131551000"/> <!-- Ertl -->
         <acdh:hasContact rdf:resource="https://d-nb.info/gnd/131551000"/> <!-- Ertl -->
-        <acdh:hasOwner rdf:resource="https://d-nb.info/gnd/131551000"/> <!-- Ertl -->
-        <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/131551000"/><!-- Ertl -->
         <acdh:hasContributor rdf:resource="https://d-nb.info/gnd/1043833846"/> <!-- Peter Andorfer -->
         <acdh:hasCurator rdf:resource="https://d-nb.info/gnd/1043833846"/> <!-- Peter Andorfer -->
         <acdh:hasDepositor rdf:resource="https://d-nb.info/gnd/1043833846"/>
         <acdh:hasMetadataCreator rdf:resource="https://d-nb.info/gnd/1043833846"/>
         <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/601"/> <!-- Geschichte, Archäologie -->
-        <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"/> <!-- TEI encoded texts -->
         <acdh:hasSpatialCoverage rdf:resource="https://www.geonames.org/2761367"/>
     </acdh:RepoObject>
 
     <!-- Resource specific mandatory or very nice to have constant properties -->
-<!--    <acdh:SpecResource collection="editions">
+    <acdh:SpecResource collection="editions">
         <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1438</acdh:hasCoverageStartDate>
         <acdh:hasCoverageEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1473</acdh:hasCoverageEndDate>
-    </acdh:SpecResource>-->
+        <acdh:hasOwner rdf:resource="https://d-nb.info/gnd/131551000"/> <!-- Ertl -->
+        <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/131551000"/><!-- Ertl -->
+        <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"/> <!-- TEI encoded texts -->
+    </acdh:SpecResource>
 
     <!-- maps arche props to their values via xpath expressions; be aware the current TEI document needs to be encoded as '$doc' -->
     <acdh:TeiLookUps>
