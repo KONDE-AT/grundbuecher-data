@@ -1,6 +1,7 @@
 .DS_Store
-
+secret.py
 tmp
 /word/Satzbuch_Einleitung_Ertl_formatiert.docx
 /.ipynb*
 *.ipynb
+/__pycache__
