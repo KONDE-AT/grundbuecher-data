@@ -39,7 +39,7 @@
           <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
           <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/image"/>
           <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/grundbuecher"/>
-          <acdh:isTitleImageOf  rdf:resource="https://id.acdh.oeaw.ac.at/grundbuecher"/>
+          <acdh:isTitleImageOf rdf:resource="https://id.acdh.oeaw.ac.at/grundbuecher"/>
           <acdh:hasMetadataCreator rdf:resource="https://d-nb.info/gnd/1043833846"/>
           <acdh:hasDepositor rdf:resource="https://d-nb.info/gnd/1043833846"/>
         </acdh:Image>
@@ -49,7 +49,7 @@
         <acdh:TopColl url="https://id.acdh.oeaw.ac.at/grundbuecher">
             <acdh:hasTitle xml:lang="de">Das Darlehensbuch Satzbuch CD (1438-1473) - Digitale Edition der Wiener Grundbücher</acdh:hasTitle>
             <acdh:hasDescription xml:lang="de">
-                Digital Edition des Wiener Grundbuches bzw. Darlehensbuch Satzbuch CD (1438-1473) bestehend einerseits aus XML/TEI kodierten Transkripten der Grundbucheinträge sowie Faksimiles der Grundbücher. Das Projekt "Online-Edition Satzbuch CD" wurde von einem vierköpfigem Team unter der Leitung von Thomas Ertl (Universität Wien/FU Berlin) durchgeführt. Patrick Fiska, Richard Weinbergmair und Korbinian Gründwald besorgten die Texterstellung, wobei sie von Herwig Weigl mit Rat und Hilfe in editorischen Fragen unterstützt wurden. Peter Andorfer betreute und gestaltete die online-Edition. Die Umsetzung des Projekts erfolgte in Kooperation mit dem Institut für Wirtschafts- und Sozialgeschichte der Universität Wien, dem Austrian Centre for Digital Humanities (ACDH) der Österreichischen Akademie der Wissenschaften sowie dem Friedrich-Meinecke-Institut der Freien Universität Berlin. Ermöglicht wurde die Edition durch finanzielle Unterstützung der Kulturabteilung der Stadt Wien (MA7). Die technische Umsetzung erfolgte im Rahmen des KONDE Projektes.
+                Digitale Edition des Wiener Grundbuches bzw. Darlehensbuch Satzbuch CD (1438-1473) bestehend einerseits aus XML/TEI kodierten Transkripten der Grundbucheinträge sowie Faksimiles der Grundbücher. Das Projekt "Online-Edition Satzbuch CD" wurde von einem vierköpfigem Team unter der Leitung von Thomas Ertl (Universität Wien/FU Berlin) durchgeführt. Patrick Fiska, Richard Weinbergmair und Korbinian Gründwald besorgten die Texterstellung, wobei sie von Herwig Weigl mit Rat und Hilfe in editorischen Fragen unterstützt wurden. Peter Andorfer betreute und gestaltete die online-Edition. Die Umsetzung des Projekts erfolgte in Kooperation mit dem Institut für Wirtschafts- und Sozialgeschichte der Universität Wien, dem Austrian Centre for Digital Humanities (ACDH) der Österreichischen Akademie der Wissenschaften sowie dem Friedrich-Meinecke-Institut der Freien Universität Berlin. Ermöglicht wurde die Edition durch finanzielle Unterstützung der Kulturabteilung der Stadt Wien (MA7). Die technische Umsetzung erfolgte im Rahmen des KONDE Projektes.
             </acdh:hasDescription>
             <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1438-01-01</acdh:hasCoverageStartDate>
             <acdh:hasCoverageEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1473-12-31</acdh:hasCoverageEndDate>
@@ -73,6 +73,9 @@
             <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"/> <!-- TEI encoded texts -->
             <acdh:hasOwner rdf:resource="https://d-nb.info/gnd/131551000"/> <!-- Ertl -->
             <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/131551000"/><!-- Ertl -->
+            <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/kulturpool"/>
+            <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/clarin-vlo"/>
+            <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
         </acdh:DataColl>
         <acdh:DataColl name="facs">
             <acdh:hasTitle xml:lang="de">Faksimiles des Darlehensbuch Satzbuch CD (1438-1473</acdh:hasTitle>
@@ -85,6 +88,7 @@
             <acdh:hasLicensor rdf:resource="https://d-nb.info/gnd/2060831-7"/>
             <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
             <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/image"/>
+            <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/kulturpool"/>
         </acdh:DataColl>
     </acdh:CollStruct>
 
@@ -107,6 +111,9 @@
 
     <!-- Resource specific mandatory or very nice to have constant properties -->
     <acdh:SpecResource collection="editions">
+        <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/kulturpool"/>
+        <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/clarin-vlo"/>
+        <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
         <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1438</acdh:hasCoverageStartDate>
         <acdh:hasCoverageEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1473</acdh:hasCoverageEndDate>
         <acdh:hasOwner rdf:resource="https://d-nb.info/gnd/131551000"/> <!-- Ertl -->
