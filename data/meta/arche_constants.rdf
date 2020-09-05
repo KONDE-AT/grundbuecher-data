@@ -38,7 +38,7 @@
           <acdh:hasLicensor rdf:resource="https://d-nb.info/gnd/2060831-7"/>
           <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
           <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/image"/>
-          <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/grundbuecher"/>
+          <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/grundbuecher/facs"/>
           <acdh:isTitleImageOf rdf:resource="https://id.acdh.oeaw.ac.at/grundbuecher"/>
           <acdh:hasMetadataCreator rdf:resource="https://d-nb.info/gnd/1043833846"/>
           <acdh:hasDepositor rdf:resource="https://d-nb.info/gnd/1043833846"/>
@@ -51,7 +51,8 @@
             <acdh:hasDescription xml:lang="de">
                 Digitale Edition des Wiener Grundbuches bzw. Darlehensbuch Satzbuch CD (1438-1473) bestehend einerseits aus XML/TEI kodierten Transkripten der Grundbucheinträge sowie Faksimiles der Grundbücher. Das Projekt "Online-Edition Satzbuch CD" wurde von einem vierköpfigem Team unter der Leitung von Thomas Ertl (Universität Wien/FU Berlin) durchgeführt. Patrick Fiska, Richard Weinbergmair und Korbinian Gründwald besorgten die Texterstellung, wobei sie von Herwig Weigl mit Rat und Hilfe in editorischen Fragen unterstützt wurden. Peter Andorfer betreute und gestaltete die online-Edition. Die Umsetzung des Projekts erfolgte in Kooperation mit dem Institut für Wirtschafts- und Sozialgeschichte der Universität Wien, dem Austrian Centre for Digital Humanities (ACDH) der Österreichischen Akademie der Wissenschaften sowie dem Friedrich-Meinecke-Institut der Freien Universität Berlin. Ermöglicht wurde die Edition durch finanzielle Unterstützung der Kulturabteilung der Stadt Wien (MA7). Die technische Umsetzung erfolgte im Rahmen des KONDE Projektes.
             </acdh:hasDescription>
-            <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1438-01-01</acdh:hasCoverageStartDate>
+            <acdh:hasPid rdf:datatype="http://www.w3.org/2001/XMLSchema#xs">http://hdl.handle.net/21.11115/0000-000C-E89D-E</acdh:hasPid>
+            <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">1438-01-01</acdh:hasCoverageStartDate>
             <acdh:hasCoverageEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1473-12-31</acdh:hasCoverageEndDate>
             <acdh:hasCreator rdf:resource="https://id.acdh.oeaw.ac.at/kgruenwald"/>
             <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/143111221"/> <!-- Fiska -->
@@ -99,7 +100,6 @@
         <acdh:hasSubject xml:lang="de">Grundbuch</acdh:hasSubject>
         <acdh:hasSubject xml:lang="de">Geschichte</acdh:hasSubject>
         <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"/>
-        <acdh:hasLicensor rdf:resource="https://d-nb.info/gnd/131551000"/> <!-- Ertl -->
         <acdh:hasContact rdf:resource="https://d-nb.info/gnd/131551000"/> <!-- Ertl -->
         <acdh:hasContributor rdf:resource="https://d-nb.info/gnd/1043833846"/> <!-- Peter Andorfer -->
         <acdh:hasCurator rdf:resource="https://d-nb.info/gnd/1043833846"/> <!-- Peter Andorfer -->
@@ -111,6 +111,7 @@
 
     <!-- Resource specific mandatory or very nice to have constant properties -->
     <acdh:SpecResource collection="editions">
+      <acdh:hasLicensor rdf:resource="https://d-nb.info/gnd/131551000"/> <!-- Ertl -->
         <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/kulturpool"/>
         <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/clarin-vlo"/>
         <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
