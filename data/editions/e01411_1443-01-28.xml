@@ -4,7 +4,7 @@
          <titleStmt>
             <title type="main">Eintrag vom 1443-01-28</title>
             <title type="rubrik">Tempore dominorum Oswaldi Reicholf, consulis, Arnoldi Galander,
-               anno domini etc. xliii<hi rend="super">o</hi>./title>
+               anno domini etc. xliii<hi rend="super">o</hi>.</title>
             <title type="sub">Digitale Edition der Wiener Grundbücher</title>
             <respStmt>
                <resp>Transkription</resp>
@@ -105,20 +105,6 @@
                wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar
                geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
          </projectDesc>
-         <p>
-            <xi:include href="../indices/listperson.xml" xpointer="listperson">
-               <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be
-                  found</fallback>
-            </xi:include>
-            <xi:include href="../indices/listplace.xml" xpointer="listplace">
-               <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be
-                  found</fallback>
-            </xi:include>
-            <xi:include href="../indices/listorg.xml" xpointer="listorg">
-               <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be
-                  found</fallback>
-            </xi:include>
-         </p>
       </encodingDesc>
    </teiHeader>
    <facsimile>

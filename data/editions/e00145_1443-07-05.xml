@@ -96,17 +96,6 @@
                </p>
                <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
             </projectDesc>
-         <p>
-            <xi:include href="../indices/listperson.xml" xpointer="listperson">
-               <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be found</fallback>
-            </xi:include>
-            <xi:include href="../indices/listplace.xml" xpointer="listplace">
-               <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be found</fallback>
-            </xi:include>
-            <xi:include href="../indices/listorg.xml" xpointer="listorg">
-               <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be found</fallback>
-            </xi:include>
-         </p>
       </encodingDesc>
       </teiHeader>
       <facsimile>
@@ -118,7 +107,6 @@
                <p>Barbara, Larenczen des Sixten hausfrau, hat versaczt ir haus, gelegen under den Hafnern zenagst Hannsen Newnkirher des hafner haus. Junkfraun Dorothen, irer tochtter, von des egenanten hauss wegen, das ir ir vater Niclas Korndrusl seliger halbs geschafft hat, umb dreissig phund pfening und sind zu beczallen, wenn die benant junkfrau Dorothe vogtpér wirdet, darnach an alles vercziehen. Wér aber, das sy ungevogte abgíng, so sullen dann dieselben dreissig phund pfening der egenanten Barbaren ledigclichn beleiben von des gescheffts wegen, das der egnant ir man Niclas Korndrúsl seliger hat getan, als das in dem statpuch geschriben stet. Actum an Freitag nach sand Ulreichs tag, anno domini etc. xliii<hi rend="super">o</hi>.</p>
                <p rend="Summa">Summa lx d.</p>
                <p rend="Nachtrag">Nota den satz hat die egnant Dorothe und ir man ledig gesagt. Actum an Feritag ante Johanis Baptiste l<hi rend="super">mo</hi>.</p>
-               </p>
             </div>
          </body>
       </text>

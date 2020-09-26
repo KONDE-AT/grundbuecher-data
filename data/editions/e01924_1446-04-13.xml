@@ -105,20 +105,6 @@
                wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar
                geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
          </projectDesc>
-         <p>
-            <xi:include href="../indices/listperson.xml" xpointer="listperson">
-               <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be
-                  found</fallback>
-            </xi:include>
-            <xi:include href="../indices/listplace.xml" xpointer="listplace">
-               <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be
-                  found</fallback>
-            </xi:include>
-            <xi:include href="../indices/listorg.xml" xpointer="listorg">
-               <fallback xmlns="http://www.w3.org/2001/XInclude">File to include couldn't be
-                  found</fallback>
-            </xi:include>
-         </p>
       </encodingDesc>
    </teiHeader>
    <facsimile>
@@ -140,7 +126,7 @@
                haimsteur auf der egenanten Dorothen nagst erben oder wem sy die schafft und die
                andern ccc tl. d. morgengab auf des egenanten Wolfgangs nagst erben oder wem er die
                pey sein lebttegen schafft wer aber</p>
-            <pb>
+            <pb/>
             <p>das derserlb Wolfgang mit tod abging ee denn die vorgenant Dorothe sein hausfraw und
                das er ir nicht kinder liess oder ob er ir kinder liess und das die auch abgingen ee
                denn dieselb Dorothe sein hausfrau, so sind ir dann die obgenanten ccc tl. d.
