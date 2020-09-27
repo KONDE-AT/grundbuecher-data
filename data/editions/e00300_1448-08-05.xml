@@ -96,8 +96,6 @@
                </p>
                <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
             </projectDesc>
-         
->>>>>>> fb977a4c1f10e80996533d2e5afe117b2875e95b
       </encodingDesc>
    </teiHeader>
    <facsimile>

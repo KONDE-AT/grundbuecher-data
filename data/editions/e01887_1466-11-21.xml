@@ -113,7 +113,7 @@
    </facsimile>
    <text>
       <body>
-         <div type="entry"/>
+         <div type="entry">
          <p>Ulreich aus dem Struden, der pekh, und Barbaren, sein hausfraw, habend versaczt ir
             hawss, gelegen in der Hindern pekhenstrass Ryemergassen bey san Jacob zenagst des
             Prechsner haws an ainem tail. Den erbern Johannsen und Khuntzen, Kunraten Neyssl des
@@ -124,9 +124,10 @@
             fraw Barbara ir Vater und Muter mitgesambter hannd nucz und gewer Über der Zeile
             eingefügt. geschriben ist und gewesen und sind zubezalen wann die obgenanten Johannes
             und Kuncz vogtper worden darnach an alles verziehen getrewlich und ungeverlich. Actum an
-            Freytag nach sand Elspethen tag, anno domini etc. lxvi<hi rend="super">to</hi>.<p
-               rend="Summa">Summa xxviii d.</p>
-            <p rend="Nachtrag">Ulreich der Struden habet cedulam.</p></p>
+            Freytag nach sand Elspethen tag, anno domini etc. lxvi<hi rend="super">to</hi>.</p>
+            <p rend="Summa">Summa xxviii d.</p>
+            <p rend="Nachtrag">Ulreich der Struden habet cedulam.</p>
+         </div>
       </body>
    </text>
 </TEI>
