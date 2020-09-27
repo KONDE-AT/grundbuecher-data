@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Eintrag vom 1470-08-06 <!-- 30.07 --></title>
+            <title type="main">Eintrag vom 1470-07-30 <!-- 30.07 --></title>
             <title type="rubrik">Tempore dominorum hern Niclasen Ernsst, consulis, und Cristan
                Schonnperg, anno etc. lxx<hi rend="supper">mo</hi>.</title>
             <title type="sub">Digitale Edition der Wiener Grundbücher</title>
@@ -34,14 +34,13 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus from=" [473v]"
-                        to="Nota den sacz das gelts ist zum purg erlegt ut zedula. Actum an Freitag ante Lucie 88"/>
-                     <p> [473v] - Nota den sacz das gelts ist zum purg erlegt ut zedula. Actum an
-                        Freitag ante Lucie 88</p>
+                     <locus from="[473v]"
+                        to="N[473v]"/>
+                     <p> [473v]-[473v]</p>
                   </msItem>
                </msContents>
                <history>
-                  <origin notBefore="1470-"/>
+                  <origin notBefore="1470-07-30"/>
                </history>
             </msDesc>
          </sourceDesc>

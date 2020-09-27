@@ -3,7 +3,8 @@
          <fileDesc>
             <titleStmt>
                <title type="main">Eintrag vom 1439-09-15</title>
-               <title type="rubrik">Anno etc. xxxviiii<hi rend="SUPER">o</hi></title>
+               <title type="rubrik">Anno etc. xxxviiii<hi rend="SUPER">o</hi>
+            </title>
                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                <respStmt>
                   <resp>Transkription</resp>
@@ -28,12 +29,6 @@
                      <repository>Grundbücher</repository>
                      <idno type="archive">WStLA 2.1.2.1.B1.34</idno>
                   </msIdentifier>
-                  <msContents>
-                     <msItem>
-                        <locus from="cxliiii" to="Summa vii s. d."/>
-                        <p>cxliiii - Summa vii s. d.</p>
-                     </msItem>
-                  </msContents>
                   <history>
                      <origin notBefore="1439-09-15"/>
                   </history>
@@ -93,7 +88,6 @@
                </p>
                <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
             </projectDesc>
-         
       </encodingDesc>
       </teiHeader>
       <facsimile>
