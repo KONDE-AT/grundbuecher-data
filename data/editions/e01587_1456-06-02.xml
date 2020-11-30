@@ -1,0 +1,120 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title type="main">Eintrag vom 1456-06-02</title>
+               <title type="rubrik">Tempore dominorum Jacoben Rechwein consul et Hannsen von Eslorn anno etc. lvi<hi rend="super">to</hi>.</title>
+               <title type="sub">Digitale Edition der Wiener Grundbücher</title>
+               <respStmt>
+                  <resp>Transkription</resp>
+                  <name>
+                     <rs type="person" ref="https://d-nb.info/gnd/143111221">Patrick Fiska</rs>
+                  </name>
+               </respStmt>
+               <respStmt>
+                  <resp>Transkription</resp>
+                  <name>
+                     <rs type="person" ref="https://id.acdh.oeaw.ac.at/kgruenwald">Korbinian Grünwald</rs>
+                  </name>
+               </respStmt>
+            </titleStmt>
+            <publicationStmt>
+               <publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter Andorfer</publisher>
+               <availability>
+                  <licence target="https://creativecommons.org/licenses/by/4.0/">
+                     <p>CC-BY</p>
+                     <p>You are free to: Share — copy and redistribute the material in any medium or format. Adapt — remix, transform, and build upon the material for any purpose, even commercially.</p>
+                  </licence>
+               </availability>
+            </publicationStmt>
+            <sourceDesc>
+               <msDesc type="invetory">
+                  <msIdentifier>
+                     <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                     <repository>Grundbücher</repository>
+                     <idno type="archive">WStLA 2.1.2.1.B1.34</idno>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <locus from="[379v]" to="[379v]"/>
+                        <p>[379v]-[379v]</p>
+                     </msItem>
+                  </msContents>
+                  <history>
+                     <origin notBefore="1456-06-02"/>
+                  </history>
+               </msDesc>
+            </sourceDesc>
+         </fileDesc>
+         <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude"
+                    xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <projectDesc>
+               <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt:
+                                    <table>
+                     <row rend="header">
+                        <cell>Name der Formatvorlage</cell>
+                        <cell>Beschreibung des damit ausgezeichnetem Phänomen</cell>
+                     </row>
+                     <row>
+                        <cell>Folioangabe</cell>
+                        <cell>Seitenangabe durch Angabe von Folio mit recto *r und verso *v (im Nachhinein mit Bleistift im Grundbuch eingetragen). Auf den Seiten befinden sich zudem (ws. zeitnah zur Entstehung angebrachte) Foliozählungen in lateinischen Zahlzeichen in Tinte</cell>
+                     </row>
+                     <row>
+                        <cell>Faksimilelink</cell>
+                        <cell>Dateiname des Faksimiles - zur technischen Verknüpfung des Textes mit der Bilddatei</cell>
+                     </row>
+                     <row>
+                        <cell>Rubrik</cell>
+                        <cell>Gliederung nach Bürgermeistern und Jahren</cell>
+                     </row>
+                     <row>
+                        <cell>Urkundendatum</cell>
+                        <cell>Aufgeschlüsseltes Datum der Urkunde</cell>
+                     </row>
+                     <row>
+                        <cell>Standard</cell>
+                        <cell>Text des Grundbucheintrags</cell>
+                     </row>
+                     <row>
+                        <cell>Summa</cell>
+                        <cell>Für den jeweiligen Grundbucheintrag abgerechnete Summe</cell>
+                     </row>
+                     <row>
+                        <cell>Nachtrag</cell>
+                        <cell>Verschiedene nachträgliche Vermerke und Anmerkungen</cell>
+                     </row>
+                     <row>
+                        <cell>Seitenautor</cell>
+                        <cell>Erstbearbeiter der Seite/des Seitenabschnitts (nicht angezeigt, für die interne Organisation)</cell>
+                     </row>
+                     <row>
+                        <cell>Durchgestrichen</cell>
+                        <cell>Durchgestrichen</cell>
+                     </row>
+                     <row>
+                        <cell>Hochgestellt</cell>
+                        <cell>Hochgestellt</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
+            </projectDesc>
+         
+      </encodingDesc>
+      </teiHeader>
+      <facsimile>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0742.jpg"/>
+      </facsimile>
+      <text>
+         <body>
+            <div type="entry">
+               <p>Paul Pichler der koch und Anna sein hausfrau die emalen Clausen koch seligen auch elichen gehabt hat, habent versaczt ir haws mit seiner zugehorung gelegen am egk pey dem Refelpúhl in der Pognergassen zenagst Jacobs Pignot des <unclear>V</unclear>ilczhuter haus an aim tail und an dem andern, zenagst Hainrichs Gruber des messrer haus. Dem erbern Steffan Hopher dem kramer anstat und als gerhaben Hainrichs des egnant Klausen seligen sún, der noch nicht vogtper ist, und seinen erben umb funfundsibenczig pfund pfenning, so im zu seim tail erblichen zugepurnt von des hauss wegen im Húnergesslein, das des obgnant seins vater seligen und der egnant Annen seiner muter gesambte hand gewesen, und das dieselb Anna verchaufft hat und sind zubeczalen wan derselb Hainrich vogtpér wirdet, oder ob er ungevogt abging darnach seinen nagsten erben vaterhalben an alles vercziehen. Actum an Mittichen vor sand Erasems tag, anno domini etc. lvi<hi rend="super">to</hi>.</p>
+               <p rend="Summa">Summa v s. d.</p>
+               <p rend="Nachtrag">Habet cedulam.</p>
+               <p rend="Nachtrag">Der prior habet cedulam.</p>
+               <p rend="Nachtrag">Nota der egenant Peter Haimer hat versessen hincz den Augustiner hie getan und hat den obgenanten sacz mit allen seinen krefften und artikeln dem ersamen pruder Jorgen Hintperger prior und dem convent gemain zu den Augusinerns zu Wienn lediclich ubergeben, allen iren frumen damit zeschaffen, wie sy verlusst ale mit andern guten so zu dem egenanten goczhauwss gehörnt an irrung.</p>
+               <p rend="Nachtrag">Den sacz hat H. Trunschuch auf sich genomen auf den egenant hawss.</p>
+            </div>
+         </body>
+      </text>
+   </TEI>

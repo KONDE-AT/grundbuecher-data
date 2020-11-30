@@ -1,0 +1,121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title type="main">Eintrag vom 1467-04-08</title>
+               <title type="rubrik">Tempore dominorum herrn Erenreich Kóppl consulis und Veiten Hintperger anno etc. lxvii<hi rend="super">mo</hi>.</title>
+               <title type="sub">Digitale Edition der Wiener Grundbücher</title>
+               <respStmt>
+                  <resp>Transkription</resp>
+                  <name>
+                     <rs type="person" ref="https://d-nb.info/gnd/143111221">Patrick Fiska</rs>
+                  </name>
+               </respStmt>
+               <respStmt>
+                  <resp>Transkription</resp>
+                  <name>
+                     <rs type="person" ref="https://id.acdh.oeaw.ac.at/kgruenwald">Korbinian Grünwald</rs>
+                  </name>
+               </respStmt>
+            </titleStmt>
+            <publicationStmt>
+               <publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter Andorfer</publisher>
+               <availability>
+                  <licence target="https://creativecommons.org/licenses/by/4.0/">
+                     <p>CC-BY</p>
+                     <p>You are free to: Share — copy and redistribute the material in any medium or format. Adapt — remix, transform, and build upon the material for any purpose, even commercially.</p>
+                  </licence>
+               </availability>
+            </publicationStmt>
+            <sourceDesc>
+               <msDesc type="invetory">
+                  <msIdentifier>
+                     <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                     <repository>Grundbücher</repository>
+                     <idno type="archive">WStLA 2.1.2.1.B1.34</idno>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <locus from="[333r]" to="[333v]"/>
+                        <p>[333r] - [333v]</p>
+                     </msItem>
+                  </msContents>
+                  <history>
+                     <origin notBefore="1467-04-08"/>
+                  </history>
+               </msDesc>
+            </sourceDesc>
+         </fileDesc>
+         <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude"
+                    xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <projectDesc>
+               <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt:
+                                    <table>
+                     <row rend="header">
+                        <cell>Name der Formatvorlage</cell>
+                        <cell>Beschreibung des damit ausgezeichnetem Phänomen</cell>
+                     </row>
+                     <row>
+                        <cell>Folioangabe</cell>
+                        <cell>Seitenangabe durch Angabe von Folio mit recto *r und verso *v (im Nachhinein mit Bleistift im Grundbuch eingetragen). Auf den Seiten befinden sich zudem (ws. zeitnah zur Entstehung angebrachte) Foliozählungen in lateinischen Zahlzeichen in Tinte</cell>
+                     </row>
+                     <row>
+                        <cell>Faksimilelink</cell>
+                        <cell>Dateiname des Faksimiles - zur technischen Verknüpfung des Textes mit der Bilddatei</cell>
+                     </row>
+                     <row>
+                        <cell>Rubrik</cell>
+                        <cell>Gliederung nach Bürgermeistern und Jahren</cell>
+                     </row>
+                     <row>
+                        <cell>Urkundendatum</cell>
+                        <cell>Aufgeschlüsseltes Datum der Urkunde</cell>
+                     </row>
+                     <row>
+                        <cell>Standard</cell>
+                        <cell>Text des Grundbucheintrags</cell>
+                     </row>
+                     <row>
+                        <cell>Summa</cell>
+                        <cell>Für den jeweiligen Grundbucheintrag abgerechnete Summe</cell>
+                     </row>
+                     <row>
+                        <cell>Nachtrag</cell>
+                        <cell>Verschiedene nachträgliche Vermerke und Anmerkungen</cell>
+                     </row>
+                     <row>
+                        <cell>Seitenautor</cell>
+                        <cell>Erstbearbeiter der Seite/des Seitenabschnitts (nicht angezeigt, für die interne Organisation)</cell>
+                     </row>
+                     <row>
+                        <cell>Durchgestrichen</cell>
+                        <cell>Durchgestrichen</cell>
+                     </row>
+                     <row>
+                        <cell>Hochgestellt</cell>
+                        <cell>Hochgestellt</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
+            </projectDesc>
+         
+      </encodingDesc>
+      </teiHeader>
+      <facsimile>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0656.jpg"/>
+      </facsimile>
+      <text>
+         <body>
+            <div type="entry">
+               <p>Niclas Haller der kürsner burger zu Wienn hat versaczt sein haws<note>
+                     <p rend="footnote text"> Über der Zeile eingefügt.</p>
+                  </note> gelegen in der Wiltbergerstrass am egkh zenagst dem swipogen als man gen Unser Frawen geet an ainen tail, und an den andern zenagst Hannsen Wienner des leinbater hawss. Dem erbern Merten Kramer dem Júngern gesessen in der Landstrass an stat und als gerhaben zu hannden Sigharten Merten Kramer des Elteren auch weilent daselbs in der Lanndstrass gesessen seligen sun, der noch ungevogt ist, und seinen erben umb sechsundsechczig guter Ungrischer guldein gerecht in gold und wag<note>
+                     <p rend="footnote text"> umb sechsundsechczig guter Ungrischer guldein gerecht in gold und wag mit Verweiszeichen am linken Rand nachgetragen.</p>
+                  </note>. Und sind zubeczalen wann der obgenant Sighartt Kramer vogtper wirdet, und zu seinen beschaiden jaren kumbt, oder ob er ungevogt abgieng, darnach seinen nagsten erben, an alles vercziehen getrewlich und ungeverlich. Actum an Mitichen nach sand Ambrosien tag, anno domini etc. lxvii<hi rend="super">mo</hi> ut littera sonat.</p>
+               <p rend="Summa">Summa ½ tl. xii d.</p>
+               <p rend="Nachtrag">Nota der sacz ist ausgetan auf Niclas Haller raittbrief von des Kramer wegen zum puch erlegt. Actum an Mitichen post Judica anno etc. lxxxii.</p>
+            </div>
+         </body>
+      </text>
+   </TEI>

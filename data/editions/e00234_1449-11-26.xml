@@ -1,0 +1,114 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title type="main">Eintrag vom 1449-11-26</title>
+               <title type="rubrik">Tempore dominorum Hainreich Haiden, consu<unclear>lis</unclear>, et Hannse<unclear>n</unclear> von Eslorn, anno etc. xlviii<hi rend="super">o</hi></title>
+               <title type="sub">Digitale Edition der Wiener Grundbücher</title>
+               <respStmt>
+                  <resp>Transkription</resp>
+                  <name>
+                     <rs type="person" ref="https://id.acdh.oeaw.ac.at/kgruenwald">Korbinian Grünwald</rs>
+                  </name>
+               </respStmt>
+            </titleStmt>
+            <publicationStmt>
+               <publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter Andorfer</publisher>
+               <availability>
+                  <licence target="https://creativecommons.org/licenses/by/4.0/">
+                     <p>CC-BY</p>
+                     <p>You are free to: Share — copy and redistribute the material in any medium or format. Adapt — remix, transform, and build upon the material for any purpose, even commercially.</p>
+                  </licence>
+               </availability>
+            </publicationStmt>
+            <sourceDesc>
+               <msDesc type="invetory">
+                  <msIdentifier>
+                     <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                     <repository>Grundbücher</repository>
+                     <idno type="archive">WStLA 2.1.2.1.B1.34</idno>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <locus from="lviiii" to="[59v]"/>
+                        <p>lviiii - [59v]</p>
+                     </msItem>
+                  </msContents>
+                  <history>
+                     <origin notBefore="1449-11-26"/>
+                  </history>
+               </msDesc>
+            </sourceDesc>
+         </fileDesc>
+         <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude"
+                    xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <projectDesc>
+               <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt:
+                                    <table>
+                     <row rend="header">
+                        <cell>Name der Formatvorlage</cell>
+                        <cell>Beschreibung des damit ausgezeichnetem Phänomen</cell>
+                     </row>
+                     <row>
+                        <cell>Folioangabe</cell>
+                        <cell>Seitenangabe durch Angabe von Folio mit recto *r und verso *v (im Nachhinein mit Bleistift im Grundbuch eingetragen). Auf den Seiten befinden sich zudem (ws. zeitnah zur Entstehung angebrachte) Foliozählungen in lateinischen Zahlzeichen in Tinte</cell>
+                     </row>
+                     <row>
+                        <cell>Faksimilelink</cell>
+                        <cell>Dateiname des Faksimiles - zur technischen Verknüpfung des Textes mit der Bilddatei</cell>
+                     </row>
+                     <row>
+                        <cell>Rubrik</cell>
+                        <cell>Gliederung nach Bürgermeistern und Jahren</cell>
+                     </row>
+                     <row>
+                        <cell>Urkundendatum</cell>
+                        <cell>Aufgeschlüsseltes Datum der Urkunde</cell>
+                     </row>
+                     <row>
+                        <cell>Standard</cell>
+                        <cell>Text des Grundbucheintrags</cell>
+                     </row>
+                     <row>
+                        <cell>Summa</cell>
+                        <cell>Für den jeweiligen Grundbucheintrag abgerechnete Summe</cell>
+                     </row>
+                     <row>
+                        <cell>Nachtrag</cell>
+                        <cell>Verschiedene nachträgliche Vermerke und Anmerkungen</cell>
+                     </row>
+                     <row>
+                        <cell>Seitenautor</cell>
+                        <cell>Erstbearbeiter der Seite/des Seitenabschnitts (nicht angezeigt, für die interne Organisation)</cell>
+                     </row>
+                     <row>
+                        <cell>Durchgestrichen</cell>
+                        <cell>Durchgestrichen</cell>
+                     </row>
+                     <row>
+                        <cell>Hochgestellt</cell>
+                        <cell>Hochgestellt</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
+            </projectDesc>
+         
+      </encodingDesc>
+      </teiHeader>
+      <facsimile>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0116.jpg"/>
+      </facsimile>
+      <text>
+         <body>
+            <div type="entry">
+               <p>Conrad Phuntimaschen, diezeit des rats der stat zu Wien hat verkaufft sechs phunt und sechczig phening geltz purkrechts auf der uberteurung seins halben hauss, ganczes gelegen undern Satlern gegen dem prun uber, uber die lxxxiiii tl. d., dafur es Jorgen seinem sun vormaln verphendet ist. Umb funczig phunt phening dem erbern herren, herren Hannsen Oppenweiler von Hailbrunn, caplan der mess die Heinrich Hutstokch auf Sant Kathrein altar zu Sand Steffan gestift hat und seinen nachkomen. Und sind zu dienn zu drein tegen und wider abzukauffen miteinander und den nagsten dinst damit, ut littera sonat. Actum an Mitichen vor sand Andres tag, anno etc. xlviiii.</p>
+               <p rend="Summa">Summa iii s. x d.</p>
+               <p rend="Nachtrag">Nota das obgenant purkrecht hat Hanns Phuntimaschen auf das ganncz hause genommen, utz libro venditionum novo, folio li.. Nota das obgenant purkrecht ist zu den puch erlegt und der brief uber dasselb purkrecht ist noch unversertter vorhannden und das gelt nicht hinaus geben. Der brief werder vernicht.<note>
+                     <p rend="footnote text"> Purkrecht ist noch unversertter vorhannden und das gelt nicht hinaus geben der brief werder vernicht: Links neben der Zeile eingefügt.</p>
+                  </note>
+               </p>
+            </div>
+         </body>
+      </text>
+   </TEI>

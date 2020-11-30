@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eintrag vom 1447-03-15</title>
+            <title type="rubrik">Tempore dominorum Andre Gundorfer, consulis, et Niclas Purger, anno
+               etc. xlvi<hi rend="super">to</hi></title>
+            <title type="sub">Digitale Edition der Wiener Grundbücher</title>
+            <respStmt>
+               <resp>Transkription</resp>
+               <name>
+                  <rs type="person" ref="https://id.acdh.oeaw.ac.at/kgruenwald">Korbinian Grünwald</rs>
+               </name>
+               <name>
+                  <rs type="person" ref="https://id.acdh.oeaw.ac.at/rweinbergmair">Richard Weinbergmaier</rs>
+               </name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter
+               Andorfer</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>CC-BY</p>
+                  <p>You are free to: Share — copy and redistribute the material in any medium or
+                     format. Adapt — remix, transform, and build upon the material for any purpose,
+                     even commercially.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                  <repository>Grundbücher</repository>
+                  <idno type="archive">WStLA 2.1.2.1.B1.34</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus from="[57r]" to="[57v]"/>
+                     <p>[57r] - [57v]</p>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1447-03-15"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude"
+         xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <projectDesc>
+            <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende
+               Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt: <table>
+                  <row rend="header">
+                     <cell>Name der Formatvorlage</cell>
+                     <cell>Beschreibung des damit ausgezeichnetem Phänomen</cell>
+                  </row>
+                  <row>
+                     <cell>Folioangabe</cell>
+                     <cell>Seitenangabe durch Angabe von Folio mit recto *r und verso *v (im
+                        Nachhinein mit Bleistift im Grundbuch eingetragen). Auf den Seiten befinden
+                        sich zudem (ws. zeitnah zur Entstehung angebrachte) Foliozählungen in
+                        lateinischen Zahlzeichen in Tinte</cell>
+                  </row>
+                  <row>
+                     <cell>Faksimilelink</cell>
+                     <cell>Dateiname des Faksimiles - zur technischen Verknüpfung des Textes mit der
+                        Bilddatei</cell>
+                  </row>
+                  <row>
+                     <cell>Rubrik</cell>
+                     <cell>Gliederung nach Bürgermeistern und Jahren</cell>
+                  </row>
+                  <row>
+                     <cell>Urkundendatum</cell>
+                     <cell>Aufgeschlüsseltes Datum der Urkunde</cell>
+                  </row>
+                  <row>
+                     <cell>Standard</cell>
+                     <cell>Text des Grundbucheintrags</cell>
+                  </row>
+                  <row>
+                     <cell>Summa</cell>
+                     <cell>Für den jeweiligen Grundbucheintrag abgerechnete Summe</cell>
+                  </row>
+                  <row>
+                     <cell>Nachtrag</cell>
+                     <cell>Verschiedene nachträgliche Vermerke und Anmerkungen</cell>
+                  </row>
+                  <row>
+                     <cell>Seitenautor</cell>
+                     <cell>Erstbearbeiter der Seite/des Seitenabschnitts (nicht angezeigt, für die
+                        interne Organisation)</cell>
+                  </row>
+                  <row>
+                     <cell>Durchgestrichen</cell>
+                     <cell>Durchgestrichen</cell>
+                  </row>
+                  <row>
+                     <cell>Hochgestellt</cell>
+                     <cell>Hochgestellt</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI
+               community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI
+               wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar
+               geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
+         </projectDesc>
+
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0112b.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <div type="entry">
+            <p>Chunrat Phuntimaschen, dieczeit des rats der stat zu Wienn, hat versaczt sein halbs
+               haws, undern Satlern gegen dem prunn úber gelegen, an aim tail, das von Jorgen und
+               Pernharten geprúdern den Hidlern und irn swestern mit kauff an in kómen ist, mit
+               allen den geméchen und gemainen stukchen, die nach lautt der tailbrief darczu
+               gehórnt. Jörgen Phuntimaschen, sein sún, der noch nicht vogtper ist, und seinen
+               erben, umb lxxxiiii tl. d., die im zugepurn von dem halben haws am Hohenmarkt undern
+               Scherladen gelegen, das er von junkfraun Barbaren, weilent Hannsen Swebleins tochter
+               seiner swester muterhalben, geerbt, und der vorgnantsein vater an seiner stat
+               mitsambt dem andern seinem halfftentail desselben hauss verchaufft hat. Und sind zu
+               beczalen wan derselb Jorg Phuntimaschen vogtper wírt, oder aber ungevogt abging,
+               seinen nagsten erben, den dasselb gelt rechtlich zúgebúrn wírdet, an alles
+               vercziehen. Actum an Mittichen vor Letare, anno etc. xlvii<hi rend="super"
+               >o</hi>.</p>
+            <p rend="Summa">Summa v s. xviii d.</p>
+            <p rend="Nachtrag">Nota den sacz hat der Jorg Phuntimanschen dem egenanten seinem vater
+               ledig gesagt, an Freitag vor Stephani im snit, anno etc. lv<hi rend="super"
+               >to</hi>.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

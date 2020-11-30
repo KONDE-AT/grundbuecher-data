@@ -1,0 +1,118 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title type="main">Eintrag vom 1459-11-19</title>
+               <title type="rubrik">Anno domini etc. lviiii<hi rend="super">o</hi>.</title>
+               <title type="sub">Digitale Edition der Wiener Grundbücher</title><respStmt>
+    <resp>Transkription</resp>
+    <name>
+        <rs type="person" ref="https://id.acdh.oeaw.ac.at/kgruenwald">Korbinian Grünwald</rs>
+    </name>
+    <name>
+        <rs type="person" ref="https://id.acdh.oeaw.ac.at/rweinbergmair">Richard Weinbergmaier</rs>
+    </name>
+</respStmt>
+
+               
+            </titleStmt>
+            <publicationStmt>
+               <publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter Andorfer</publisher>
+               <availability>
+                  <licence target="https://creativecommons.org/licenses/by/4.0/">
+                     <p>CC-BY</p>
+                     <p>You are free to: Share — copy and redistribute the material in any medium or format. Adapt — remix, transform, and build upon the material for any purpose, even commercially.</p>
+                  </licence>
+               </availability>
+            </publicationStmt>
+            <sourceDesc>
+               <msDesc type="invetory">
+                  <msIdentifier>
+                     <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                     <repository>Grundbücher</repository>
+                     <idno type="archive">WStLA 2.1.2.1.B1.34</idno>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <locus from="clxxxxiii" to="[193v]"/>
+                        <p>clxxxxiii - [193v]</p>
+                     </msItem>
+                  </msContents>
+                  <history>
+                     <origin notBefore="1459-11-19"/>
+                  </history>
+               </msDesc>
+            </sourceDesc>
+         </fileDesc>
+         <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude"
+                    xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <projectDesc>
+               <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt:
+                                    <table>
+                     <row rend="header">
+                        <cell>Name der Formatvorlage</cell>
+                        <cell>Beschreibung des damit ausgezeichnetem Phänomen</cell>
+                     </row>
+                     <row>
+                        <cell>Folioangabe</cell>
+                        <cell>Seitenangabe durch Angabe von Folio mit recto *r und verso *v (im Nachhinein mit Bleistift im Grundbuch eingetragen). Auf den Seiten befinden sich zudem (ws. zeitnah zur Entstehung angebrachte) Foliozählungen in lateinischen Zahlzeichen in Tinte</cell>
+                     </row>
+                     <row>
+                        <cell>Faksimilelink</cell>
+                        <cell>Dateiname des Faksimiles - zur technischen Verknüpfung des Textes mit der Bilddatei</cell>
+                     </row>
+                     <row>
+                        <cell>Rubrik</cell>
+                        <cell>Gliederung nach Bürgermeistern und Jahren</cell>
+                     </row>
+                     <row>
+                        <cell>Urkundendatum</cell>
+                        <cell>Aufgeschlüsseltes Datum der Urkunde</cell>
+                     </row>
+                     <row>
+                        <cell>Standard</cell>
+                        <cell>Text des Grundbucheintrags</cell>
+                     </row>
+                     <row>
+                        <cell>Summa</cell>
+                        <cell>Für den jeweiligen Grundbucheintrag abgerechnete Summe</cell>
+                     </row>
+                     <row>
+                        <cell>Nachtrag</cell>
+                        <cell>Verschiedene nachträgliche Vermerke und Anmerkungen</cell>
+                     </row>
+                     <row>
+                        <cell>Seitenautor</cell>
+                        <cell>Erstbearbeiter der Seite/des Seitenabschnitts (nicht angezeigt, für die interne Organisation)</cell>
+                     </row>
+                     <row>
+                        <cell>Durchgestrichen</cell>
+                        <cell>Durchgestrichen</cell>
+                     </row>
+                     <row>
+                        <cell>Hochgestellt</cell>
+                        <cell>Hochgestellt</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
+            </projectDesc>
+         
+      </encodingDesc>
+      </teiHeader>
+      <facsimile>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0378.jpg"/>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0379.jpg"></graphic>
+      </facsimile>
+      <text>
+         <body>
+            <div type="entry">
+               <p>Hanns Kanstorffer, dieczeit des rats der stat zu Wienn hat versaczt sein haws, stadl und garten hinden daran, gelegen in der Weihenpurg gegen Sand Yeronimy uber, dacz er von Hannsen Scharffenperger gekaufft hat, zenagst Jacoben Menharts des fleischakcher haws. Und ainen garten, auch daselbs in der Weihenpurgk hinder der Himelporten gelegen, das vormalen ain haws gewesen und von Gilgen und Zacharias, geprudern den Pawmen in kaufsweis an in komen ist, zenagst Hainreichs Refelin haws. Seinem steufsun Erasem Kieler, Hannsen des Kieler seligen sun, der noch nicht vogtper ist, umb zwayhundert und newnczig phunt Wienner phening der swarczen münnss, die demselben Erasem von seins hawss wegen, in der Kernerstrass oben am egk bey Kernertor gelegen, daz im sein vater seliger geschafft hat und der egnant Kanstorffer und sein hausfraw Barbara, desselben Erasem muter als sein gerhaben dem abt zu</p>
+               <pb/>
+               <p>Altenburg, verkauft habent, zugepürnt. Und sind zu beczalen, wenn derselb Erasem vogtper wirdet und die ervordert, darnach ynner den nagsten vir wochen anvercziehen. Wér aber daz er ungevogter mit tod abging, so sullen dann die zwaihundert und newnczig phunt phening gevallen auf die benant Barbara sein mutter, nach lautt des obgenanten Kieler seins vaters seligen gescheffts, daz in dem statpuch geschriben stet. Die ir dann auch der egenant Kanstorffer und sein, so es zu solhem val kumbt, ausrichten sullen, wenn sy die vodertt und nicht lenger peiten wil, darnach ynner den nagsten vir wochen an alles vercziehn, ut littera sonat. Actum an Montag sand Elspeten tag, anno domini etc. lviiii<hi rend="super">o</hi>.</p>
+               <p rend="Summa">Summa viiii s. d. </p>
+               <p rend="Nachtrag">Nota der vorgenant brief ist in den ratturn gelegt mit ainem gerhabbrief. Der vorgenant Kieler hat den brief hinaus genomen, ut quittung, die im rat ligt, und den sacz ledig gesagt.</p>
+            </div>
+         </body>
+      </text>
+   </TEI>

@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eintrag vom 1450-12-07</title>
+            <title type="rubrik">Tempore dominorum Peter Strasser, consulis, Hannsen von Eslorn,
+               anno domini etc. l<hi rend="super">mo</hi>.</title>
+            <title type="sub">Digitale Edition der Wiener Grundbücher</title>
+            <respStmt>
+               <resp>Transkription</resp>
+               <name>
+                  <rs type="person" ref="https://id.acdh.oeaw.ac.at/kgruenwald">Korbinian Grünwald</rs>
+               </name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter
+               Andorfer</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>CC-BY</p>
+                  <p>You are free to: Share — copy and redistribute the material in any medium or
+                     format. Adapt — remix, transform, and build upon the material for any purpose,
+                     even commercially.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                  <repository>Grundbücher</repository>
+                  <idno type="archive">WStLA 2.1.2.1.B1.34</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus from="[432r]" to="[432v]"/>
+                     <p>[432r] - [432v]</p>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1450-12-07"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude"
+         xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <projectDesc>
+            <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende
+               Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt: <table>
+                  <row rend="header">
+                     <cell>Name der Formatvorlage</cell>
+                     <cell>Beschreibung des damit ausgezeichnetem Phänomen</cell>
+                  </row>
+                  <row>
+                     <cell>Folioangabe</cell>
+                     <cell>Seitenangabe durch Angabe von Folio mit recto *r und verso *v (im
+                        Nachhinein mit Bleistift im Grundbuch eingetragen). Auf den Seiten befinden
+                        sich zudem (ws. zeitnah zur Entstehung angebrachte) Foliozählungen in
+                        lateinischen Zahlzeichen in Tinte</cell>
+                  </row>
+                  <row>
+                     <cell>Faksimilelink</cell>
+                     <cell>Dateiname des Faksimiles - zur technischen Verknüpfung des Textes mit der
+                        Bilddatei</cell>
+                  </row>
+                  <row>
+                     <cell>Rubrik</cell>
+                     <cell>Gliederung nach Bürgermeistern und Jahren</cell>
+                  </row>
+                  <row>
+                     <cell>Urkundendatum</cell>
+                     <cell>Aufgeschlüsseltes Datum der Urkunde</cell>
+                  </row>
+                  <row>
+                     <cell>Standard</cell>
+                     <cell>Text des Grundbucheintrags</cell>
+                  </row>
+                  <row>
+                     <cell>Summa</cell>
+                     <cell>Für den jeweiligen Grundbucheintrag abgerechnete Summe</cell>
+                  </row>
+                  <row>
+                     <cell>Nachtrag</cell>
+                     <cell>Verschiedene nachträgliche Vermerke und Anmerkungen</cell>
+                  </row>
+                  <row>
+                     <cell>Seitenautor</cell>
+                     <cell>Erstbearbeiter der Seite/des Seitenabschnitts (nicht angezeigt, für die
+                        interne Organisation)</cell>
+                  </row>
+                  <row>
+                     <cell>Durchgestrichen</cell>
+                     <cell>Durchgestrichen</cell>
+                  </row>
+                  <row>
+                     <cell>Hochgestellt</cell>
+                     <cell>Hochgestellt</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI
+               community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI
+               wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar
+               geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
+         </projectDesc>
+         
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0848.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <div type="entry">
+            <p>Her Tolbert, graf zu Pret, hat versaczt sein haus, das von fraun Oria geporn von der
+               Laitter seiner gemahl mit geschefft an in komen ist, gelegen in der Pippingerstrass
+               zenagst Micheln des Derren haus. Den erbern geistlichen herren · dem prior und seim
+               convent dacz den Augustinern zu Wienn, umb hundert Ungrisch oder ducaten in gold.
+               Also ob geschech das her Francsen vom Rossleins graf zu Sand Urs die vorgenanten
+               geistlichen herren die hundert gulden die er sich gen in verwilligt hat nicht
+               ausrichtet und beczalte auf den nagstkunfftigen vaschangtag, so sullen und mugen sy
+               dann dasselb haus aim erbern mann umb die vorgenanten hundert gild verphenten und
+               emseczen innzuhaben zenuczen und zeniessen solang uncz das der vorgenant graf Tolbert
+               und sein erben dasselb haus mit seiner zugehornung umb die vorgenanten hundert gulden
+               von in losend des sy in dann stattun sullen wenn sy des begeren an alles widered, ut
+               littera. Actum an Montag vor sand Lucein tag, anno domini etc. l<hi rend="super">o</hi>.</p>
+            <p rend="Summa">Summa vi s. d.</p>
+            <p rend="Nachtrag">Nota, an Montag vor sand Michels tag, anno etc. lvii, habent die
+               geistlichen herren den sacz ledig gesagt.</p>
+            <p rend="Nachtrag">Nota die geistlichen herren der prior und sein convent des klosters
+               zu den Augustinern zu Wienn habent den egenanten irn saczbrief und all ir
+               gerechtigkait so si daran haben ubergeben dem erseamen bruder Wilhalm Sechsner,
+               maister zu Mawrperg, und seinen nachkomen, umb hundert gulden nach laut ains briefs
+               den dieselben geistlichen herren mit irn insigeln daruber gegeben habent. Actum an
+               Eritag nach sand Pangretzen tag, anno domini etc. liiii<hi rend="super">to</hi>. </p>
+            <p rend="Nachtrag">Selber ubergeben hat der maister zu Maurperg wider ledig gesagt per
+               Wolfgang Ruland und Steffan Smid, ante Mitichen ante Exaltacionis Sanctae crucis anno
+               etc. liiii<hi rend="super">to</hi>.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

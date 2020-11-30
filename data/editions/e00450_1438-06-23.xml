@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eintrag vom 1438-06-23</title>
+            <title type="rubrik">Tempore dominorum Michel Lyenvelder et Dyetz Starhant, anno etc.
+                  xxxviii<hi rend="super">vo</hi>.</title>
+            <title type="sub">Digitale Edition der Wiener Grundbücher</title>
+            <respStmt>
+               <resp>Transkription</resp>
+               <name>
+                  <rs type="person" ref="https://id.acdh.oeaw.ac.at/kgruenwald">Korbinian Grünwald</rs>
+               </name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter
+               Andorfer</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>CC-BY</p>
+                  <p>You are free to: Share — copy and redistribute the material in any medium or
+                     format. Adapt — remix, transform, and build upon the material for any purpose,
+                     even commercially.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                  <repository>Grundbücher</repository>
+                  <idno type="archive">WStLA 2.1.2.1.B1.34</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus from="cxli" to=" [141v]"/>
+                     <p>cxli - [141v]</p>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1438-06-23"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude"
+         xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <projectDesc>
+            <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende
+               Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt: <table>
+                  <row rend="header">
+                     <cell>Name der Formatvorlage</cell>
+                     <cell>Beschreibung des damit ausgezeichnetem Phänomen</cell>
+                  </row>
+                  <row>
+                     <cell>Folioangabe</cell>
+                     <cell>Seitenangabe durch Angabe von Folio mit recto *r und verso *v (im
+                        Nachhinein mit Bleistift im Grundbuch eingetragen). Auf den Seiten befinden
+                        sich zudem (ws. zeitnah zur Entstehung angebrachte) Foliozählungen in
+                        lateinischen Zahlzeichen in Tinte</cell>
+                  </row>
+                  <row>
+                     <cell>Faksimilelink</cell>
+                     <cell>Dateiname des Faksimiles - zur technischen Verknüpfung des Textes mit der
+                        Bilddatei</cell>
+                  </row>
+                  <row>
+                     <cell>Rubrik</cell>
+                     <cell>Gliederung nach Bürgermeistern und Jahren</cell>
+                  </row>
+                  <row>
+                     <cell>Urkundendatum</cell>
+                     <cell>Aufgeschlüsseltes Datum der Urkunde</cell>
+                  </row>
+                  <row>
+                     <cell>Standard</cell>
+                     <cell>Text des Grundbucheintrags</cell>
+                  </row>
+                  <row>
+                     <cell>Summa</cell>
+                     <cell>Für den jeweiligen Grundbucheintrag abgerechnete Summe</cell>
+                  </row>
+                  <row>
+                     <cell>Nachtrag</cell>
+                     <cell>Verschiedene nachträgliche Vermerke und Anmerkungen</cell>
+                  </row>
+                  <row>
+                     <cell>Seitenautor</cell>
+                     <cell>Erstbearbeiter der Seite/des Seitenabschnitts (nicht angezeigt, für die
+                        interne Organisation)</cell>
+                  </row>
+                  <row>
+                     <cell>Durchgestrichen</cell>
+                     <cell>Durchgestrichen</cell>
+                  </row>
+                  <row>
+                     <cell>Hochgestellt</cell>
+                     <cell>Hochgestellt</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI
+               community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI
+               wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar
+               geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
+         </projectDesc>
+         
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0276.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <div type="entry">
+            <p>Hanns Haringseer, dieczeit des rats der stat ze Wienn, und Anna, sein hausfrau,
+               habent verkaufft vir phunt phening geltes púrkhrechts auf irem haws, gelegen in der
+               Münnsserstrass ze Wienn, genant des Smerbekhen haus zunagst Petern des Strasser haus
+               an ainem tail, davon man jérlich dient zu Casparn des Slinger mess die er in das
+               frawnklóster zu Sand Maria Magdalen vor Schottentór gelegen ze stifften geschafft hat
+               xvi tl. Wienner phening ze púrkhrecht die mit cc und xl tl. d. abczelösen sind und
+               hern Niclasen dem Stuermer dieczeit caplan der ewigen mess, die weilent Niclas der
+               Karnér auf Sand Jacobs altar in Sand Steffanskirchen hie ze Wienn gestifft hat, x tl.
+               d. auch ze púrkhrecht die mit c und lii tl. d. abzelösen sein nach lautt der ùrkund
+               darüber gegeben und nicht mer. Umb lxiiii tl. d., der erbern geistlichen junkhfrawn
+               Kathrein von Górs, conventswester dacz Sand Larenczen ze Wienn, fürbaser die
+               egenanten vir phunt phening geltes púrkhrechts ír lebtég únverkumert innczehaben ze
+               nüczen und ze niessen und alle jar des nagsten tags nach únser Frawn tag zu der
+               schidung dem ersamen maister Petern Dekhinger lerér geistlicher rechten dem got genad
+               ainen jartag mit ainem halben phunt phening nach gewonhait desselben chlósters zu
+               Sand Larenczen zu begeen an alle sawmung und die virdhalb phunt zu írem nucz ze
+               wennden. Und wenn dieselb junkhfraw Kathrey mit tód verschaidet, so súllen die
+               egenanten vir phunt phening geltes púrkhrechts ewikhlichen bey dem benanten chlóster
+               zu Sand Larenczen beleiben und die priorinn desselben chlosters, wer die ye zu den
+               zeiten ist, sol dem egenanten maister Petern Dekchinger dann auch ewigklichen ainen
+               jartag mit ainem phunt phening begeen und ausrichtten nach gewónhait desselben
+               chlosters und die drew phunt alle jar zu des gotshauss nottürfften anlegen wie si das
+               füglich dunkhet nach irem gewissen und darumb sullen die obgenanten Hanns der
+               Haringseer, Anna, sein hausfrau, all ír erben und nachkómen die das vorgenant haus
+               innhabent und besiczent der vorgenanten junkhfraun Kathrein zu yeren lebtägen und
+               darnach den geistlichen frawn · der priorinn und dem conventt zu Sand Larenczen in
+               der maynung als vor gemeldet ist die obgenanten vir phunt phening geltes púrkchrechts
+               jérlichen von demselben haus raichen und dienn zu den vir quattembern im jar zu yedem
+               quattember ain phunt phening mit allen den núczen und rechten als man annder
+               púrkhrecht in der stat ze Wienn raicht und dient. Es sind auch die egenanten iiii tl.
+               d. gelts wider abczekauffen miteinander mit lxiiii tl. d. und den nägsten dinst damit
+               der davon ze dienen gepürt und ob die lósung also beschéch, so súllen dann die
+               egenanten geistlichen frawn auf ainem andern stukh das alsvil gelts wol getragen mag
+               vir phunt phening geltes und nicht mer umb dieselben lxiiii tl. d. kauffen damit der
+               kauf dester götlicher beschech, ut littera sonat. Actum an Montag vor sand Johannstag
+               ze Sunnbennden, anno etc. xxxviiivo.</p>
+            <p rend="Summa">Summa ½ tl. viii d.</p>
+            <p rend="Nachtrag">Nota das gelt ist zu dem gruntbuch gelegt worden, an Mittichen vor
+               Lamperti, anno etc. xliiii<hi rend="super">to</hi>.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

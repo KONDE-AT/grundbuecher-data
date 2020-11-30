@@ -1,0 +1,119 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title type="main">Eintrag vom 1459-03-12</title>
+               <title type="rubrik">Anno etc. lviiii<hi rend="super">o</hi>.</title>
+               <title type="sub">Digitale Edition der Wiener Grundbücher</title>
+               <respStmt>
+                  <resp>Transkription</resp>
+                  <name>
+                     <rs type="person" ref="https://d-nb.info/gnd/143111221">Patrick Fiska</rs>
+                  </name>
+               </respStmt>
+               <respStmt>
+                  <resp>Transkription</resp>
+                  <name>
+                     <rs type="person" ref="https://id.acdh.oeaw.ac.at/kgruenwald">Korbinian Grünwald</rs>
+                  </name>
+               </respStmt>
+            </titleStmt>
+            <publicationStmt>
+               <publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter Andorfer</publisher>
+               <availability>
+                  <licence target="https://creativecommons.org/licenses/by/4.0/">
+                     <p>CC-BY</p>
+                     <p>You are free to: Share — copy and redistribute the material in any medium or format. Adapt — remix, transform, and build upon the material for any purpose, even commercially.</p>
+                  </licence>
+               </availability>
+            </publicationStmt>
+            <sourceDesc>
+               <msDesc type="invetory">
+                  <msIdentifier>
+                     <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                     <repository>Grundbücher</repository>
+                     <idno type="archive">WStLA 2.1.2.1.B1.34</idno>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <locus from="[224r]"
+                           to="[224r]"/>
+                        <p>[224r] - [224r]</p>
+                     </msItem>
+                  </msContents>
+                  <history>
+                     <origin notBefore="1459-03-12"/>
+                  </history>
+               </msDesc>
+            </sourceDesc>
+         </fileDesc>
+         <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude"
+                    xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <projectDesc>
+               <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt:
+                                    <table>
+                     <row rend="header">
+                        <cell>Name der Formatvorlage</cell>
+                        <cell>Beschreibung des damit ausgezeichnetem Phänomen</cell>
+                     </row>
+                     <row>
+                        <cell>Folioangabe</cell>
+                        <cell>Seitenangabe durch Angabe von Folio mit recto *r und verso *v (im Nachhinein mit Bleistift im Grundbuch eingetragen). Auf den Seiten befinden sich zudem (ws. zeitnah zur Entstehung angebrachte) Foliozählungen in lateinischen Zahlzeichen in Tinte</cell>
+                     </row>
+                     <row>
+                        <cell>Faksimilelink</cell>
+                        <cell>Dateiname des Faksimiles - zur technischen Verknüpfung des Textes mit der Bilddatei</cell>
+                     </row>
+                     <row>
+                        <cell>Rubrik</cell>
+                        <cell>Gliederung nach Bürgermeistern und Jahren</cell>
+                     </row>
+                     <row>
+                        <cell>Urkundendatum</cell>
+                        <cell>Aufgeschlüsseltes Datum der Urkunde</cell>
+                     </row>
+                     <row>
+                        <cell>Standard</cell>
+                        <cell>Text des Grundbucheintrags</cell>
+                     </row>
+                     <row>
+                        <cell>Summa</cell>
+                        <cell>Für den jeweiligen Grundbucheintrag abgerechnete Summe</cell>
+                     </row>
+                     <row>
+                        <cell>Nachtrag</cell>
+                        <cell>Verschiedene nachträgliche Vermerke und Anmerkungen</cell>
+                     </row>
+                     <row>
+                        <cell>Seitenautor</cell>
+                        <cell>Erstbearbeiter der Seite/des Seitenabschnitts (nicht angezeigt, für die interne Organisation)</cell>
+                     </row>
+                     <row>
+                        <cell>Durchgestrichen</cell>
+                        <cell>Durchgestrichen</cell>
+                     </row>
+                     <row>
+                        <cell>Hochgestellt</cell>
+                        <cell>Hochgestellt</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
+            </projectDesc>
+         
+      </encodingDesc>
+      </teiHeader>
+      <facsimile>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0440.jpg"/>
+      </facsimile>
+      <text>
+         <body>
+            <div type="entry">
+               <p>Jörg Gredinger hat versaczt sein haws bey dem Rotentúrn zenagst am egk gegen unsers genedigsten herren des Römischen kaisers kasten uber gelegen, dem erbern Niclasen Holnbrunner zu Seveld Erendrawten seiner tochter die er bey frawn Barbaren Mertten Helffreichs Kornnewnburg tochter seiner hausfrawn seligen gehabt hat und noch nicht vogtper ist und irn erben, um drewhundert phunt phenning lanndeswerung, die in<note>
+                     <p rend="footnote text"> Über der Zeile eingefügt.</p>
+                  </note> von dem egenant haws zugepurnt, und die der egenant Niclas Holnbrunner sein lebteg sel innhaben, núczen und niessen unverkumert, und nach seinen tod sullen dann dieselben drewhundert phunt phenning ledigkl(ich) erben und gevallen auf die egenant Erentrawten sein tóchter. Wér aber, das sy mit dem tod abging ee denn der benanter ir vater, dennoch sol er dieser ccc tl. d. sein lebtég unverkumter innhaben, núczen und niessen, als leibgedings recht ist und nach seinen abgang sullen dann dieser ccc tl. d. erben und gevallen halb auf der obgenant frawn Barbaren seiner hausfraw nagst erben und halb auf sein nagst erben, darauf sy dann zu recht hin erben und gevallen sullen. Und sullent der egenant Gredinger und sein erben dieser ccc tl. d. dem egenant Holnbrunner seiner tochter und irn erben ausrichten und beczalen in der stat hie zu Wienn, wenn sy dasselb gelt an sy ervordernt und nicht lenger peiten wellent, darnach ynner dem nagsten halben jar. Aber alle die weil sy das gelt innhaben so sullent sy in jerlich davon raichen und geben virundczwainczigk phunt phenning lanndeswerung zu den zwain tegen im jar halb zu sand Johanns tag zu sunnbenten und halb zu Weichnachten nagst nacheinander kunftig und sullen mit dem ersten dinst anheben, zu sunnbenten nagst kúnftigen an allen abslag irs haubtgúts. Und wann der egenant Gredinger und sein erben in die benant ccc tl. beczalen wellent, das sullen sy in ain halbs jar vorhin zuwissen tún, das sy sich darnach wissen zu richten ungeverlich ut littera sonat. Actum an Montag nach dem Suntag Judica in der vasten, anno etc. lviiii<hi rend="super">o</hi>.</p>
+               <p rend="Summa">Summa ii ½ tl. d.</p>
+            </div>
+         </body>
+      </text>
+   </TEI>

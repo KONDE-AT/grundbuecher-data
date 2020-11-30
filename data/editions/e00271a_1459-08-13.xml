@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Eintrag vom 1459-08-13</title>
+                <title type="rubrik">Anno etc. lviiii<hi rend="super">o</hi>.</title>
+                <title type="sub">Digitale Edition der Wiener Grundbücher</title>
+                <respStmt>
+                    <resp>Transkription</resp>
+                    <name>
+                        <rs type="person" ref="https://id.acdh.oeaw.ac.at/kgruenwald">Korbinian Grünwald</rs>
+                    </name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska,
+                    Peter Andorfer</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>CC-BY</p>
+                        <p>You are free to: Share — copy and redistribute the material in any medium
+                            or format. Adapt — remix, transform, and build upon the material for any
+                            purpose, even commercially.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="invetory">
+                    <msIdentifier>
+                        <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                        <repository>Grundbücher</repository>
+                        <idno type="archive">WStLA 2.1.2.1.B1.34</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <locus from="[63v]" to="[64v]"/>
+                            <p> [63v] - [64v]</p>
+                        </msItem>
+                    </msContents>
+                    <history>
+                        <origin notBefore="1459-08-13"/>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude"
+            xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <projectDesc>
+                <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende
+                    Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt: <table>
+                        <row rend="header">
+                            <cell>Name der Formatvorlage</cell>
+                            <cell>Beschreibung des damit ausgezeichnetem Phänomen</cell>
+                        </row>
+                        <row>
+                            <cell>Folioangabe</cell>
+                            <cell>Seitenangabe durch Angabe von Folio mit recto *r und verso *v (im
+                                Nachhinein mit Bleistift im Grundbuch eingetragen). Auf den Seiten
+                                befinden sich zudem (ws. zeitnah zur Entstehung angebrachte)
+                                Foliozählungen in lateinischen Zahlzeichen in Tinte</cell>
+                        </row>
+                        <row>
+                            <cell>Faksimilelink</cell>
+                            <cell>Dateiname des Faksimiles - zur technischen Verknüpfung des Textes
+                                mit der Bilddatei</cell>
+                        </row>
+                        <row>
+                            <cell>Rubrik</cell>
+                            <cell>Gliederung nach Bürgermeistern und Jahren</cell>
+                        </row>
+                        <row>
+                            <cell>Urkundendatum</cell>
+                            <cell>Aufgeschlüsseltes Datum der Urkunde</cell>
+                        </row>
+                        <row>
+                            <cell>Standard</cell>
+                            <cell>Text des Grundbucheintrags</cell>
+                        </row>
+                        <row>
+                            <cell>Summa</cell>
+                            <cell>Für den jeweiligen Grundbucheintrag abgerechnete Summe</cell>
+                        </row>
+                        <row>
+                            <cell>Nachtrag</cell>
+                            <cell>Verschiedene nachträgliche Vermerke und Anmerkungen</cell>
+                        </row>
+                        <row>
+                            <cell>Seitenautor</cell>
+                            <cell>Erstbearbeiter der Seite/des Seitenabschnitts (nicht angezeigt,
+                                für die interne Organisation)</cell>
+                        </row>
+                        <row>
+                            <cell>Durchgestrichen</cell>
+                            <cell>Durchgestrichen</cell>
+                        </row>
+                        <row>
+                            <cell>Hochgestellt</cell>
+                            <cell>Hochgestellt</cell>
+                        </row>
+                    </table>
+                </p>
+                <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI
+                    community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses
+                    TEI wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario
+                    Kampkaspar geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter
+                    verarbeitet.</p>
+            </projectDesc>
+            
+        </encodingDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0125.jpg"/>
+        <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0126.jpg"></graphic>
+    </facsimile>
+    <text>
+        <body>
+            <div type="entry"><p>Chunrat Muttenhawser hat versaczt sein haws, gelegen in der vodern Peckenstrass
+                zenagst Andres Kolhaimer haws, seiner hausfrawn Kunigunden, Hainreichs des Phangawer
+                tochtter umb hundert pfunt phenig haimstewr und umb cc tl. d. widerlegung und
+                morgengab, nach landesrechten. Also daz dasselb haws darumb ir furphant sein sol vor
+                aller meinclich. Doch in solher maynung, wann er oder sein erben nach seinem tod die
+                egenanten sein hausfrawn ermonen und sey der egenanten ccc tl. d. entrichten, so sol
+                sy in dann dasselb haws darumb zu losen geben. Und sol dann sein hausfraw Kunigund
+                die c tl. d. ir leibgeding, so uber ir morgengab da sind, mit seiner nagsten erben
+                oder frewnt willen und wissen anlegen aus aim erbschafft im land in Österreich oder
+                an ander enden. Und sol das uverkumert innhaben ir lebteg, also ob zu schulden kem,
+                daz die sein nagst erben nach irm abgang wissen ze vinden. Wer aber, das sy er abging
+                dann er und nicht leiberben mit im hinder ir liesse, so sol er die c tl. d. ir
+                heiratgut, so so sy im zubracht hat, auch unverkumert innhaben sein lebteg. Und nach
+                seinem abgang so sullen sew hinwider erben und gevallen auf ir nagst erben, dafur sy
+                zu recht erben und gevallen sullen. Es ist auch bredt, ob beschech, daz der egenant
+                Muttenhawser mit dem tod abging ee wenn sein hausfraw Kunigund undn erblich leiberben
+                mit irh hinder sein liesse, so sol er derselben seiner hausfraun</p>
+                <pb/>
+                <p>Kunigunden aus aller seiner varundenhab, daz dann nach der stat zu Wienn rechte und
+                    gewonhait varundenhab gehaissen ist, ausgenommen kaufmanschafft, damit ainer handelt
+                    ungeverlich, der drittail gefallen und vervolgen und seinen vadern kindern und auch
+                    den kindern, so sy baide elichen miteinander hieten oder liessen, die zway tail der
+                    varundenhab auch gefallen und verfolgen sol, auch an alle widerred. Wer aber, daz sew
+                    kainen leiberben hieten oder liessen, so sol der offtgenante seiner hausfrawn
+                    Kunigunden halbertail aller seiner varundenhab, als oben vermelt ist gefallen und
+                    verfoligen und seinen kindern, so er vor ir gehabt hat, der ander halb tail gefallen
+                    und eleiben, auch treulich und ungeverlich, ut littera sonat. Actum an Montag vor
+                    Unser Vrawn tag der Schidung, anno domini etc. lviiii<hi rend="super">o</hi>.</p>
+                <p rend="Summa">Summa ii ½ tl. d.</p>
+                <p rend="Nachtrag">Kunigund Mattinhawsin habet cedulam.</p>
+                <p rend="Nachtrag">Nota die ic tl. d. morgengab sein der Stroblin auf zwain weingerten,
+                    zu Dornpach gelegen, verschriben, in des Maroltinger gruntpuch 82.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eintrag vom 1447-05-15</title>
+            <title type="rubrik">Tempore dominorum Erasm Ponhaymer, consulis, et Hansn Eslorn, anno
+               etc. xlvii<hi rend="super">o</hi>.</title>
+            <title type="sub">Digitale Edition der Wiener Grundbücher</title>
+            <respStmt>
+               <resp>Transkription</resp>
+               <name>
+                  <rs type="person" ref="https://id.acdh.oeaw.ac.at/kgruenwald">Korbinian Grünwald</rs>
+               </name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter
+               Andorfer</publisher>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>CC-BY</p>
+                  <p>You are free to: Share — copy and redistribute the material in any medium or
+                     format. Adapt — remix, transform, and build upon the material for any purpose,
+                     even commercially.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                  <repository>Grundbücher</repository>
+                  <idno type="archive">WStLA 2.1.2.1.B1.34</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus from="[466v]" to="[467r]"/>
+                     <p>[466v] - [467r]</p>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1447-05-15"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude"
+         xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <projectDesc>
+            <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende
+               Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt: <table>
+                  <row rend="header">
+                     <cell>Name der Formatvorlage</cell>
+                     <cell>Beschreibung des damit ausgezeichnetem Phänomen</cell>
+                  </row>
+                  <row>
+                     <cell>Folioangabe</cell>
+                     <cell>Seitenangabe durch Angabe von Folio mit recto *r und verso *v (im
+                        Nachhinein mit Bleistift im Grundbuch eingetragen). Auf den Seiten befinden
+                        sich zudem (ws. zeitnah zur Entstehung angebrachte) Foliozählungen in
+                        lateinischen Zahlzeichen in Tinte</cell>
+                  </row>
+                  <row>
+                     <cell>Faksimilelink</cell>
+                     <cell>Dateiname des Faksimiles - zur technischen Verknüpfung des Textes mit der
+                        Bilddatei</cell>
+                  </row>
+                  <row>
+                     <cell>Rubrik</cell>
+                     <cell>Gliederung nach Bürgermeistern und Jahren</cell>
+                  </row>
+                  <row>
+                     <cell>Urkundendatum</cell>
+                     <cell>Aufgeschlüsseltes Datum der Urkunde</cell>
+                  </row>
+                  <row>
+                     <cell>Standard</cell>
+                     <cell>Text des Grundbucheintrags</cell>
+                  </row>
+                  <row>
+                     <cell>Summa</cell>
+                     <cell>Für den jeweiligen Grundbucheintrag abgerechnete Summe</cell>
+                  </row>
+                  <row>
+                     <cell>Nachtrag</cell>
+                     <cell>Verschiedene nachträgliche Vermerke und Anmerkungen</cell>
+                  </row>
+                  <row>
+                     <cell>Seitenautor</cell>
+                     <cell>Erstbearbeiter der Seite/des Seitenabschnitts (nicht angezeigt, für die
+                        interne Organisation)</cell>
+                  </row>
+                  <row>
+                     <cell>Durchgestrichen</cell>
+                     <cell>Durchgestrichen</cell>
+                  </row>
+                  <row>
+                     <cell>Hochgestellt</cell>
+                     <cell>Hochgestellt</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI
+               community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI
+               wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar
+               geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
+         </projectDesc>
+         
+      </encodingDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0917.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <div type="entry">
+            <p>Wolfgang Holczer, burger zu Wien, hat versatzt und verschriben seiner hausfraun
+               Margreten, Lucasen des Newnburger seligen tochter, seiner hausfrawn, cccc tl. d., die
+               ir ledigs gut sein die sy schaffen machen und geben mag wem sy wil, auf der
+               ubertewrung seins hawss und zuhauss hindern daran, gelegen am Alten Fleischmarkht
+               zenagst Stephans Hittendorffer des Peler haws an aim tail und an dem andern zenagst
+               dem gesslein als man under die hafner geet, und des gertleins mitsambt der stetten,
+               auch hinder den egenanten heusern und gegen den hafnern uber gelegen, daman von
+               demselben gertlein mit der steten jerlich dint der stat ze Wienn sechtzig phening an
+               sand Jorgen tag ze gruntdinst und nicht mer, uber die zwaihundert phunt phening
+               haimsteur, die die egenant frawn Margretn emalen darauf verschriben sein. Also das
+               dieselb frau Margrethen nu furbas<note>
+                  <p rend="footnote text"> Nu furbas: Links neben der Zeile eingefügt.</p>
+               </note> die egenant cccc tl. d. auf der ubertewrung des egenanten hauss und zuhaus
+               mit aller seiner zugehorung lediklich und freilichen haben nützen und niessen und
+               allen irn frumen damit schaffen machen und geben wem sy wil an irrung. Wer aber daz
+               dieselb fraw Margret mit dem tod abging und die egenanten cccc tl. d. unverschafft
+               unvermacht und unvergebn hinder ir liezz, so sullen sy denn erben und gevallen auf ir
+               negst erben darauf si dann zu recht erben und gevallen sullen der sy dann von der
+               ubertewrung des egenanten hauss und seiner zuhgehorung irm surphant bekomen sullen
+               und mugen als der stat recht ist im hat auch der egenant Holtzer und ein erben gwalt
+               vorbehalden die uberteurung des egenanten hauss uber die cccc tl. d. zu losen wenn si
+               wellent doch daz dieselben phening nach ir baider frewnt rat derselben Margreten und
+               irn erben wider angelegt und verschriben sullen werden in den rechten so vorgemelt
+               ist. Actum an Freitag nach des Heiligen Krewtztag als es erfunden ist, anno domini
+               etc. xlvii<hi rend="super">o</hi>.</p>
+            <p rend="Summa">Summa iii tl. lxxx d.</p>
+            <p rend="Nachtrag">Nota die genant haimstewr hat der Holzter mmitsambt der morgengab
+               widerumb auf dem haus verschriben, an sand Thomans abent xlviii<hi rend="super">o</hi>.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

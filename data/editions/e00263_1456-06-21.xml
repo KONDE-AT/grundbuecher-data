@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title type="main">Eintrag vom 1456-06-21</title>
+               <title type="rubrik">Tempore dominorum, Jacob Rechwein, consulis, et Hanns von Eslorn, anno etc. lvi<hi rend="super">to</hi>.</title>
+               <title type="sub">Digitale Edition der Wiener Grundbücher</title>
+               <respStmt>
+                  <resp>Transkription</resp>
+                  <name>
+                     <rs type="person" ref="https://id.acdh.oeaw.ac.at/kgruenwald">Korbinian Grünwald</rs>
+                  </name>
+               </respStmt>
+            </titleStmt>
+            <publicationStmt>
+               <publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter Andorfer</publisher>
+               <availability>
+                  <licence target="https://creativecommons.org/licenses/by/4.0/">
+                     <p>CC-BY</p>
+                     <p>You are free to: Share — copy and redistribute the material in any medium or format. Adapt — remix, transform, and build upon the material for any purpose, even commercially.</p>
+                  </licence>
+               </availability>
+            </publicationStmt>
+            <sourceDesc>
+               <msDesc type="invetory">
+                  <msIdentifier>
+                     <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                     <repository>Grundbücher</repository>
+                     <idno type="archive">WStLA 2.1.2.1.B1.34</idno>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <locus from="[62v]" to="[63r]"/>
+                        <p>[62v] - [63r]</p>
+                     </msItem>
+                  </msContents>
+                  <history>
+                     <origin notBefore="1456-06-21"/>
+                  </history>
+               </msDesc>
+            </sourceDesc>
+         </fileDesc>
+         <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude"
+                    xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <projectDesc>
+               <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt:
+                                    <table>
+                     <row rend="header">
+                        <cell>Name der Formatvorlage</cell>
+                        <cell>Beschreibung des damit ausgezeichnetem Phänomen</cell>
+                     </row>
+                     <row>
+                        <cell>Folioangabe</cell>
+                        <cell>Seitenangabe durch Angabe von Folio mit recto *r und verso *v (im Nachhinein mit Bleistift im Grundbuch eingetragen). Auf den Seiten befinden sich zudem (ws. zeitnah zur Entstehung angebrachte) Foliozählungen in lateinischen Zahlzeichen in Tinte</cell>
+                     </row>
+                     <row>
+                        <cell>Faksimilelink</cell>
+                        <cell>Dateiname des Faksimiles - zur technischen Verknüpfung des Textes mit der Bilddatei</cell>
+                     </row>
+                     <row>
+                        <cell>Rubrik</cell>
+                        <cell>Gliederung nach Bürgermeistern und Jahren</cell>
+                     </row>
+                     <row>
+                        <cell>Urkundendatum</cell>
+                        <cell>Aufgeschlüsseltes Datum der Urkunde</cell>
+                     </row>
+                     <row>
+                        <cell>Standard</cell>
+                        <cell>Text des Grundbucheintrags</cell>
+                     </row>
+                     <row>
+                        <cell>Summa</cell>
+                        <cell>Für den jeweiligen Grundbucheintrag abgerechnete Summe</cell>
+                     </row>
+                     <row>
+                        <cell>Nachtrag</cell>
+                        <cell>Verschiedene nachträgliche Vermerke und Anmerkungen</cell>
+                     </row>
+                     <row>
+                        <cell>Seitenautor</cell>
+                        <cell>Erstbearbeiter der Seite/des Seitenabschnitts (nicht angezeigt, für die interne Organisation)</cell>
+                     </row>
+                     <row>
+                        <cell>Durchgestrichen</cell>
+                        <cell>Durchgestrichen</cell>
+                     </row>
+                     <row>
+                        <cell>Hochgestellt</cell>
+                        <cell>Hochgestellt</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
+            </projectDesc>
+         
+      </encodingDesc>
+      </teiHeader>
+      <facsimile>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0123.jpg"/>
+      </facsimile>
+      <text>
+         <body>
+            <div type="entry">
+               <p>Chuncz Reiff hat versaczt sein haus, gelegen auf der Morin, zenagst Ulreichs Kerner haus an aim tail und an dem andern zenagst des Ekenperger haus. Kunczen, Fridreichs Prantstetter des puchfeler seligen sun, der noch nicht vogtper ist, umb zwaihundert pfund und virczehen schilling pfenig landeswerung in Osterreich, die im von des egenanten seins vaters seligen gescheffts wegen erblichen zugeburn. Und sind zu beczaln, wan derselb Kuncz vogtper wirt darnach an alles verziehen. Aber alle dieweil er nicht vogtper ist, so sol er den egenanten Kunczen innhabent mit dem gelt und in ziehen, gewenten und mit kost versorgen, als aim solchen kind zugeburt und auch alle steur davon ausrichten an abslag des egenanten seins guts ungeverlich. Ging aber derselb Kuncz ungevogt ab, so sullen dann die egenanten sum pfenig dahin erben und gevallen, nach lautt des egenanten Prantstetter seligen gescheffts. Actum an Montag vor Sand Johanns tag zu Sunbenden, anno domini etc. lvi<hi rend="super">to</hi>.</p>
+               <p rend="Summa">Summa v s. xxviii d.</p>
+               <p rend="Nachtrag">Kuncz habet cedulam.</p>
+               <p rend="Nachtrag">Nota die ain zedl ist zum puch pracht und verricht und die annder ist verlorn, darumb ain totbrief Zum puch erlegt ist geben und von dem egenanten Kunczen Prantsteter zu dem gruntpuch erlegt. Actum an Mitichen nach Michaelis, lxxi<hi rend="super">mo</hi>.</p>
+            </div>
+         </body>
+      </text>
+   </TEI>

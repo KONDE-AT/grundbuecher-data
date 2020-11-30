@@ -1,0 +1,115 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title type="main">Eintrag vom 1453-11-28</title>
+               <title type="rubrik">Tempore dominorum, Andre Schonprugker, consulis, Peter von Aslabing, anno etc. liiii<hi rend="super">to</hi>.</title>
+               <title type="sub">Digitale Edition der Wiener Grundbücher</title><respStmt>
+    <resp>Transkription</resp>
+    <name>
+        <rs type="person" ref="https://id.acdh.oeaw.ac.at/kgruenwald">Korbinian Grünwald</rs>
+    </name>
+    <name>
+        <rs type="person" ref="https://id.acdh.oeaw.ac.at/rweinbergmair">Richard Weinbergmaier</rs>
+    </name>
+</respStmt>
+
+               
+            </titleStmt>
+            <publicationStmt>
+               <publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter Andorfer</publisher>
+               <availability>
+                  <licence target="https://creativecommons.org/licenses/by/4.0/">
+                     <p>CC-BY</p>
+                     <p>You are free to: Share — copy and redistribute the material in any medium or format. Adapt — remix, transform, and build upon the material for any purpose, even commercially.</p>
+                  </licence>
+               </availability>
+            </publicationStmt>
+            <sourceDesc>
+               <msDesc type="invetory">
+                  <msIdentifier>
+                     <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                     <repository>Grundbücher</repository>
+                     <idno type="archive">WStLA 2.1.2.1.B1.34</idno>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <locus from="[183v]" to="[184r]"/>
+                        <p>[183v] - [184r]</p>
+                     </msItem>
+                  </msContents>
+                  <history>
+                     <origin notBefore="1453-11-28"/>
+                  </history>
+               </msDesc>
+            </sourceDesc>
+         </fileDesc>
+         <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude"
+                    xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <projectDesc>
+               <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt:
+                                    <table>
+                     <row rend="header">
+                        <cell>Name der Formatvorlage</cell>
+                        <cell>Beschreibung des damit ausgezeichnetem Phänomen</cell>
+                     </row>
+                     <row>
+                        <cell>Folioangabe</cell>
+                        <cell>Seitenangabe durch Angabe von Folio mit recto *r und verso *v (im Nachhinein mit Bleistift im Grundbuch eingetragen). Auf den Seiten befinden sich zudem (ws. zeitnah zur Entstehung angebrachte) Foliozählungen in lateinischen Zahlzeichen in Tinte</cell>
+                     </row>
+                     <row>
+                        <cell>Faksimilelink</cell>
+                        <cell>Dateiname des Faksimiles - zur technischen Verknüpfung des Textes mit der Bilddatei</cell>
+                     </row>
+                     <row>
+                        <cell>Rubrik</cell>
+                        <cell>Gliederung nach Bürgermeistern und Jahren</cell>
+                     </row>
+                     <row>
+                        <cell>Urkundendatum</cell>
+                        <cell>Aufgeschlüsseltes Datum der Urkunde</cell>
+                     </row>
+                     <row>
+                        <cell>Standard</cell>
+                        <cell>Text des Grundbucheintrags</cell>
+                     </row>
+                     <row>
+                        <cell>Summa</cell>
+                        <cell>Für den jeweiligen Grundbucheintrag abgerechnete Summe</cell>
+                     </row>
+                     <row>
+                        <cell>Nachtrag</cell>
+                        <cell>Verschiedene nachträgliche Vermerke und Anmerkungen</cell>
+                     </row>
+                     <row>
+                        <cell>Seitenautor</cell>
+                        <cell>Erstbearbeiter der Seite/des Seitenabschnitts (nicht angezeigt, für die interne Organisation)</cell>
+                     </row>
+                     <row>
+                        <cell>Durchgestrichen</cell>
+                        <cell>Durchgestrichen</cell>
+                     </row>
+                     <row>
+                        <cell>Hochgestellt</cell>
+                        <cell>Hochgestellt</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
+            </projectDesc>
+         
+      </encodingDesc>
+      </teiHeader>
+      <facsimile>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0359.jpg"/>
+      </facsimile>
+      <text>
+         <body>
+            <div type="entry">
+               <p>Hanns Frankch, burger zu Wien hat versaczt sein die ubertewrung seins hawss, gelegen in der Wolczeil, genant der Lederhof, zenagst Hannsen Angervelder haws. Uber die hundert guldein in gold, die ainem kirchmaister zu Sand Michel zu Wien zu meiner ersten hausfrawn Kathrein jartag vormaln darauf verschriben sein, nach laut ains briefs darumb gegeben. Der erbern frawn Margreten, Merten des Schöndl zu Aspanng tochter, seiner hausfrawn, fur cc tl. d. haimsteur und für ccc tl. d. widerlegung, nach der statrechten zu Wien, ut littera sonat. Actum an Mitichen vor sand Andres tag, anno domini etc. liii<hi rend="super">o</hi>.</p>
+               <p rend="Summa">Summa iiii tl. xl d.</p>
+               <p rend="Nachtrag">Nota des hauss im Lederhof ist Margreth, Hannsen des Frankhen seligen wittib an nucz und gewer komen, auf geschéft irs benanten manns im statpúch geschriben, ex jussu consily. Und hat den sacz umb die iii<hi rend="super">c</hi> tl. d. widerlegung auf sich genomen, an nach lautt des ains gemechtbriefs, der in rat erlegt ist. Actum an Eritag vor Stephani im snyt, anno etc. lxiii.</p>
+            </div>
+         </body>
+      </text>
+   </TEI>

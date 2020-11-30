@@ -1,0 +1,115 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title type="main">Eintrag vom 1459-12-19</title>
+               <title type="rubrik">Anno domini etc. lviiii<hi rend="super">o</hi>.</title>
+               <title type="sub">Digitale Edition der Wiener Grundbücher</title><respStmt>
+    <resp>Transkription</resp>
+    <name>
+        <rs type="person" ref="https://id.acdh.oeaw.ac.at/kgruenwald">Korbinian Grünwald</rs>
+    </name>
+    <name>
+        <rs type="person" ref="https://id.acdh.oeaw.ac.at/rweinbergmair">Richard Weinbergmaier</rs>
+    </name>
+</respStmt>
+
+               
+            </titleStmt>
+            <publicationStmt>
+               <publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter Andorfer</publisher>
+               <availability>
+                  <licence target="https://creativecommons.org/licenses/by/4.0/">
+                     <p>CC-BY</p>
+                     <p>You are free to: Share — copy and redistribute the material in any medium or format. Adapt — remix, transform, and build upon the material for any purpose, even commercially.</p>
+                  </licence>
+               </availability>
+            </publicationStmt>
+            <sourceDesc>
+               <msDesc type="invetory">
+                  <msIdentifier>
+                     <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                     <repository>Grundbücher</repository>
+                     <idno type="archive">WStLA 2.1.2.1.B1.34</idno>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <locus from="[194v]" to="[195r]"/>
+                        <p>[194v] - [195r]</p>
+                     </msItem>
+                  </msContents>
+                  <history>
+                     <origin notBefore="1459-12-19"/>
+                  </history>
+               </msDesc>
+            </sourceDesc>
+         </fileDesc>
+         <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude"
+                    xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <projectDesc>
+               <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt:
+                                    <table>
+                     <row rend="header">
+                        <cell>Name der Formatvorlage</cell>
+                        <cell>Beschreibung des damit ausgezeichnetem Phänomen</cell>
+                     </row>
+                     <row>
+                        <cell>Folioangabe</cell>
+                        <cell>Seitenangabe durch Angabe von Folio mit recto *r und verso *v (im Nachhinein mit Bleistift im Grundbuch eingetragen). Auf den Seiten befinden sich zudem (ws. zeitnah zur Entstehung angebrachte) Foliozählungen in lateinischen Zahlzeichen in Tinte</cell>
+                     </row>
+                     <row>
+                        <cell>Faksimilelink</cell>
+                        <cell>Dateiname des Faksimiles - zur technischen Verknüpfung des Textes mit der Bilddatei</cell>
+                     </row>
+                     <row>
+                        <cell>Rubrik</cell>
+                        <cell>Gliederung nach Bürgermeistern und Jahren</cell>
+                     </row>
+                     <row>
+                        <cell>Urkundendatum</cell>
+                        <cell>Aufgeschlüsseltes Datum der Urkunde</cell>
+                     </row>
+                     <row>
+                        <cell>Standard</cell>
+                        <cell>Text des Grundbucheintrags</cell>
+                     </row>
+                     <row>
+                        <cell>Summa</cell>
+                        <cell>Für den jeweiligen Grundbucheintrag abgerechnete Summe</cell>
+                     </row>
+                     <row>
+                        <cell>Nachtrag</cell>
+                        <cell>Verschiedene nachträgliche Vermerke und Anmerkungen</cell>
+                     </row>
+                     <row>
+                        <cell>Seitenautor</cell>
+                        <cell>Erstbearbeiter der Seite/des Seitenabschnitts (nicht angezeigt, für die interne Organisation)</cell>
+                     </row>
+                     <row>
+                        <cell>Durchgestrichen</cell>
+                        <cell>Durchgestrichen</cell>
+                     </row>
+                     <row>
+                        <cell>Hochgestellt</cell>
+                        <cell>Hochgestellt</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
+            </projectDesc>
+         
+      </encodingDesc>
+      </teiHeader>
+      <facsimile>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0381.jpg"/>
+      </facsimile>
+      <text>
+         <body>
+            <div type="entry">
+               <p>Hanns Héndl hat verkauft aindlef phunt phening geltz purkrechtz landeswerung auf seinem haws, gelegen in der vodern Pekchenstrass zenagst Niclasen Teschler haws. Davon und von ainem weingarten, ausserhalb Sand Ulrich in der Kelberspewnt gelegen.</p>
+               <p>Hanns Héndl hat verkaufft aindlef phunt phening geltz purkrechts landeswerung in Osterreich auf der ubertewrung seins hawss, gelegen in der vodern Pekchenstrass zenagst Niclasen Téschler haws. Uber die hundert und zwenunddreissig Ungrisch guldein, die Veiten Mulstain emaln darauf verschriben sein, und uber die lxxvi tl. d. und vi s. d., die hern Micheln Wulfing, caplan der mess, die Hanns Mustrer auf Sand Symon und Sand Judas altar zu Sand Steffan gestifft hat, nachmalen darauf verphent sind. Davon man und von ainem weingarten, den der egenant Hendl von im bestanden hat, gelegen ausserhalb Sand Ulrichs in der Kelberspewnt, demselben kaplan zu der egenanten mess jerlichen dint viii tl. d., nach innhaltung ains bestandbriefs daruber gegeben. Und uber die vi tl. d. gelcz purkrecht, die man hern Jorgen Schrot, caplan der mess, die Hainreich Kessler auf Allerheiligen altar dacz Sand Steffan zu Wienn daselbs gesftifft hat, jerlichen davon dint und abczulosen sind mit achtundvirczig phunt pheningen, nach lautt ains purkrechtzbriefs und nicht mer. Umb hundert und zehen phunt phening landeswerung in Osterreich, die emalen gelegen gewesen sind auf Steffans Herczogenperger haws pey Peylertor am Alten Kolmarkt, die man damit darab geledigt und gelest hat, dem ersamen hern Hannsen Oppenweiler von Hailbrunn, dieczeit kaplan der mess, die Hainreich Hutstokch auf Sand Kathrein tag. altar in der egnanten kirchen gestifft hat, und seinen nachkómen. Und sind zu dienn zu drein tegen und wider abczukauffen miteinander und den negsten dinst damit, ut littera sonat. Actum an Mitichen vor sand Thomans tag Apostoli, anno domini etc. lviiii<hi rend="super">o</hi>.</p>
+               <p rend="Summa">Summa vii s. x. d. </p>
+            </div>
+         </body>
+      </text>
+   </TEI>

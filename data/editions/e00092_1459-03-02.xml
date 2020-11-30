@@ -1,0 +1,114 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title type="main">Eintrag vom 1459-03-02</title>
+               <title type="rubrik">Anno etc. lviiii<hi rend="super">o</hi>.</title>
+               <title type="sub">Digitale Edition der Wiener Grundbücher</title>
+               <respStmt>
+                  <resp>Transkription</resp>
+                  <name>
+                     <rs type="person" ref="https://id.acdh.oeaw.ac.at/kgruenwald">Korbinian Grünwald</rs>
+                  </name>
+               </respStmt>
+            </titleStmt>
+            <publicationStmt>
+               <publisher>Thomas Ertl, Korbinian Grünwald, Richard Weinbergmaier, Patrick Fiska, Peter Andorfer</publisher>
+               <availability>
+                  <licence target="https://creativecommons.org/licenses/by/4.0/">
+                     <p>CC-BY</p>
+                     <p>You are free to: Share — copy and redistribute the material in any medium or format. Adapt — remix, transform, and build upon the material for any purpose, even commercially.</p>
+                  </licence>
+               </availability>
+            </publicationStmt>
+            <sourceDesc>
+               <msDesc type="invetory">
+                  <msIdentifier>
+                     <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                     <repository>Grundbücher</repository>
+                     <idno type="archive">WStLA 2.1.2.1.B1.34</idno>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <locus from="xv" to="[15v]"/>
+                        <p>xv - [15v]</p>
+                     </msItem>
+                  </msContents>
+                  <history>
+                     <origin notBefore="1459-03-02"/>
+                  </history>
+               </msDesc>
+            </sourceDesc>
+         </fileDesc>
+         <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude"
+                    xmlns:tei="http://www.tei-c.org/ns/1.0">
+            <projectDesc>
+               <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt:
+                                    <table>
+                     <row rend="header">
+                        <cell>Name der Formatvorlage</cell>
+                        <cell>Beschreibung des damit ausgezeichnetem Phänomen</cell>
+                     </row>
+                     <row>
+                        <cell>Folioangabe</cell>
+                        <cell>Seitenangabe durch Angabe von Folio mit recto *r und verso *v (im Nachhinein mit Bleistift im Grundbuch eingetragen). Auf den Seiten befinden sich zudem (ws. zeitnah zur Entstehung angebrachte) Foliozählungen in lateinischen Zahlzeichen in Tinte</cell>
+                     </row>
+                     <row>
+                        <cell>Faksimilelink</cell>
+                        <cell>Dateiname des Faksimiles - zur technischen Verknüpfung des Textes mit der Bilddatei</cell>
+                     </row>
+                     <row>
+                        <cell>Rubrik</cell>
+                        <cell>Gliederung nach Bürgermeistern und Jahren</cell>
+                     </row>
+                     <row>
+                        <cell>Urkundendatum</cell>
+                        <cell>Aufgeschlüsseltes Datum der Urkunde</cell>
+                     </row>
+                     <row>
+                        <cell>Standard</cell>
+                        <cell>Text des Grundbucheintrags</cell>
+                     </row>
+                     <row>
+                        <cell>Summa</cell>
+                        <cell>Für den jeweiligen Grundbucheintrag abgerechnete Summe</cell>
+                     </row>
+                     <row>
+                        <cell>Nachtrag</cell>
+                        <cell>Verschiedene nachträgliche Vermerke und Anmerkungen</cell>
+                     </row>
+                     <row>
+                        <cell>Seitenautor</cell>
+                        <cell>Erstbearbeiter der Seite/des Seitenabschnitts (nicht angezeigt, für die interne Organisation)</cell>
+                     </row>
+                     <row>
+                        <cell>Durchgestrichen</cell>
+                        <cell>Durchgestrichen</cell>
+                     </row>
+                     <row>
+                        <cell>Hochgestellt</cell>
+                        <cell>Hochgestellt</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
+            </projectDesc>
+         
+      </encodingDesc>
+      </teiHeader>
+      <facsimile>
+         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0038.jpg"/>
+      </facsimile>
+      <text>
+         <body>
+            <div type="entry">
+               <p>Andre Perl hat versaczt sein haws, gelegen bei der padstuben genant zu den Rörn an ainer seiten und an der andern zenagst Hermans Mülstain haws. Dem erbern Niclasen Holnbrunner zu Seveld und Erentrauten seiner tochter, die er bey frawn Barbaren, Mertten Helffreichs zu Kornewnburg tochter seligen gehabt hat und noch nicht vogtper ist, und irn erben umb zwayhundert phunt phenig lanndeswerung, die in von dem haws bey dem Rotentür, zenagst am egk gegen unsers genedigisten herren, · des Römischen kaisers kasten uber gelegen, zugepürnt. Und die der egenant Niclas Holnbrunner und fraw Barbara, sein hausfraw von Jorgen Gredinger verkaufft habent<note>
+                     <p rend="footnote text"> v Jorgen Gredinger verkaufft habent: Hier liegt wohl ein Fehler des Schreibers vor. Der Kontext des Textes legt nahe, dass hier stehen müsste, „von Jorgen Gredinger gekaufft habent“. Das J von Jorgen ist über einem Buchstaben platziert und das v scheint auch dafür zu sprechen. Wahrscheinlich wurde diese Passage auch deshalb unterstrichen, weil man erkannt hat, dass es sich hier um einen Fehler handelt. </p>
+                  </note>, und die der egenant Niclas Holnbrunner sein lebteg sol innhaben, nuczen und niessen unverkumert. Und nach seinem tod sullen dann dies(elben) cc tl. d. ledigklich erben und gevallen auf die egenan(t) Erentrawten sein tochter. Wer aber, das sy mit dem tod abging ee denn der benant ir vater, dennoch sol er dies(elben) cc tl. d. sein lebteg unverkumert innhaben, nüczen und niessen, als leibgedings recht ist. Und nach seinem abgang sullen dies(elben) cc tl. d. erben und gevallen auf der egen(anten) frawn Barbaren, seiner hausfrawn seligen näst erben und halb auf sein nagst erben, darauf sy dann zu recht erben und gevallen sullen. Und sullent der egen(ant) Andre Perl und sein erben die ben(anten) cc tl. d. dem egen(anten) Niclasen Holnbrunner, Erentrawten seiner tochter und irn erben ausrichten und beczalen in der stat hie zu Wienn, wenn sy dasselb gelt an sy ervordernt und nicht lenger peiten wellent, darnach ynner dem nagsten halben jar. Aber alledieweil sy das gelt innhaben, so sullent sy im jèrlich davon raichen und geben sechczehen phunt phenig lanndeswerung zu den zwain tégen im jar, halb zu sand Johanns tag zu Sunnbenten und halb zu Weichnachten nagst nacheinander künftig. Und sullen mit dem ersten dinst anheben zu Sunnbenten nagst künftigen an allen abslag irs haubtgúts. Und wann der egenant Andre Perl und sein erben in<note>
+                     <p rend="footnote text"> Das I wurde über einem anderen Buchstaben (z?) geschrieben.</p>
+                  </note> die ben(anten) cc tl. d. beczallen wellent, das sullen sy in ain halbs jar vorhin zu wissen tún, das sy sich darnach wissen zu richten ungeverlich, ut littera sonat. Actum an Freitag vor dem Suntag Letare zu mittvasten, anno etc. lviiii<hi rend="super">o</hi>.</p>
+               <p rend="Summa">Summa xiii s. x. d.</p>
+            </div>
+         </body>
+      </text>
+   </TEI>
