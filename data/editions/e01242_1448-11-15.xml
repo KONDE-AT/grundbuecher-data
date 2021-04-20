@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/grundbuecher" xml:id="e01242_1448-11-15.xml" prev="https://id.acdh.oeaw.ac.at/grundbuecher/e01241_1448-06-21.xml" next="https://id.acdh.oeaw.ac.at/grundbuecher/e01243_1448-09-13.xml">
       <teiHeader>
          <fileDesc>
             <titleStmt>
@@ -40,8 +40,7 @@
                </msDesc>
             </sourceDesc>
          </fileDesc>
-         <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude"
-                    xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:tei="http://www.tei-c.org/ns/1.0">
             <projectDesc>
                <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt:
                                     <table>

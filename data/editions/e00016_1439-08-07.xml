@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/grundbuecher" xml:id="e00016_1439-08-07.xml" prev="https://id.acdh.oeaw.ac.at/grundbuecher/e00015_1439-07-27.xml" next="https://id.acdh.oeaw.ac.at/grundbuecher/e00017_1439-10-26.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -46,8 +46,7 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude"
-         xmlns:tei="http://www.tei-c.org/ns/1.0">
+      <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:tei="http://www.tei-c.org/ns/1.0">
          <projectDesc>
             <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende
                Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt: <table>
@@ -126,8 +125,7 @@
                gelegen sein. Dem erbern herren hern Meinharten Lochner, dieczeit caplan Sant Blasien
                altar in Sant Steffans kirchen, und seinen nachkomen. Und sind zu dienn zu drein
                tegén und wider abzekauffen miteinander mit xxiiii tl. d. und den nagsten dinst damit
-               ut litera sonat. Actum an Freytag vor sand Larenczen tag, anno etc. xxxviiii<hi
-                  rend="super">o</hi>.</p>
+               ut litera sonat. Actum an Freytag vor sand Larenczen tag, anno etc. xxxviiii<hi rend="super">o</hi>.</p>
             <p rend="Summa">Summa xlviii d.</p>
             <p rend="Nachtrag">Das purkrecht ist abgelost und zum puch gelegt worden feria quarta
                ante Mathie apostoli xliii<hi rend="super">o</hi>.</p>

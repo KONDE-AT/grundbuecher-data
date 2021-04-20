@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/grundbuecher" xml:id="e00014_1439-05-22.xml" prev="https://id.acdh.oeaw.ac.at/grundbuecher/e00013_1439-04-20.xml" next="https://id.acdh.oeaw.ac.at/grundbuecher/e00015_1439-07-27.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -46,8 +46,7 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude"
-         xmlns:tei="http://www.tei-c.org/ns/1.0">
+      <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:tei="http://www.tei-c.org/ns/1.0">
          <projectDesc>
             <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende
                Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt: <table>
@@ -132,8 +131,7 @@
                zalung anheben von sand Giligen tag schirst kunftig uber ain jar an alles vercziehen
                nach lautt ains geltbriefs, den sy darumb habent gegeben und nicht mit gruntsigel
                gevertigt ist. Und ist ausch derselb geltbrief und die satzung núr ain geltschuld.
-               Actum an Freytag vor dem heiligen Phingsttag, anno domini etc. xxxviiii<hi
-                  rend="super">o</hi>.</p>
+               Actum an Freytag vor dem heiligen Phingsttag, anno domini etc. xxxviiii<hi rend="super">o</hi>.</p>
             <p rend="Summa">Summa iiii tl. xl d.</p>
             <p rend="Nachtrag">Nota den sacz habent Kristan Wissinger und Jorig Zehendtner ledig
                gesagt an Montag vor Asc<unclear>ensionis</unclear> domini xlvii.</p>

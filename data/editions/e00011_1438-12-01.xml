@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/grundbuecher" xml:id="e00011_1438-12-01.xml" prev="https://id.acdh.oeaw.ac.at/grundbuecher/e00010_1438-11-26.xml" next="https://id.acdh.oeaw.ac.at/grundbuecher/e00012_1439-02-14.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -47,8 +47,7 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude"
-         xmlns:tei="http://www.tei-c.org/ns/1.0">
+      <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:tei="http://www.tei-c.org/ns/1.0">
          <projectDesc>
             <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende
                Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt: <table>
@@ -129,8 +128,7 @@
                   <p rend="footnote text"> über dem Text mit Verweiszeichen eingefügt.</p>
                </note> sacz lediklichen haben und davon wenn si des nicht lenger empern wellent,
                bechomen sullen und mugen wa so sy nagst und pest kúnnen und mugen an all ir
-               widersprechen ungeverlich. Actum an Montag nach Sant Andres tag, anno etc. xxxviii<hi
-                  rend="super">o</hi>.</p>
+               widersprechen ungeverlich. Actum an Montag nach Sant Andres tag, anno etc. xxxviii<hi rend="super">o</hi>.</p>
             <p rend="Summa">Summa lxiiii d.</p>
             <p rend="Nachtrag">Nota datz gelt ist zu dem puch gelegt Sabatum ante Colomanni
                1439.</p>

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/grundbuecher" xml:id="e00025_1441-06-16.xml" prev="https://id.acdh.oeaw.ac.at/grundbuecher/e00024_1441-04-19.xml" next="https://id.acdh.oeaw.ac.at/grundbuecher/e00026_1441-06-21.xml">
       <teiHeader>
          <fileDesc>
             <titleStmt>
@@ -43,8 +43,7 @@
                </msDesc>
             </sourceDesc>
          </fileDesc>
-         <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude"
-                    xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:tei="http://www.tei-c.org/ns/1.0">
             <projectDesc>
                <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt:
                                     <table>
@@ -120,8 +119,7 @@
                etc. xli<hi rend="super">o</hi>.</p>
             <p rend="Summa">Summa xxx d.</p>
             <p rend="Nachtrag">Das gelt hat maister Hanns Z<unclear>e</unclear>ller auf dem haws
-               junkfraun Ursulen widerumb verschriben. Actum sextaante Marien Magdalene xliiii<hi
-                  rend="super">to</hi>.</p>
+               junkfraun Ursulen widerumb verschriben. Actum sextaante Marien Magdalene xliiii<hi rend="super">to</hi>.</p>
          </div>
       </body>
    </text>

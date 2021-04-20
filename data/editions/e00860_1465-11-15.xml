@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/grundbuecher" xml:id="e00860_1465-11-15.xml" prev="https://id.acdh.oeaw.ac.at/grundbuecher/e00859_1466-06-02.xml" next="https://id.acdh.oeaw.ac.at/grundbuecher/e00861_1466-08-09.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,8 +50,7 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude"
-         xmlns:tei="http://www.tei-c.org/ns/1.0">
+      <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:tei="http://www.tei-c.org/ns/1.0">
          <projectDesc>
             <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende
                Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt: <table>
@@ -125,8 +124,7 @@
                Niclasen Héring der ircher gesessen auf der Wienn vor Stubentor tochter, umb
                zwayundzwaintzig phunt Wiener phenning haimstewr, und umb funfftzig phunt phennig der
                egenanten múnss widerlegunng nach der stat rechten zu Wienn, ut littera sonat. Actum
-               an Freytag nach sand Merten tag episcopi, anno domini etc. lxv<hi rend="super"
-                  >to</hi>.</p>
+               an Freytag nach sand Merten tag episcopi, anno domini etc. lxv<hi rend="super">to</hi>.</p>
             <p rend="Summa">Summa i t xxiiii d.</p>
             <p rend="Nachtrag">Nota die obgemelten l tl. d. widerlegung seinn dem Veyolrösl mit tod
                der obgenanten Dorothen seiner hawsfrawen nach dem er mit ir chaine kinder gehabt,

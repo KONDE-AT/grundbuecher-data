@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/grundbuecher" xml:id="e00035_1444-05-25.xml" prev="https://id.acdh.oeaw.ac.at/grundbuecher/e00034_1444-05-25.xml" next="https://id.acdh.oeaw.ac.at/grundbuecher/e00036_1444-08-21.xml">
       <teiHeader>
          <fileDesc>
             <titleStmt>
@@ -43,8 +43,7 @@
                </msDesc>
             </sourceDesc>
          </fileDesc>
-         <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude"
-                    xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:tei="http://www.tei-c.org/ns/1.0">
             <projectDesc>
                <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt:
                                     <table>
@@ -107,7 +106,7 @@
          <body>
             <div type="entry">
                <p>Andre Kammer gesessen innerhalb Werdertor auf der Goltsmid und Anna sein hausfrau habent verkaufft xviii s. d. geltes purkrechts auf irm haws, gelegen daselbs auf der Goltsmid zenagst Oswalts Reicholfs hausumb xviii tl. d., und sind emaln gelegen auf frawn Annen der Dornerinn haus in der Wollczeil. Dem erbern briester hern Hansen von Watsch dieczeit capplan der ewigen messe, die her Kunrat weilent pfarrer zu Rugerspurg auf Sand Jorgen altar in Sant Michels Kirchen hie zu Wienn gestifft hat, und seinen nachkómen. Also das sy alle jar ainen ewigen jartag davon begeen sullen dem vorgenanten hern Conraten von Rugerspurg Niclasen von Hösingen und Kathrein der</p>
-               <pb />
+               <pb/>
                <p>Newnmarkterinn an sand Blasien tag oder des nagsten tags nach Unser Frawn tag der Liechtmess des nachts mit ainer gesungen vigili und des morgens mit aim gesungen selambt und mit allen andern gotsdinsten als anderr jartég daselbs zu begeen sit und gewonhait ist got unser frawn allen heiligen zu lob und zu ern ir und irn vorvordern seligen und nachkómen selen zu hail und zu trost. Und sind zu dienn zu drein tégen und wider abzukauffen miteinander und dem nagsten dinst damit, ut littera sonat. Actum an sant Urbans tag, anno etc. xliiii<hi rend="super">to</hi>.</p>
                <p rend="Summa">Summa xxxvi d.</p>
             </div>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/grundbuecher" xml:id="e01898b_1438-04-30.xml" prev="https://id.acdh.oeaw.ac.at/grundbuecher/e01898a_1438-03-07.xml" next="https://id.acdh.oeaw.ac.at/grundbuecher/e01898c_1438-09-10.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -45,8 +44,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude"
-            xmlns:tei="http://www.tei-c.org/ns/1.0">
+        <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:tei="http://www.tei-c.org/ns/1.0">
             <projectDesc>
                 <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende
                     Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt: <table>
@@ -121,8 +119,7 @@
                     Vilshover des schuster haus am Hohenmarkt. Dem erbern Ulreichen Hirssawer,
                     statschreiber zu Wien, und seinen erben, umb sechtzig pfunt pfening und sind zu
                     beczalen wen sy die vodernt und nicht lenger peiten wellent an alles vercziehen
-                    Actum an sand Philipps und sant Jacobs abent, anno etc xxxviii<hi rend="super"
-                        >o</hi>.</p>
+                    Actum an sand Philipps und sant Jacobs abent, anno etc xxxviii<hi rend="super">o</hi>.</p>
                 <p rend="Summa">Summa nulla</p>
             </div>
         </body>

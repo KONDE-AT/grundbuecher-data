@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/grundbuecher" xml:id="e01898d_1438-09-15.xml" prev="https://id.acdh.oeaw.ac.at/grundbuecher/e01898c_1438-09-10.xml" next="https://id.acdh.oeaw.ac.at/grundbuecher/e01899_1439-05-18.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="main">Eintrag vom 1438-09-15</title>
-                <title type="rubrik">Tempore dominorum Michel Lyenvelder et Dyetz Starhand, anno xxxviii<hi rend="super"
-                    >o</hi>.</title>
+                <title type="rubrik">Tempore dominorum Michel Lyenvelder et Dyetz Starhand, anno xxxviii<hi rend="super">o</hi>.</title>
                 <title type="sub">Digitale Edition der Wiener Grundbücher</title>
                 <respStmt>
                     <resp>Transkription</resp>
@@ -45,8 +43,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude"
-            xmlns:tei="http://www.tei-c.org/ns/1.0">
+        <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:tei="http://www.tei-c.org/ns/1.0">
             <projectDesc>
                 <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende
                     Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt: <table>
@@ -124,8 +121,7 @@
                     </note>, dieczeit capplan der ewigen mess so der Guémhertl auf Sant Agnesen altar zu
                     der Himlporten gestifft hat, und seinen nachkomen und sind zu dienen zu drein tegen
                     und wider abzekauffen miteinander und den nagsten dinst damit, ut littera sonat.
-                    Actum feria secunda post exaltationis sancte crucis, anno etc. xxxviii<hi
-                        rend="super">vo</hi>.</p>
+                    Actum feria secunda post exaltationis sancte crucis, anno etc. xxxviii<hi rend="super">vo</hi>.</p>
                 <p rend="Summa">Summa lxiiii d.</p>
                 <p rend="Nachtrag">... filius habet cedulam.</p>
                 <p rend="Nachtrag">Nota der obgenant purkrechtbrief ist vernicht und das purkrecht abgelösst und darumb

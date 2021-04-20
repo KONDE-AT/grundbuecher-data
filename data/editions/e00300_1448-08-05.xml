@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/grundbuecher" xml:id="e00300_1448-08-05.xml" prev="https://id.acdh.oeaw.ac.at/grundbuecher/e00299_1448-07-08.xml" next="https://id.acdh.oeaw.ac.at/grundbuecher/e00301_1449-07-21.xml">
       <teiHeader>
          <fileDesc>
             <titleStmt>
@@ -43,8 +43,7 @@
                </msDesc>
             </sourceDesc>
          </fileDesc>
-         <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude"
-                    xmlns:tei="http://www.tei-c.org/ns/1.0">
+         <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:tei="http://www.tei-c.org/ns/1.0">
             <projectDesc>
                <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt:
                                     <table>
@@ -112,8 +111,7 @@
                   Grashofer, dieczeit kaplan der mess, so weilent Rudolf Graf auf Sant Blasien altar
                   in des Herczogen cappellen dacz Sand Steffan gestifft hat, und seinen nachkomen.
                   Und sind zu diennen zu dreien tégen und wider abczukauffen miteinander und den
-                  negsten dinst damit, ut littera. Actum an sand Oswalts tag, anno etc. xlviii<hi
-                     rend="super">o</hi>.</rs></p>
+                  negsten dinst damit, ut littera. Actum an sand Oswalts tag, anno etc. xlviii<hi rend="super">o</hi>.</rs></p>
             <p rend="Summa">Summa xxxiii d.</p>
          </div>
       </body>

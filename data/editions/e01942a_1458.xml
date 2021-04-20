@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/grundbuecher" xml:id="e01942a_1458.xml" prev="https://id.acdh.oeaw.ac.at/grundbuecher/e01942_1458.xml" next="https://id.acdh.oeaw.ac.at/grundbuecher/e01943_1458-08-04.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -45,8 +44,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude"
-            xmlns:tei="http://www.tei-c.org/ns/1.0">
+        <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:tei="http://www.tei-c.org/ns/1.0">
             <projectDesc>
                 <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende
                     Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt: <table>
@@ -112,7 +110,7 @@
     </teiHeader>
     <facsimile>
         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0922.jpg"/>
-        <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0923.jpg"></graphic>
+        <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0923.jpg"/>
     </facsimile>
     <text>
         <body>
@@ -133,8 +131,7 @@
                     wegen so darauf gemainer stat unbezalt gewesen ist zuderselben stat hannden
                     unnderstanden das Sigmunden Pernfues verkaufft hat und darauf all saczs so von
                     gemelten Holczer darauf beschehen sein auszethun und zu vernichten geschafft.
-                    Actum an Freitag Annthony Abbatatis, anno etc. lxxxxvi<hi rend="supper"
-                    >to</hi>.</p>
+                    Actum an Freitag Annthony Abbatatis, anno etc. lxxxxvi<hi rend="supper">to</hi>.</p>
                 <pb/>
                 <p>armen junkchfrawn die aus des Griess frewntschafft verheyrat werden albeg ainer
                     zehen phunt phenig pringt hundert phunt phening und die andern hundert phunt
@@ -142,8 +139,7 @@
                     armen frewnden die sein notdurftig seinen gevallen und gegeben werden das sullen
                     sein geschefftleut ausrichten nach innhaldung desselben Griesser seligen
                     geschefft dacz in dem statpuch geschriben stet, ut littera sonat. Actum an
-                    Phincztag vor der hailigen dreyer künig tag, anno etc. lviii<hi rend="supper"
-                        >o</hi>.</p>
+                    Phincztag vor der hailigen dreyer künig tag, anno etc. lviii<hi rend="supper">o</hi>.</p>
                 <p rend="Summa">Summa xiii s. x d.</p>
             </div>
         </body>

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/grundbuecher" xml:id="e01944_1458-12-20.xml" prev="https://id.acdh.oeaw.ac.at/grundbuecher/e01943_1458-08-04.xml" next="https://id.acdh.oeaw.ac.at/grundbuecher/e01945_1459-02-19.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -44,8 +44,7 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude"
-         xmlns:tei="http://www.tei-c.org/ns/1.0">
+      <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:tei="http://www.tei-c.org/ns/1.0">
          <projectDesc>
             <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende
                Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt: <table>
@@ -121,8 +120,7 @@
                umb drewnunddreissigk phund sechs schilling und achtzehen phening und sind
                zubetzallen auf Matiassten nagstkünftig und halb auf sand Johanns tag zu Sambadten
                dernach nagstkkünftigen an alles vercziehen. Actum an sand Thomans abent Apostoli,
-               anno etc. lviii<hi rend="supper"
-                  >o</hi>.</p>
+               anno etc. lviii<hi rend="supper">o</hi>.</p>
             <p rend="Summa">Summa lxiii d.</p>
          </div>
       </body>

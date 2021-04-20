@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/grundbuecher" xml:id="e00013_1439-04-20.xml" prev="https://id.acdh.oeaw.ac.at/grundbuecher/e00012_1439-02-14.xml" next="https://id.acdh.oeaw.ac.at/grundbuecher/e00014_1439-05-22.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -46,8 +46,7 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude"
-         xmlns:tei="http://www.tei-c.org/ns/1.0">
+      <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:tei="http://www.tei-c.org/ns/1.0">
          <projectDesc>
             <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende
                Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt: <table>
@@ -121,8 +120,7 @@
                man jerlich dient hincz Sant Larentzen ii tl. d. ze purkrecht und nicht mer. Der
                erbern Annen, Merten Pragentleins des pekchen witib, und írn erben umb xxx tl. d. und
                sind zu beczalen von den nagstkúnftigen Óstern uber ain ganczes jar an alles
-               vercziehen. Actum an Montag vor sand Jorgen tag, anno etc. xxxviiii<hi rend="super"
-                  >o</hi>.</p>
+               vercziehen. Actum an Montag vor sand Jorgen tag, anno etc. xxxviiii<hi rend="super">o</hi>.</p>
             <p rend="Summa">Summa lx d.</p>
             <p rend="Nachtrag">Nota den sacz hat die genant Pragentlin ledig gesagt feria sexta ante
                Letare xl<unclear>ii</unclear>.</p>

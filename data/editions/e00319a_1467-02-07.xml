@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/grundbuecher" xml:id="e00319a_1467-02-07.xml" prev="https://id.acdh.oeaw.ac.at/grundbuecher/e00319_1465-02-22.xml" next="https://id.acdh.oeaw.ac.at/grundbuecher/e00320_1467-02-27.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -45,8 +44,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude"
-            xmlns:tei="http://www.tei-c.org/ns/1.0">
+        <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:tei="http://www.tei-c.org/ns/1.0">
             <projectDesc>
                 <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende
                     Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt: <table>
@@ -131,8 +129,7 @@
                     auch mit der bezalung vorgeen vor Mathesen, Thomans Gebharten seligen sun, dem
                     das obgenant hawss auch verschriben ist. In aller der mass, als der obgenante
                     Kilaw und sein erben hieten getun mugen, getrewlich und ungeverlich. Actum an
-                    Sambstag nach Sand Dorothen tag virginis, anno domini etc. lxvii<hi rend="super"
-                        >mo</hi>.</p>
+                    Sambstag nach Sand Dorothen tag virginis, anno domini etc. lxvii<hi rend="super">mo</hi>.</p>
                 <p rend="Summa">Summa x s. xxii d.</p>
                 <p rend="Nachtrag">Nota Hanns Aspekh und Stephan Stressel, baid genant habend ir
                     kuntschafft bey dem puch gesagt, das der obgenant sacz mit willen und wissen der

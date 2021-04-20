@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/grundbuecher" xml:id="e00017_1439-10-26.xml" prev="https://id.acdh.oeaw.ac.at/grundbuecher/e00016_1439-08-07.xml" next="https://id.acdh.oeaw.ac.at/grundbuecher/e00018_1439-12-18.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -46,8 +46,7 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude"
-         xmlns:tei="http://www.tei-c.org/ns/1.0">
+      <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:tei="http://www.tei-c.org/ns/1.0">
          <projectDesc>
             <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende
                Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt: <table>
@@ -123,8 +122,7 @@
                maister Cristans haus also dacz der benant ir man yecz und hinfür dieselben cc tl. d.
                auf dem egenanten irm haws lediklich haben, davon bechomen und allen seinen frumen
                damit schaffen machen und geben sol und mag wie und wem in verlust, ut littera sonat.
-               Actum feria secunda ante Symonis et Jude, anno etc. xxxviiii<hi rend="super"
-               >o</hi>.</p>
+               Actum feria secunda ante Symonis et Jude, anno etc. xxxviiii<hi rend="super">o</hi>.</p>
             <p rend="Summa">Summa xiii s. x d.</p>
             <p rend="Nachtrag">Nota die obgenant zway hundert tl. d. hat der obgenent Peter Sumer
                der benant Annen seiner hausfrau wider ledig geschaft nach lautt seins geschefts, das

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/grundbuecher" xml:id="e01898a_1438-03-07.xml" prev="https://id.acdh.oeaw.ac.at/grundbuecher/e01898_1474-01-12.xml" next="https://id.acdh.oeaw.ac.at/grundbuecher/e01898b_1438-04-30.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -45,8 +44,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude"
-            xmlns:tei="http://www.tei-c.org/ns/1.0">
+        <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:tei="http://www.tei-c.org/ns/1.0">
             <projectDesc>
                 <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende
                     Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt: <table>
@@ -124,8 +122,7 @@
                     erben auf des Heilign Krewtz und Sand Veits altar in Sand Steffans Kirchen
                     gestifft habent, und seinen nachkomen cappleinen derselben mess und sind zu
                     dienen zu drein tégen im jar und miteinander abzukauffen mit vi tl. d., ut
-                    littera sonat. Actum an Freytag ante Reminiscere, anno xxxviii<hi rend="super"
-                        >o</hi>.</p>
+                    littera sonat. Actum an Freytag ante Reminiscere, anno xxxviii<hi rend="super">o</hi>.</p>
                 <p rend="Summa">Summa xii d.</p>
                 <p rend="Nachtrag">Das purkrecht ist zum puch gelegt an Mittichen an an Montag ante
                     Martini l<hi rend="super">mo</hi>.</p>

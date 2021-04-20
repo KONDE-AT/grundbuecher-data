@@ -1,10 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/grundbuecher" xml:id="e01562_1448-11-22.xml" prev="https://id.acdh.oeaw.ac.at/grundbuecher/e01561_1447-12-20.xml" next="https://id.acdh.oeaw.ac.at/grundbuecher/e01563_1449-11-05.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title type="main">Eintrag vom 1448-11-22</title>
-            <title type="rubrik">Tempore Hainrich Haiden, Hanns von Eslarn, anno etc. xlviii<hi
-                  rend="super">vo</hi>.</title>
+            <title type="rubrik">Tempore Hainrich Haiden, Hanns von Eslarn, anno etc. xlviii<hi rend="super">vo</hi>.</title>
             <title type="sub">Digitale Edition der Wiener Grundbücher</title>
             <respStmt>
                <resp>Transkription</resp>
@@ -44,8 +43,7 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude"
-         xmlns:tei="http://www.tei-c.org/ns/1.0">
+      <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:tei="http://www.tei-c.org/ns/1.0">
          <projectDesc>
             <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende
                Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt: <table>

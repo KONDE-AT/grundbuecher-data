@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/grundbuecher" xml:id="e00271a_1459-08-13.xml" prev="https://id.acdh.oeaw.ac.at/grundbuecher/e00271_1459-05-25.xml" next="https://id.acdh.oeaw.ac.at/grundbuecher/e00272_1459-12-17.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -44,8 +43,7 @@
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude"
-            xmlns:tei="http://www.tei-c.org/ns/1.0">
+        <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:tei="http://www.tei-c.org/ns/1.0">
             <projectDesc>
                 <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende
                     Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt: <table>
@@ -111,7 +109,7 @@
     </teiHeader>
     <facsimile>
         <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0125.jpg"/>
-        <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0126.jpg"></graphic>
+        <graphic url="WSTLA_Grundbuch_Stadt_Wien_B1_34_SatzbuchCD_0126.jpg"/>
     </facsimile>
     <text>
         <body>

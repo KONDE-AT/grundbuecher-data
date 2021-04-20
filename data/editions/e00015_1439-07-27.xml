@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/grundbuecher" xml:id="e00015_1439-07-27.xml" prev="https://id.acdh.oeaw.ac.at/grundbuecher/e00014_1439-05-22.xml" next="https://id.acdh.oeaw.ac.at/grundbuecher/e00016_1439-08-07.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -46,8 +46,7 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude"
-         xmlns:tei="http://www.tei-c.org/ns/1.0">
+      <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:tei="http://www.tei-c.org/ns/1.0">
          <projectDesc>
             <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende
                Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt: <table>
@@ -122,8 +121,7 @@
                gemain stuken die nach laut der tailbrief darczu gehórnt. Dem erbern weisen Ulreichen
                Perman, diezeit ainer des rats zu Wienn, und seinen erben umb achczig pfunt Wienner
                pfening, und sind zu beczaln auf sand Jorgen tag nagst kunftig an alles vercziehen.
-               Actum an Montag nach sand Jacobs tag im snit, anno etc. xxxviiii<hi rend="super"
-                  >o</hi>.</p>
+               Actum an Montag nach sand Jacobs tag im snit, anno etc. xxxviiii<hi rend="super">o</hi>.</p>
             <p rend="Summa">Summa v s. x d.</p>
             <p rend="Nachtrag">Habet cedulam.</p>
             <p rend="Nachtrag">Den sacz hat der <unclear>Per</unclear>ner ledig gesagt, feria

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/grundbuecher" xml:id="e00222_1447-03-15.xml" prev="https://id.acdh.oeaw.ac.at/grundbuecher/e00221_1447.xml" next="https://id.acdh.oeaw.ac.at/grundbuecher/e00223_1447-03-22.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -47,8 +47,7 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude"
-         xmlns:tei="http://www.tei-c.org/ns/1.0">
+      <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:tei="http://www.tei-c.org/ns/1.0">
          <projectDesc>
             <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende
                Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt: <table>
@@ -128,12 +127,10 @@
                mitsambt dem andern seinem halfftentail desselben hauss verchaufft hat. Und sind zu
                beczalen wan derselb Jorg Phuntimaschen vogtper wírt, oder aber ungevogt abging,
                seinen nagsten erben, den dasselb gelt rechtlich zúgebúrn wírdet, an alles
-               vercziehen. Actum an Mittichen vor Letare, anno etc. xlvii<hi rend="super"
-               >o</hi>.</p>
+               vercziehen. Actum an Mittichen vor Letare, anno etc. xlvii<hi rend="super">o</hi>.</p>
             <p rend="Summa">Summa v s. xviii d.</p>
             <p rend="Nachtrag">Nota den sacz hat der Jorg Phuntimanschen dem egenanten seinem vater
-               ledig gesagt, an Freitag vor Stephani im snit, anno etc. lv<hi rend="super"
-               >to</hi>.</p>
+               ledig gesagt, an Freitag vor Stephani im snit, anno etc. lv<hi rend="super">to</hi>.</p>
          </div>
       </body>
    </text>

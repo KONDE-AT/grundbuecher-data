@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/grundbuecher" xml:id="e00339_1441-05-22.xml" prev="https://id.acdh.oeaw.ac.at/grundbuecher/e00338_1441-03-15.xml" next="https://id.acdh.oeaw.ac.at/grundbuecher/e00339a_1442-04-27.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -47,8 +47,7 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude"
-         xmlns:tei="http://www.tei-c.org/ns/1.0">
+      <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:tei="http://www.tei-c.org/ns/1.0">
          <projectDesc>
             <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende
                Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt: <table>
@@ -124,8 +123,7 @@
                ze purkrecht und nicht mer. Dem erbern Petern von Staineinkirchen, dem hofpinter, irm
                sweher und vater Annen seiner hausfraun und irn baiden erben, umb hundert pfunt
                pfening und sind zu beczaln, wenn si die vodernt, darnach ynner den nagsten moneid
-               anvercziehen, ut littera sonat. Actum an Montag vor sand Urbans tag, anno etc. xli<hi
-                  rend="super">o</hi>.</p>
+               anvercziehen, ut littera sonat. Actum an Montag vor sand Urbans tag, anno etc. xli<hi rend="super">o</hi>.</p>
             <p rend="Summa">Summa vi s. xx d.</p>
          </div>
       </body>

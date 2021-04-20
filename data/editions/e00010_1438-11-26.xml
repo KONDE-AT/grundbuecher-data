@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/grundbuecher" xml:id="e00010_1438-11-26.xml" prev="https://id.acdh.oeaw.ac.at/grundbuecher/e00009_1438-08-27.xml" next="https://id.acdh.oeaw.ac.at/grundbuecher/e00011_1438-12-01.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -47,8 +47,7 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude"
-         xmlns:tei="http://www.tei-c.org/ns/1.0">
+      <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:tei="http://www.tei-c.org/ns/1.0">
          <projectDesc>
             <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende
                Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt: <table>
@@ -124,8 +123,7 @@
                newer Ungrischer guldein gerecht in gold und wag, die sy demselben hern Thomann
                seinen erben oder wem er die schafft ausrichten und beczalen sol halb auf den
                vaschang schirist kunftig und halb auf die Ostern darnach nagstkunftig, an alles
-               vercziehen. Actum an Mitichen nach sant Kathrein tag, anno etc. xxxviii<hi
-                  rend="super">o</hi>.</p>
+               vercziehen. Actum an Mitichen nach sant Kathrein tag, anno etc. xxxviii<hi rend="super">o</hi>.</p>
             <p rend="Summa">Summa vi s. xx d.</p>
          </div>
       </body>
