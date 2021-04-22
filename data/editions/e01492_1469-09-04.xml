@@ -48,7 +48,7 @@
          </fileDesc>
          <encodingDesc xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:tei="http://www.tei-c.org/ns/1.0">
             <projectDesc>
-               <p>Die original Quellen wurden in Microsoft Word transkribiert. Für folgende Textmerkamle wurden dafür projektspezifische Formatvorlagen erstellt:
+               <p>Die Originalquellen wurden in Microsoft Word transkribiert, wobei ausgewählte Textmerkmale mittels projektspezifischer Formatvorlagen ausgezeichnet wurden.
                                     <table>
                      <row rend="header">
                         <cell>Name der Formatvorlage</cell>
@@ -96,7 +96,7 @@
                      </row>
                   </table>
                </p>
-               <p>Die Transripte respektive die .docx Dokumente wurden anschließend mittels der TEI community stlye sheets und Oxygen in ein generisches TEI transformiert. Dieses TEI wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiter verarbeitet.</p>
+               <p>Die Transkripte respektive die docx-Dokumente wurden anschließend mittels der TEI-Community-Stylesheets und Oxygen in ein generisches TEI transformiert. Dieses TEI wurde anschließend mit den von Peter Andorfer mit Unterstützung von Dario Kampkaspar geschriebenen XSLTs oxgarage2tei.xsl und splitCorpus.xsl weiterverarbeitet.</p>
             </projectDesc>
       </encodingDesc>
       </teiHeader>
